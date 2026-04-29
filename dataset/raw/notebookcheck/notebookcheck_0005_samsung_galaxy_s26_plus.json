@@ -1,0 +1,212 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Samsung Galaxy S26+",
+    "article_url": "https://www.notebookcheck.net/Will-the-Exynos-2600-save-the-unwanted-flagship-Samsung-Galaxy-S26-review.1272005.0.html",
+    "verdict": {
+        "text": "In many ways, the Galaxy S26+ shows that it was only launched late in development as a replacement for the Galaxy S26 Edge, which was canceled at the last minute. It is therefore not surprising that upgrades to the Galaxy S25+ are very limited. Improvements to the Galaxy S26+ are few and far between and can only be seen in the chipset, as software advantages will be offset by future updates to the predecessor. For the 2026 version, we would have liked to see at least one feature from the Ultra models to give it more of a reason to exist. Be it the frosted Gorilla Amour glass of the last generation or a stylus input for the large OLED screen. What remains is a really good smartphone, but in some areas, such as battery or the cameras, it no longer looks quite up to date for the price range. The competition from China, such as the Vivo X300 Pro or Oppo Find X9 Pro, clearly has the edge here.",
+        "pros": [
+            "high-quality case",
+            "long updates",
+            "transparency in environmental data",
+            "high performance",
+            "bright 1440p panel",
+            "good sound"
+        ],
+        "cons": [
+            "SoC throttles under load",
+            "camera is not state-of-the-art",
+            "PWM dimming only with 480 Hz",
+            "smaller battery",
+            "UFS 4.0 only"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "with a large and sharp OLED screen. With the new Exynos 2600, Samsung once again has its own high-end chipset in its portfolio. We will also take a closer look at how Samsung's Exynos 2200 and\n\n",
+            "SoC compare in this test. If you prefer something a little smaller, our\n\n",
+            ". The dimensions and weight are identical. The build quality is very good.\n\n",
+            "The IP68-certified body feels high-quality and has very thin edges around the 6.7-inch OLED panel, thanks to the efficient display surface ratio of almost 91%.\n\n",
+            "Samsung has once again opted for Gorilla Glass Victus 2 as the protective glass instead of a frosted Gorilla Armor used for the\n\n",
+            "Samsung has equipped its top-of-the-range phone very well. On board are a UWB chip, Samsung DeX, NFC, and a fast USB port (3.2 Gen. 1). The OTG-capable port supports wired image output.\n\n",
+            "With a Samsung Portable SSD T7, the Galaxy S26+ achieves a high data throughput of 391 MB/s. Connected data carriers can be formatted with exFAT or NTFS (only reading).\n\n",
+            "Samsung delivers the Galaxy S26+ with One UI 8.5 based on Android 16 and guarantees software updates for seven years. According to the manufacturer, security patches will be rolled out monthly.\n\n",
+            "Samsung strives for transparency in its smartphone division and also provides environmentally relevant data, such as the proportion of recycled materials or carbon emissions, for the\n\n",
+            "Recycled materials are also used for the product packaging. Plastic is not used. In the EPREL database, the Samsung upper class is listed only under the reparability class \"C\".\n\n",
+            "The Galaxy S26+ comes with a wide range of frequencies for all modern mobile communication standards. Fast Wi-Fi 7 is available for WLAN connections, including the 6 GHz band, enabling very high transmission rates at peak times in combination with our Asus ROG Rapture GT-AXE11000 reference router.\n\n",
+            "Dual-band connectivity in global satellite networks is available for positioning with the Galaxy S26+. The Satfix is highly accurate both indoors and outdoors.\n\n",
+            "We compare the Samsung phone with a Garmin Venu 2 on a bike ride. The deviations from our route are small in the test and, in some cases, better than those of our reference smartwatch.\n\n",
+            "The Galaxy S26+ offers dual SIM with two NanoSIM cards as well as dual eSIM or a combination of both worlds. The voice quality of the Samsung phone is very good.\n\n",
+            "already has a similar camera setup to its predecessor, the unchanged triple camera of the Galaxy S26+ is somewhat sobering. Nevertheless, beautiful photos are possible with the Samsung phone in daylight, although the artificial sharpening bothers us. Image details and sharpness are not at their best, especially in low light. However, the Galaxy S26+ has exceptionally well-tuned color reproduction.\n\n",
+            "At 12 MP and 10 MP, both the ultra-wide angle and the telephoto lens are not particularly high-resolution and do not allow pixel binning, but deliver solid to good results in good lighting conditions. Looking at a\n\n",
+            ", the Plus model of the S26 series, with its rather small image sensors, no longer really seems up to date.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The Galaxy S26+ is only supplied with a USB-C cable and a SIM tool. A suitable power adapter and cases are available for purchase in the Samsung store.\n\n",
+            "in Europe is 24 months and can be extended with the Care+ insurance package. This costs between 139 and 179 euros, depending on the scope of insurance.\n\n",
+            "The touchscreen responds quickly and precisely to inputs, while pen input, as with the\n\n",
+            ", is still not offered. The linear vibration motor provides crisp feedback and can be adjusted to your own needs in the settings.\n\n",
+            "An ultrasonic fingerprint sensor is installed for biometric security and works reliably and quickly. Alternatively, a rather insecure 2D face recognition can be used via the front camera.\n\n",
+            "The 6.7-inch AMOLED display of the Plus model remains unchanged in 2026, but this is not a problem given the appealing starting point. The high resolution (QHD+) enables a razor-sharp display of over 500 ppi, and the refresh rate can be dynamically adjusted between 1 and 120 Hz using LTPO technology.\n\n",
+            "The brightness offered is very good in both the APL18 measurement and HDR playback, but not at the top level. Unfortunately, the 240-Hz panel still exhibits relatively low flicker, and Samsung has also dispensed with high-frequency PWM dimming. The frequency here is only 480 Hz, while\n\n",
+            "offer almost 4,000 Hz. The Galaxy phone is therefore not ideal for sensitive people with PWM complaints.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 240 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 240 Hz is relatively low, so sensitive users will likely notice flickering and experience eyestrain at the stated brightness setting and below.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "The same applies to the color display as to the brightness. Samsung's high-end phone performs neither poorly nor particularly well here. We get the best color representation in the \"Natural\" screen mode, in which deviations remain easily recognizable to the naked eye.\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 14 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "The large OLED panel with stable viewing angles is impressive outdoors. Display content remains clearly visible even in direct sunlight. However, the Ultra models with their anti-reflective coating are visibly easier to read.\n\n",
+            "When it comes to the chipset, Samsung falls back into old patterns. While the Galaxy S26 Ultra is also based on the\n\n",
+            ". The Samsung SoC is manufactured using the 2 nm GaA process and has 10 cores. At its heart is an ARM C1-Ultra with 3.8 GHz.\n\n",
+            "; the Exynos 2600 is still fast, although it only has a notable advantage over the\n\n",
+            "of the predecessor in the multi-core tests. The Exynos 2600 performs very well in Geekbench AI.\n\n",
+            "is used for graphics calculations. The Galaxy S26+ achieves extremely high scores in the 3DMark test. The GPU also impresses with top results in the GFXBench.\n\n",
+            "Under constant load, we measured surface temperatures of over 47 °C in places. Not low, but also not critically high. The cooling performance is similarly efficient as in the predecessor; in the 3DMark stress tests, we achieved a moderate throttling of up to 40 percent. However, the Galay S26+ can sometimes maintain maximum performance for longer.\n\n",
+            "Room Temperature 20.9 °C = 70 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 43.6 °C / 110 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 47.5 °C / 118 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 46.9 °C / 116 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 26.7 °C / 80 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Xclipse 960, Exynos 2600, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Xclipse 960, Exynos 2600, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Xclipse 960, Exynos 2600, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "Xclipse 960, Exynos 2600, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.17.4:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\n\n",
+            "Xclipse 960, Exynos 2600, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+            "Xclipse 960, Exynos 2600, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "One of the Plus model's strengths is its good speakers. Our pink noise measurement shows a fairly even frequency response for the mids and highs - only the super tweeters dip a little. A hint of bass is also perceptible.\n\n",
+            "Alternatively, audio can also be output via the USB-C port, and the Galaxy S26+ is also able to start an Auracast broadcast.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "2% of all tested devices in this class were better, 3% similar, 95% worse\n\n",
+            "9% of all tested devices in this class were better, 7% similar, 84% worse\n\n",
+            "The power consumption is inconspicuous, the Galaxy S26+ consumes a similar amount of power as its\n\n",
+            "The 4,900 mAh battery, which can be charged with 45 watts wired and 15 watts wirelessly, is neither particularly large nor can be charged really quickly. When fully discharged, the Samsung phone needs just over an hour with a\n\n",
+            "Qualcomm Snapdragon 8 Elite for Galaxy; Geekbench 5.5 Power Consumption 150cd:\n\n",
+            "Qualcomm Snapdragon 8 Elite for Galaxy; 1920x1080 Aztec Ruins Normal Offscreen:\n\n",
+            "In our practical battery tests, which are carried out with an adjusted display brightness of 150 cd/m², the phone delivers solid runtimes of almost 18 hours in the WLAN test, but the predecessor with Qualcomm SoC lasts around 2 hours longer.\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Samsung Exynos 2600 10c/10t, 1 x 3.8 GHz ARM C1-Ultra, 3 x 3.3 GHz ARM C1-Pro, 6 x 2.8 GHz ARM C1-Pro",
+            "Graphics adapter:": "Samsung Xclipse 960",
+            "Memory:": "12 GB , LPDDR5x",
+            "Display:": "6.70 inch 19.5:9, 3120 x 1440 pixel 513 PPI, capacitive Touchscreen, LTPO-AMOLED, Gorilla Glass Victus 2, glossy: yes, HDR, 120 Hz",
+            "Storage:": "256 GB UFS 4.0 Flash, 256 GB , 220 GB free",
+            "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, barometer, DeX, UWB, Miracast, OTG",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B8), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B25/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n25/​n26/​n28/​n38/​n40/​n41/​n66/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 7.3 x 158.4 x 75.8 ( = 0.29 x 6.24 x 2.98 in)",
+            "Battery:": "4900 mAh Lithium-Ion",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 16",
+            "Camera:": "Primary Camera: 50 MPix (f/1.8, 24 mm, 1/1.56\", OIS) + 10 MPix (f/2.4, 67 mm, telephoto, 1/3.94\", OIS, 3x optical) + 12 MPix (f/2.2, 13 mm, ultrawide, 1/2.55\"), camera2API: level 3 Secondary Camera: 12 MPix (f/2.2, 23 mm, PDAF)",
+            "Additional features:": "Speakers: Stereo, USB cable, info material, One UI 8.5, 24 Months Warranty, IP68; HDR: HDR10, HDR10+, HLG; GNSS: GPS (L1, L5), Glonass (L1), BeiDou (B1, B1C, B2a), Galileo (E1, E5a), QZSS (L1, L5); Head SAR 0.775 W/kg, Body SAR 1.221 W/kg; Bluetooth Codecs: AAC, aptX, LDAC, SSC, SBC, fanless, waterproof",
+            "Released:": "02/25/2026",
+            "Weight:": "190 g ( = 6.7 oz / 0.42 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "1249 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "93%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "94%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "80%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "98%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "47%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "83%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "91.7%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "75%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "95%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "95.4%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "60%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "86.2%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "86.2%"
+            }
+        ]
+    },
+    "canonical_name": "samsung_galaxy_s26_plus"
+}

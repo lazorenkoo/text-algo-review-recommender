@@ -1,0 +1,171 @@
+{
+    "phone_key": "motorola_edge_70_fusion",
+    "primary_name": "Motorola Edge 70 Fusion",
+    "aliases": [
+        "Motorola Edge 70 Fusion"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Motorola Edge 70 Fusion",
+                "article_url": "https://www.notebookcheck.net/Motorola-Edge-70-Fusion-Review-A-configurable-mid-range-smartphone-with-broad-appeal.1264811.0.html",
+                "verdict": {
+                    "text": "As the name suggests, the Edge 70 Fusion from Motorola aims to appeal to many different target groups with one device — and it does this very well. The phone is slim yet offers a little more power than usual in this price range. The numerous color options allow users to decide whether the high-quality build should be very eye-catching, in purple for example, or more discreet. The large battery enables long run times. At the same time, the display can get very bright if desired and displays HDR content adequately. The Wi-Fi transfer rates could probably have been better, especially with the occasional drops. Five years of security updates are acceptable for a mid-range smartphone, but it still falls short of the EU requirements. The screen has to contend with PWM flickering, and the speakers could be more powerful. Overall, the Motorola Edge 70 Fusion is a very attractive smartphone that is not too expensive and will still be a good everyday companion for many users.",
+                    "pros": [
+                        "slim design",
+                        "high-quality feel",
+                        "IP68/IP69-certified",
+                        "strong battery",
+                        "bright OLED with good color reproduction",
+                        "fast memory",
+                        "main camera produces sharp images",
+                        "many mobile phone bands",
+                        "fast charging",
+                        "weight, battery, and color selectable"
+                    ],
+                    "cons": [
+                        "WLAN unstable from time to time",
+                        "update period below EU requirements",
+                        "PWM flickering",
+                        "speakers relatively quiet",
+                        "selfies need a lot of light",
+                        "slight throttling possible"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Performance, emissions, and battery life: Enough power and long endurance\n\n",
+                        "While the Edge series used to stand for a high-quality exterior and rounded screen edges, Motorola has opted for a particularly slim design this year. The Motorola Edge 70 Fusion measures just 6.8 mm in thickness (without the camera module) while not being overly light for its price range at 193 g.\n\n",
+                        "Our test model features a 7000 mAh battery. On request, the Edge 70 Fusion is also available with a 5,200 mAh battery, which can save you around €20 if you don't need extra-long run times and is even 16 g lighter.\n\n",
+                        "The phone feels good in the hand and has a high-quality feel thanks to a special back material. Four Pantone color variants are available — dark blue, a slightly grayish light blue, blue-green, and violet. The Edge 70 Fusion is dust and waterproof in accordance with IP68/IP69.\n\n",
+                        "There is no audio jack connection, and the USB port only supports the USB 2.0 standard.\n\n",
+                        "Wi-Fi 6 is the fastest Wi-Fi protocol available on the Edge 70 Fusion. This allows the phone to achieve download speeds of over 500 Mbps, but overall network performance is sometimes unstable and can experience drops in data rates.\n\n",
+                        "Many frequencies are available for mobile communications, so you can also use the phone for mobile internet when traveling abroad. Reception is decent in our tests, but it often cannot quite keep up with high-end smartphones.\n\n",
+                        "The phone comes with a fingerprint sensor integrated quite far down in the screen. It unlocks the phone reliably, but with a short delay.\n\n",
+                        "Android 16 comes pre-installed, the security patches are from January 2026 and are therefore somewhat older at the time of testing. There will probably be an update every three months.\n\n",
+                        "The manufacturer promises three OS feature upgrades and security patches until 2031.\n\n",
+                        "The packaging is plastic-free, but otherwise there is no information on the CO\n\n",
+                        "The Sony Lytia 710 is used as the sensor for the main camera. It offers a 50 MP resolution along with optical image stabilization (OIS). Details can be lost in difficult colors such as yellow or red, but the images are generally sharp and have a good level of detail. Sharpness is also good in low light.\n\n",
+                        "There is also a 13 MP wide-angle camera. It takes well-lit pictures, but the details are difficult to make out.\n\n",
+                        "The front camera takes sharp selfies but also needs good ambient light.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "Motorola wants to score points with a bright OLED screen, and it succeeds very well. With up to 1,500 cd/m² in everyday use and even higher values for small areas or HDR content, and with very good color reproduction and good outdoor suitability, the Edge 70 Fusion's display is indeed impressive.\n\n",
+                        "However, PWM flickering at 120 Hz is present, so sensitive people should try out the screen before buying.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 6 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "may be over two years old at this point, but it still delivers good performance values for the mid-range. Smooth operation is generally possible and most apps run smoothly.\n\n",
+                        "The casing heats up noticeably after prolonged use but is generally unproblematic. According to the 3DMark stress tests, slight throttling cannot be completely ruled out.\n\n",
+                        "The small speaker on the bottom edge is supported by the earpiece, but the two are not really loud together. You can hardly hear any bass, but the rest of the sound spectrum is well-balanced and does not overdrive.\n\n",
+                        "Many Bluetooth audio codecs are supported so that external audio devices can also be connected wirelessly without any problems.\n\n",
+                        "The large 7,000 mAh battery manages run times of over 24 hours in our WLAN test. This should easily get you through two days of average everyday use. The phone charges at up to 68 W speeds, but a charger is not included.\n\n",
+                        "With our charger in the lab, the Edge 70 Fusion is fully charged from 0% in about 45 minutes.\n\n",
+                        "Power Supply (max.) 41.9 °C = 107 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 39.6 °C = 103 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 41.2 °C / 106 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 43.1 °C / 110 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 40.8 °C / 105 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 24.7 °C / 76 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "85% of all tested devices in this class were better, 1% similar, 14% worse\n\n",
+                        "9% of all tested devices in this class were better, 7% similar, 84% worse\n\n",
+                        "The Motorola Edge 70 Fusion aims to combine many qualities and mostly succeeds in doing so. There are two versions with different sized batteries, so you should pay attention to this when buying.\n\n",
+                        "Motorola Edge 70 Fusion in review. Test device provided by Motorola Germany.\n\n",
+                        "The selection of devices to be reviewed is made by our editorial team. The test sample was provided to the author as a loan by the manufacturer or retailer for the purpose of this review. The lender had no influence on this review, nor did the manufacturer receive a copy of this review before publication. There was no obligation to publish this review. As an independent media company, Notebookcheck is not subjected to the authority of manufacturers, retailers or publishers.\n\n",
+                        "Every year, Notebookcheck independently reviews hundreds of laptops and smartphones using standardized procedures to ensure that all results are comparable. We have continuously developed our test methods for around 20 years and set industry standards in the process. In our test labs, high-quality measuring equipment is utilized by experienced technicians and editors. These tests involve a multi-stage validation process. Our complex rating system is based on hundreds of well-founded measurements and benchmarks, which maintains objectivity. Further information on our test methods can be found\n\n",
+                        "Motorola's most flexible phone: Battery, color, storage and RAM are configu...\n\n",
+                        "Zoom removed, price doubled: How good is the camera of the Motorola Edge 70?\n\n",
+                        "Sleek, thin and expensive: Motorola Edge 70's price-performance ratio doesn...\n\n",
+                        "Motorola unveils Moto X70 Air with large battery and Snapdragon 7 Gen 4 in ...\n\n",
+                        "Один телефон Motorola, две весовые категории: Почему эта безумная идея работает\n\n",
+                        "Путь вперед для смартфонов? Motorola предлагает выбор между выносливостью и портативностью\n\n",
+                        "Самый гибкий телефон Motorola: Батарея, цвет, хранилище и оперативная память настраиваются\n\n",
+                        "I initially wrote about gaming laptops when I joined Notebookcheck in 2009. I was then involved with the setup of the comparison portal Notebookinfo and worked with social media concepts for large companies like BMW and Adidas, while also returning to work for Notebookcheck in 2012. Nowadays, I focus on smartphones, tablets, and future technologies. Since 2018 I have been Managing Editor for mobile device reviews, working alongside my colleague Daniel Schmidt.\n\n",
+                        "My main responsibility as an editorial assistant is maintaining the Library section, which aggregates reviews from other publications and channels. In addition, my daily breakfast is Notebookcheck's long list of new content, which I comb through to select the most interesting topics for translation from English to French, Italian, Spanish, Portuguese, and Dutch.\"\n\n",
+                        "> Motorola Edge 70 Fusion Review: A configurable mid-range smartphone with broad appeal\n\n",
+                        "* If you buy something via one of our affiliate links, Notebookcheck may earn a commission. Thank you for your support!\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 7s Gen 3 8c/8t, 1 x 2.5 GHz ARM Cortex-A720, 3 x 2.4 GHz ARM Cortex-A720, 4 x 1.8 GHz ARM Cortex-A520, Cortex-A720 / A520",
+                        "Graphics adapter:": "Qualcomm Adreno 810",
+                        "Memory:": "8 GB",
+                        "Display:": "6.78 inch 19.6:9, 2772 x 1272 pixel 450 PPI, capacitive touchscreen, AMOLED, 1500 Hz sampling rate, Gorilla Glass 7i, glossy: yes, HDR, 144 Hz",
+                        "Storage:": "256 GB UFS 3.1 Flash, 256 GB , 221 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration, gyroscope, proximity, compass",
+                        "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B5/​B8), 4G (B1/​B2/​B3/​B5/​B7/​B8/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42/​B43/​B71), 5G (n1/​n3/​n5/​n7/​n8/​n26/​n28/​n38/​n40/​n41/​n71/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 6.8 x 162.8 x 75.6 ( = 0.27 x 6.41 x 2.98 in)",
+                        "Battery:": "7000 mAh Silicon-Carbon, 68 Watt wired charging",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 50 MPix f/​1.8, phase shift AF, OIS, LED flash, videos @2160p/​30fps (camera 1); 13.0MP, f/​2.2, phase shift AF, wide angle lens, macro (camera 2) Secondary Camera: 32 MPix f/2.2",
+                        "Additional features:": "Speakers: stereo speakers (hybrid), USB cable, SIM tool, silicone bumper, 24 Months Warranty, IP68/​IP69 certified, MIL-STD-810H certified, fanless, waterproof",
+                        "Weight:": "193 g ( = 6.81 oz / 0.43 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "420 Euro"
+                    },
+                    "ratings": []
+                },
+                "canonical_name": "motorola_edge_70_fusion"
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "slim design",
+            "high-quality feel",
+            "IP68/IP69-certified",
+            "strong battery",
+            "bright OLED with good color reproduction",
+            "fast memory",
+            "main camera produces sharp images",
+            "many mobile phone bands",
+            "fast charging",
+            "weight, battery, and color selectable"
+        ],
+        "cons": [
+            "WLAN unstable from time to time",
+            "update period below EU requirements",
+            "PWM flickering",
+            "speakers relatively quiet",
+            "selfies need a lot of light",
+            "slight throttling possible"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 7s Gen 3 8c/8t, 1 x 2.5 GHz ARM Cortex-A720, 3 x 2.4 GHz ARM Cortex-A720, 4 x 1.8 GHz ARM Cortex-A520, Cortex-A720 / A520",
+                "Graphics adapter:": "Qualcomm Adreno 810",
+                "Memory:": "8 GB",
+                "Display:": "6.78 inch 19.6:9, 2772 x 1272 pixel 450 PPI, capacitive touchscreen, AMOLED, 1500 Hz sampling rate, Gorilla Glass 7i, glossy: yes, HDR, 144 Hz",
+                "Storage:": "256 GB UFS 3.1 Flash, 256 GB , 221 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration, gyroscope, proximity, compass",
+                "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B5/​B8), 4G (B1/​B2/​B3/​B5/​B7/​B8/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42/​B43/​B71), 5G (n1/​n3/​n5/​n7/​n8/​n26/​n28/​n38/​n40/​n41/​n71/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 6.8 x 162.8 x 75.6 ( = 0.27 x 6.41 x 2.98 in)",
+                "Battery:": "7000 mAh Silicon-Carbon, 68 Watt wired charging",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 50 MPix f/​1.8, phase shift AF, OIS, LED flash, videos @2160p/​30fps (camera 1); 13.0MP, f/​2.2, phase shift AF, wide angle lens, macro (camera 2) Secondary Camera: 32 MPix f/2.2",
+                "Additional features:": "Speakers: stereo speakers (hybrid), USB cable, SIM tool, silicone bumper, 24 Months Warranty, IP68/​IP69 certified, MIL-STD-810H certified, fanless, waterproof",
+                "Weight:": "193 g ( = 6.81 oz / 0.43 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "420 Euro"
+            }
+        },
+        "ratings": {},
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Motorola-Edge-70-Fusion-Review-A-configurable-mid-range-smartphone-with-broad-appeal.1264811.0.html",
+                "text": "As the name suggests, the Edge 70 Fusion from Motorola aims to appeal to many different target groups with one device — and it does this very well. The phone is slim yet offers a little more power than usual in this price range. The numerous color options allow users to decide whether the high-quality build should be very eye-catching, in purple for example, or more discreet. The large battery enables long run times. At the same time, the display can get very bright if desired and displays HDR content adequately. The Wi-Fi transfer rates could probably have been better, especially with the occasional drops. Five years of security updates are acceptable for a mid-range smartphone, but it still falls short of the EU requirements. The screen has to contend with PWM flickering, and the speakers could be more powerful. Overall, the Motorola Edge 70 Fusion is a very attractive smartphone that is not too expensive and will still be a good everyday companion for many users.\nslim design\nhigh-quality feel\nIP68/IP69-certified\nstrong battery\nbright OLED with good color reproduction\nfast memory\nmain camera produces sharp images\nmany mobile phone bands\nfast charging\nweight, battery, and color selectable\nWLAN unstable from time to time\nupdate period below EU requirements\nPWM flickering\nspeakers relatively quiet\nselfies need a lot of light\nslight throttling possible\nPerformance, emissions, and battery life: Enough power and long endurance\nWhile the Edge series used to stand for a high-quality exterior and rounded screen edges, Motorola has opted for a particularly slim design this year. The Motorola Edge 70 Fusion measures just 6.8 mm in thickness (without the camera module) while not being overly light for its price range at 193 g.\nOur test model features a 7000 mAh battery. On request, the Edge 70 Fusion is also available with a 5,200 mAh battery, which can save you around €20 if you don't need extra-long run times and is even 16 g lighter.\nThe phone feels good in the hand and has a high-quality feel thanks to a special back material. Four Pantone color variants are available — dark blue, a slightly grayish light blue, blue-green, and violet. The Edge 70 Fusion is dust and waterproof in accordance with IP68/IP69.\nThere is no audio jack connection, and the USB port only supports the USB 2.0 standard.\nWi-Fi 6 is the fastest Wi-Fi protocol available on the Edge 70 Fusion. This allows the phone to achieve download speeds of over 500 Mbps, but overall network performance is sometimes unstable and can experience drops in data rates.\nMany frequencies are available for mobile communications, so you can also use the phone for mobile internet when traveling abroad. Reception is decent in our tests, but it often cannot quite keep up with high-end smartphones.\nThe phone comes with a fingerprint sensor integrated quite far down in the screen. It unlocks the phone reliably, but with a short delay.\nAndroid 16 comes pre-installed, the security patches are from January 2026 and are therefore somewhat older at the time of testing. There will probably be an update every three months.\nThe manufacturer promises three OS feature upgrades and security patches until 2031.\nThe packaging is plastic-free, but otherwise there is no information on the CO\nThe Sony Lytia 710 is used as the sensor for the main camera. It offers a 50 MP resolution along with optical image stabilization (OIS). Details can be lost in difficult colors such as yellow or red, but the images are generally sharp and have a good level of detail. Sharpness is also good in low light.\nThere is also a 13 MP wide-angle camera. It takes well-lit pictures, but the details are difficult to make out.\nThe front camera takes sharp selfies but also needs good ambient light.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nMotorola wants to score points with a bright OLED screen, and it succeeds very well. With up to 1,500 cd/m² in everyday use and even higher values for small areas or HDR content, and with very good color reproduction and good outdoor suitability, the Edge 70 Fusion's display is indeed impressive.\nHowever, PWM flickering at 120 Hz is present, so sensitive people should try out the screen before buying.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nmay be over two years old at this point, but it still delivers good performance values for the mid-range. Smooth operation is generally possible and most apps run smoothly.\nThe casing heats up noticeably after prolonged use but is generally unproblematic. According to the 3DMark stress tests, slight throttling cannot be completely ruled out.\nThe small speaker on the bottom edge is supported by the earpiece, but the two are not really loud together. You can hardly hear any bass, but the rest of the sound spectrum is well-balanced and does not overdrive.\nMany Bluetooth audio codecs are supported so that external audio devices can also be connected wirelessly without any problems.\nThe large 7,000 mAh battery manages run times of over 24 hours in our WLAN test. This should easily get you through two days of average everyday use. The phone charges at up to 68 W speeds, but a charger is not included.\nWith our charger in the lab, the Edge 70 Fusion is fully charged from 0% in about 45 minutes.\nPower Supply (max.) 41.9 °C = 107 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 39.6 °C = 103 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 41.2 °C / 106 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 43.1 °C / 110 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 40.8 °C / 105 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 24.7 °C / 76 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n85% of all tested devices in this class were better, 1% similar, 14% worse\n9% of all tested devices in this class were better, 7% similar, 84% worse\nThe Motorola Edge 70 Fusion aims to combine many qualities and mostly succeeds in doing so. There are two versions with different sized batteries, so you should pay attention to this when buying.\nMotorola Edge 70 Fusion in review. Test device provided by Motorola Germany.\nThe selection of devices to be reviewed is made by our editorial team. The test sample was provided to the author as a loan by the manufacturer or retailer for the purpose of this review. The lender had no influence on this review, nor did the manufacturer receive a copy of this review before publication. There was no obligation to publish this review. As an independent media company, Notebookcheck is not subjected to the authority of manufacturers, retailers or publishers.\nEvery year, Notebookcheck independently reviews hundreds of laptops and smartphones using standardized procedures to ensure that all results are comparable. We have continuously developed our test methods for around 20 years and set industry standards in the process. In our test labs, high-quality measuring equipment is utilized by experienced technicians and editors. These tests involve a multi-stage validation process. Our complex rating system is based on hundreds of well-founded measurements and benchmarks, which maintains objectivity. Further information on our test methods can be found\nMotorola's most flexible phone: Battery, color, storage and RAM are configu...\nZoom removed, price doubled: How good is the camera of the Motorola Edge 70?\nSleek, thin and expensive: Motorola Edge 70's price-performance ratio doesn...\nMotorola unveils Moto X70 Air with large battery and Snapdragon 7 Gen 4 in ...\nОдин телефон Motorola, две весовые категории: Почему эта безумная идея работает\nПуть вперед для смартфонов? Motorola предлагает выбор между выносливостью и портативностью\nСамый гибкий телефон Motorola: Батарея, цвет, хранилище и оперативная память настраиваются\nI initially wrote about gaming laptops when I joined Notebookcheck in 2009. I was then involved with the setup of the comparison portal Notebookinfo and worked with social media concepts for large companies like BMW and Adidas, while also returning to work for Notebookcheck in 2012. Nowadays, I focus on smartphones, tablets, and future technologies. Since 2018 I have been Managing Editor for mobile device reviews, working alongside my colleague Daniel Schmidt.\nMy main responsibility as an editorial assistant is maintaining the Library section, which aggregates reviews from other publications and channels. In addition, my daily breakfast is Notebookcheck's long list of new content, which I comb through to select the most interesting topics for translation from English to French, Italian, Spanish, Portuguese, and Dutch.\"\n> Motorola Edge 70 Fusion Review: A configurable mid-range smartphone with broad appeal\n* If you buy something via one of our affiliate links, Notebookcheck may earn a commission. Thank you for your support!"
+            }
+        ]
+    }
+}

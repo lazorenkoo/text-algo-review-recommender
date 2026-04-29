@@ -1,0 +1,72 @@
+[
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/OnePlus-15T-Review-Incredible-battery-life-makes-the-compact-smartphone-competition-pale-in-comparison.1282926.0.html",
+        "phone_name": "OnePlus 15T",
+        "canonical_name": "oneplus_15t",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0001_oneplus_15t.json"
+    },
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/Price-performance-cracker-among-the-inexpensive-smartphones-Xiaomi-Poco-X8-Pro-review.1277617.0.html",
+        "phone_name": "Poco X8 Pro",
+        "canonical_name": "poco_x8_pro",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0002_poco_x8_pro.json"
+    },
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/Blocks-prying-eyes-Samsung-Galaxy-S26-Ultra-review.1278349.0.html",
+        "phone_name": "Samsung Galaxy S26 Ultra",
+        "canonical_name": "samsung_galaxy_s26_ultra",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0003_samsung_galaxy_s26_ultra.json"
+    },
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/Remarkably-bright-with-strong-battery-life-but-short-on-power-Motorola-Moto-G67-smartphone-review.1275814.0.html",
+        "phone_name": "Motorola Moto G67",
+        "canonical_name": "motorola_moto_g67",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0004_motorola_moto_g67.json"
+    },
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/Will-the-Exynos-2600-save-the-unwanted-flagship-Samsung-Galaxy-S26-review.1272005.0.html",
+        "phone_name": "Samsung Galaxy S26+",
+        "canonical_name": "samsung_galaxy_s26_plus",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0005_samsung_galaxy_s26_plus.json"
+    },
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/Google-Pixel-10-Smartphone-Review-Still-an-excellent-compact-Android-offering-six-months-later-with-some-let-downs.1120171.0.html",
+        "phone_name": "Google Pixel 10",
+        "canonical_name": "google_pixel_10",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0006_google_pixel_10.json"
+    },
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/A-unique-feature-no-smartphone-needs-Vivo-iQOO-15-Ultra-review.1266624.0.html",
+        "phone_name": "Vivo iQOO 15 Ultra",
+        "canonical_name": "vivo_iqoo_15_ultra",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0007_vivo_iqoo_15_ultra.json"
+    },
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/Motorola-Edge-70-Fusion-Review-A-configurable-mid-range-smartphone-with-broad-appeal.1264811.0.html",
+        "phone_name": "Motorola Edge 70 Fusion",
+        "canonical_name": "motorola_edge_70_fusion",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0008_motorola_edge_70_fusion.json"
+    },
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/A-big-seller-despite-many-cut-corners-Apple-iPhone-17e-smartphone-review.1260530.0.html",
+        "phone_name": "iPhone 17e",
+        "canonical_name": "iphone_17e",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0009_iphone_17e.json"
+    },
+    {
+        "source": "notebookcheck",
+        "article_url": "https://www.notebookcheck.net/Honor-Magic8-Pro-Air-review-A-dream-come-true-for-many-smartphone-fans.1261347.0.html",
+        "phone_name": "Honor Magic8 Pro Air",
+        "canonical_name": "honor_magic8_pro_air",
+        "file": "dataset\\raw\\notebookcheck\\notebookcheck_0010_honor_magic8_pro_air.json"
+    }
+]

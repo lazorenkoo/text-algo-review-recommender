@@ -1,0 +1,72 @@
+[
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s26-ultra-review",
+        "phone_name": "Samsung Galaxy S26 Ultra",
+        "canonical_name": "samsung_galaxy_s26_ultra",
+        "file": "dataset\\raw\\techradar\\techradar_0001_samsung_galaxy_s26_ultra.json"
+    },
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/xiaomi-phones/xiaomi-17-ultra-review",
+        "phone_name": "Xiaomi 17 Ultra",
+        "canonical_name": "xiaomi_17_ultra",
+        "file": "dataset\\raw\\techradar\\techradar_0002_xiaomi_17_ultra.json"
+    },
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-a57-review",
+        "phone_name": "Samsung Galaxy A57",
+        "canonical_name": "samsung_galaxy_a57",
+        "file": "dataset\\raw\\techradar\\techradar_0003_samsung_galaxy_a57.json"
+    },
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/oppo-phones/oppo-find-x9-ultra-review",
+        "phone_name": "Oppo Find X9 Ultra",
+        "canonical_name": "oppo_find_x9_ultra",
+        "file": "dataset\\raw\\techradar\\techradar_0004_oppo_find_x9_ultra.json"
+    },
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/xiaomi-phones/xiaomi-17-review",
+        "phone_name": "Xiaomi 17",
+        "canonical_name": "xiaomi_17",
+        "file": "dataset\\raw\\techradar\\techradar_0005_xiaomi_17.json"
+    },
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/samsung-galaxy-phones/samsung-galaxy-s26-plus-review",
+        "phone_name": "Samsung Galaxy S26 Plus",
+        "canonical_name": "samsung_galaxy_s26_plus",
+        "file": "dataset\\raw\\techradar\\techradar_0006_samsung_galaxy_s26_plus.json"
+    },
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/honor-phones/honor-magic-8-pro-review",
+        "phone_name": "Honor Magic 8 Pro",
+        "canonical_name": "honor_magic_8_pro",
+        "file": "dataset\\raw\\techradar\\techradar_0007_honor_magic_8_pro.json"
+    },
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/poco-phones/poco-x8-pro-max-review",
+        "phone_name": "Poco X8 Pro Max",
+        "canonical_name": "poco_x8_pro_max",
+        "file": "dataset\\raw\\techradar\\techradar_0008_poco_x8_pro_max.json"
+    },
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/nothing-phones/nothing-phone-4a-pro-review",
+        "phone_name": "Nothing Phone (4a) Pro",
+        "canonical_name": "nothing_4a_pro",
+        "file": "dataset\\raw\\techradar\\techradar_0009_nothing_4a_pro.json"
+    },
+    {
+        "source": "techradar",
+        "article_url": "https://www.techradar.com/phones/redmagic-11-air-review",
+        "phone_name": "RedMagic 11 Air",
+        "canonical_name": "redmagic_11_air",
+        "file": "dataset\\raw\\techradar\\techradar_0010_redmagic_11_air.json"
+    }
+]

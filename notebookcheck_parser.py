@@ -187,6 +187,12 @@ def cleanup_phone_candidate(text: str) -> str:
         if re.search(PHONE_BRANDS_PATTERN, right, flags=re.IGNORECASE):
             text = right
 
+    brand_match = re.search(PHONE_BRANDS_PATTERN, text, flags=re.IGNORECASE)
+    if brand_match and brand_match.start() > 0:
+        prefix = text[: brand_match.start()].strip()
+        if len(prefix.split()) >= 3:
+            text = text[brand_match.start() :].strip()
+
     text = re.sub(r"\bsmartphone\b", "", text, flags=re.IGNORECASE)
     text = re.sub(r"\s+", " ", text).strip(" :-,")
     return clean_text(text)
