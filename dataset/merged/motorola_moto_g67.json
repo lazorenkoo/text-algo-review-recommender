@@ -4,190 +4,14 @@
     "aliases": [
         "Motorola Moto G67"
     ],
-    "sources": {
-        "notebookcheck": [
-            {
-                "source": "notebookcheck",
-                "phone_name": "Motorola Moto G67",
-                "article_url": "https://www.notebookcheck.net/Remarkably-bright-with-strong-battery-life-but-short-on-power-Motorola-Moto-G67-smartphone-review.1275814.0.html",
-                "verdict": {
-                    "text": "The Motorola Moto G67 is a slim smartphone that still packs a relatively large battery and delivers good runtimes of more than 20 hours in our Wi-Fi test. It is lightweight, stylish, well made, and is already available online in Germany for less than €200. It features an ultra-wide-angle camera and a solid main camera, while the selfie camera even takes fairly good pictures. Its biggest highlight, however, is the very bright and colour-accurate AMOLED display, which is also capable of showing HDR content properly. The only drawback is the 90 Hz flickering, which is likely due to PWM. In terms of performance, Motorola would need to offer more to stand out, and users will occasionally have to put up with stuttering. The four years of software updates also feel rather limited compared with what other manufacturers now offer. Overall, the Moto G67 is a stylish lower mid-range smartphone that stands out mainly for its bright display.",
-                    "pros": [
-                        "comparatively affordable",
-                        "slim and lightweight",
-                        "high-quality workmanship",
-                        "good battery life",
-                        "very bright HDR AMOLED display",
-                        "responsive touchscreen",
-                        "reliable fingerprint sensor",
-                        "good selfie camera",
-                        "eSIM support",
-                        "wide range of mobile frequencies",
-                        "plastic-free packaging"
-                    ],
-                    "cons": [
-                        "weak performance",
-                        "only 4 GB of RAM",
-                        "short software update period",
-                        "unstable reception at times",
-                        "PWM flickering",
-                        "mediocre main camera",
-                        "thin speaker sound",
-                        "little sustainability information available"
-                    ]
-                },
-                "article_content": {
-                    "paragraphs": [
-                        "Like almost all current Motorola smartphones, the Moto G67 features a soft plastic rear panel with a leather-like texture. It feels pleasantly slim in the hand and is well made. The camera module is seamlessly integrated into the rear panel via an elegant curve. The two available colour options are light green and blue-grey.\n\n",
-                        "The phone is available with either 128 GB or 256 GB of storage. Both variants come with 4 GB of RAM, which is rather limited. The limited amount of RAM is likely due to current memory prices.\n\n",
-                        "Wi-Fi is not particularly fast, but with transfer rates of around 300 Mbps in both send and receive directions and stable connections, it is perfectly adequate for most home networks.\n\n",
-                        "A wide range of mobile frequencies is available, so the Moto G67 can also be used while travelling for mobile internet access abroad. In our test, however, reception proved a little unstable at times.\n\n",
-                        "Thanks to its refresh rate of up to 120 Hz, the touchscreen is very responsive and works reliably. A fingerprint sensor is integrated into the power button and unlocks the phone quickly and with good recognition accuracy.\n\n",
-                        "Android 16 comes preinstalled, and software updates are set to be provided until 2030. That is not especially long, particularly in light of EU regulations, which Motorola appears to ignore for almost all of its devices.\n\n",
-                        "The packaging is free of plastic, but no other information on the device's sustainability is available.\n\n",
-                        "The 50 MP main camera takes attractive pictures in good lighting. However, you should not zoom in too much, and bright areas often lose dynamic range. Even in shaded areas on sunny days, image quality starts to suffer, with photos becoming noticeably grainier and less detailed.\n\n",
-                        "The ultra-wide-angle camera has a resolution of just 8 MP and produces decent panoramas. However, it is already clear from looking at them on the phone's display that detail is in short supply.\n\n",
-                        "Selfies taken with the 32 MP front-facing camera are quite convincing, even in somewhat lower light.\n\n",
-                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
-                        "The bright AMOLED display is certainly one of the Moto G67's highlights: it reaches more than 1,400 cd/m² with full-screen brightness and can become significantly brighter still when displaying HDR content or in smaller image areas. Colour reproduction is also very accurate, and the resolution is noticeably higher than that of comparable phones.\n\n",
-                        "The only annoyance for sensitive users is the PWM flickering, which we measured at 90 Hz.\n\n",
-                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
-                        "The display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) .\n\n",
-                        "The frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
-                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7898 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
-                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
-                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
-                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\n\n",
-                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
-                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 6 % of all devices are better.\n\n",
-                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
-                        "is not exactly the fastest processor, and that shows in everyday use: occasional stutters and waiting times are normal on the Moto G67. Samsung and Xiaomi, for example, offer significantly faster phones for a similar price.\n\n",
-                        "The UFS 2.2 storage delivers acceptable speeds, but other manufacturers also offer more in this area.\n\n",
-                        "In the stress test, the phone proves to be fairly stable in terms of performance and does not get excessively hot under load either.\n\n",
-                        "The speaker offers a very mid-heavy sound, but it can reach a fairly high volume. There is no 3.5 mm audio jack, but Bluetooth support includes quite a wide range of codecs for wireless audio transmission.\n\n",
-                        "The battery is slightly larger than in most comparable devices, with Motorola fitting a 5,200 mAh unit here. As a result, the phone lasts for more than 20 hours in our Wi-Fi test and performs very well compared with the competition. Two days without recharging is realistic with normal use. A full charge takes around 1.5 hours.\n\n",
-                        "Power Supply (max.) 41.1 °C = 106 F | Room Temperature 20.3 °C = 69 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
-                        "Power Supply (max.) 39.6 °C = 103 F | Room Temperature 20.3 °C = 69 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
-                        "The average temperature for the upper side under maximal load is 41.2 °C / 106 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
-                        "The maximum temperature on the upper side is 44.7 °C / 112 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
-                        "The bottom heats up to a maximum of 43.7 °C / 111 F, compared to the average of 34 °C / 93 F\n\n",
-                        "In idle usage, the average temperature for the upper side is 24.1 °C / 75 F, compared to the device average of 32.9 °C / 91 F.\n\n",
-                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
-                        "84% of all tested devices in this class were better, 1% similar, 15% worse\n\n",
-                        "42% of all tested devices in this class were better, 8% similar, 50% worse\n\n"
-                    ],
-                    "bullet_points": []
-                },
-                "tables": {
-                    "specifications": {
-                        "Processor:": "Mediatek Dimensity 6300 8c/8t, 2 x 2.4 GHz ARM Cortex-A76, 6 x 2.0 GHz ARM Cortex-A55",
-                        "Graphics adapter:": "ARM Mali-G57 MP2",
-                        "Memory:": "4 GB",
-                        "Display:": "6.78 inch 19.6:9, 2772 x 1272 pixel 450 PPI, capacitive touchscreen, AMOLED, Gorilla Glass 7i, glossy: yes, 120 Hz",
-                        "Storage:": "128 GB UFS 2.2 Flash, 128 GB , 100 GB free",
-                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: audio via USB-C, Card Reader: microSD up to 1 TB, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration, gyroscope, proximity, compass",
-                        "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B8), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B17/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42), 5G (n1/​n3/​n5/​n7/​n8/​n20/​n26/​n28/​n38/​n40/​n41/​n48/​n77/​n78), Dual SIM, LTE, 5G, GPS",
-                        "Size:": "height x width x depth (in mm): 7.3 x 164.2 x 77.4 ( = 0.29 x 6.46 x 3.05 in)",
-                        "Battery:": "5200 mAh Lithium-Ion, 30 Watt charging",
-                        "Charging:": "fast charging / Quickcharge",
-                        "Operating System:": "Android 16",
-                        "Camera:": "Primary Camera: 50 MPix f/​1.8, phase shift AF, dual LED flash, videos @1440p/​30fps (camera 1); 8.0MP, f/​2.2, wide angle (camera 2) Secondary Camera: 32 MPix videos @1440p/​30fps",
-                        "Additional features:": "Speakers: stereo speakers (hybrid), USB cable, 24 Months Warranty, SAR: 0.90W/​kg head, 1.35W/​kg body; IP64 certified, MIL-STD-810H certified, eSIM-Support, fanless",
-                        "Weight:": "182 g ( = 6.42 oz / 0.4 pounds) ( = 0 oz / 0 pounds)",
-                        "Price:": "239 Euro"
-                    },
-                    "ratings": [
-                        {
-                            "Attributes": "Chassis",
-                            "Notes": "",
-                            "Rating": "87%"
-                        },
-                        {
-                            "Attributes": "Connectivity",
-                            "Notes": "",
-                            "Rating": "58%"
-                        },
-                        {
-                            "Attributes": "Weight",
-                            "Notes": "",
-                            "Rating": "90%"
-                        },
-                        {
-                            "Attributes": "Games Performance",
-                            "Notes": "",
-                            "Rating": "9%"
-                        },
-                        {
-                            "Attributes": "Application Performance",
-                            "Notes": "",
-                            "Rating": "66%"
-                        },
-                        {
-                            "Attributes": "AI Performance",
-                            "Notes": "",
-                            "Rating": "15%"
-                        },
-                        {
-                            "Attributes": "Temperature",
-                            "Notes": "",
-                            "Rating": "100%"
-                        },
-                        {
-                            "Attributes": "Noise",
-                            "Notes": "",
-                            "Rating": "100%"
-                        },
-                        {
-                            "Attributes": "Audio",
-                            "Notes": "",
-                            "Rating": "69%"
-                        },
-                        {
-                            "Attributes": "Camera",
-                            "Notes": "",
-                            "Rating": "57%"
-                        },
-                        {
-                            "Attributes": "CO2 Emissions",
-                            "Notes": "",
-                            "Rating": "10%"
-                        },
-                        {
-                            "Attributes": "Materials",
-                            "Notes": "",
-                            "Rating": "10%"
-                        },
-                        {
-                            "Attributes": "Packaging",
-                            "Notes": "",
-                            "Rating": "50%"
-                        },
-                        {
-                            "Attributes": "Power Use",
-                            "Notes": "",
-                            "Rating": "50%"
-                        },
-                        {
-                            "Attributes": "Repairability",
-                            "Notes": "",
-                            "Rating": "11%"
-                        },
-                        {
-                            "Attributes": "Software Updates",
-                            "Notes": "",
-                            "Rating": "53.3%"
-                        },
-                        {
-                            "Attributes": "Total Sustainability Score",
-                            "Notes": "",
-                            "Rating": "35.7%"
-                        }
-                    ]
-                },
-                "canonical_name": "motorola_moto_g67"
-            }
-        ]
-    },
+    "documents": [
+        {
+            "source": "notebookcheck",
+            "article_url": "https://www.notebookcheck.net/Remarkably-bright-with-strong-battery-life-but-short-on-power-Motorola-Moto-G67-smartphone-review.1275814.0.html",
+            "phone_name": "Motorola Moto G67",
+            "text": "The Motorola Moto G67 is a slim smartphone that still packs a relatively large battery and delivers good runtimes of more than 20 hours in our Wi-Fi test. It is lightweight, stylish, well made, and is already available online in Germany for less than €200. It features an ultra-wide-angle camera and a solid main camera, while the selfie camera even takes fairly good pictures. Its biggest highlight, however, is the very bright and colour-accurate AMOLED display, which is also capable of showing HDR content properly. The only drawback is the 90 Hz flickering, which is likely due to PWM. In terms of performance, Motorola would need to offer more to stand out, and users will occasionally have to put up with stuttering. The four years of software updates also feel rather limited compared with what other manufacturers now offer. Overall, the Moto G67 is a stylish lower mid-range smartphone that stands out mainly for its bright display.\ncomparatively affordable\nslim and lightweight\nhigh-quality workmanship\ngood battery life\nvery bright HDR AMOLED display\nresponsive touchscreen\nreliable fingerprint sensor\ngood selfie camera\neSIM support\nwide range of mobile frequencies\nplastic-free packaging\nweak performance\nonly 4 GB of RAM\nshort software update period\nunstable reception at times\nPWM flickering\nmediocre main camera\nthin speaker sound\nlittle sustainability information available\nLike almost all current Motorola smartphones, the Moto G67 features a soft plastic rear panel with a leather-like texture. It feels pleasantly slim in the hand and is well made. The camera module is seamlessly integrated into the rear panel via an elegant curve. The two available colour options are light green and blue-grey.\nThe phone is available with either 128 GB or 256 GB of storage. Both variants come with 4 GB of RAM, which is rather limited. The limited amount of RAM is likely due to current memory prices.\nWi-Fi is not particularly fast, but with transfer rates of around 300 Mbps in both send and receive directions and stable connections, it is perfectly adequate for most home networks.\nA wide range of mobile frequencies is available, so the Moto G67 can also be used while travelling for mobile internet access abroad. In our test, however, reception proved a little unstable at times.\nThanks to its refresh rate of up to 120 Hz, the touchscreen is very responsive and works reliably. A fingerprint sensor is integrated into the power button and unlocks the phone quickly and with good recognition accuracy.\nAndroid 16 comes preinstalled, and software updates are set to be provided until 2030. That is not especially long, particularly in light of EU regulations, which Motorola appears to ignore for almost all of its devices.\nThe packaging is free of plastic, but no other information on the device's sustainability is available.\nThe 50 MP main camera takes attractive pictures in good lighting. However, you should not zoom in too much, and bright areas often lose dynamic range. Even in shaded areas on sunny days, image quality starts to suffer, with photos becoming noticeably grainier and less detailed.\nThe ultra-wide-angle camera has a resolution of just 8 MP and produces decent panoramas. However, it is already clear from looking at them on the phone's display that detail is in short supply.\nSelfies taken with the 32 MP front-facing camera are quite convincing, even in somewhat lower light.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe bright AMOLED display is certainly one of the Moto G67's highlights: it reaches more than 1,400 cd/m² with full-screen brightness and can become significantly brighter still when displaying HDR content or in smaller image areas. Colour reproduction is also very accurate, and the resolution is noticeably higher than that of comparable phones.\nThe only annoyance for sensitive users is the PWM flickering, which we measured at 90 Hz.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7898 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nis not exactly the fastest processor, and that shows in everyday use: occasional stutters and waiting times are normal on the Moto G67. Samsung and Xiaomi, for example, offer significantly faster phones for a similar price.\nThe UFS 2.2 storage delivers acceptable speeds, but other manufacturers also offer more in this area.\nIn the stress test, the phone proves to be fairly stable in terms of performance and does not get excessively hot under load either.\nThe speaker offers a very mid-heavy sound, but it can reach a fairly high volume. There is no 3.5 mm audio jack, but Bluetooth support includes quite a wide range of codecs for wireless audio transmission.\nThe battery is slightly larger than in most comparable devices, with Motorola fitting a 5,200 mAh unit here. As a result, the phone lasts for more than 20 hours in our Wi-Fi test and performs very well compared with the competition. Two days without recharging is realistic with normal use. A full charge takes around 1.5 hours.\nPower Supply (max.) 41.1 °C = 106 F | Room Temperature 20.3 °C = 69 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 39.6 °C = 103 F | Room Temperature 20.3 °C = 69 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 41.2 °C / 106 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 44.7 °C / 112 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 43.7 °C / 111 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 24.1 °C / 75 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n84% of all tested devices in this class were better, 1% similar, 15% worse\n42% of all tested devices in this class were better, 8% similar, 50% worse"
+        }
+    ],
     "combined": {
         "pros": [
             "comparatively affordable",
@@ -324,6 +148,7 @@
             {
                 "source": "notebookcheck",
                 "article_url": "https://www.notebookcheck.net/Remarkably-bright-with-strong-battery-life-but-short-on-power-Motorola-Moto-G67-smartphone-review.1275814.0.html",
+                "phone_name": "Motorola Moto G67",
                 "text": "The Motorola Moto G67 is a slim smartphone that still packs a relatively large battery and delivers good runtimes of more than 20 hours in our Wi-Fi test. It is lightweight, stylish, well made, and is already available online in Germany for less than €200. It features an ultra-wide-angle camera and a solid main camera, while the selfie camera even takes fairly good pictures. Its biggest highlight, however, is the very bright and colour-accurate AMOLED display, which is also capable of showing HDR content properly. The only drawback is the 90 Hz flickering, which is likely due to PWM. In terms of performance, Motorola would need to offer more to stand out, and users will occasionally have to put up with stuttering. The four years of software updates also feel rather limited compared with what other manufacturers now offer. Overall, the Moto G67 is a stylish lower mid-range smartphone that stands out mainly for its bright display.\ncomparatively affordable\nslim and lightweight\nhigh-quality workmanship\ngood battery life\nvery bright HDR AMOLED display\nresponsive touchscreen\nreliable fingerprint sensor\ngood selfie camera\neSIM support\nwide range of mobile frequencies\nplastic-free packaging\nweak performance\nonly 4 GB of RAM\nshort software update period\nunstable reception at times\nPWM flickering\nmediocre main camera\nthin speaker sound\nlittle sustainability information available\nLike almost all current Motorola smartphones, the Moto G67 features a soft plastic rear panel with a leather-like texture. It feels pleasantly slim in the hand and is well made. The camera module is seamlessly integrated into the rear panel via an elegant curve. The two available colour options are light green and blue-grey.\nThe phone is available with either 128 GB or 256 GB of storage. Both variants come with 4 GB of RAM, which is rather limited. The limited amount of RAM is likely due to current memory prices.\nWi-Fi is not particularly fast, but with transfer rates of around 300 Mbps in both send and receive directions and stable connections, it is perfectly adequate for most home networks.\nA wide range of mobile frequencies is available, so the Moto G67 can also be used while travelling for mobile internet access abroad. In our test, however, reception proved a little unstable at times.\nThanks to its refresh rate of up to 120 Hz, the touchscreen is very responsive and works reliably. A fingerprint sensor is integrated into the power button and unlocks the phone quickly and with good recognition accuracy.\nAndroid 16 comes preinstalled, and software updates are set to be provided until 2030. That is not especially long, particularly in light of EU regulations, which Motorola appears to ignore for almost all of its devices.\nThe packaging is free of plastic, but no other information on the device's sustainability is available.\nThe 50 MP main camera takes attractive pictures in good lighting. However, you should not zoom in too much, and bright areas often lose dynamic range. Even in shaded areas on sunny days, image quality starts to suffer, with photos becoming noticeably grainier and less detailed.\nThe ultra-wide-angle camera has a resolution of just 8 MP and produces decent panoramas. However, it is already clear from looking at them on the phone's display that detail is in short supply.\nSelfies taken with the 32 MP front-facing camera are quite convincing, even in somewhat lower light.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe bright AMOLED display is certainly one of the Moto G67's highlights: it reaches more than 1,400 cd/m² with full-screen brightness and can become significantly brighter still when displaying HDR content or in smaller image areas. Colour reproduction is also very accurate, and the resolution is noticeably higher than that of comparable phones.\nThe only annoyance for sensitive users is the PWM flickering, which we measured at 90 Hz.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7898 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nis not exactly the fastest processor, and that shows in everyday use: occasional stutters and waiting times are normal on the Moto G67. Samsung and Xiaomi, for example, offer significantly faster phones for a similar price.\nThe UFS 2.2 storage delivers acceptable speeds, but other manufacturers also offer more in this area.\nIn the stress test, the phone proves to be fairly stable in terms of performance and does not get excessively hot under load either.\nThe speaker offers a very mid-heavy sound, but it can reach a fairly high volume. There is no 3.5 mm audio jack, but Bluetooth support includes quite a wide range of codecs for wireless audio transmission.\nThe battery is slightly larger than in most comparable devices, with Motorola fitting a 5,200 mAh unit here. As a result, the phone lasts for more than 20 hours in our Wi-Fi test and performs very well compared with the competition. Two days without recharging is realistic with normal use. A full charge takes around 1.5 hours.\nPower Supply (max.) 41.1 °C = 106 F | Room Temperature 20.3 °C = 69 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 39.6 °C = 103 F | Room Temperature 20.3 °C = 69 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 41.2 °C / 106 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 44.7 °C / 112 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 43.7 °C / 111 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 24.1 °C / 75 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n84% of all tested devices in this class were better, 1% similar, 15% worse\n42% of all tested devices in this class were better, 8% similar, 50% worse"
             }
         ]
