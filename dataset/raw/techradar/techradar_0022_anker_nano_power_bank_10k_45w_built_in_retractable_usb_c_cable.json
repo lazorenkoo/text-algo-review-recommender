@@ -1,0 +1,44 @@
+{
+    "source": "techradar",
+    "phone_name": "Anker Nano Power Bank 10K 45W Built-In Retractable USB-C Cable",
+    "article_url": "https://www.techradar.com/phones/phone-accessories/anker-nano-power-bank-10k-45w-built-in-retractable-usb-c-cable-review",
+    "verdict": {
+        "text": "Anker’s 10K 45W power bank is a highly practical option, thanks to its convenient integrated cable and handy display. Overall performance is good too, so long as you aren’t trying to charge a laptop or any device with high power demands. Power output can be reduced pretty swiftly due to thermal throttling, and recharging could be faster, but these are fairly small complaints in light of the power bank’s talents.",
+        "pros": [
+            "Convenient retractable cable",
+            "Useful display",
+            "Solid overall performance"
+        ],
+        "cons": [
+            "Not enough wattage for more power-hungry devices",
+            "Could recharge a little faster",
+            "Thermal throttling can prevent peak performance"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "The Anker Nano Power Bank 10K 45W Built-In Retractable USB-C Cable (don’t worry, I’ll shorten it from here on out), is exactly what it sounds like. It's a small-sized portable charger with a built-in cable for on-the-go charging, and boasts a 10,000mAh capacity and 45W maximum power output.\n\n",
+            "The real draw of the Anker 10K 45W is its convenience. Firstly, that integrated charging wire is a massive plus. Simply pull it out, and it auto locks to the length that suits you best. To unwind, all you’ve got to do is pull and release – easy as you like. In addition, this model is pretty compact, meaning it can easily slot into a pocket or small bag.\n\n",
+            "Is its charging performance as efficient as its build? Well, it would be hard to answer that question with a one-word answer. First of all, there are some restrictions worth noting. A 45W maximum power output means that it can’t charge more demanding devices, like laptops, at peak levels – something that a lot of the best power banks are capable of. Its 10,000mAh capacity isn’t the largest either, though it will be plenty to charge most phones and a pair of wireless earbuds a couple of times.\n\n",
+            "Anyway, I tried charging my Samsung Galaxy S24 FE – which has a 4,700mAh battery capacity – and fast charging was activated, enabling my device to go from 0-100% in around 80 minutes. That’s as fast as I’d expect, so no complaints there.\n\n",
+            "After a while, though, I wanted to recharge the portable charger, and performance could’ve been a bit better. After about 10 minutes, I realized it was only charging at 19W. This is because the model throttles charging input to keep temperature in check. Still, I got a full charge after approximately two hours, which is still fairly decent.\n\n",
+            "And let’s go back to that temperature control note. Sure, the charger can get a little warm, especially if you’re also making use of its additional USB-A and USB-C ports and edging towards maximum power use. But it never felt overly hot. You can also check the battery temperature and health of the model using its inbuilt display.\n\n",
+            "The display itself is behind a translucent exterior, and can also update you on the power output from the integrated cable and additional ports – pretty handy. It's not the brightest display I’ve ever used, but it’s certainly a nice-to-have.\n\n",
+            "Something I really like about this model is its well-designed cord, which you can adjust to fit onto a backpack or a belt loop, for instance. The exterior itself also has an attractive metallic, glossy finish, as well as a textured surface, which enhances grip. It can be yours in a range of colors too, specifically: Aurora White; Phantom Black, which is the variant I tested; or Sprout Green.\n\n",
+            "For the power and build quality on offer, I’d also say that this model is priced pretty well. It has a list price of $59.99 / £49.99 / AU$99.95. We’ve tested cheaper rivals – like the Samsung 25W 10,000mAh Wireless Battery Pack – but that model has a considerably lower wattage.\n\n",
+            "Combine that with the integrated table and the fact that this model is regularly on sale already, and I’d say the Anker 10K 45W is a strong value pick worth checking out. If you need to charge a laptop or power hungry phone like the the OnePlus 13 , for example, something mightier will suit you better. Otherwise, I’m generally a fan of what Anker has to offer here.\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Price": "$59.99 / £49.99 / AU$99.95",
+            "Total power output": "45W",
+            "Number of ports": "2 (excluding 1x inbuilt retractable USB-C cable)",
+            "Port type(s)": "1x USB-C; 1x USB-A",
+            "Dimensions": "3.2 x 2 x 1.4 inches / 81 x 50 x 36mm"
+        },
+        "ratings": []
+    },
+    "canonical_name": "anker_nano_power_bank_10k_45w_built_in_retractable_usb_c_cable"
+}

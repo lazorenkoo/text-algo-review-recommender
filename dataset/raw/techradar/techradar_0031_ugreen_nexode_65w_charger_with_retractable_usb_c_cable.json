@@ -1,0 +1,44 @@
+{
+    "source": "techradar",
+    "phone_name": "UGreen Nexode 65W Charger with Retractable USB-C Cable",
+    "article_url": "https://www.techradar.com/phones/phone-accessories/ugreen-nexode-65w-charger-with-retractable-usb-c-cable-review",
+    "verdict": {
+        "text": "The UGreen Nexode 65W Charger with Retractable USB-C Cable is a highly practical, user-friendly creation. The convenience of a retractable power cable is highly satisfying, it has additional ports for multi-device charging, and it’s compact enough for easy on-the-go use. Its power distribution during multi-port charging won’t suit all users, and the lack of foldable prongs on the UK model is a shame, but all in all, this is a great model available at a more-than reasonable price.",
+        "pros": [
+            "Convenient retractable cable",
+            "Strong overall performance",
+            "Compact build"
+        ],
+        "cons": [
+            "Multi-port power distribution won’t suit all",
+            "In-built cable doesn’t support Samsung Super Charge 2.0 45W",
+            "Non-foldable prongs on UK model"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Want a convenient all-in-one charger for your phone, laptop, tablet, and more? Then the UGreen Nexode 65W Charger with Retractable USB-C Cable might be exactly what you’re looking for! Yes, the model names are almost always this long.\n\n",
+            "This charging block comes with an integrated USB-C cable, meaning you don’t have to purchase one separately or worry about your charging wire falling out. It can be pulled out gradually to a range of lengths up to 2.3ft (0.69m), and snugly tucked away by gently pulling the cable and returning it to its magnetic cradle. On top of that, the integrated cable is nice and flexible, meaning it can flex to your environment without too much trouble.\n\n",
+            "And, if that wasn’t enough, there are two additional USB slots on the unit, enabling you to charge three devices simultaneously. One is a USB-C slot and must be used on its own to get the full 65W (the retractable cable is only capable of 60W in single-port mode), and the other is USB-A if you want to make use of an old wire.\n\n",
+            "All of this flexibility and versatility is great, but how about performance? Well, I charged my Samsung Galaxy S24 FE – which has a 4,700mAh battery – using the retractable cable. I also juiced up my Sony WH-1000XM6 via the USB-C port and LG Tone Free T90S with the USB-A alternative. And even with all ports in use, my phone went from 1% to 100% in well under 80 minutes – which is very speedy indeed.\n\n",
+            "With that said, there are a couple of performance quirks that are worth pointing too. I already mentioned that the retractable cable can’t hit the max 65W power output, but it also omits support for Samsung Super Charge 2.0 45W. That is, however, admittedly only relevant to a small crop of Samsung devices at the moment.\n\n",
+            "In addition, multi-port power disruption may not suit all users. If you charge three devices simultaneously, you get 45W from the retractable cable, but just 7.5W out of the other two. I was also perplexed by the fact that when dual-charging with the USB-C and USB-A port only, you’re still capped at 7.5W per port, even without using the integrated wire.\n\n",
+            "But, regardless, if you just need to charge your phone and say, a pair of earbuds and headphones, the triple-port distribution should still be good enough overall.\n\n",
+            "Elsewhere, the charger is well built. It’s durable, compact given its 65W maximum power output, and has an attractive silvery finish. The UK model doesn't have foldable prongs, which is a shame, but this isn’t the case over in the US.\n\n",
+            "The charger also harnesses GaN technology to offer a strong suite of protection against issues like overheating, short-circuiting, overvoltage, and more. I never felt this model get too hot during the testing process, and I didn’t experience any performance dips whatsoever.\n\n",
+            "So it’s safe to say that I’m a fan of this UGreen charger. I love the convenience of the built-in cable, it can charge my phone in a pinch, and it’s pleasingly compact for when I’m on the go. It's also pretty cost efficient with a list price of $49.99 / £39.99 – though I’ve already seen it on sale for less than $35 / £28, so keep your eyes peeled for a sweet deal.\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Price": "$49.99 / £39.99",
+            "Total power output": "65W",
+            "Number of ports": "2 (excluding 1x inbuilt retractable USB-C cable)",
+            "Port type(s)": "1x USB-C; 1x USB-A",
+            "Dimensions": "2.1 x 2 x 2 inches / 53 x 50.9 x 50.4mm (without prongs)"
+        },
+        "ratings": []
+    },
+    "canonical_name": "ugreen_nexode_65w_charger_with_retractable_usb_c_cable"
+}

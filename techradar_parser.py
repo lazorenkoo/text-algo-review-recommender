@@ -3,6 +3,7 @@ import json
 import re
 import sys
 from pathlib import Path
+from urllib.parse import urlparse
 
 import pandas as pd
 import requests
@@ -46,7 +47,19 @@ def get_main_content(soup: BeautifulSoup) -> Tag:
     return main_content
 
 
-def extract_phone_name(main_article: Tag, fallback_title: str) -> str:
+def slug_to_phone_name(url: str) -> str:
+    path_parts = [part for part in urlparse(url).path.split("/") if part]
+    if not path_parts:
+        return ""
+
+    slug = path_parts[-1]
+    slug = re.sub(r"-review.*$", "", slug, flags=re.IGNORECASE)
+    slug = slug.replace("-", " ").strip()
+    return clean_text(slug.title())
+
+
+def extract_phone_name(url: str, main_article: Tag, fallback_title: str) -> str:
+    # Older TechRadar article sections often expose the clean device name in the section headings.
     section_h2 = main_article.find_all("h2", class_="article-body__section")
     if len(section_h2) >= 2:
         span = section_h2[1].find("span")
@@ -59,6 +72,11 @@ def extract_phone_name(main_article: Tag, fallback_title: str) -> str:
             phone_name_text = phone_name_text.strip()
             if phone_name_text:
                 return phone_name_text
+
+    # If the page layout changed, the URL slug is usually safer than the marketing H1.
+    slug_name = slug_to_phone_name(url)
+    if slug_name:
+        return slug_name
 
     fallback = re.split(r"\breview\b", fallback_title, flags=re.IGNORECASE)[0]
     return clean_text(fallback)
@@ -104,7 +122,7 @@ def parse_article(url: str) -> dict:
 
     title_tag = soup.find("h1")
     fallback_title = clean_text(title_tag.get_text(" ", strip=True)) if title_tag else ""
-    phone_name = extract_phone_name(main_article, fallback_title)
+    phone_name = extract_phone_name(url, main_article, fallback_title)
 
     pretty_verdict = main_content.find("div", class_="pretty-verdict")
     verdict_text = ""

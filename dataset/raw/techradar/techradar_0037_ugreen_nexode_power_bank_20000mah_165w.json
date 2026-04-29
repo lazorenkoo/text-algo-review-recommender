@@ -1,0 +1,50 @@
+{
+    "source": "techradar",
+    "phone_name": "Ugreen Nexode Power Bank 20000mAh 165W",
+    "article_url": "https://www.techradar.com/phones/phone-accessories/ugreen-nexode-power-bank-20000mah-165w-review",
+    "verdict": {
+        "text": "The Ugreen Nexode Power Bank 20000mAh 165W is certainly powerful enough for most users’ needs, and comes with some convenient features that make it easy to use, such as the retractable USB-C cable. However, it lacks the capacity to fully charge some larger devices, and it’s a little too thick for seamless portability. If you’re looking for an equally powerful power bank but with a better design, there are more alternatives out there.",
+        "pros": [
+            "Plenty of power",
+            "Retractable USB-C cable",
+            "Useful readout"
+        ],
+        "cons": [
+            "Lacks capacity for larger devices",
+            "A little too thick",
+            "Small and dim display"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "The Ugreen Nexode Power Bank has 165W of power and a 20000mAh, as well as a few features aimed at improving convenience.\n\n",
+            "In line with the range in which this power bank sits, the Nexode has a dark grey finish with black accents, making it slightly more interesting to look at than other power banks. The smooth matte finish also adds a hint of elegance, giving the impression that this is a premium product.\n\n",
+            "However, this belies the actual build quality of the Nexode. Despite its heaviness, some of the panels can flex slightly; they aren’t as solid as those you’ll find on many Anker power banks, for instance, which are some of the best power banks around in terms of construction.\n\n",
+            "Still, the Nexode should suffice for travel purposes. What’s more of an issue when traveling is just how bulky it is. It might have a relatively short length but it’s quite thick, and personally I would’ve preferred the compromise to be the other way around, as a thinner bank is easier to tuck away into a bag.\n\n",
+            "However, I did appreciate the rubber feet on the back panel. I haven’t noticed their absence on other power banks before, but seeing them here has made me realize how useful they are for protecting the bank and supporting surfaces from scratches. They also prevent the bank from sliding around.\n\n",
+            "The Nexode also has a large display, although unfortunately the readout is considerably smaller than the space appears to allow for. It’s also quite dim, which, combined with the reflective screen, can make it even hard to see.\n\n",
+            "The information it does provide, though, is quite useful. As well as the battery life percentage, there’s also estimated charging times for connected devices or the bank itself, as well as an indicator showing which connections are currently active and their wattage. Pressing the power button takes you to a second screen, where you can view the voltage and amperage of each connection, too.\n\n",
+            "Perhaps the standout feature of the Nexode, though, is the retractable USB-C cable. This is easy to use, although it does have a tendency to twist around, which can make it awkward to put back in. It’s also quite thin and doesn’t feel particularly hardy, but Ugreen does claim it can endure over 25,000 retractions and over 10,000 bends.\n\n",
+            "In addition to this cable, you also get two USB ports: one Type-A and one Type-C. Like the retractable cable, the latter port is both an input and an output, while the former is output only. Both USB-C interfaces are capable of receiving and delivering 100W each, although if both are used at the same time, the port will drop to 65W. The USB-A port delivers 33W maximum.\n\n",
+            "The Nexode also supports three-way charging, but in such cases the two USB ports drop to 10W, while the retractable cable retains its 100W capability. There’s also a trickle charging mode for charging smaller devices with more sensitive batteries, such as wireless earbuds and smartwatches, activated by holding the power button for five seconds.\n\n",
+            "Using the retractable USB-C cable, I managed to charge my Lenovo ThinkPad T14s Gen 4, which has a 57Wh battery, from 5% to 90% in under 90 minutes, before the Nexode depleted completely. This is quite fast, but it’s a shame it ran out before making it to 100%, and means you can’t even get one full charge out of it. Charging the bank itself from empty to full took about one hour and 40 minutes, which again is a respectable time.\n\n",
+            "The Nexode is expensive for a power bank, even one with this much power, retailing for $99.99 / £79.99 (about AU$150). The Anker Laptop Power Bank is about the same price, but has a greater capacity and two integrated cables. It’s also slightly thinner and better made than the Nexode.\n\n",
+            "We have seen it around for less than its original price, though, and if you can catch it in a sale, the Nexode might still prove a solid pick for charging your large devices.\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Price": "$99.99 / £79.99 (about AU$150)",
+            "Capacity": "20,000mAh",
+            "Total wattage": "165W",
+            "Number of ports": "3",
+            "USB-C": "2 (1 x built-in)",
+            "Wireless charging": "No",
+            "Weight": "18.9oz / 535g",
+            "Power-to-weight": "37.4mAh/g"
+        },
+        "ratings": []
+    },
+    "canonical_name": "ugreen_nexode_power_bank_20000mah_165w"
+}

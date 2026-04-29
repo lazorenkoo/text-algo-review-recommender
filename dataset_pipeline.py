@@ -1,6 +1,8 @@
 import json
+import os
 import re
 import sys
+from concurrent.futures import ThreadPoolExecutor, as_completed
 from pathlib import Path
 from urllib.parse import urlencode, urljoin
 
@@ -25,6 +27,7 @@ JSONL_PATH = BASE_DIR / "training_examples.jsonl"
 
 TECHRADAR_LIST_URL = "https://www.techradar.com/phones/reviews"
 NOTEBOOKCHECK_LIST_URL = "https://www.notebookcheck.net/Reviews.55.0.html"
+DEFAULT_WORKERS = max(4, min(16, (os.cpu_count() or 4) * 2))
 NOTEBOOKCHECK_QUERY = {
     "items_per_page": 100,
     "hide_youtube": 1,
@@ -73,6 +76,12 @@ NON_PHONE_HINTS = [
     "headphones",
     "storage-expansion",
     "thermal-camera",
+    "gimbal",
+    "stabilizer",
+    "cable",
+    "charging-station",
+    "pad",
+    "battery-pack",
 ]
 
 NOISY_NAME_PARTS = {
@@ -111,7 +120,12 @@ def extract_links(html: str, base_url: str) -> list[str]:
 
 
 def is_techradar_phone_review(url: str) -> bool:
-    return url.startswith("https://www.techradar.com/phones/") and "-review" in url
+    lower = url.lower()
+    if not (lower.startswith("https://www.techradar.com/phones/") and "-review" in lower):
+        return False
+    if any(hint in lower for hint in NON_PHONE_HINTS):
+        return False
+    return any(hint in lower for hint in PHONE_HINTS)
 
 
 def is_probable_phone_review(url: str) -> bool:
@@ -244,37 +258,56 @@ def save_json(path: Path, payload: dict | list) -> None:
         json.dump(payload, handle, ensure_ascii=False, indent=4)
 
 
-def crawl_source(source_name: str, links: list[str], parse_func, output_dir: Path) -> list[dict]:
+def parse_and_save_article(source_name: str, index: int, total: int, link: str, parse_func, output_dir: Path) -> dict:
+    data = parse_func(link)
+    data["source"] = source_name
+    data["canonical_name"] = canonical_phone_name(data.get("phone_name", ""))
+    file_path = output_dir / f"{source_name}_{index:04d}_{data['canonical_name'] or 'unknown'}.json"
+    save_json(file_path, data)
+    print(f"[{source_name}] saved {index}/{total}: {data.get('phone_name', link)}")
+    return {
+        "source": source_name,
+        "article_url": link,
+        "phone_name": data.get("phone_name", ""),
+        "canonical_name": data.get("canonical_name", ""),
+        "file": str(file_path),
+    }
+
+
+def crawl_source(source_name: str, links: list[str], parse_func, output_dir: Path, max_workers: int = DEFAULT_WORKERS) -> list[dict]:
     output_dir.mkdir(parents=True, exist_ok=True)
     manifest = []
+    indexed_links = list(enumerate(links, start=1))
 
-    for index, link in enumerate(links, start=1):
-        try:
-            data = parse_func(link)
-            data["source"] = source_name
-            data["canonical_name"] = canonical_phone_name(data.get("phone_name", ""))
-            file_path = output_dir / f"{source_name}_{index:04d}_{data['canonical_name'] or 'unknown'}.json"
-            save_json(file_path, data)
-            manifest.append(
-                {
-                    "source": source_name,
-                    "article_url": link,
-                    "phone_name": data.get("phone_name", ""),
-                    "canonical_name": data.get("canonical_name", ""),
-                    "file": str(file_path),
-                }
-            )
-            print(f"[{source_name}] saved {index}/{len(links)}: {data.get('phone_name', link)}")
-        except Exception as exc:
-            manifest.append(
-                {
-                    "source": source_name,
-                    "article_url": link,
-                    "error": str(exc),
-                }
-            )
-            print(f"[{source_name}] failed: {link} -> {exc}")
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        future_map = {
+            executor.submit(
+                parse_and_save_article,
+                source_name,
+                index,
+                len(links),
+                link,
+                parse_func,
+                output_dir,
+            ): (index, link)
+            for index, link in indexed_links
+        }
 
+        for future in as_completed(future_map):
+            index, link = future_map[future]
+            try:
+                manifest.append(future.result())
+            except Exception as exc:
+                manifest.append(
+                    {
+                        "source": source_name,
+                        "article_url": link,
+                        "error": str(exc),
+                    }
+                )
+                print(f"[{source_name}] failed {index}/{len(links)}: {link} -> {exc}")
+
+    manifest.sort(key=lambda item: item.get("file", item.get("article_url", "")))
     save_json(output_dir / "_manifest.json", manifest)
     return manifest
 
@@ -383,18 +416,36 @@ def run(source: str) -> None:
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     MERGED_DIR.mkdir(parents=True, exist_ok=True)
 
+    jobs = []
     if source in {"techradar", "all"}:
-        techradar_links = discover_techradar_links()
-        crawl_source("techradar", techradar_links, techradar_parser.parse_article, RAW_DIR / "techradar")
-
+        jobs.append(("techradar", discover_techradar_links, techradar_parser.parse_article, RAW_DIR / "techradar"))
     if source in {"notebookcheck", "all"}:
-        notebookcheck_links = discover_notebookcheck_links()
-        crawl_source(
-            "notebookcheck",
-            notebookcheck_links,
-            notebookcheck_parser.parse_article,
-            RAW_DIR / "notebookcheck",
+        jobs.append(
+            (
+                "notebookcheck",
+                discover_notebookcheck_links,
+                notebookcheck_parser.parse_article,
+                RAW_DIR / "notebookcheck",
+            )
         )
+
+    with ThreadPoolExecutor(max_workers=max(1, len(jobs))) as executor:
+        futures = {}
+        for source_name, discover_func, parse_func, output_dir in jobs:
+            futures[
+                executor.submit(
+                    lambda s=source_name, d=discover_func, p=parse_func, o=output_dir: crawl_source(
+                        s, d(), p, o
+                    )
+                )
+            ] = source_name
+
+        for future in as_completed(futures):
+            source_name = futures[future]
+            try:
+                future.result()
+            except Exception as exc:
+                print(f"[{source_name}] source job failed: {exc}")
 
     merged_items = merge_datasets(RAW_DIR, MERGED_DIR)
     export_training_jsonl(merged_items, JSONL_PATH)
