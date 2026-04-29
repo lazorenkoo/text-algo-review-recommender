@@ -3,6 +3,7 @@ import re
 import sys
 from collections import OrderedDict
 from pathlib import Path
+from urllib.parse import urlparse
 
 import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
@@ -59,6 +60,10 @@ ALLOWED_RATING_KEYS = [
     "Software Updates",
     "Total Sustainability Score",
 ]
+
+PHONE_BRANDS_PATTERN = (
+    r"\b(?:iphone|galaxy|pixel|xiaomi|motorola|oneplus|honor|oppo|vivo|realme|sony|huawei|poco|nubia|tecno|nothing|xperia)\b"
+)
 
 
 def clean_text(text: str) -> str:
@@ -172,7 +177,34 @@ def collect_text_nodes_between(start_tag: Tag, end_tag: Tag | None) -> list[str]
     return lines
 
 
-def get_phone_name(soup: BeautifulSoup, title: str) -> str:
+def cleanup_phone_candidate(text: str) -> str:
+    text = clean_text(text)
+    text = re.sub(r"^[>\-:\s]+", "", text)
+    text = re.sub(r"\b(?:review|test|preview)\b.*$", "", text, flags=re.IGNORECASE)
+
+    if ":" in text:
+        right = text.split(":", 1)[1].strip()
+        if re.search(PHONE_BRANDS_PATTERN, right, flags=re.IGNORECASE):
+            text = right
+
+    text = re.sub(r"\bsmartphone\b", "", text, flags=re.IGNORECASE)
+    text = re.sub(r"\s+", " ", text).strip(" :-,")
+    return clean_text(text)
+
+
+def slug_to_phone_name(article_url: str) -> str:
+    path_parts = [part for part in urlparse(article_url).path.split("/") if part]
+    if not path_parts:
+        return ""
+
+    slug = path_parts[-1]
+    slug = re.sub(r"\.\d+\.\d+\.html$", "", slug, flags=re.IGNORECASE)
+    slug = re.sub(r"-(?:review|test|preview).*$", "", slug, flags=re.IGNORECASE)
+    slug = slug.replace("-", " ")
+    return cleanup_phone_candidate(slug)
+
+
+def get_phone_name(soup: BeautifulSoup, title: str, article_url: str) -> str:
     root = get_main_root(soup)
 
     for key in ["Verdict on the", "Specifications of the"]:
@@ -181,14 +213,22 @@ def get_phone_name(soup: BeautifulSoup, title: str) -> str:
             text = clean_text(h2.get_text(" ", strip=True))
             match = re.search(rf"{re.escape(key)}\s+(.+)", text, re.IGNORECASE)
             if match:
-                return clean_text(match.group(1))
+                candidate = cleanup_phone_candidate(match.group(1))
+                if candidate:
+                    return candidate
 
     match = re.search(r"-\s*([A-Z][A-Za-z0-9+ .()-]+?)\s+(?:review|test|preview)\b", title)
     if match:
-        return clean_text(match.group(1))
+        candidate = cleanup_phone_candidate(match.group(1))
+        if candidate:
+            return candidate
+
+    slug_candidate = slug_to_phone_name(article_url)
+    if slug_candidate:
+        return slug_candidate
 
     fallback = re.split(r"\b(?:review|Review|test|Test|preview|Preview)\b", title, maxsplit=1)[0]
-    return clean_text(fallback.strip(" :-â€“â€”"))
+    return cleanup_phone_candidate(fallback)
 
 
 def is_noise_line(text: str) -> bool:
@@ -317,8 +357,6 @@ def looks_like_real_paragraph(text: str) -> bool:
         return False
 
     bad_fragments = [
-        "âˆ†e",
-        "cd/mÂ²",
         "fps",
         "mbit/s",
         "ms rise",
@@ -432,7 +470,7 @@ def parse_article(article_url: str) -> dict:
     root = get_main_root(soup)
 
     title = find_h1(soup)
-    phone_name = get_phone_name(soup, title)
+    phone_name = get_phone_name(soup, title, article_url)
 
     return {
         "source": "notebookcheck",
