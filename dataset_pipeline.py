@@ -411,7 +411,7 @@ def export_training_jsonl(items: list[dict], output_path: Path) -> None:
             handle.write(json.dumps(training_row, ensure_ascii=False) + "\n")
 
 
-def run(source: str) -> None:
+def run(source: str, limit: int | None = None) -> None:
     source = source.lower()
     RAW_DIR.mkdir(parents=True, exist_ok=True)
     MERGED_DIR.mkdir(parents=True, exist_ok=True)
@@ -434,8 +434,8 @@ def run(source: str) -> None:
         for source_name, discover_func, parse_func, output_dir in jobs:
             futures[
                 executor.submit(
-                    lambda s=source_name, d=discover_func, p=parse_func, o=output_dir: crawl_source(
-                        s, d(), p, o
+                    lambda s=source_name, d=discover_func, p=parse_func, o=output_dir, l=limit: crawl_source(
+                        s, d()[:l] if l is not None else d(), p, o
                     )
                 )
             ] = source_name
@@ -456,9 +456,21 @@ def run(source: str) -> None:
 def main() -> None:
     source = sys.argv[1] if len(sys.argv) > 1 else "all"
     if source not in {"all", "techradar", "notebookcheck"}:
-        print('Usage: python dataset_pipeline.py [all|techradar|notebookcheck]')
+        print('Usage: python dataset_pipeline.py [all|techradar|notebookcheck] [LIMIT]')
         sys.exit(1)
-    run(source)
+
+    limit = None
+    if len(sys.argv) > 2:
+        try:
+            limit = int(sys.argv[2])
+        except ValueError:
+            print("LIMIT must be an integer")
+            sys.exit(1)
+        if limit <= 0:
+            print("LIMIT must be greater than 0")
+            sys.exit(1)
+
+    run(source, limit)
 
 
 if __name__ == "__main__":
