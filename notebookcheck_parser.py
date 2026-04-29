@@ -258,9 +258,28 @@ def is_noise_line(text: str) -> bool:
         "cookie settings",
         "loading comments",
         "add as a preferred",
+        "the selection of devices to be reviewed is made by our editorial team",
+        "every year, notebookcheck independently reviews hundreds of laptops and smartphones",
+        "though a cell and molecular biologist by training",
+        "if you buy something via one of our affiliate links",
     )
 
     if low.startswith(bad_starts):
+        return True
+
+    if text.startswith(">") or text.startswith("*"):
+        return True
+
+    if re.search(r"[А-Яа-яЁё]", text):
+        return True
+
+    if "smartphone review:" in low and len(text.split()) <= 14:
+        return True
+
+    if "review:" in low and len(text.split()) <= 14:
+        return True
+
+    if text.endswith("..."):
         return True
 
     return text in {"+", "-", "Pros", "Cons", "4"}

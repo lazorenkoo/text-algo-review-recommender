@@ -24,6 +24,7 @@ BASE_DIR = Path("dataset")
 RAW_DIR = BASE_DIR / "raw"
 MERGED_DIR = BASE_DIR / "merged"
 JSONL_PATH = BASE_DIR / "training_examples.jsonl"
+LIGHT_JSON_PATH = BASE_DIR / "training_examples.json"
 
 TECHRADAR_LIST_URL = "https://www.techradar.com/phones/reviews"
 NOTEBOOKCHECK_LIST_URL = "https://www.notebookcheck.net/Reviews.55.0.html"
@@ -333,7 +334,7 @@ def merge_datasets(raw_root: Path, merged_root: Path) -> list[dict]:
                 {
                     "phone_key": key,
                     "phone_name_candidates": [],
-                    "sources": {},
+                    "source_records": [],
                     "combined": {
                         "pros": [],
                         "cons": [],
@@ -349,8 +350,13 @@ def merge_datasets(raw_root: Path, merged_root: Path) -> list[dict]:
                 phone_entry["phone_name_candidates"].append(phone_name)
 
             source_name = record.get("source", source_dir.name)
-            source_bucket = phone_entry["sources"].setdefault(source_name, [])
-            source_bucket.append(record)
+            phone_entry["source_records"].append(
+                {
+                    "source": source_name,
+                    "article_url": record.get("article_url", ""),
+                    "phone_name": phone_name,
+                }
+            )
 
             for item in record.get("verdict", {}).get("pros", []):
                 if item not in phone_entry["combined"]["pros"]:
@@ -384,7 +390,7 @@ def merge_datasets(raw_root: Path, merged_root: Path) -> list[dict]:
             "phone_key": key,
             "primary_name": phone_entry["phone_name_candidates"][0] if phone_entry["phone_name_candidates"] else key,
             "aliases": phone_entry["phone_name_candidates"],
-            "sources": phone_entry["sources"],
+            "documents": phone_entry["source_records"],
             "combined": phone_entry["combined"],
         }
         save_json(merged_root / f"{key}.json", merged_payload)
@@ -402,6 +408,7 @@ def export_training_jsonl(items: list[dict], output_path: Path) -> None:
                 "phone_key": item["phone_key"],
                 "primary_name": item["primary_name"],
                 "aliases": item.get("aliases", []),
+                "documents_meta": item.get("documents", []),
                 "pros": combined.get("pros", []),
                 "cons": combined.get("cons", []),
                 "specifications": combined.get("specifications", {}),
@@ -409,6 +416,27 @@ def export_training_jsonl(items: list[dict], output_path: Path) -> None:
                 "documents": combined.get("texts", []),
             }
             handle.write(json.dumps(training_row, ensure_ascii=False) + "\n")
+
+
+def export_training_json(items: list[dict], output_path: Path) -> None:
+    output_path.parent.mkdir(parents=True, exist_ok=True)
+    lightweight_items = []
+    for item in items:
+        combined = item.get("combined", {})
+        lightweight_items.append(
+            {
+                "phone_key": item["phone_key"],
+                "primary_name": item["primary_name"],
+                "aliases": item.get("aliases", []),
+                "documents_meta": item.get("documents", []),
+                "pros": combined.get("pros", []),
+                "cons": combined.get("cons", []),
+                "specifications": combined.get("specifications", {}),
+                "ratings": combined.get("ratings", {}),
+                "documents": combined.get("texts", []),
+            }
+        )
+    save_json(output_path, lightweight_items)
 
 
 def run(source: str, limit: int | None = None) -> None:
@@ -449,6 +477,7 @@ def run(source: str, limit: int | None = None) -> None:
 
     merged_items = merge_datasets(RAW_DIR, MERGED_DIR)
     export_training_jsonl(merged_items, JSONL_PATH)
+    export_training_json(merged_items, LIGHT_JSON_PATH)
     print(f"Merged phones: {len(merged_items)}")
     print(f"Training file: {JSONL_PATH.resolve()}")
 
