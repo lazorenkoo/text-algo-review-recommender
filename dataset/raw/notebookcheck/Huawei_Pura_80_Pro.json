@@ -1,0 +1,176 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Huawei Pura 80 Pro",
+    "article_url": "https://www.notebookcheck.net/Android-smartphone-with-the-best-camera-hardware-requires-compromises-Huawei-Pura-80-Pro-review.1192664.0.html",
+    "verdict": {
+        "text": "With the Pura 80 Pro, Huawei has succeeded in creating a well-rounded smartphone, but given existing shortcomings, the upper-class model is more for enthusiasts and is difficult to recommend. Many issues are caused by trade restrictions with the USA, such as the lack of the modern 5G standard, Google services, and competitive chipset. However, other complaints are home-grown, like poor battery life and a sharp decline in photo quality, besides the excellent main camera. For an RRP of more than 1,000 euros, the smartphone market offers a wide range of better alternatives that allow the Play Store or Android Auto to be used directly without any detours.",
+        "pros": [
+            "bright OLED display",
+            "powerful main camera",
+            "high-quality appearance",
+            "quick charger ex-works",
+            "great speaker"
+        ],
+        "cons": [
+            "bulky hand feel",
+            "below average battery life",
+            "lame SoC",
+            "no 5G",
+            "no 6 GHz WLAN",
+            "no native Play Store"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Performance, emissions and battery life - Android phone with low heat development\n\n",
+            "The Pura 80 Pro is IP69-certified and therefore water- and dust-resistant. There is nothing wrong with the build quality and the perceived value of the glass case, but the Huawei phone feels quite thick and heavy in the hands. Second-generation Crystal Armour Kunlun glass is used.\n\n",
+            "With a screen-to-body ratio of around 89%, the Pura 80 Pro has a modern look, but its\n\n",
+            "Features include an infrared sensor, dual-band GNSS and NFC, as well as a fast USB 3.1 port with the option of image output and OTG.\n\n",
+            "Without access to the 5G network and with Bluetooth 5.2, the Huawei phone looks as if it has come out of a deep sleep into the year 2025. This deficit is certainly due to trade restrictions, but it does not improve the user experience. Without the powerful 6 GHz band, we achieved only comparatively weak reception performance with the WiFi 7 standard when combined with our Asus ROG Rapture GT-AXE11000 reference router.\n\n",
+            "The satellite SOS system available in China is not on board in the global version. Our test device supports dual SIM (physical and eSIM), but according to the data sheet, there is also a single-SIM model. The voice sounds natural through the main and the earpiece speaker.\n\n",
+            "The fingerprint sensor is integrated into the side of the on/off button, a fact that is likely to annoy many users of a premium phone. In everyday use, this works very satisfactorily. The large 6.8-inch screen, with a sampling rate of 300 Hz, is also very easy to use. The linear vibration motor provides crisp feedback.\n\n",
+            "The Pura 80 Pro is not based on HarmonyOS, but on EMUI 15, which is based on the open source part of Android 12. Pre-installed Google services and the Play Store are missing, leaving users initially reliant on the AppGallery. However, the Aurora Store, including the Google Play Store library, can also be used. The installation is quite simple and is described in this\n\n",
+            "Huawei does not officially announce the software update rollout period. However, the manufacturer has confirmed to us in the past that devices are guaranteed to receive updates for 5 years from the end of the product cycle - i.e., in line with EU requirements.\n\n",
+            "Sustainability does not play a major role in the Pura 80 Pro; at least, we are not aware of any official information on the materials used. The Huawei phone is listed in the EPREL database with repair class C.\n\n",
+            "When it comes to the main camera, the Pura 80 Pro plays in the top league with its 50 MP sensor in 1-inch format. The lens with optical image stabilization and a variable aperture from f/1.6 to f/4.0 delivers outstanding sharpness and strong dynamics - both during the day and at night. However, the significant drop in the quality of the ultra-wide-angle and telephoto lenses on a flagship phone must also be mentioned at this point.\n\n",
+            "Thanks to the built-in spectral channel sensor, color accuracy should be particularly high, which works well for the most part in everyday use. However, a visible red cast occasionally creeps into the Pura 80 Pro's photos.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "Huawei has installed a 6.8-inch LTPO display with a 1,276p resolution and a variable maximum frame rate of 120 Hz in its premium phone. The brightness is reported to be 3,000 nits, though we measured 3,384 cd/m² with the APL18 pattern, which is more relevant in everyday use. When playing an HDR video, we even achieved 3,864 cd/m².\n\n",
+            "The Pura 80 Pro uses pulse width modulation to control the screen brightness. According to the manufacturer, high-frequency PWM dimming at 1,440 Hz is available, which minimizes flicker-related effects. We measure a frequency very similar to that with the Rigol software.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 360 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 360 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7895 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 2 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "and delivers good system performance, but the CPU unit is inferior to the\n\n",
+            "The overall picture continues with the battery runtimes. The Huawei phone, with its SoC manufactured using the 7 nm process, only achieved 12 hours in our Wi-Fi test. The 5,170 mAh battery can be charged very quickly via USB-C with up to 100 watts in just over half an hour. Fortunately, the matching quick charger is included. Wireless charging is also supported.\n\n",
+            "Power Supply (max.) 26.6 °C = 80 F | Room Temperature 21.2 °C = 70 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "Power Supply (max.) 24.2 °C = 76 F | Room Temperature 22 °C = 72 F | Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 41.3 °C / 106 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 42.7 °C / 109 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 43.4 °C / 110 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 26.9 °C / 80 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Maleoon 920, Kirin 9020, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+            "Adreno 840, SD 8 Elite Gen 5, 1TB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Maleoon 920, Kirin 9020, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 840, SD 8 Elite Gen 5, 1TB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 840, SD 8 Elite Gen 5, 1TB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.6.5:\n\n",
+            "Maleoon 920, Kirin 9020, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "3% of all tested devices in this class were better, 3% similar, 94% worse\n\n",
+            "0% of all tested devices in this class were better, 0% similar, 100% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "HiSilicon Kirin 9020 8c/12t 1.6 GHz, HiSilicon Main, Mid",
+            "Graphics adapter:": "HiSilicon Maleoon 920",
+            "Memory:": "12 GB",
+            "Display:": "6.80 inch 20:9, 2848 x 1276 pixel 459 PPI, Capacitive Touchscreen, OLED , LTPO, Crystal Armour Kunlun Glas , glossy: yes, HDR, 120 Hz",
+            "Storage:": "512 GB UFS 4.0 Flash, 512 GB , 454 GB free",
+            "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, barometer, OTG, IR-Blaster",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 5.2, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B6/​B7/​B8/​B9/​B12/​B13/​B17/​B18/​B19/​B20/​B25/​B26/​B28/​B32/​B34/​B38/​B39/​B40/​B41/​B42/​B66), Dual SIM, LTE, GPS",
+            "Size:": "height x width x depth (in mm): 8.3 x 163 x 76.1 ( = 0.33 x 6.42 x 3 in)",
+            "Battery:": "5170 mAh Lithium-Polymer",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 12",
+            "Camera:": "Primary Camera: 50 MPix (f/1.6-4.0, 23 mm, OIS) + 48 MPix (4x optical, f/2.1, OIS; 93 mm, tele) + 40 MPix (f/2.2, 13 mm, wide), camera2API: limited Secondary Camera: 13 MPix (f/2.0)",
+            "Additional features:": "Speakers: Stereo, Keyboard: OnScreen, USB able, case, info material, charger, EMUI 15, 24 Months Warranty, GPS (L1/​L5), GLONASS, BeiDou (B1I/​B1C/​B2a/​B2b), Galileo (E1/​E5a/​E5b), QZSS (L1/​L5), NavIC, SAR-Wert 0.93 W/​kg head, 1.27 W/​kg body; BT: SBC, AAC, LDAC, L2HC, 80 W wireless charging, fanless, waterproof",
+            "Weight:": "219 g ( = 7.73 oz / 0.48 pounds), Power Supply: 138 g ( = 4.87 oz / 0.3 pounds)",
+            "Price:": "1098 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "94%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "95%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "55%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "83%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "14%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "70%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "90.3%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "40%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "83.3%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "55.6%"
+            }
+        ]
+    }
+}

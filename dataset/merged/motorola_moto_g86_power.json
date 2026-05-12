@@ -1,0 +1,366 @@
+{
+    "phone_key": "motorola_moto_g86_power",
+    "primary_name": "Motorola Moto G86 Power",
+    "aliases": [
+        "Motorola Moto G86 Power"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Motorola Moto G86 Power",
+                "article_url": "https://www.notebookcheck.net/Motorola-Moto-G86-Power-review-bright-OLED-display-and-massive-battery-for-long-runtimes.1132774.0.html",
+                "verdict": {
+                    "text": "The Moto G86 Power is a solid mid-range smartphone that delivers exceptionally long runtimes. Buyers should expect to pay around €80 more compared with the standard Moto G86, but in return, battery life increases by roughly 30 percent. Weight and dimensions remain very reasonable, and there are no real compromises when it comes to features. The display continues to impress with its brightness for this price range, and the high PWM frequency may even offer some relief for users sensitive to flicker. The camera produces decent photos, and the chassis remains attractively designed and robust. You shouldn't expect top-tier performance from the WLAN module or processor, but both are sufficient for everyday use. Motorola has also promised security updates, although these do not appear to arrive very frequently.",
+                    "pros": [
+                        "massive battery with long runtimes",
+                        "bright OLED display with 120 Hz refresh rate",
+                        "solid camera system",
+                        "microSD card reader",
+                        "sturdy and attractive chassis",
+                        "IP68/IP69 protection",
+                        "eSIM support"
+                    ],
+                    "cons": [
+                        "WiFi 6 only in 1x1-MIMO configuration",
+                        "noticeable heat under load",
+                        "PWM flickering present",
+                        "update frequency uncertain"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "with its smaller battery, with the main differences found in dimensions and weight. The Power model is about 13 grams heavier and 0.8 millimetres thicker, though this is hardly noticeable in everyday use.\n\n",
+                        "The colour options remain the same: red, dark grey, light purple, and light green. All finishes are taken from the Pantone palette and come with correspondingly vivid names. The Moto G86 Power, however, does not include Motorola's signature fragrance.\n\n",
+                        "The phone is IP68/IP69 certified, offering protection against dust and even brief immersion in water. The case proves sturdy in everyday use.\n\n",
+                        "The Moto G86 Power is also available with 512 GB of internal storage, currently at a surcharge of around €30. However, we tested the model with 256 GB of storage and 8 GB of RAM, which represents a fitting configuration for this price range.\n\n",
+                        "A nano-SIM can be inserted, and eSIM support allows for dual-SIM operation.\n\n",
+                        "A microSD slot is also included. The reader showed good transfer speeds with the Angelbird V60 reference card, making it a dependable option for data storage.\n\n",
+                        "Motorola bases its operating system on Android 15 and makes only minor adjustments. All key manufacturer functions can be accessed through the Moto app, which also allows for convenient updates.\n\n",
+                        "The company promises software support until 2029. However, the most recent security patches on our device date from May 2025, making them somewhat outdated at the time of testing. It therefore remains uncertain how regularly Motorola will deliver future security updates.\n\n",
+                        "The smartphone's packaging is free of plastic, and the manufacturer uses a certain proportion of recycled materials in the device itself, around 14 percent according to Motorola.\n\n",
+                        "According to the European energy certificate, the battery should be relatively easy to replace. Guides and spare parts are available on\n\n",
+                        ", although the Moto G86 Power was not yet listed there at the time of testing.\n\n",
+                        "5G is fully supported for mobile connectivity, and in our spot checks the smartphone achieved decent signal quality.\n\n",
+                        "Outdoors, the Moto G86 Power quickly fixes its position to within about three metres. During our cycling test, location accuracy was occasionally a little off, but the smartphone is still accurate enough for everyday navigation.\n\n",
+                        "When making calls via the earpiece, the voice of the person on the other end sounds slightly thin but is still easy to understand. The microphone captures our own voice clearly.\n\n",
+                        "In hands-free mode, call quality improves noticeably: the other party's voice sounds richer, and our own remains clear and easy to understand.\n\n",
+                        "There are no differences in the camera system compared with the Moto G86. The main camera still uses a 50-megapixel lens, which produces generally good photos with decent colours and acceptable sharpness.\n\n",
+                        "In low light, many details remain visible, although definition in darker areas is rather limited.\n\n",
+                        "The ultra-wide-angle camera delivers usable shots, though fine details are not rendered particularly well.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "Motorola ships the Moto G86 Power with a hard plastic case, a USB cable, and a SIM tool, but no power adapter is provided in Europe.\n\n",
+                        "Motorola relies on Google's stock keyboard app, which covers all essential functions with a clean layout and reliable performance.\n\n",
+                        "The touchscreen feels quick and fluid in use, as expected from a panel with a refresh rate of up to 120 Hz.\n\n",
+                        "A fingerprint sensor sits beneath the display, recognising stored fingerprints with impressive speed and accuracy.\n\n",
+                        "Facial recognition via the front camera is also available and works dependably in everyday use.\n\n",
+                        "Not much has changed in the display compared with the Moto G86, and that is a good thing. Motorola already delivered one of the brightest screens in the mid-range class, and the Moto G86 Power carries that strength forward.\n\n",
+                        "In our measurements, the panel reached up to 3,865 cd/m² in HDR content on smaller areas, while typical maximum brightness in everyday use was around 1,429 cd/m².\n\n",
+                        "Colour accuracy remains excellent, with barely perceptible deviations from reference values.\n\n",
+                        "At lower brightness levels, the P-OLED panel exhibits PWM flickering at a very high frequency, which may be less noticeable even for sensitive users. Because perception of flicker differs from person to person, it is still advisable to test the display in person before making a purchase.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 930 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 930 Hz is quite high, so most users sensitive to PWM should not notice any flickering.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 17 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 12 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "The display remains easy to read outdoors, with only mild reflections under bright light.\n\n",
+                        "In everyday use, the Motorola Moto G86 Power runs reasonably smoothly, but it struggles with more demanding applications.\n\n",
+                        "Web browsing feels quick and responsive, with even complex websites loading in good time.\n\n",
+                        "The UFS 2.2 storage performs well, helping to speed up loading times and data transfers.\n\n",
+                        "However, this does not appear to affect the SoC's performance. The Moto G86 Power continues to deliver similar results even after extended stress, as shown in the 3DMark stress test.\n\n",
+                        "Power Supply (max.) 45.2 °C = 113 F | Room Temperature 20.2 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 40.3 °C = 105 F | Room Temperature 20.3 °C = 69 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 45.7 °C / 114 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 48.6 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 46.4 °C / 116 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 27.4 °C / 81 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "The small speaker is supported by the earpiece, allowing for light stereo effects when the phone is used in landscape mode.\n\n",
+                        "Maximum volume is respectable, and the sound is clear and relatively full. However, these are still the speakers of an affordable smartphone, so users should not expect deep bass or powerful low frequencies.\n\n",
+                        "External audio devices can be connected via the USB-C port or Bluetooth. Sound output is clean and of good quality, and all common codecs are supported for wireless audio transmission.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "29% of all tested devices in this class were better, 8% similar, 63% worse\n\n",
+                        "24% of all tested devices in this class were better, 9% similar, 67% worse\n\n",
+                        "Overall, the Moto G86 Power's energy consumption is average, although in idle mode it can be slightly higher than that of some competitors.\n\n",
+                        "The smartphone supports charging at up to 30 watts, and it worked seamlessly with all chargers tested. A full charge of the large battery takes roughly three hours.\n\n",
+                        "The Moto G86 Power's massive 6,720 mAh battery stands out as one of its key strengths.\n\n",
+                        "In our Wi-Fi test, the phone lasted an impressive 27 hours, making two full days of use on a single charge entirely realistic.\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "MediaTek Dimensity 7300 8c/8t, 4 x 2.6 GHz ARM Cortex-A78, 4 x 2.0 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                        "Graphics adapter:": "ARM Mali-G615 MP2",
+                        "Memory:": "8 GB",
+                        "Display:": "6.67 inch 20:9, 2712 x 1220 pixel 446 PPI, capacitive touchscreen, OLED, Gorilla Glass 7i, glossy: yes, 120 Hz",
+                        "Storage:": "256 GB UFS 2.2 Flash, 256 GB , 200 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Card Reader: microSD, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass",
+                        "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B5/​B8), 4G (B1/​B2/​B3/​B5/​B7/​B8/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42), 5G (n1/​n3/​n5/​n7/​n8/​n20/​n26/​n28/​n38/​n40/​n41/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.7 x 161.2 x 74.7 ( = 0.34 x 6.35 x 2.94 in)",
+                        "Battery:": "6720 mAh Lithium-Ion, 30 Watt charging",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 50 MPix f/​1.88, phase detection-AF, OIS, LED flash, Videos @2160p/​30 fps (Camera 1); 8 MP, f/​2.2, wide-angle lens, macro lens (Camera 2) Secondary Camera: 32 MPix f/​2.2, Videos @2160p/​30 fps",
+                        "Additional features:": "Speakers: stereo speakers (hybrid), bumper, USB cable, SIM tool, 24 Months Warranty, IP68/​IP69-certified, MIL-STD-810H-certified; SAR: 0.89W/​kg Head, 1.32W/​kg Body, fanless, waterproof",
+                        "Weight:": "198 g ( = 6.98 oz / 0.44 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "330 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "83%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "62%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "95%"
+                        },
+                        {
+                            "Attributes": "Display",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "24%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "75%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "58%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "82%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "84%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "66%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "35%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "35%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "80%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "95.6%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "60%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "53.4%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "massive battery with long runtimes",
+            "bright OLED display with 120 Hz refresh rate",
+            "solid camera system",
+            "microSD card reader",
+            "sturdy and attractive chassis",
+            "IP68/IP69 protection",
+            "eSIM support"
+        ],
+        "cons": [
+            "WiFi 6 only in 1x1-MIMO configuration",
+            "noticeable heat under load",
+            "PWM flickering present",
+            "update frequency uncertain"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "MediaTek Dimensity 7300 8c/8t, 4 x 2.6 GHz ARM Cortex-A78, 4 x 2.0 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                "Graphics adapter:": "ARM Mali-G615 MP2",
+                "Memory:": "8 GB",
+                "Display:": "6.67 inch 20:9, 2712 x 1220 pixel 446 PPI, capacitive touchscreen, OLED, Gorilla Glass 7i, glossy: yes, 120 Hz",
+                "Storage:": "256 GB UFS 2.2 Flash, 256 GB , 200 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Card Reader: microSD, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass",
+                "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B5/​B8), 4G (B1/​B2/​B3/​B5/​B7/​B8/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42), 5G (n1/​n3/​n5/​n7/​n8/​n20/​n26/​n28/​n38/​n40/​n41/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.7 x 161.2 x 74.7 ( = 0.34 x 6.35 x 2.94 in)",
+                "Battery:": "6720 mAh Lithium-Ion, 30 Watt charging",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 50 MPix f/​1.88, phase detection-AF, OIS, LED flash, Videos @2160p/​30 fps (Camera 1); 8 MP, f/​2.2, wide-angle lens, macro lens (Camera 2) Secondary Camera: 32 MPix f/​2.2, Videos @2160p/​30 fps",
+                "Additional features:": "Speakers: stereo speakers (hybrid), bumper, USB cable, SIM tool, 24 Months Warranty, IP68/​IP69-certified, MIL-STD-810H-certified; SAR: 0.89W/​kg Head, 1.32W/​kg Body, fanless, waterproof",
+                "Weight:": "198 g ( = 6.98 oz / 0.44 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "330 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "83%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "62%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "95%"
+                },
+                {
+                    "Attributes": "Display",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "24%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "75%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "58%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "82%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "84%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "66%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "35%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "35%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "80%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "95.6%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "60%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "53.4%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Motorola-Moto-G86-Power-review-bright-OLED-display-and-massive-battery-for-long-runtimes.1132774.0.html",
+                "text": "The Moto G86 Power is a solid mid-range smartphone that delivers exceptionally long runtimes. Buyers should expect to pay around €80 more compared with the standard Moto G86, but in return, battery life increases by roughly 30 percent. Weight and dimensions remain very reasonable, and there are no real compromises when it comes to features. The display continues to impress with its brightness for this price range, and the high PWM frequency may even offer some relief for users sensitive to flicker. The camera produces decent photos, and the chassis remains attractively designed and robust. You shouldn't expect top-tier performance from the WLAN module or processor, but both are sufficient for everyday use. Motorola has also promised security updates, although these do not appear to arrive very frequently.\nmassive battery with long runtimes\nbright OLED display with 120 Hz refresh rate\nsolid camera system\nmicroSD card reader\nsturdy and attractive chassis\nIP68/IP69 protection\neSIM support\nWiFi 6 only in 1x1-MIMO configuration\nnoticeable heat under load\nPWM flickering present\nupdate frequency uncertain\nwith its smaller battery, with the main differences found in dimensions and weight. The Power model is about 13 grams heavier and 0.8 millimetres thicker, though this is hardly noticeable in everyday use.\nThe colour options remain the same: red, dark grey, light purple, and light green. All finishes are taken from the Pantone palette and come with correspondingly vivid names. The Moto G86 Power, however, does not include Motorola's signature fragrance.\nThe phone is IP68/IP69 certified, offering protection against dust and even brief immersion in water. The case proves sturdy in everyday use.\nThe Moto G86 Power is also available with 512 GB of internal storage, currently at a surcharge of around €30. However, we tested the model with 256 GB of storage and 8 GB of RAM, which represents a fitting configuration for this price range.\nA nano-SIM can be inserted, and eSIM support allows for dual-SIM operation.\nA microSD slot is also included. The reader showed good transfer speeds with the Angelbird V60 reference card, making it a dependable option for data storage.\nMotorola bases its operating system on Android 15 and makes only minor adjustments. All key manufacturer functions can be accessed through the Moto app, which also allows for convenient updates.\nThe company promises software support until 2029. However, the most recent security patches on our device date from May 2025, making them somewhat outdated at the time of testing. It therefore remains uncertain how regularly Motorola will deliver future security updates.\nThe smartphone's packaging is free of plastic, and the manufacturer uses a certain proportion of recycled materials in the device itself, around 14 percent according to Motorola.\nAccording to the European energy certificate, the battery should be relatively easy to replace. Guides and spare parts are available on\n, although the Moto G86 Power was not yet listed there at the time of testing.\n5G is fully supported for mobile connectivity, and in our spot checks the smartphone achieved decent signal quality.\nOutdoors, the Moto G86 Power quickly fixes its position to within about three metres. During our cycling test, location accuracy was occasionally a little off, but the smartphone is still accurate enough for everyday navigation.\nWhen making calls via the earpiece, the voice of the person on the other end sounds slightly thin but is still easy to understand. The microphone captures our own voice clearly.\nIn hands-free mode, call quality improves noticeably: the other party's voice sounds richer, and our own remains clear and easy to understand.\nThere are no differences in the camera system compared with the Moto G86. The main camera still uses a 50-megapixel lens, which produces generally good photos with decent colours and acceptable sharpness.\nIn low light, many details remain visible, although definition in darker areas is rather limited.\nThe ultra-wide-angle camera delivers usable shots, though fine details are not rendered particularly well.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nMotorola ships the Moto G86 Power with a hard plastic case, a USB cable, and a SIM tool, but no power adapter is provided in Europe.\nMotorola relies on Google's stock keyboard app, which covers all essential functions with a clean layout and reliable performance.\nThe touchscreen feels quick and fluid in use, as expected from a panel with a refresh rate of up to 120 Hz.\nA fingerprint sensor sits beneath the display, recognising stored fingerprints with impressive speed and accuracy.\nFacial recognition via the front camera is also available and works dependably in everyday use.\nNot much has changed in the display compared with the Moto G86, and that is a good thing. Motorola already delivered one of the brightest screens in the mid-range class, and the Moto G86 Power carries that strength forward.\nIn our measurements, the panel reached up to 3,865 cd/m² in HDR content on smaller areas, while typical maximum brightness in everyday use was around 1,429 cd/m².\nColour accuracy remains excellent, with barely perceptible deviations from reference values.\nAt lower brightness levels, the P-OLED panel exhibits PWM flickering at a very high frequency, which may be less noticeable even for sensitive users. Because perception of flicker differs from person to person, it is still advisable to test the display in person before making a purchase.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 930 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 930 Hz is quite high, so most users sensitive to PWM should not notice any flickering.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 17 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 12 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nThe display remains easy to read outdoors, with only mild reflections under bright light.\nIn everyday use, the Motorola Moto G86 Power runs reasonably smoothly, but it struggles with more demanding applications.\nWeb browsing feels quick and responsive, with even complex websites loading in good time.\nThe UFS 2.2 storage performs well, helping to speed up loading times and data transfers.\nHowever, this does not appear to affect the SoC's performance. The Moto G86 Power continues to deliver similar results even after extended stress, as shown in the 3DMark stress test.\nPower Supply (max.) 45.2 °C = 113 F | Room Temperature 20.2 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 40.3 °C = 105 F | Room Temperature 20.3 °C = 69 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 45.7 °C / 114 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 48.6 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 46.4 °C / 116 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 27.4 °C / 81 F, compared to the device average of 32.9 °C / 91 F.\nThe small speaker is supported by the earpiece, allowing for light stereo effects when the phone is used in landscape mode.\nMaximum volume is respectable, and the sound is clear and relatively full. However, these are still the speakers of an affordable smartphone, so users should not expect deep bass or powerful low frequencies.\nExternal audio devices can be connected via the USB-C port or Bluetooth. Sound output is clean and of good quality, and all common codecs are supported for wireless audio transmission.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n29% of all tested devices in this class were better, 8% similar, 63% worse\n24% of all tested devices in this class were better, 9% similar, 67% worse\nOverall, the Moto G86 Power's energy consumption is average, although in idle mode it can be slightly higher than that of some competitors.\nThe smartphone supports charging at up to 30 watts, and it worked seamlessly with all chargers tested. A full charge of the large battery takes roughly three hours.\nThe Moto G86 Power's massive 6,720 mAh battery stands out as one of its key strengths.\nIn our Wi-Fi test, the phone lasted an impressive 27 hours, making two full days of use on a single charge entirely realistic."
+            }
+        ]
+    }
+}

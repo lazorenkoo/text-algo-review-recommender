@@ -1,0 +1,327 @@
+{
+    "phone_key": "vivo_iqoo_15_ultra",
+    "primary_name": "Vivo iQOO 15 Ultra",
+    "aliases": [
+        "Vivo iQOO 15 Ultra"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Vivo iQOO 15 Ultra",
+                "article_url": "https://www.notebookcheck.net/A-unique-feature-no-smartphone-needs-Vivo-iQOO-15-Ultra-review.1266624.0.html",
+                "verdict": {
+                    "text": "The iQOO 15 Ultra raises a fundamental question for smartphones: does a phone really need an integrated fan, as seen in laptops? The results suggest otherwise. At least for now, we do not see any real added value in Vivo's approach. The Snapdragon 8 Elite Gen 5, which the fan is supposed to keep under control, still throttles noticeably even in the Ultra model. There is also currently a lack of meaningful usage scenarios. However, our review also revealed plenty of highlights beyond this standout feature. The XXL battery keeps the gaming phone running for ages and can be recharged quickly. The speaker system is excellent, while the look and feel are highly convincing thanks to the premium chassis, ultrasonic fingerprint sensor and superb vibration motor. For a gaming phone, the cameras, or rather the manufacturer's camera algorithms, are surprisingly good. In terms of photo quality, the iQOO 15 Ultra makes the iPhone 17 look like an inexpensive mid-range handset.",
+                    "pros": [
+                        "premium chassis with IP69 rating",
+                        "gaming features such as shoulder buttons and LED strip",
+                        "ultrasonic fingerprint sensor",
+                        "bright 1440p OLED panel",
+                        "long battery life",
+                        "good cameras",
+                        "fast SoC"
+                    ],
+                    "cons": [
+                        "throttling despite the fan",
+                        "fairly heavy",
+                        "only available as an import",
+                        "update policy unclear"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Connectivity and features: Vivo phone with Wi-Fi 7 and ultrasonic fingerprint sensor\n\n",
+                        "Performance, emissions and battery life: Vivo phone relies on Qualcomm's high-end SoC\n\n",
+                        "The design of the Ultra model is very similar to that of the iQOO 15, but the flagship phone in the\n\n",
+                        "now features a striking honeycomb pattern on the rear, available in either white or black. The square camera module also comes with a coloured LED strip that can signal incoming notifications. That said, we liked the\n\n",
+                        "This trade-off is due to the integrated fan in the iQOO 15 Ultra. The gaming phone's active cooling also has a negative impact on its weight, as the chassis is fairly heavy at 227 grams.\n\n",
+                        "There are no trade-offs when it comes to water resistance. Despite the fan, the Vivo phone is certified to IP69. The Ultra model is also thoroughly convincing in terms of build quality.\n\n",
+                        "In addition to the in-house Q3 gaming chip, the iQOO 15 Ultra features LPDDR5X Ultra Pro, which offers higher data transfer rates than standard LPDDR5X RAM. Its gaming focus is also evident in the two touch-sensitive shoulder buttons, which can be used as gaming controls.\n\n",
+                        "Also on board are an NFC chip, USB OTG, an infrared port and a fast USB Type-C 3.2 port.\n\n",
+                        "The iQOO 15 Ultra offers Bluetooth 5.4 and Wi-Fi 7, although access to the fast 6 GHz frequency band is limited on our Chinese review unit. The Vivo phone was unable to connect to the 6 GHz channel with every router we tested, and data throughput was comparatively low.\n\n",
+                        "In addition to dual SIM support, the Vivo phone covers important LTE bands such as Band 20 and 28, as well as a wide range of 5G bands.\n\n",
+                        "The excellent ultrasonic fingerprint sensor and superb vibration motor are anything but a given for a gaming phone.\n\n",
+                        "Despite being the Chinese version, the iQOO 15 Ultra supports multiple interface languages, including English. OriginOS 6 is based on Android 16 and can be used without issue with both the Google Play Store and Android Auto. However, neither is available out of the box and must be installed or activated by the user. Chinese apps can be uninstalled, but certain software restrictions, such as the lack of eSIM support, Wear OS watch compatibility and China-specific AI features, cannot be resolved.\n\n",
+                        "A five-year update period has been suggested, but we were unable to verify any official details.\n\n",
+                        "There is also room for improvement when it comes to transparency, as there are no concrete details on the proportion of recycled materials used. The packaging, however, appears to be free of plastic.\n\n",
+                        "The iQOO 15 Ultra makes fewer trade-offs in terms of camera hardware than other gaming flagships such as the\n\n",
+                        ". In addition to a 50 MP ultra-wide-angle camera, Vivo has also equipped it with an appealing 50 MP telephoto lens featuring 3x optical zoom and OIS.\n\n",
+                        "The 50 MP main camera, based on a 1/1.56-inch sensor and supported by optical image stabilisation, delivers sharp, high-contrast photos. Its very good dynamic range is also anything but a given for a gaming-focused smartphone. A look at the iQOO 15 Ultra's low-light photos compared with those of the\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The 6.85-inch LTPO AMOLED panel operates at 144 Hz and, thanks to its high 1440p resolution, achieves a pixel density of more than 500 ppi. According to the manufacturer, the display can reach a peak brightness of 2,600 nits, although it fell slightly short of that in our APL18 measurement. Vivo also quotes an impressive 8,000 nits for HDR brightness.\n\n",
+                        "The iQOO 15 Ultra uses DC dimming at high brightness levels and PWM dimming at low brightness levels at 2,160 Hz in order to reduce the negative effects of OLED flickering. However, we measured a base frequency of just 120 Hz, meaning health issues caused by pulse-width modulation cannot be ruled out.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 1 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 1 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        ", which can be cooled when needed by a 17 x 17 mm fan. This is intended to allow the flagship SoC to deliver its full potential even under sustained load. In everyday use, however, this works less well than expected.\n\n",
+                        "In the 3DMark stress tests, the Ultra model does not deliver meaningfully better stability than its\n\n",
+                        ", although it is able to draw on more performance. The average rear surface temperature we measured under load, at more than 47 °C, is also significantly higher than that of the\n\n",
+                        "at 44.4 °C, despite the latter not featuring a fan. Active cooling in Vivo's smartphone is therefore not a game changer.\n\n",
+                        "Aside from that, the iQOO 15 Ultra posts strong benchmark results, and it performs particularly well in GPU tests. In some cases, the\n\n",
+                        "The gaming phone packs a massive 7,400 mAh battery, which can be charged either via USB-C at up to 100 watts or wirelessly at 40 watts. In our Wi-Fi test, the iQOO 15 Ultra lasted for more than 28 hours, despite its 144 Hz display and 1440p resolution.\n\n",
+                        "Power Supply (max.) 43.2 °C = 110 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 39.6 °C = 103 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 46.5 °C / 116 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 48.5 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 52 °C / 126 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.3 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 1 TB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "3% of all tested devices in this class were better, 3% similar, 95% worse\n\n",
+                        "14% of all tested devices in this class were better, 8% similar, 78% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                        "Graphics adapter:": "Qualcomm Adreno 840",
+                        "Memory:": "16 GB",
+                        "Display:": "6.85 inch 19.8:9, 3168 x 1440 pixel 508 PPI, capacitive Touchscreen, OLED, HDR, 144 Hz",
+                        "Storage:": "1 TB UFS 4.1 Flash, 1024 GB , 928 GB free",
+                        "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, Miracast",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 5.4, GSM：850/900/1800/1900MHz; 3G：B1/B2/B4/B5/B6/B8/B19; 4G TD-LTE：B34/B38/B39/B40/B41/B42/B43/B48; FDD-LTE：B1/B2/B3/B4/B5/B7/B8/B12/B17/B18/B19/B20/B25/B26/B28A/B28B/B32/B66; 5G: n1/n2/n3/n5/n7/n8/n12/n18/n20/n25/n26/n28A/n28B/n38/n40/n41/n48/n66/n75/n77/n78/n79/n80/n81/n83/n84/n89/n91/n92/n93/n94, Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.7 x 163.7 x 76.8 ( = 0.34 x 6.44 x 3.02 in)",
+                        "Battery:": "7400 mAh Silicon-Carbon",
+                        "Charging:": "wireless charging, fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 50 MPix (f/1.9, 23 mm, 1/1.56\", PDAF, OIS) + 50 MPix (f/2.7, 85 mm, tele, PDAF, OIS, 3x optical zoom, 1/1.95\") + 50 MPix (f/2.1, 15 mm, ultrawide, 1/2.76\") Secondary Camera: 32 MPix (f/2.2, 21 mm)",
+                        "Additional features:": "Speakers: Stereo, charger, case, USB cable, OriginOS, 12 Months Warranty, HDR: Dolby Vision, HDR10, HDR10+, HDR Vivid, HLG; GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), waterproof",
+                        "Released:": "02/04/2026",
+                        "Weight:": "227 g ( = 8.01 oz / 0.5 pounds), Power Supply: 110 g ( = 3.88 oz / 0.24 pounds)",
+                        "Price:": "800 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "94%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "95%"
+                        },
+                        {
+                            "Attributes": "Display",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "44%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "85%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "30%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "30%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "31%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "80%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "53.7%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "premium chassis with IP69 rating",
+            "gaming features such as shoulder buttons and LED strip",
+            "ultrasonic fingerprint sensor",
+            "bright 1440p OLED panel",
+            "long battery life",
+            "good cameras",
+            "fast SoC"
+        ],
+        "cons": [
+            "throttling despite the fan",
+            "fairly heavy",
+            "only available as an import",
+            "update policy unclear"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                "Graphics adapter:": "Qualcomm Adreno 840",
+                "Memory:": "16 GB",
+                "Display:": "6.85 inch 19.8:9, 3168 x 1440 pixel 508 PPI, capacitive Touchscreen, OLED, HDR, 144 Hz",
+                "Storage:": "1 TB UFS 4.1 Flash, 1024 GB , 928 GB free",
+                "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, Miracast",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 5.4, GSM：850/900/1800/1900MHz; 3G：B1/B2/B4/B5/B6/B8/B19; 4G TD-LTE：B34/B38/B39/B40/B41/B42/B43/B48; FDD-LTE：B1/B2/B3/B4/B5/B7/B8/B12/B17/B18/B19/B20/B25/B26/B28A/B28B/B32/B66; 5G: n1/n2/n3/n5/n7/n8/n12/n18/n20/n25/n26/n28A/n28B/n38/n40/n41/n48/n66/n75/n77/n78/n79/n80/n81/n83/n84/n89/n91/n92/n93/n94, Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.7 x 163.7 x 76.8 ( = 0.34 x 6.44 x 3.02 in)",
+                "Battery:": "7400 mAh Silicon-Carbon",
+                "Charging:": "wireless charging, fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 50 MPix (f/1.9, 23 mm, 1/1.56\", PDAF, OIS) + 50 MPix (f/2.7, 85 mm, tele, PDAF, OIS, 3x optical zoom, 1/1.95\") + 50 MPix (f/2.1, 15 mm, ultrawide, 1/2.76\") Secondary Camera: 32 MPix (f/2.2, 21 mm)",
+                "Additional features:": "Speakers: Stereo, charger, case, USB cable, OriginOS, 12 Months Warranty, HDR: Dolby Vision, HDR10, HDR10+, HDR Vivid, HLG; GPS (L1+L5), GLONASS (G1), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), waterproof",
+                "Released:": "02/04/2026",
+                "Weight:": "227 g ( = 8.01 oz / 0.5 pounds), Power Supply: 110 g ( = 3.88 oz / 0.24 pounds)",
+                "Price:": "800 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "94%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "95%"
+                },
+                {
+                    "Attributes": "Display",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "44%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "85%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "30%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "30%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "31%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "80%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "53.7%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/A-unique-feature-no-smartphone-needs-Vivo-iQOO-15-Ultra-review.1266624.0.html",
+                "text": "The iQOO 15 Ultra raises a fundamental question for smartphones: does a phone really need an integrated fan, as seen in laptops? The results suggest otherwise. At least for now, we do not see any real added value in Vivo's approach. The Snapdragon 8 Elite Gen 5, which the fan is supposed to keep under control, still throttles noticeably even in the Ultra model. There is also currently a lack of meaningful usage scenarios. However, our review also revealed plenty of highlights beyond this standout feature. The XXL battery keeps the gaming phone running for ages and can be recharged quickly. The speaker system is excellent, while the look and feel are highly convincing thanks to the premium chassis, ultrasonic fingerprint sensor and superb vibration motor. For a gaming phone, the cameras, or rather the manufacturer's camera algorithms, are surprisingly good. In terms of photo quality, the iQOO 15 Ultra makes the iPhone 17 look like an inexpensive mid-range handset.\npremium chassis with IP69 rating\ngaming features such as shoulder buttons and LED strip\nultrasonic fingerprint sensor\nbright 1440p OLED panel\nlong battery life\ngood cameras\nfast SoC\nthrottling despite the fan\nfairly heavy\nonly available as an import\nupdate policy unclear\nConnectivity and features: Vivo phone with Wi-Fi 7 and ultrasonic fingerprint sensor\nPerformance, emissions and battery life: Vivo phone relies on Qualcomm's high-end SoC\nThe design of the Ultra model is very similar to that of the iQOO 15, but the flagship phone in the\nnow features a striking honeycomb pattern on the rear, available in either white or black. The square camera module also comes with a coloured LED strip that can signal incoming notifications. That said, we liked the\nThis trade-off is due to the integrated fan in the iQOO 15 Ultra. The gaming phone's active cooling also has a negative impact on its weight, as the chassis is fairly heavy at 227 grams.\nThere are no trade-offs when it comes to water resistance. Despite the fan, the Vivo phone is certified to IP69. The Ultra model is also thoroughly convincing in terms of build quality.\nIn addition to the in-house Q3 gaming chip, the iQOO 15 Ultra features LPDDR5X Ultra Pro, which offers higher data transfer rates than standard LPDDR5X RAM. Its gaming focus is also evident in the two touch-sensitive shoulder buttons, which can be used as gaming controls.\nAlso on board are an NFC chip, USB OTG, an infrared port and a fast USB Type-C 3.2 port.\nThe iQOO 15 Ultra offers Bluetooth 5.4 and Wi-Fi 7, although access to the fast 6 GHz frequency band is limited on our Chinese review unit. The Vivo phone was unable to connect to the 6 GHz channel with every router we tested, and data throughput was comparatively low.\nIn addition to dual SIM support, the Vivo phone covers important LTE bands such as Band 20 and 28, as well as a wide range of 5G bands.\nThe excellent ultrasonic fingerprint sensor and superb vibration motor are anything but a given for a gaming phone.\nDespite being the Chinese version, the iQOO 15 Ultra supports multiple interface languages, including English. OriginOS 6 is based on Android 16 and can be used without issue with both the Google Play Store and Android Auto. However, neither is available out of the box and must be installed or activated by the user. Chinese apps can be uninstalled, but certain software restrictions, such as the lack of eSIM support, Wear OS watch compatibility and China-specific AI features, cannot be resolved.\nA five-year update period has been suggested, but we were unable to verify any official details.\nThere is also room for improvement when it comes to transparency, as there are no concrete details on the proportion of recycled materials used. The packaging, however, appears to be free of plastic.\nThe iQOO 15 Ultra makes fewer trade-offs in terms of camera hardware than other gaming flagships such as the\n. In addition to a 50 MP ultra-wide-angle camera, Vivo has also equipped it with an appealing 50 MP telephoto lens featuring 3x optical zoom and OIS.\nThe 50 MP main camera, based on a 1/1.56-inch sensor and supported by optical image stabilisation, delivers sharp, high-contrast photos. Its very good dynamic range is also anything but a given for a gaming-focused smartphone. A look at the iQOO 15 Ultra's low-light photos compared with those of the\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe 6.85-inch LTPO AMOLED panel operates at 144 Hz and, thanks to its high 1440p resolution, achieves a pixel density of more than 500 ppi. According to the manufacturer, the display can reach a peak brightness of 2,600 nits, although it fell slightly short of that in our APL18 measurement. Vivo also quotes an impressive 8,000 nits for HDR brightness.\nThe iQOO 15 Ultra uses DC dimming at high brightness levels and PWM dimming at low brightness levels at 2,160 Hz in order to reduce the negative effects of OLED flickering. However, we measured a base frequency of just 120 Hz, meaning health issues caused by pulse-width modulation cannot be ruled out.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 1 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 1 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\n, which can be cooled when needed by a 17 x 17 mm fan. This is intended to allow the flagship SoC to deliver its full potential even under sustained load. In everyday use, however, this works less well than expected.\nIn the 3DMark stress tests, the Ultra model does not deliver meaningfully better stability than its\n, although it is able to draw on more performance. The average rear surface temperature we measured under load, at more than 47 °C, is also significantly higher than that of the\nat 44.4 °C, despite the latter not featuring a fan. Active cooling in Vivo's smartphone is therefore not a game changer.\nAside from that, the iQOO 15 Ultra posts strong benchmark results, and it performs particularly well in GPU tests. In some cases, the\nThe gaming phone packs a massive 7,400 mAh battery, which can be charged either via USB-C at up to 100 watts or wirelessly at 40 watts. In our Wi-Fi test, the iQOO 15 Ultra lasted for more than 28 hours, despite its 144 Hz display and 1440p resolution.\nPower Supply (max.) 43.2 °C = 110 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 39.6 °C = 103 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 46.5 °C / 116 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 48.5 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 52 °C / 126 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.3 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\nAdreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nAdreno 840, SD 8 Elite Gen 5, 1 TB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nAdreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n3% of all tested devices in this class were better, 3% similar, 95% worse\n14% of all tested devices in this class were better, 8% similar, 78% worse"
+            }
+        ]
+    }
+}

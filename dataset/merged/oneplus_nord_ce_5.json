@@ -1,0 +1,161 @@
+{
+    "phone_key": "oneplus_nord_ce_5",
+    "primary_name": "OnePlus Nord CE 5",
+    "aliases": [
+        "OnePlus Nord CE 5"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "OnePlus Nord CE 5",
+                "article_url": "https://www.notebookcheck.net/OnePlus-Nord-CE5-Smartphone-Review-Elegant-mid-range-phone-with-a-marble-look-and-powerful-WLAN.1140244.0.html",
+                "verdict": {
+                    "text": "Verdict: Makes a decent impression for the price The OnePlus Nord CE5 has a very high-quality appearance overall. Although the chassis is only made of plastic, it has a very solid finish. The screen is bright, and the MediaTek Dimensity 8350 processor is fast-enough for the price range. The Nord CE5's camera takes perfectly usable pictures, and shooting is flexible thanks to the additional wide-angle lens. It is a shame that the phone's battery capacity is limited in the EU, but this is currently the case with many devices. Nevertheless, the battery life is very good in everyday use. Fast charging and a decent speaker round off the good overall impression. OnePlus also promises four Android updates and six years of security patches. Overall, the OnePlus Nord CE5 is a very good offer in the mid-range smartphone segment. And if you like the marble effect on the back, you are also getting a very special phone.",
+                    "pros": [
+                        "high-quality workmanship",
+                        "powerful SoC",
+                        "bright 120 Hz AMOLED",
+                        "good image quality of the cameras",
+                        "fast charging",
+                        "fast WLAN with 2x2 MIMO",
+                        "good update promise"
+                    ],
+                    "cons": [
+                        "PWM flickering at low brightness",
+                        "strong heating under load",
+                        "no 6 GHz WLAN",
+                        "plastic frame instead of metal"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Build and Equipment: High-quality construction and a marble design on request\n\n",
+                        "Performance, Emissions and Battery life: Fast SoC and a capped battery capacity\n\n",
+                        "With the Nord CE5, OnePlus is launching a mid-range phone around the €300 mark.\n\n",
+                        "The phone's build has a restrained design but is an eye-catcher with a white back in a slightly iridescent marble look. Those who prefer an even simpler look can opt for the dark gray version that comes without such visual effects. The frame is made of plastic, the smartphone is very sturdy, cannot be twisted, and does not creak.\n\n",
+                        "The camera module stands out clearly on the casing, with a total thickness of around 1 cm at this point. At 199 g, the OnePlus Nord CE5 is slightly heavier than comparable phones. But with a diagonal length of 6.77 inches, it also offers one of the largest screens in its class.\n\n",
+                        "The Nord CE5 comes with 8 GB of RAM as standard, but there are international models with 12 GB of RAM. There is also a choice of 128 GB or 256 GB data storage. The official price difference between the two storage variants is €50.\n\n",
+                        "The OnePlus Nord CE5 comes with Wi-Fi 6 as the fastest Wi-Fi standard. Unfortunately, the phone cannot access the less-used 6 GHz 6E band, but it still offers fast transmission speeds with 2x2 MIMO and the 160 MHz channel in the 5 GHz band. We measured speeds up to 1.3 Gbps in our testing, and the transfer rates are also reasonably stable.\n\n",
+                        "5G mobile radio is also on board. There are also quite a few bands in the 4G and 5G range, so you can use the phone in many countries when traveling.\n\n",
+                        "Hidden behind the screen is the fingerprint sensor, which is positioned at a comfortable height and is easy to reach even with smaller hands. It unlocks the phone after a short wait and with high precision.\n\n",
+                        "Biometric unlocking via the face is also possible. However, this recognition only takes place via the front camera without additional sensors.\n\n",
+                        "Android 15 comes pre-installed — with OxygenOS 15 — the manufacturer's own user interface on top. The security patches are from September 2025 at the time of testing and therefore are still quite up to date.\n\n",
+                        "OnePlus promises four Android updates and six years of security patches for the Nord CE5, which is quite good for this price range.\n\n",
+                        "emission data currently available. The phone is packaged without plastic, and the box is printed with soy ink.\n\n",
+                        "Spare parts and repair instructions for older devices are available from the manufacturer.\n\n",
+                        "With its 50 MP camera on the back and an additional 8 MP wide-angle lens, the OnePlus Nord CE5 has a camera system that is typical of its class. Images from the main camera look quite detailed. We also like the brightness and level of detail in low light.\n\n",
+                        "Pictures from the wide-angle camera are of acceptable quality, but hardly anything is recognizable in detail.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The OnePlus Nord CE5 has an AMOLED display, which achieved up to 1,315 cd/m² in our test. This puts it on a par with most comparable devices. A refresh rate of up to 120 Hz is possible.\n\n",
+                        "The color reproduction in \"Natural\" mode is accurate. We measured PWM flickering at low brightness, which is adapted to the screen's frame rate. Sensitive people should try out the screen before buying.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 25 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "SoC performs very well in the mid-range phone and delivers significantly more power than comparable devices. It also offers more in terms of graphics performance, making the OnePlus Nord CE 5 well suited for gaming.\n\n",
+                        "We measured a temperature rise of up to 50.5 °C on the casing under prolonged load. Nevertheless, the SoC barely throttles in the 3DMark stress test.\n\n",
+                        "The speaker is located on the bottom edge of the smartphone. It can get quite loud, which makes it a bit treble-heavy, but you can still listen to pop music at full volume.\n\n",
+                        "If you prefer to connect speakers or headphones, you can do so via USB or Bluetooth 5.4. A good selection of audio codecs is available for the latter.\n\n",
+                        "Unfortunately, the capacity cap for batteries in the EU also affects the OnePlus Nord CE5 and the manufacturer only delivers the smartphone with 5,200 mAh, while other countries get a 7,100 mAh cell.\n\n",
+                        "This means that the battery is similar in size to other smartphones in this class and delivers good runtimes of almost 17 hours in our practical WLAN test at 150 nits brightness.\n\n",
+                        "The phone can be charged at up to 80 W speeds. A charger is not included in the box, but the smartphone works with all the chargers we tested without any problems. Charging takes a maximum of 40 minutes.\n\n",
+                        "Power Supply (max.) 42.3 °C = 108 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 40.2 °C = 104 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 47.9 °C / 118 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 50.5 °C / 123 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 48.3 °C / 119 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.7 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "42% of all tested devices in this class were better, 8% similar, 50% worse\n\n",
+                        "16% of all tested devices in this class were better, 8% similar, 76% worse\n\n",
+                        "The OnePlus Nord CE5 is a fast smartphone for its class that comes with a high-quality finish and a good update promise.\n\n",
+                        "OnePlus releases new February 2026 OxygenOS update with improved AI Eraser,...\n\n",
+                        "OnePlus 15T Review: Incredible battery life makes the compact smartphone competition pale in comparison\n\n",
+                        "OnePlus 15 will stay impressively cool thanks to its new improved cooling system, company explains\n\n",
+                        "OnePlus Nord 5: Outstanding smartphone overshadowed by another model from the same company\n\n",
+                        "OnePlus Nord CE5 is among biggest losers in ~7,000mAh smartphone battery drain test\n\n",
+                        "OnePlus previews Nord CE5 with 7,100mAh battery and Nord 5 with Snapdragon 8s Gen 3\n\n",
+                        "The selection of devices to be reviewed is made by our editorial team. The test sample was freely purchased by the author at his/her own expense. The lender had no influence on this review, nor did the manufacturer receive a copy of this review before publication. There was no obligation to publish this review. As an independent media company, Notebookcheck is not subjected to the authority of manufacturers, retailers or publishers.\n\n",
+                        "Every year, Notebookcheck independently reviews hundreds of laptops and smartphones using standardized procedures to ensure that all results are comparable. We have continuously developed our test methods for around 20 years and set industry standards in the process. In our test labs, high-quality measuring equipment is utilized by experienced technicians and editors. These tests involve a multi-stage validation process. Our complex rating system is based on hundreds of well-founded measurements and benchmarks, which maintains objectivity. Further information on our test methods can be found\n\n",
+                        "I initially wrote about gaming laptops when I joined Notebookcheck in 2009. I was then involved with the setup of the comparison portal Notebookinfo and worked with social media concepts for large companies like BMW and Adidas, while also returning to work for Notebookcheck in 2012. Nowadays, I focus on smartphones, tablets, and future technologies. Since 2018 I have been Managing Editor for mobile device reviews, working alongside my colleague Daniel Schmidt.\n\n",
+                        "My main responsibility as an editorial assistant is maintaining the Library section, which aggregates reviews from other publications and channels. In addition, my daily breakfast is Notebookcheck's long list of new content, which I comb through to select the most interesting topics for translation from English to French, Italian, Spanish, Portuguese, and Dutch.\"\n\n",
+                        "> OnePlus Nord CE5 Smartphone Review: Elegant mid-range phone with a marble look and powerful WLAN\n\n",
+                        "* If you buy something via one of our affiliate links, Notebookcheck may earn a commission. Thank you for your support!\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "MediaTek Dimensity 8350 8c/8t 3.4 GHz, 4 x 3.2 GHz ARM Cortex-A715, 4 x 2.2 GHz ARM Cortex-A510, Cortex-A15 / A510",
+                        "Graphics adapter:": "ARM Mali-G615 MP6",
+                        "Memory:": "8 GB",
+                        "Display:": "6.77 inch 20:9, 2392 x 1080 pixel 388 PPI, capacitive touchscreen, AMOLED, glossy: yes, 120 Hz",
+                        "Storage:": "128 GB UFS 3.1 Flash, 128 GB , 102 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, Card Reader: microSD (shared, up to 1TB) , 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass",
+                        "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B17/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n26/​n28/​n38/​n40/​n41/​n66/​n77/​n78) , Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.2 x 163.6 x 76 ( = 0.32 x 6.44 x 2.99 in)",
+                        "Battery:": "5200 mAh Lithium-Ion, 80 Watt charging",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 50 MPix f/​1.8, phase comparison-AF, OIS, LED-flash, Videos @2160p/​60fps (Camera 1); 8.0MP, f/​2.2, wide angle lens (Camera 2) Secondary Camera: 16 MPix f/​2.4, Videos @1080p/​60fps",
+                        "Additional features:": "Speakers: mono speaker, USB cable, SIM tool, 24 Months Warranty, IP65-certified, fanless",
+                        "Weight:": "199 g ( = 7.02 oz / 0.44 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "349 Euro"
+                    },
+                    "ratings": []
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "high-quality workmanship",
+            "powerful SoC",
+            "bright 120 Hz AMOLED",
+            "good image quality of the cameras",
+            "fast charging",
+            "fast WLAN with 2x2 MIMO",
+            "good update promise"
+        ],
+        "cons": [
+            "PWM flickering at low brightness",
+            "strong heating under load",
+            "no 6 GHz WLAN",
+            "plastic frame instead of metal"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "MediaTek Dimensity 8350 8c/8t 3.4 GHz, 4 x 3.2 GHz ARM Cortex-A715, 4 x 2.2 GHz ARM Cortex-A510, Cortex-A15 / A510",
+                "Graphics adapter:": "ARM Mali-G615 MP6",
+                "Memory:": "8 GB",
+                "Display:": "6.77 inch 20:9, 2392 x 1080 pixel 388 PPI, capacitive touchscreen, AMOLED, glossy: yes, 120 Hz",
+                "Storage:": "128 GB UFS 3.1 Flash, 128 GB , 102 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, Card Reader: microSD (shared, up to 1TB) , 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass",
+                "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B17/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n26/​n28/​n38/​n40/​n41/​n66/​n77/​n78) , Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.2 x 163.6 x 76 ( = 0.32 x 6.44 x 2.99 in)",
+                "Battery:": "5200 mAh Lithium-Ion, 80 Watt charging",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 50 MPix f/​1.8, phase comparison-AF, OIS, LED-flash, Videos @2160p/​60fps (Camera 1); 8.0MP, f/​2.2, wide angle lens (Camera 2) Secondary Camera: 16 MPix f/​2.4, Videos @1080p/​60fps",
+                "Additional features:": "Speakers: mono speaker, USB cable, SIM tool, 24 Months Warranty, IP65-certified, fanless",
+                "Weight:": "199 g ( = 7.02 oz / 0.44 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "349 Euro"
+            }
+        },
+        "ratings": {},
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/OnePlus-Nord-CE5-Smartphone-Review-Elegant-mid-range-phone-with-a-marble-look-and-powerful-WLAN.1140244.0.html",
+                "text": "Verdict: Makes a decent impression for the price The OnePlus Nord CE5 has a very high-quality appearance overall. Although the chassis is only made of plastic, it has a very solid finish. The screen is bright, and the MediaTek Dimensity 8350 processor is fast-enough for the price range. The Nord CE5's camera takes perfectly usable pictures, and shooting is flexible thanks to the additional wide-angle lens. It is a shame that the phone's battery capacity is limited in the EU, but this is currently the case with many devices. Nevertheless, the battery life is very good in everyday use. Fast charging and a decent speaker round off the good overall impression. OnePlus also promises four Android updates and six years of security patches. Overall, the OnePlus Nord CE5 is a very good offer in the mid-range smartphone segment. And if you like the marble effect on the back, you are also getting a very special phone.\nhigh-quality workmanship\npowerful SoC\nbright 120 Hz AMOLED\ngood image quality of the cameras\nfast charging\nfast WLAN with 2x2 MIMO\ngood update promise\nPWM flickering at low brightness\nstrong heating under load\nno 6 GHz WLAN\nplastic frame instead of metal\nBuild and Equipment: High-quality construction and a marble design on request\nPerformance, Emissions and Battery life: Fast SoC and a capped battery capacity\nWith the Nord CE5, OnePlus is launching a mid-range phone around the €300 mark.\nThe phone's build has a restrained design but is an eye-catcher with a white back in a slightly iridescent marble look. Those who prefer an even simpler look can opt for the dark gray version that comes without such visual effects. The frame is made of plastic, the smartphone is very sturdy, cannot be twisted, and does not creak.\nThe camera module stands out clearly on the casing, with a total thickness of around 1 cm at this point. At 199 g, the OnePlus Nord CE5 is slightly heavier than comparable phones. But with a diagonal length of 6.77 inches, it also offers one of the largest screens in its class.\nThe Nord CE5 comes with 8 GB of RAM as standard, but there are international models with 12 GB of RAM. There is also a choice of 128 GB or 256 GB data storage. The official price difference between the two storage variants is €50.\nThe OnePlus Nord CE5 comes with Wi-Fi 6 as the fastest Wi-Fi standard. Unfortunately, the phone cannot access the less-used 6 GHz 6E band, but it still offers fast transmission speeds with 2x2 MIMO and the 160 MHz channel in the 5 GHz band. We measured speeds up to 1.3 Gbps in our testing, and the transfer rates are also reasonably stable.\n5G mobile radio is also on board. There are also quite a few bands in the 4G and 5G range, so you can use the phone in many countries when traveling.\nHidden behind the screen is the fingerprint sensor, which is positioned at a comfortable height and is easy to reach even with smaller hands. It unlocks the phone after a short wait and with high precision.\nBiometric unlocking via the face is also possible. However, this recognition only takes place via the front camera without additional sensors.\nAndroid 15 comes pre-installed — with OxygenOS 15 — the manufacturer's own user interface on top. The security patches are from September 2025 at the time of testing and therefore are still quite up to date.\nOnePlus promises four Android updates and six years of security patches for the Nord CE5, which is quite good for this price range.\nemission data currently available. The phone is packaged without plastic, and the box is printed with soy ink.\nSpare parts and repair instructions for older devices are available from the manufacturer.\nWith its 50 MP camera on the back and an additional 8 MP wide-angle lens, the OnePlus Nord CE5 has a camera system that is typical of its class. Images from the main camera look quite detailed. We also like the brightness and level of detail in low light.\nPictures from the wide-angle camera are of acceptable quality, but hardly anything is recognizable in detail.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe OnePlus Nord CE5 has an AMOLED display, which achieved up to 1,315 cd/m² in our test. This puts it on a par with most comparable devices. A refresh rate of up to 120 Hz is possible.\nThe color reproduction in \"Natural\" mode is accurate. We measured PWM flickering at low brightness, which is adapted to the screen's frame rate. Sensitive people should try out the screen before buying.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nThe screen shows good response rates in our tests, but may be too slow for competitive gamers.\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 25 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nSoC performs very well in the mid-range phone and delivers significantly more power than comparable devices. It also offers more in terms of graphics performance, making the OnePlus Nord CE 5 well suited for gaming.\nWe measured a temperature rise of up to 50.5 °C on the casing under prolonged load. Nevertheless, the SoC barely throttles in the 3DMark stress test.\nThe speaker is located on the bottom edge of the smartphone. It can get quite loud, which makes it a bit treble-heavy, but you can still listen to pop music at full volume.\nIf you prefer to connect speakers or headphones, you can do so via USB or Bluetooth 5.4. A good selection of audio codecs is available for the latter.\nUnfortunately, the capacity cap for batteries in the EU also affects the OnePlus Nord CE5 and the manufacturer only delivers the smartphone with 5,200 mAh, while other countries get a 7,100 mAh cell.\nThis means that the battery is similar in size to other smartphones in this class and delivers good runtimes of almost 17 hours in our practical WLAN test at 150 nits brightness.\nThe phone can be charged at up to 80 W speeds. A charger is not included in the box, but the smartphone works with all the chargers we tested without any problems. Charging takes a maximum of 40 minutes.\nPower Supply (max.) 42.3 °C = 108 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 40.2 °C = 104 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 47.9 °C / 118 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 50.5 °C / 123 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 48.3 °C / 119 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.7 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n42% of all tested devices in this class were better, 8% similar, 50% worse\n16% of all tested devices in this class were better, 8% similar, 76% worse\nThe OnePlus Nord CE5 is a fast smartphone for its class that comes with a high-quality finish and a good update promise.\nOnePlus releases new February 2026 OxygenOS update with improved AI Eraser,...\nOnePlus 15T Review: Incredible battery life makes the compact smartphone competition pale in comparison\nOnePlus 15 will stay impressively cool thanks to its new improved cooling system, company explains\nOnePlus Nord 5: Outstanding smartphone overshadowed by another model from the same company\nOnePlus Nord CE5 is among biggest losers in ~7,000mAh smartphone battery drain test\nOnePlus previews Nord CE5 with 7,100mAh battery and Nord 5 with Snapdragon 8s Gen 3\nThe selection of devices to be reviewed is made by our editorial team. The test sample was freely purchased by the author at his/her own expense. The lender had no influence on this review, nor did the manufacturer receive a copy of this review before publication. There was no obligation to publish this review. As an independent media company, Notebookcheck is not subjected to the authority of manufacturers, retailers or publishers.\nEvery year, Notebookcheck independently reviews hundreds of laptops and smartphones using standardized procedures to ensure that all results are comparable. We have continuously developed our test methods for around 20 years and set industry standards in the process. In our test labs, high-quality measuring equipment is utilized by experienced technicians and editors. These tests involve a multi-stage validation process. Our complex rating system is based on hundreds of well-founded measurements and benchmarks, which maintains objectivity. Further information on our test methods can be found\nI initially wrote about gaming laptops when I joined Notebookcheck in 2009. I was then involved with the setup of the comparison portal Notebookinfo and worked with social media concepts for large companies like BMW and Adidas, while also returning to work for Notebookcheck in 2012. Nowadays, I focus on smartphones, tablets, and future technologies. Since 2018 I have been Managing Editor for mobile device reviews, working alongside my colleague Daniel Schmidt.\nMy main responsibility as an editorial assistant is maintaining the Library section, which aggregates reviews from other publications and channels. In addition, my daily breakfast is Notebookcheck's long list of new content, which I comb through to select the most interesting topics for translation from English to French, Italian, Spanish, Portuguese, and Dutch.\"\n> OnePlus Nord CE5 Smartphone Review: Elegant mid-range phone with a marble look and powerful WLAN\n* If you buy something via one of our affiliate links, Notebookcheck may earn a commission. Thank you for your support!"
+            }
+        ]
+    }
+}

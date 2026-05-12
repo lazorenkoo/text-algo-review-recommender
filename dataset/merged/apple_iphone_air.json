@@ -1,0 +1,455 @@
+{
+    "phone_key": "apple_iphone_air",
+    "primary_name": "Apple iPhone Air",
+    "aliases": [
+        "Apple iPhone Air"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Apple iPhone Air",
+                "article_url": "https://www.notebookcheck.net/Apple-iPhone-Air-review-The-thinnest-smartphone-packs-a-ton-of-power.1152091.0.html",
+                "verdict": {
+                    "text": "The iPhone Air impressed us with its ultra-thin design and premium build quality, but the slim design comes at a cost: the battery, camera and sound can only be described as mediocre, while the high price and the lack of features such as USB 3.2 and dual speakers spoil the overall impression. Users for whom design and portability are of primary concern will find this a stylish lifestyle device, but power users and camera enthusiasts are better served by Pro models. Overall, the Air remains a bold design choice with noticeable compromises, impressing us more with its form than its function.",
+                    "pros": [
+                        "thin and lightweight design",
+                        "high-level performance",
+                        "IP68 certified",
+                        "bright and accurate display"
+                    ],
+                    "cons": [
+                        "only one camera",
+                        "only USB 2.0",
+                        "mediocre battery life",
+                        "PWM dimming"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "The Apple iPhone Air is the first of its kind and comes in three storage variants:\n\n",
+                        ", our review highlights which compromises had to be made. The Air is also Apple's first iPhone in Europe to forgo nano-SIM support in favor of battery life.\n\n",
+                        "The iPhone Air is defined by its slim design, making it Apple's thinnest smartphone to date. It has a nominal thickness of 5.64 mm, and this is something we can confirm from our measurements. Add to that a substantial bump (+2.96 mm) and the camera mounted on top (an additional +2.7 mm), resulting in a thickness of 11.3 mm at its thickest point. However, at 165 g, the iPhone Air is comparatively light.\n\n",
+                        "Apple has used a highly polished titanium alloy for the frame. It might look sleek, but it's correspondingly prone to fingerprints. The front uses Ceramic Shield 2 protective glass, while the back still uses the older, first-generation version. Despite its slim design, the Air is very robust and resists twisting attempts in a silent manner. The build quality is excellent, boasting tight and consistent gaps, and we were also impressed by its 89% screen-to-body ratio.\n\n",
+                        "The iPhone Air is waterproof up to a depth of six meters in accordance with IP68, and comes in the following colors:\n\n",
+                        "with our review device sporting the latter color. However, depending on the angle of the light, it can also appear more white than blue.\n\n",
+                        "the Air also only supports USB 2.0, which doesn't allow for video output. Data transfer is therefore predictably slow.\n\n",
+                        "Apart from that, the Air's Bluetooth 6.0, NFC, UWB, and Wi-Fi 7 make it on par with the Pro model.\n\n",
+                        "The iPhone Air ships with Apple iOS 26, which is identical to the version found on other 2025 iPhones.\n\n",
+                        "Apple hasn't made any concrete statements regarding the provision of updates, but we can assume it to be for at least five years, and even a minimum of six years if you take the new EU guidelines into account.\n\n",
+                        "of its products, and this is no different with the Air model. It comes in plastic-free packaging and also participates in the\n\n",
+                        "The iPhone Air has broad frequency support for cellular networks and should be able to establish connections almost anywhere in the world. Reception is good in urban areas.\n\n",
+                        "It features Wi-Fi 7, the latest Wi-Fi standard, which supports all three bands. Paired with our reference router, the Asus ROG Rapture GT-AXE11000, it delivered stable data speeds, although the 6 GHz band could be a touch faster when receiving data.\n\n",
+                        "The iPhone Air determines its position using dual-band GNSS with all major satellite networks. Location tracking is quite fast, but in real-life testing on a bike ride, it became apparent that the smartphone retrieved its location at longer intervals, which meant the route tracking wasn't always accurate. It is still, however, perfectly adequate for navigation purposes.\n\n",
+                        "The Apple iPhone Air supports dual eSIM, but no longer has a physical SIM card. Features such as VoLTE and Wi-Fi calling are still available.\n\n",
+                        "Call quality is good when the device is held to the ear, but noise cancellation is only moderately effective.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        ". AppleCare+ is an insurance package whose prices vary depending on the coverage. A one-time fee of $139.99 is payable for one year, or a monthly payment of $13.99 is also possible.\n\n",
+                        "When it comes to biometric security, the iPhone Air relies on 3D facial recognition via Face ID, which impressed us with its high-level security and success rate, as well as fast unlocking. The Taptic Engine provides tactile feedback and delivers precise and pleasantly direct feedback.\n\n",
+                        "The capacitive touchscreen responds quickly and accurately to inputs. Additionally, touch-based input is available on the rear of the handset, but this must first be activated in the settings. The functionality of the action button and the camera button is identical to that seen in iPhones.\n\n",
+                        "Technically, the iPhone Air's display is similar to the 17 Pro, but at 6.5 inches (16.51 cm), it's slightly larger. It possesses the same level of brightness and, on a reduced white area (APL18), it managed to reach a very bright 3,085 cd/m² in our tests.\n\n",
+                        "The PWM frequency hits a maximum of 480 Hz, and optional pulse smoothing is also included. Similar to the\n\n",
+                        ", however, its effect is limited to a flatter amplitude at low brightness. This means individuals sensitive to such issues should still expect to experience some discomfort.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 240 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 240 Hz is relatively low, so sensitive users will likely notice flickering and experience eyestrain at the stated brightness setting and below.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "A series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\n\n",
+                        "As the usual analysis using CalMAN reveals, iPhone Air's panel is well-calibrated out of the box with no oversaturated or undersaturated colors.\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "Outdoors, the iPhone Air remains very legible, provided the ambient light sensor is allowed to control the brightness. Without it, the panel reaches a maximum brightness of 851 cd/m².\n\n",
+                        "The viewing angle stability is excellent, and the brightness only decreases slightly at wide viewing angles.\n\n",
+                        "which is the same SoC found in the Pro models. The slightly lower Geekbench score is likely due to thermal reduction, which kicks in relatively early. This was even more noticeable in AnTuTu, where the Air finished behind the\n\n",
+                        "In everyday situations, however, this will be barely noticeable, and the system will run smoothly.\n\n",
+                        "The iPhone Air's surface temperatures remained safe even under load, but the SoC throttled significantly in some stress tests.\n\n",
+                        "Room Temperature 21.6 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 36.8 °C / 98 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 41.5 °C / 107 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 43.6 °C / 110 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 27.6 °C / 82 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "A19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Wild Life Extreme Stress Test:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+                        "A19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Wild Life Stress Test Stability:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "A19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Solar Bay Stress Test Stability:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+                        "A19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Steel Nomad Light Stress Test Stability:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+                        "A19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Solar Bay Extreme Stress Test Stability:\n\n",
+                        "The iPhone Air has only one speaker in its earpiece, and it isn't particularly loud. The sound quality is decent, but it leans very heavily on the treble.\n\n",
+                        "Similar to other iPhones, the Air lacks a high-resolution codec for Bluetooth, and Auracast is also absent. The best sound quality can be achieved via a wired connection using USB-C.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "8% of all tested devices in this class were better, 7% similar, 85% worse\n\n",
+                        "22% of all tested devices in this class were better, 9% similar, 69% worse\n\n",
+                        "In tests, the iPhone Air's power consumption proved to be unremarkable. Charging at a maximum of 20 watts, a full charge takes approximately one and a half hours (50%: 29 minutes).\n\n",
+                        "Qualcomm Snapdragon 8 Elite for Galaxy; Geekbench 5.5 Power Consumption 150cd:\n\n",
+                        "Qualcomm Snapdragon 8 Elite for Galaxy; 1920x1080 Aztec Ruins Normal Offscreen:\n\n",
+                        "Despite its very small battery, the iPhone Air keeps going for a surprisingly long time, which should be enough for a whole day of moderate use. If that's not the case, you shouldn't stray too far from the nearest power source.\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Apple A19 Pro 6c/6t, 2 x 4.3 GHz Apple A19 P-Core, 4 x 2.6 GHz Apple A19 E-Core",
+                        "Graphics adapter:": "Apple A19 Pro 5-Core GPU",
+                        "Memory:": "12 GB , LPDDR5x",
+                        "Display:": "6.50 inch 19.54:9, 2736 x 1260 pixel 463 PPI, Capacitive Touchscreen, OLED, Super Retina XDR, Anti-reflective coating, Ceramic Shield 2, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "Apple 512GB NVMe, 512 GB , 480.75 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: USB-C, NFC, Brightness Sensor, Sensors: Baromater, Gyro, Accelerometer, Proximity, Dual ambient light, Face ID, OTG, Thread, UWB (Gen. 2)",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850, 900, 1800, 1900 MHz), 3G (850, 900, 1700/2100, 1900, 2100 MHz), LTE (Band 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 8, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 70, 75, 77, 78, 79), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 5.64 x 156.2 x 74.7 ( = 0.22 x 6.15 x 2.94 in)",
+                        "Battery:": "12.26 Wh, 3149 mAh Lithium-Ion, 3.894 V, MagSafe, Qi2, Battery Cycles: 1000",
+                        "Charging:": "wireless charging, fast charging / Quickcharge",
+                        "Operating System:": "Apple iOS 26",
+                        "Camera:": "Primary Camera: 48 MPix (26 mm, f/1.6, sensor-shift optical image stabilization) Secondary Camera: 18 MPix (Center Stage camera, f/1.9, AF)",
+                        "Additional features:": "Speakers: Mono, USB-C-Cabel, 12 Months Warranty, Bluetooth Audio Codecs: SBC, AAC | Dual-Band-GNSS: GPS, Glonass, BeiDou, Galileo, QZSS, NavIC | HDR: HLG, HDR10, HDR10+, Dolby Vision | Dual-eSIM | IP68 | USB Copy Test: 34.05 MB/s (connected to Samsung Portable SSD T7 (USB 3.2 Gen. 2), Supported File Systems for external storages: FAT, FAT32, exFAT, APFS, APFS (encrypted), macOS Extended (HFS+) | Body-SAR: 1.49 W/kg, Head-SAR: 1.49 W/kg | max. charging speed: 20 W (wired) / 20 W (wireless), fanless, waterproof",
+                        "Weight:": "165 g ( = 5.82 oz / 0.36 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "1449 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "79%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "72%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "95%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "83%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "89.5%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "67.5%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "95.3%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "95.3%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "76%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "83.5%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "84.5%"
+                        }
+                    ]
+                }
+            }
+        ],
+        "techradar": [
+            {
+                "source": "techradar",
+                "phone_name": "Apple iPhone Air",
+                "article_url": "https://www.techradar.com/phones/iphone/apple-iphone-air-review",
+                "verdict": {
+                    "text": "The iPhone Air is Apple’s boldest design refresh in years – it’s almost impossibly thin at 5.64mm, yet still sturdy thanks to the use of titanium and Ceramic Shield. Its 6.5-inch ProMotion display and iOS 26’s Liquid Glass makeover feel purpose-built for this form factor – even after a week of use, this still feels like Apple’s most exciting design refresh in years. Battery life is solid if not class-leading, and the single 48MP camera limits flexibility, but for those who value design and portability above all else it’s sexy and stunning – and maybe a new kind of Pro.",
+                    "pros": [
+                        "A sleek and stunning design that’s impossibly thin and light",
+                        "Display with ProMotion support is excellent",
+                        "A19 Pro chip is plenty fast"
+                    ],
+                    "cons": [
+                        "Battery life could be better",
+                        "Device can get warm with heavy, advanced tasks"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "The iPhone Air is, to a degree, exactly what we were expecting: Apple ’s thinnest iPhone ever, measuring just 5.64mm. It feels light, balanced, and durable thanks to a grade 5 titanium frame and Ceramic Shield glass. In the hand it’s sleek and refined – I’ve been using my Sky Blue unit for a week now and it’s still turning heads.\n\n",
+                        "The 6.5-inch Super Retina XDR OLED display is excellent: it’s an always-on display that supports ProMotion, HDR , and brightness up to 3,000 nits. It’s slightly bigger than the iPhone 17’s screen, which gives apps, text, and videos more room to breathe, and it looks great whether I’m scrolling TikTok, watching HDR movies, or just browsing outside on a sunny day.\n\n",
+                        "iOS 26 feels tailor made for the Air, with its new Liquid Glass design that looks striking and complements the physical build. Messages now support custom backgrounds, typing indicators, and polls, while the Phone app and Visual Intelligence get useful upgrades. And while Siri’s full AI overhaul isn’t here yet, Apple Intelligence features are starting to appear.\n\n",
+                        "The biggest trade-off comes with the camera setup: there’s just a single 48-megapixel lens on the rear of the phone. It produces sharp, natural-looking photos and impressive portraits, but you’ll miss the flexibility of a telephoto or ultrawide if you’re used to them. The selfie camera is excellent, though, with Apple’s Center Stage smarts for automatic wide and ultrawide framing, and Dual Capture is genuinely fun.\n\n",
+                        "Performance from the A19 Pro is snappy and smooth, and it capably handled everything I threw at it, though the phone does get warm during fast charging or heavy gaming. Battery life is decent but not class-leading: enough for a workday, usually six to eight hours of use, with my best stretch hitting around 10 hours away from the charger. Power users may want to invest in the $99 / £99.00 / AU$159 MagSafe Battery Pack, which matches the phone’s slim profile and adds about 65% more life, but it’s an added cost.\n\n",
+                        "The iPhone Air isn’t the best iPhone for photography or endurance, but as a design statement, it’s a gem. It feels like the most exciting iPhone Apple has released in years, and while it costs more than the iPhone 17 with fewer cameras and shorter battery life, it delivers value in other key areas.\n\n",
+                        "Apple unveiled the iPhone Air at its September 9, 2025, ‘Awe Dropping’ event alongside the iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, AirPods Pro 3, and three new Apple Watches. The Air, though, stands out with its entirely new design, and is a whole new category of iPhone.\n\n",
+                        "It starts at $999 / £999 / AU$1,799 for 256GB of storage, or you can bump that up to 512GB for $1,199 / £1,199 / AU$2,199, or 1TB for $1,399 / £1,399 / AU$2,599. The iPhone Air is an eSIM-only device worldwide and comes in four colors: Sky Blue, Light Gold, Cloud White, and Space Black. I’ve been testing a 1TB iPhone Air in Sky Blue.\n\n",
+                        "Apple will officially launch the iPhone Air on September 19, 2025, but it’s up for pre-order now from the company’s online store, authorized retailers, and carriers.\n\n",
+                        "If you were following the Apple rumor cycle, we were all expecting an ultra-thin iPhone to be released – one that would potentially go thinner than the iPhone 6 or 6 Plus, be more stunning than the iPhone X, and offer a truly refreshed look and feel for the iPhone. The launch event’s ‘Awe Dropping’ tagline set the bar high – and the iPhone Air cleared it with room to spare.\n\n",
+                        "It’s not the first ultra-thin phone – the Galaxy S25 Edge measures in at 5.8 millimeters – but it still feels as stunning, sleek, and sexy in my hand right now after living with it for a week as it did during my brief hands-on session following the launch event. It feels as exciting as the iPhone X, in that it might give us the playbook for the modern iPhone going forward – or at least show us one half of the purportedly incoming foldable iPhone.\n\n",
+                        "The photos released by Apple, and even those shot by me for this review, only do it partial justice. The iPhone Air is the best representation yet of Apple’s vision for an iPhone that’s just glass. It weighs in at just 5.82 ounces, or 165 grams, fully justifying the ‘Air’ moniker. Much like the iPhone 17 or even a Pro Max, it feels balanced – not too top-heavy, not too bottom-heavy. It’s Goldilocks ergonomics.\n\n",
+                        "I don’t know if I’d quite call it awe -dropping, but the thinness is the part that gets people excited. At its thinnest, the iPhone Air is 5.64 millimeters, or 0.22 inches, and the ‘plateau’ (Apple’s new term for the camera bump) only juts out a bit more. I was instantly wowed, and over the course of a week (well, eight days now), I’ve really become accustomed to this look and feel for an iPhone.\n\n",
+                        "While conducting some testing over the week, I showed it to my brother and sister-in-law, who were both visibly impressed when holding it. They asked about durability and were a little stunned at the overall feel. Then came the questions about battery life and the camera – both of which I’ll address below – and whether the USB-C port was thinner.\n\n",
+                        "On that last point – it’s still a regular USB-C port, but to fit it in this frame and get it this small, Apple’s design team started by 3D-printing a custom one. And given how thin this phone had to be, Apple went back to grade five titanium for the shell and sides of the device. To further enhance the looks, it has a polished finish. My Sky Blue review handset is different from the MacBook Air and iPad Air colors of the same name – it’s a bit lighter and pastel-like. I really like it, and the Air also comes in Light Gold, Space Black, and Cloud White.\n\n",
+                        "While the innermost layer of the iPhone Air sandwich is made of that strong titanium, which can bend slightly under pressure but is designed to spring back, it’s topped and bottomed with glass and glass ceramic; specifically Ceramic Shield 2 on the front and Ceramic Shield on the back. The rear, like the iPhone 17, is mostly frosted matte glass, while the top bump gets the glossy finish.\n\n",
+                        "Apple says the Air is three times more scratch-resistant on the front – though I’ve still been careful sliding this in and out of my front or rear jeans pockets – and the back is four times more crack-resistant.\n\n",
+                        "I actually did drop it on concrete paving stones, and the iPhone Air came out completely unscathed. My dog Rosie pulled me suddenly, I dropped the Air, and it hit the ground on the top-left corner and then landed screen-down, single camera-up. Not even a scratch. Rosie was off the hook.\n\n",
+                        "That incident, along with our Editor at Large Lance Ulanoff’s bend test and his fumble with the iPhone Air , gives some credence to Apple’s durability promises. Apple says the iPhone Air is more durable than any model before this and on par with the rest of the 17 lineup. In a test behind closed doors at Apple Park, I saw an iPhone Air put through the wringer, receiving a simulated force of 130 pounds, and bending and then springing back with no visible stress marks left.\n\n",
+                        "It also has the same IP68 rating for resistance to dust and water as the iPhone 17, 17 Pro, and 17 Pro Max – it survived a light drizzle shortly after I unboxed it at Apple Park. The weather’s been wet in my home state of Jersey, and the Air has shown no issues when being used in rain or surviving a dunk test.\n\n",
+                        "Even given the extreme thinness here, you still get the usual buttons you’d expect on an iPhone. Camera Control (still not a button) has been redesigned to live on the right-hand side, and it’s slightly thinner but about the same length as on other iPhones. The power/sleep button sits slightly higher on this side, with the Action Button, volume up, and volume down on the left. The main mono speaker lives at the top with some microphones, and there are two other microphones either side of the USB-C port on the bottom.\n\n",
+                        "This design does, as mentioned, only leave room for a single camera, and likely a smaller battery inside, but Apple has also dropped the SIM card slot worldwide and opted for eSIM to save some space.\n\n",
+                        "The iPhone Air is stunning, attracts a lot of admiring glances, and feels like the biggest refresh in iPhone design we’ve seen in a while. Yes, it’s the same key parts, just compressed; but in use it feels like the perfect showcase for iOS 26. If you’re after Apple’s best design this year, I think it’s clearly the iPhone Air – but there's a lot more to this iPhone than just looks.\n\n",
+                        "For $999 / £999 / AU$1,799 it would be a little mean of Apple not to include ProMotion or always-on functionality here, and the iPhone Air supports both. As a whole, the screen here is basically in line with those of the iPhone 17, 17 Pro, or 17 Pro Max.\n\n",
+                        "The front of the iPhone Air is nearly all glass, except for a thin black bezel that turns into the sloped polished side. It’s a 6.5-inch Super Retina XDR OLED display with a resolution of 2376 x 1260, which works out to 460 pixels per inch. It tops out at 3,000 nits of brightness when needed, supports the Wide Color P3 gamut and HDR, and features an anti-reflective coating. It also has the same Dynamic Island as the rest of the iPhone 17 line.\n\n",
+                        "In daily use, the display is really the main appeal here – on paper, it’s 0.2 inches bigger diagonally than the iPhone 17 or 17 Pro, but it feels a bit more expansive. It offers more lines of text, or a slightly expanded view when viewing a webpage. Games or movies feel a little more like an event, and it offers a broad canvas for iOS 26. Lay two of these phones side by side and I think you’d have some idea of what Apple is planning to bring us with its long-rumored folding iPhone – and it would look mightily impressive, but we’re not quite there yet. And it’s still smaller than the Pro Max.\n\n",
+                        "Colors looked punchy and vibrant, text was inky black and crisp, and it was a great display for daily use. I found that it got bright enough to battle the bright sunshine of California, the late summer sunshine of New Jersey and New York, as well as bright artificial lighting. I liked scrolling TikTok and Instagram Reels, or watching a video on it, mainly thanks to the super-smooth ProMotion display.\n\n",
+                        "And iOS 26, with its Liquid Glass makeover, looks fantastic here.\n\n",
+                        "I have a feeling that the design team at Apple knew the Air was on the roadmap when designing Liquid Glass.\n\n",
+                        "iOS 26 is running on the iPhone Air out of the box, and as on any iPhone, announces itself with a ‘Hello’ on the first boot. You’ll get a sense of the new translucent, glass-like nature of the software pretty quickly. It’s mostly visible in how notifications refract over your wallpaper or up top, with whatever is behind the element. I especially like the way the bottom menu bars look with this, although legibility can be an issue at times, depending on what’s behind the element. You’ll also notice a difference if you use light mode or dark mode.\n\n",
+                        "The redesign is only a portion of iOS 26, as Apple’s latest OS introduces a number of new features. I’m keen to put many of the new parts of Messages to the test with my friends and various group chats. With the latter, you’ll now get typing indicators, and you can set a custom background for any Message group or individual. This will, I have a feeling, be an especially tough test for legibility with the Liquid Glass components. You also have the option to add polls in group messages, which is a fun way to decide on activities or maybe pick a restaurant.\n\n",
+                        "The Phone app is entirely new, though you can switch back, placing your favorites up top and below that is a combined list of outgoing and incoming calls, missed calls, and even voicemails. It can be a lot to process at first, but after months on the beta I’m more or less used to it, although I have switched back to the original setup occasionally, as the new one makes voicemails a little harder to track down. You can also use Live Translation during calls, which can be helpful for international travel, and I especially like the wait-on-hold feature.\n\n",
+                        "Visual Intelligence, which is engaged with a long press of Camera Control, is a bit smarter here, and can now identify events to add to your calendar and integrate with apps that add support with the API. However, we’re still waiting on the full AI-powered Siri, and many of the new Apple Intelligence features aren’t front and center here.\n\n",
+                        "You can check out our full guide to iOS 26 here, as there’s a lot more to dig into.\n\n",
+                        "This is where the compromises necessitated by the iPhone Air’s unfeasibly thin design begin: the iPhone Air only features a single, 48-megapixel Fusion camera on the back. It can shoot at 1x, a sensor crop in 2x, or a maximum digital 10x, but the quality falls off noticeably with the latter.\n\n",
+                        "I’ll cut to the chase here – if you’re after the iPhone with the best cameras, or even just some variety for shooting, this is probably not it.\n\n",
+                        "I was impressed with some of the shots I took, particularly the one taken from 36,000 feet out an airplane window in the gallery below – the Air captured a surprising amount of detail around the engine, wing, and even the clouds, and what appears to be a mountain in the distance. The night mode worked very well when capturing my Bernedoodle, the aforementioned Rosie, and I’m especially impressed with the Portrait mode here, and the work going on behind the scenes to deliver the right bokeh effect in the right spot.\n\n",
+                        "Still, as someone who used a 16 Pro Max before this, I miss the telephoto camera, even if that wasn’t a Super Res Zoom like on a Galaxy or a Pixel; 2x isn’t a lot. The iPhone Air also doesn’t have an ultra-wide or a macro camera. If anything, it’s made me think about the types of shots I’d want to capture with a phone, and if an ultra-wide or zoom is a deal breaker for you, you’ll want to look at the 17 or the 17 Pro duo.\n\n",
+                        "The 48MP Fusion camera here can capture photos at a full 48 megapixels or, by default, a 24-megapixel photo that saves space by combining a 12-megapixel shot and a 48-megapixel shot. It normally does a pretty good job of preserving colors and details, and is something that Apple’s been doing for several generations of iPhone.\n\n",
+                        "The main lens here does an admirable job, and I’m quite happy with some of the images I got – particularly in portrait mode, with the camera keeping colors within a realistic range and not skewing warmer or cooler, as well as capturing plenty of the finer details.\n\n",
+                        "In some cases, photos looked a bit washed out – for instance, landscapes on particularly sunny days, as when I took test shots at a botanical garden (although I was able to capture a sunflower quite nicely, other fauna, and even orange fish below a less-than-crystal-clear pond). Mostly, though, the camera can capture those more vibrant moments, such as a shot of Yankee Stadium or the sunset from a plane window.\n\n",
+                        "Without a true telephoto or an ultrawide, you’re able to take more creative control to capture unique shots. You can see a full gallery of test images – standard photos at 1x or 2x, and some digital zoom ones, as well as Portraits at 1x or 2x – below.\n\n",
+                        "A new feature that takes advantage of the 18-megapixel Center Stage camera on the front and the rear camera is Dual Capture. It’s not a brand-new idea, and essentially this lets you record with the front camera and rear camera at the same time, with stabilization applied. I think it’s a lot of fun, especially for sports events, where you could capture both the on-field action and the reaction of you and your friends, and I imagine it would be a blast at concerts – I could record myself belting out Born to Run along with the Boss – but also for parents with young children.\n\n",
+                        "The 18-megapixel selfie camera uses a larger image sensor than on previous iPhones, and it’s actually super helpful. Essentially, it can automatically adjust a wide or ultra-wide view so you can easily fit everyone into your selfie or video, and with the tap of a button you can rotate between vertical and horizontal without needing to physically rotate your phone. It also delivers a serious, high-quality selfie.\n\n",
+                        "I’ll include some video samples below – the 48MP camera isn’t a slouch here, and performs on a par with the standard iPhone 17. The end result is either up to 1080p HD at up to 60 frames per second, or 4K at up to 60fps.\n\n",
+                        "Powering the iPhone Air is Apple’s A19 Pro chip, which is a step up from the iPhone 17’s A19, and a slightly less powerful version of the A19 Pro in the iPhone 17 Pro and 17 Pro Max, without the extra cooling technology. The A19 Pro here is a 6-core CPU with two performance and four efficiency cores, a 5-core GPU, and a 16-core Neural Engine.\n\n",
+                        "It’s a good lick faster than the A18 Pro or A18 found in the iPhone 16 Pro Max or 16, especially with various elements of iOS 26 – including spatializing a wallpaper – and in everyday use. Compared to the standard iPhone 17, I’d say performance is about neck and neck. The A19 Pro is arguably being used here to help regulate performance temperature.\n\n",
+                        "I did notice the iPhone Air heating up during the first few days while it was still indexing and charging – especially from 0% to about 50% – before cooling as it slowed near 80%. It also warms up when multitasking with demanding apps at times.\n\n",
+                        "For example, if I’m on a call and launch a game like Asphalt 9 , the area around the camera housing on the rear can get noticeably warm, though it cools quickly as performance regulates. The heat doesn’t spread below the Apple logo, and a case, like Apple’s Bumper or Clear option, helps keep it from your fingertips.\n\n",
+                        "Keep in mind that basically all the components do live in the plateau – including the silicon – so it makes sense that the area does heat up. When it comes to non-gaming tasks, though, the iPhone Air handles everything well, and delivers strong performance while keeping cool. That was the case with my daily workflow consisting of calls – audio and FaceTime – as well as Mail, Gmail, Slack, Safari , Chrome, Edits, Capcut, the Camera, and other apps. Even with creating a Genmoji or using Image Playground or another facet of Apple intelligence, the iPhone Air didn’t get especially warm.\n\n",
+                        "In terms of quantitative testing, the iPhone Air scored slightly higher than the iPhone 17 on GeekBench 6.5, at 3,723 on single-core and 9,665 on multi-core. That’s in line with smartphones at this price range, though, as we noted in our Galaxy S25 Edge review, that phone has a thermal solution for keeping things cool.\n\n",
+                        "We can only guess at the iPhone Air’s battery size for now, as Apple doesn’t officially release those numbers. It’s clear, though, that the company has squeezed as large a cell as possible inside this ultra-slim smartphone.\n\n",
+                        "Instead of capacity, Apple provides viewing estimates: up to 27 hours of downloaded video playback and 22 hours of streaming. With the $99 MagSafe Battery attached, those numbers rise to 40 and 35 hours, respectively – about a 65% boost.\n\n",
+                        "In my experience, the iPhone Air generally lasts through a workday – six to eight hours depending on use. That’s behind the iPhone 17, 17 Pro, and 17 Pro Max, but it still meets Apple’s “all-day” standard. On one test, I took it off a charger at 7:30am and it lasted until 5:50pm, or 10 hours and 20 minutes. At best, I recorded six hours and 35 minutes of active screen time; on average, I got around four hours and 45 minutes.\n\n",
+                        "During my first few fast charges, the top of the camera plateau and the area beneath it did get warm, mostly between 0% and 50%, before cooling down. This isn’t unusual for fast charging and reflects the component layout.\n\n",
+                        "Power users will likely need to recharge by the time they get home. Apple’s slim MagSafe Battery nearly matches the Air’s profile, adding only a bit more thickness than the camera bump. It recharges intelligently throughout the day, manages heat well, and uses pocket detection to optimize charging times. Optional, yes – but it complements the iPhone Air experience nicely.\n\n",
+                        "I’ve been covering smartphones for years — including iPhones since the iPhone 8 lineup — and my first personal iPhone was the 3GS. For this review, I set up the iPhone Air in Sky Blue, moving my number over from an iPhone 16 Pro Max via eSIM and starting fresh.\n\n",
+                        "Over more than a week of testing, I put the Air through everyday use: calls, streaming music, gaming, watching TV and movies, capturing photos, and running my usual suite of work apps. I measured performance using both real-world applications and benchmarks, such as GeekBench 6.5, paying close attention to how it handled multitasking and more demanding workloads. For battery life, I tracked how quickly it drained during different tasks and also ran a standardized assessment.\n\n",
+                        "On the camera side, I pushed the single 48MP rear lens through its paces — testing 1x, 2x crop, Portrait, and Night modes, plus video recording up to 4K at 60fps. I also spent time with the new 18MP selfie camera, trying both portraits and group shots, and had fun with Dual Capture for video.\n\n",
+                        "To get a clearer sense of how it stacks up, I compared the results directly with the iPhone 17, the iPhone 16 and 16 Plus, iPhone 16 Pro and 16 Pro Max, Google Pixel 10 and Pixel 10 Pro, and Samsung ’s Galaxy S25 Ultra.\n\n",
+                        "First reviewed September 2025.\n\n"
+                    ],
+                    "bullet_points": [
+                        "The freshest look that Apple has delivered in years",
+                        "Unbelievably thin and light",
+                        "Feels great in the hand with proper ergonomics",
+                        "Design score: 5 / 5",
+                        "At 6.5 inches the front is virtually all screen",
+                        "It’s on a par with the displays on the Pro and Pro Max",
+                        "Display score: 5 / 5",
+                        "Liquid Glass runs well here and feels purpose-built for the design",
+                        "iOS 26 brings with it some really smart features",
+                        "Software score: 4 / 5",
+                        "Single-lens 48MP Fusion camera on the rear",
+                        "You can get some impressive shots, especially portraits",
+                        "Front-facing camera is 18MP with Center Stage",
+                        "Camera score: 4 / 5",
+                        "The iPhone Air feels responsive and fast, even with more intense workflows",
+                        "A19 Pro chip should keep it running smoothly for years",
+                        "Can get warm on the camera bump with gaming and other more intensive tasks",
+                        "Performance score: 4 / 5",
+                        "It can deliver all-day battery for some, but more likely will last a full workday",
+                        "You’ll likely need to recharge it during the day",
+                        "While costly, the MagSafe Battery is a sound investment",
+                        "Battery score: 4 / 5"
+                    ]
+                },
+                "tables": {
+                    "specifications": {},
+                    "ratings": []
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "thin and lightweight design",
+            "high-level performance",
+            "IP68 certified",
+            "bright and accurate display",
+            "A sleek and stunning design that’s impossibly thin and light",
+            "Display with ProMotion support is excellent",
+            "A19 Pro chip is plenty fast"
+        ],
+        "cons": [
+            "only one camera",
+            "only USB 2.0",
+            "mediocre battery life",
+            "PWM dimming",
+            "Battery life could be better",
+            "Device can get warm with heavy, advanced tasks"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Apple A19 Pro 6c/6t, 2 x 4.3 GHz Apple A19 P-Core, 4 x 2.6 GHz Apple A19 E-Core",
+                "Graphics adapter:": "Apple A19 Pro 5-Core GPU",
+                "Memory:": "12 GB , LPDDR5x",
+                "Display:": "6.50 inch 19.54:9, 2736 x 1260 pixel 463 PPI, Capacitive Touchscreen, OLED, Super Retina XDR, Anti-reflective coating, Ceramic Shield 2, glossy: yes, HDR, 120 Hz",
+                "Storage:": "Apple 512GB NVMe, 512 GB , 480.75 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: USB-C, NFC, Brightness Sensor, Sensors: Baromater, Gyro, Accelerometer, Proximity, Dual ambient light, Face ID, OTG, Thread, UWB (Gen. 2)",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850, 900, 1800, 1900 MHz), 3G (850, 900, 1700/2100, 1900, 2100 MHz), LTE (Band 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 8, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 70, 75, 77, 78, 79), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 5.64 x 156.2 x 74.7 ( = 0.22 x 6.15 x 2.94 in)",
+                "Battery:": "12.26 Wh, 3149 mAh Lithium-Ion, 3.894 V, MagSafe, Qi2, Battery Cycles: 1000",
+                "Charging:": "wireless charging, fast charging / Quickcharge",
+                "Operating System:": "Apple iOS 26",
+                "Camera:": "Primary Camera: 48 MPix (26 mm, f/1.6, sensor-shift optical image stabilization) Secondary Camera: 18 MPix (Center Stage camera, f/1.9, AF)",
+                "Additional features:": "Speakers: Mono, USB-C-Cabel, 12 Months Warranty, Bluetooth Audio Codecs: SBC, AAC | Dual-Band-GNSS: GPS, Glonass, BeiDou, Galileo, QZSS, NavIC | HDR: HLG, HDR10, HDR10+, Dolby Vision | Dual-eSIM | IP68 | USB Copy Test: 34.05 MB/s (connected to Samsung Portable SSD T7 (USB 3.2 Gen. 2), Supported File Systems for external storages: FAT, FAT32, exFAT, APFS, APFS (encrypted), macOS Extended (HFS+) | Body-SAR: 1.49 W/kg, Head-SAR: 1.49 W/kg | max. charging speed: 20 W (wired) / 20 W (wireless), fanless, waterproof",
+                "Weight:": "165 g ( = 5.82 oz / 0.36 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "1449 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "79%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "72%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "95%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "83%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "89.5%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "67.5%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "95.3%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "95.3%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "76%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "83.5%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "84.5%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Apple-iPhone-Air-review-The-thinnest-smartphone-packs-a-ton-of-power.1152091.0.html",
+                "text": "The iPhone Air impressed us with its ultra-thin design and premium build quality, but the slim design comes at a cost: the battery, camera and sound can only be described as mediocre, while the high price and the lack of features such as USB 3.2 and dual speakers spoil the overall impression. Users for whom design and portability are of primary concern will find this a stylish lifestyle device, but power users and camera enthusiasts are better served by Pro models. Overall, the Air remains a bold design choice with noticeable compromises, impressing us more with its form than its function.\nthin and lightweight design\nhigh-level performance\nIP68 certified\nbright and accurate display\nonly one camera\nonly USB 2.0\nmediocre battery life\nPWM dimming\nThe Apple iPhone Air is the first of its kind and comes in three storage variants:\n, our review highlights which compromises had to be made. The Air is also Apple's first iPhone in Europe to forgo nano-SIM support in favor of battery life.\nThe iPhone Air is defined by its slim design, making it Apple's thinnest smartphone to date. It has a nominal thickness of 5.64 mm, and this is something we can confirm from our measurements. Add to that a substantial bump (+2.96 mm) and the camera mounted on top (an additional +2.7 mm), resulting in a thickness of 11.3 mm at its thickest point. However, at 165 g, the iPhone Air is comparatively light.\nApple has used a highly polished titanium alloy for the frame. It might look sleek, but it's correspondingly prone to fingerprints. The front uses Ceramic Shield 2 protective glass, while the back still uses the older, first-generation version. Despite its slim design, the Air is very robust and resists twisting attempts in a silent manner. The build quality is excellent, boasting tight and consistent gaps, and we were also impressed by its 89% screen-to-body ratio.\nThe iPhone Air is waterproof up to a depth of six meters in accordance with IP68, and comes in the following colors:\nwith our review device sporting the latter color. However, depending on the angle of the light, it can also appear more white than blue.\nthe Air also only supports USB 2.0, which doesn't allow for video output. Data transfer is therefore predictably slow.\nApart from that, the Air's Bluetooth 6.0, NFC, UWB, and Wi-Fi 7 make it on par with the Pro model.\nThe iPhone Air ships with Apple iOS 26, which is identical to the version found on other 2025 iPhones.\nApple hasn't made any concrete statements regarding the provision of updates, but we can assume it to be for at least five years, and even a minimum of six years if you take the new EU guidelines into account.\nof its products, and this is no different with the Air model. It comes in plastic-free packaging and also participates in the\nThe iPhone Air has broad frequency support for cellular networks and should be able to establish connections almost anywhere in the world. Reception is good in urban areas.\nIt features Wi-Fi 7, the latest Wi-Fi standard, which supports all three bands. Paired with our reference router, the Asus ROG Rapture GT-AXE11000, it delivered stable data speeds, although the 6 GHz band could be a touch faster when receiving data.\nThe iPhone Air determines its position using dual-band GNSS with all major satellite networks. Location tracking is quite fast, but in real-life testing on a bike ride, it became apparent that the smartphone retrieved its location at longer intervals, which meant the route tracking wasn't always accurate. It is still, however, perfectly adequate for navigation purposes.\nThe Apple iPhone Air supports dual eSIM, but no longer has a physical SIM card. Features such as VoLTE and Wi-Fi calling are still available.\nCall quality is good when the device is held to the ear, but noise cancellation is only moderately effective.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n. AppleCare+ is an insurance package whose prices vary depending on the coverage. A one-time fee of $139.99 is payable for one year, or a monthly payment of $13.99 is also possible.\nWhen it comes to biometric security, the iPhone Air relies on 3D facial recognition via Face ID, which impressed us with its high-level security and success rate, as well as fast unlocking. The Taptic Engine provides tactile feedback and delivers precise and pleasantly direct feedback.\nThe capacitive touchscreen responds quickly and accurately to inputs. Additionally, touch-based input is available on the rear of the handset, but this must first be activated in the settings. The functionality of the action button and the camera button is identical to that seen in iPhones.\nTechnically, the iPhone Air's display is similar to the 17 Pro, but at 6.5 inches (16.51 cm), it's slightly larger. It possesses the same level of brightness and, on a reduced white area (APL18), it managed to reach a very bright 3,085 cd/m² in our tests.\nThe PWM frequency hits a maximum of 480 Hz, and optional pulse smoothing is also included. Similar to the\n, however, its effect is limited to a flatter amplitude at low brightness. This means individuals sensitive to such issues should still expect to experience some discomfort.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 240 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 240 Hz is relatively low, so sensitive users will likely notice flickering and experience eyestrain at the stated brightness setting and below.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nA series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\nAs the usual analysis using CalMAN reveals, iPhone Air's panel is well-calibrated out of the box with no oversaturated or undersaturated colors.\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nOutdoors, the iPhone Air remains very legible, provided the ambient light sensor is allowed to control the brightness. Without it, the panel reaches a maximum brightness of 851 cd/m².\nThe viewing angle stability is excellent, and the brightness only decreases slightly at wide viewing angles.\nwhich is the same SoC found in the Pro models. The slightly lower Geekbench score is likely due to thermal reduction, which kicks in relatively early. This was even more noticeable in AnTuTu, where the Air finished behind the\nIn everyday situations, however, this will be barely noticeable, and the system will run smoothly.\nThe iPhone Air's surface temperatures remained safe even under load, but the SoC throttled significantly in some stress tests.\nRoom Temperature 21.6 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 36.8 °C / 98 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 41.5 °C / 107 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 43.6 °C / 110 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 27.6 °C / 82 F, compared to the device average of 32.9 °C / 91 F.\nA19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Wild Life Extreme Stress Test:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\nA19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Wild Life Stress Test Stability:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nA19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Solar Bay Stress Test Stability:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\nA19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Steel Nomad Light Stress Test Stability:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\nA19 Pro 5-Core GPU, A19 Pro, Apple 512GB NVMe; Solar Bay Extreme Stress Test Stability:\nThe iPhone Air has only one speaker in its earpiece, and it isn't particularly loud. The sound quality is decent, but it leans very heavily on the treble.\nSimilar to other iPhones, the Air lacks a high-resolution codec for Bluetooth, and Auracast is also absent. The best sound quality can be achieved via a wired connection using USB-C.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n8% of all tested devices in this class were better, 7% similar, 85% worse\n22% of all tested devices in this class were better, 9% similar, 69% worse\nIn tests, the iPhone Air's power consumption proved to be unremarkable. Charging at a maximum of 20 watts, a full charge takes approximately one and a half hours (50%: 29 minutes).\nQualcomm Snapdragon 8 Elite for Galaxy; Geekbench 5.5 Power Consumption 150cd:\nQualcomm Snapdragon 8 Elite for Galaxy; 1920x1080 Aztec Ruins Normal Offscreen:\nDespite its very small battery, the iPhone Air keeps going for a surprisingly long time, which should be enough for a whole day of moderate use. If that's not the case, you shouldn't stray too far from the nearest power source."
+            },
+            {
+                "source": "techradar",
+                "article_url": "https://www.techradar.com/phones/iphone/apple-iphone-air-review",
+                "text": "The iPhone Air is Apple’s boldest design refresh in years – it’s almost impossibly thin at 5.64mm, yet still sturdy thanks to the use of titanium and Ceramic Shield. Its 6.5-inch ProMotion display and iOS 26’s Liquid Glass makeover feel purpose-built for this form factor – even after a week of use, this still feels like Apple’s most exciting design refresh in years. Battery life is solid if not class-leading, and the single 48MP camera limits flexibility, but for those who value design and portability above all else it’s sexy and stunning – and maybe a new kind of Pro.\nA sleek and stunning design that’s impossibly thin and light\nDisplay with ProMotion support is excellent\nA19 Pro chip is plenty fast\nBattery life could be better\nDevice can get warm with heavy, advanced tasks\nThe iPhone Air is, to a degree, exactly what we were expecting: Apple ’s thinnest iPhone ever, measuring just 5.64mm. It feels light, balanced, and durable thanks to a grade 5 titanium frame and Ceramic Shield glass. In the hand it’s sleek and refined – I’ve been using my Sky Blue unit for a week now and it’s still turning heads.\nThe 6.5-inch Super Retina XDR OLED display is excellent: it’s an always-on display that supports ProMotion, HDR , and brightness up to 3,000 nits. It’s slightly bigger than the iPhone 17’s screen, which gives apps, text, and videos more room to breathe, and it looks great whether I’m scrolling TikTok, watching HDR movies, or just browsing outside on a sunny day.\niOS 26 feels tailor made for the Air, with its new Liquid Glass design that looks striking and complements the physical build. Messages now support custom backgrounds, typing indicators, and polls, while the Phone app and Visual Intelligence get useful upgrades. And while Siri’s full AI overhaul isn’t here yet, Apple Intelligence features are starting to appear.\nThe biggest trade-off comes with the camera setup: there’s just a single 48-megapixel lens on the rear of the phone. It produces sharp, natural-looking photos and impressive portraits, but you’ll miss the flexibility of a telephoto or ultrawide if you’re used to them. The selfie camera is excellent, though, with Apple’s Center Stage smarts for automatic wide and ultrawide framing, and Dual Capture is genuinely fun.\nPerformance from the A19 Pro is snappy and smooth, and it capably handled everything I threw at it, though the phone does get warm during fast charging or heavy gaming. Battery life is decent but not class-leading: enough for a workday, usually six to eight hours of use, with my best stretch hitting around 10 hours away from the charger. Power users may want to invest in the $99 / £99.00 / AU$159 MagSafe Battery Pack, which matches the phone’s slim profile and adds about 65% more life, but it’s an added cost.\nThe iPhone Air isn’t the best iPhone for photography or endurance, but as a design statement, it’s a gem. It feels like the most exciting iPhone Apple has released in years, and while it costs more than the iPhone 17 with fewer cameras and shorter battery life, it delivers value in other key areas.\nApple unveiled the iPhone Air at its September 9, 2025, ‘Awe Dropping’ event alongside the iPhone 17, iPhone 17 Pro, iPhone 17 Pro Max, AirPods Pro 3, and three new Apple Watches. The Air, though, stands out with its entirely new design, and is a whole new category of iPhone.\nIt starts at $999 / £999 / AU$1,799 for 256GB of storage, or you can bump that up to 512GB for $1,199 / £1,199 / AU$2,199, or 1TB for $1,399 / £1,399 / AU$2,599. The iPhone Air is an eSIM-only device worldwide and comes in four colors: Sky Blue, Light Gold, Cloud White, and Space Black. I’ve been testing a 1TB iPhone Air in Sky Blue.\nApple will officially launch the iPhone Air on September 19, 2025, but it’s up for pre-order now from the company’s online store, authorized retailers, and carriers.\nIf you were following the Apple rumor cycle, we were all expecting an ultra-thin iPhone to be released – one that would potentially go thinner than the iPhone 6 or 6 Plus, be more stunning than the iPhone X, and offer a truly refreshed look and feel for the iPhone. The launch event’s ‘Awe Dropping’ tagline set the bar high – and the iPhone Air cleared it with room to spare.\nIt’s not the first ultra-thin phone – the Galaxy S25 Edge measures in at 5.8 millimeters – but it still feels as stunning, sleek, and sexy in my hand right now after living with it for a week as it did during my brief hands-on session following the launch event. It feels as exciting as the iPhone X, in that it might give us the playbook for the modern iPhone going forward – or at least show us one half of the purportedly incoming foldable iPhone.\nThe photos released by Apple, and even those shot by me for this review, only do it partial justice. The iPhone Air is the best representation yet of Apple’s vision for an iPhone that’s just glass. It weighs in at just 5.82 ounces, or 165 grams, fully justifying the ‘Air’ moniker. Much like the iPhone 17 or even a Pro Max, it feels balanced – not too top-heavy, not too bottom-heavy. It’s Goldilocks ergonomics.\nI don’t know if I’d quite call it awe -dropping, but the thinness is the part that gets people excited. At its thinnest, the iPhone Air is 5.64 millimeters, or 0.22 inches, and the ‘plateau’ (Apple’s new term for the camera bump) only juts out a bit more. I was instantly wowed, and over the course of a week (well, eight days now), I’ve really become accustomed to this look and feel for an iPhone.\nWhile conducting some testing over the week, I showed it to my brother and sister-in-law, who were both visibly impressed when holding it. They asked about durability and were a little stunned at the overall feel. Then came the questions about battery life and the camera – both of which I’ll address below – and whether the USB-C port was thinner.\nOn that last point – it’s still a regular USB-C port, but to fit it in this frame and get it this small, Apple’s design team started by 3D-printing a custom one. And given how thin this phone had to be, Apple went back to grade five titanium for the shell and sides of the device. To further enhance the looks, it has a polished finish. My Sky Blue review handset is different from the MacBook Air and iPad Air colors of the same name – it’s a bit lighter and pastel-like. I really like it, and the Air also comes in Light Gold, Space Black, and Cloud White.\nWhile the innermost layer of the iPhone Air sandwich is made of that strong titanium, which can bend slightly under pressure but is designed to spring back, it’s topped and bottomed with glass and glass ceramic; specifically Ceramic Shield 2 on the front and Ceramic Shield on the back. The rear, like the iPhone 17, is mostly frosted matte glass, while the top bump gets the glossy finish.\nApple says the Air is three times more scratch-resistant on the front – though I’ve still been careful sliding this in and out of my front or rear jeans pockets – and the back is four times more crack-resistant.\nI actually did drop it on concrete paving stones, and the iPhone Air came out completely unscathed. My dog Rosie pulled me suddenly, I dropped the Air, and it hit the ground on the top-left corner and then landed screen-down, single camera-up. Not even a scratch. Rosie was off the hook.\nThat incident, along with our Editor at Large Lance Ulanoff’s bend test and his fumble with the iPhone Air , gives some credence to Apple’s durability promises. Apple says the iPhone Air is more durable than any model before this and on par with the rest of the 17 lineup. In a test behind closed doors at Apple Park, I saw an iPhone Air put through the wringer, receiving a simulated force of 130 pounds, and bending and then springing back with no visible stress marks left.\nIt also has the same IP68 rating for resistance to dust and water as the iPhone 17, 17 Pro, and 17 Pro Max – it survived a light drizzle shortly after I unboxed it at Apple Park. The weather’s been wet in my home state of Jersey, and the Air has shown no issues when being used in rain or surviving a dunk test.\nEven given the extreme thinness here, you still get the usual buttons you’d expect on an iPhone. Camera Control (still not a button) has been redesigned to live on the right-hand side, and it’s slightly thinner but about the same length as on other iPhones. The power/sleep button sits slightly higher on this side, with the Action Button, volume up, and volume down on the left. The main mono speaker lives at the top with some microphones, and there are two other microphones either side of the USB-C port on the bottom.\nThis design does, as mentioned, only leave room for a single camera, and likely a smaller battery inside, but Apple has also dropped the SIM card slot worldwide and opted for eSIM to save some space.\nThe iPhone Air is stunning, attracts a lot of admiring glances, and feels like the biggest refresh in iPhone design we’ve seen in a while. Yes, it’s the same key parts, just compressed; but in use it feels like the perfect showcase for iOS 26. If you’re after Apple’s best design this year, I think it’s clearly the iPhone Air – but there's a lot more to this iPhone than just looks.\nFor $999 / £999 / AU$1,799 it would be a little mean of Apple not to include ProMotion or always-on functionality here, and the iPhone Air supports both. As a whole, the screen here is basically in line with those of the iPhone 17, 17 Pro, or 17 Pro Max.\nThe front of the iPhone Air is nearly all glass, except for a thin black bezel that turns into the sloped polished side. It’s a 6.5-inch Super Retina XDR OLED display with a resolution of 2376 x 1260, which works out to 460 pixels per inch. It tops out at 3,000 nits of brightness when needed, supports the Wide Color P3 gamut and HDR, and features an anti-reflective coating. It also has the same Dynamic Island as the rest of the iPhone 17 line.\nIn daily use, the display is really the main appeal here – on paper, it’s 0.2 inches bigger diagonally than the iPhone 17 or 17 Pro, but it feels a bit more expansive. It offers more lines of text, or a slightly expanded view when viewing a webpage. Games or movies feel a little more like an event, and it offers a broad canvas for iOS 26. Lay two of these phones side by side and I think you’d have some idea of what Apple is planning to bring us with its long-rumored folding iPhone – and it would look mightily impressive, but we’re not quite there yet. And it’s still smaller than the Pro Max.\nColors looked punchy and vibrant, text was inky black and crisp, and it was a great display for daily use. I found that it got bright enough to battle the bright sunshine of California, the late summer sunshine of New Jersey and New York, as well as bright artificial lighting. I liked scrolling TikTok and Instagram Reels, or watching a video on it, mainly thanks to the super-smooth ProMotion display.\nAnd iOS 26, with its Liquid Glass makeover, looks fantastic here.\nI have a feeling that the design team at Apple knew the Air was on the roadmap when designing Liquid Glass.\niOS 26 is running on the iPhone Air out of the box, and as on any iPhone, announces itself with a ‘Hello’ on the first boot. You’ll get a sense of the new translucent, glass-like nature of the software pretty quickly. It’s mostly visible in how notifications refract over your wallpaper or up top, with whatever is behind the element. I especially like the way the bottom menu bars look with this, although legibility can be an issue at times, depending on what’s behind the element. You’ll also notice a difference if you use light mode or dark mode.\nThe redesign is only a portion of iOS 26, as Apple’s latest OS introduces a number of new features. I’m keen to put many of the new parts of Messages to the test with my friends and various group chats. With the latter, you’ll now get typing indicators, and you can set a custom background for any Message group or individual. This will, I have a feeling, be an especially tough test for legibility with the Liquid Glass components. You also have the option to add polls in group messages, which is a fun way to decide on activities or maybe pick a restaurant.\nThe Phone app is entirely new, though you can switch back, placing your favorites up top and below that is a combined list of outgoing and incoming calls, missed calls, and even voicemails. It can be a lot to process at first, but after months on the beta I’m more or less used to it, although I have switched back to the original setup occasionally, as the new one makes voicemails a little harder to track down. You can also use Live Translation during calls, which can be helpful for international travel, and I especially like the wait-on-hold feature.\nVisual Intelligence, which is engaged with a long press of Camera Control, is a bit smarter here, and can now identify events to add to your calendar and integrate with apps that add support with the API. However, we’re still waiting on the full AI-powered Siri, and many of the new Apple Intelligence features aren’t front and center here.\nYou can check out our full guide to iOS 26 here, as there’s a lot more to dig into.\nThis is where the compromises necessitated by the iPhone Air’s unfeasibly thin design begin: the iPhone Air only features a single, 48-megapixel Fusion camera on the back. It can shoot at 1x, a sensor crop in 2x, or a maximum digital 10x, but the quality falls off noticeably with the latter.\nI’ll cut to the chase here – if you’re after the iPhone with the best cameras, or even just some variety for shooting, this is probably not it.\nI was impressed with some of the shots I took, particularly the one taken from 36,000 feet out an airplane window in the gallery below – the Air captured a surprising amount of detail around the engine, wing, and even the clouds, and what appears to be a mountain in the distance. The night mode worked very well when capturing my Bernedoodle, the aforementioned Rosie, and I’m especially impressed with the Portrait mode here, and the work going on behind the scenes to deliver the right bokeh effect in the right spot.\nStill, as someone who used a 16 Pro Max before this, I miss the telephoto camera, even if that wasn’t a Super Res Zoom like on a Galaxy or a Pixel; 2x isn’t a lot. The iPhone Air also doesn’t have an ultra-wide or a macro camera. If anything, it’s made me think about the types of shots I’d want to capture with a phone, and if an ultra-wide or zoom is a deal breaker for you, you’ll want to look at the 17 or the 17 Pro duo.\nThe 48MP Fusion camera here can capture photos at a full 48 megapixels or, by default, a 24-megapixel photo that saves space by combining a 12-megapixel shot and a 48-megapixel shot. It normally does a pretty good job of preserving colors and details, and is something that Apple’s been doing for several generations of iPhone.\nThe main lens here does an admirable job, and I’m quite happy with some of the images I got – particularly in portrait mode, with the camera keeping colors within a realistic range and not skewing warmer or cooler, as well as capturing plenty of the finer details.\nIn some cases, photos looked a bit washed out – for instance, landscapes on particularly sunny days, as when I took test shots at a botanical garden (although I was able to capture a sunflower quite nicely, other fauna, and even orange fish below a less-than-crystal-clear pond). Mostly, though, the camera can capture those more vibrant moments, such as a shot of Yankee Stadium or the sunset from a plane window.\nWithout a true telephoto or an ultrawide, you’re able to take more creative control to capture unique shots. You can see a full gallery of test images – standard photos at 1x or 2x, and some digital zoom ones, as well as Portraits at 1x or 2x – below.\nA new feature that takes advantage of the 18-megapixel Center Stage camera on the front and the rear camera is Dual Capture. It’s not a brand-new idea, and essentially this lets you record with the front camera and rear camera at the same time, with stabilization applied. I think it’s a lot of fun, especially for sports events, where you could capture both the on-field action and the reaction of you and your friends, and I imagine it would be a blast at concerts – I could record myself belting out Born to Run along with the Boss – but also for parents with young children.\nThe 18-megapixel selfie camera uses a larger image sensor than on previous iPhones, and it’s actually super helpful. Essentially, it can automatically adjust a wide or ultra-wide view so you can easily fit everyone into your selfie or video, and with the tap of a button you can rotate between vertical and horizontal without needing to physically rotate your phone. It also delivers a serious, high-quality selfie.\nI’ll include some video samples below – the 48MP camera isn’t a slouch here, and performs on a par with the standard iPhone 17. The end result is either up to 1080p HD at up to 60 frames per second, or 4K at up to 60fps.\nPowering the iPhone Air is Apple’s A19 Pro chip, which is a step up from the iPhone 17’s A19, and a slightly less powerful version of the A19 Pro in the iPhone 17 Pro and 17 Pro Max, without the extra cooling technology. The A19 Pro here is a 6-core CPU with two performance and four efficiency cores, a 5-core GPU, and a 16-core Neural Engine.\nIt’s a good lick faster than the A18 Pro or A18 found in the iPhone 16 Pro Max or 16, especially with various elements of iOS 26 – including spatializing a wallpaper – and in everyday use. Compared to the standard iPhone 17, I’d say performance is about neck and neck. The A19 Pro is arguably being used here to help regulate performance temperature.\nI did notice the iPhone Air heating up during the first few days while it was still indexing and charging – especially from 0% to about 50% – before cooling as it slowed near 80%. It also warms up when multitasking with demanding apps at times.\nFor example, if I’m on a call and launch a game like Asphalt 9 , the area around the camera housing on the rear can get noticeably warm, though it cools quickly as performance regulates. The heat doesn’t spread below the Apple logo, and a case, like Apple’s Bumper or Clear option, helps keep it from your fingertips.\nKeep in mind that basically all the components do live in the plateau – including the silicon – so it makes sense that the area does heat up. When it comes to non-gaming tasks, though, the iPhone Air handles everything well, and delivers strong performance while keeping cool. That was the case with my daily workflow consisting of calls – audio and FaceTime – as well as Mail, Gmail, Slack, Safari , Chrome, Edits, Capcut, the Camera, and other apps. Even with creating a Genmoji or using Image Playground or another facet of Apple intelligence, the iPhone Air didn’t get especially warm.\nIn terms of quantitative testing, the iPhone Air scored slightly higher than the iPhone 17 on GeekBench 6.5, at 3,723 on single-core and 9,665 on multi-core. That’s in line with smartphones at this price range, though, as we noted in our Galaxy S25 Edge review, that phone has a thermal solution for keeping things cool.\nWe can only guess at the iPhone Air’s battery size for now, as Apple doesn’t officially release those numbers. It’s clear, though, that the company has squeezed as large a cell as possible inside this ultra-slim smartphone.\nInstead of capacity, Apple provides viewing estimates: up to 27 hours of downloaded video playback and 22 hours of streaming. With the $99 MagSafe Battery attached, those numbers rise to 40 and 35 hours, respectively – about a 65% boost.\nIn my experience, the iPhone Air generally lasts through a workday – six to eight hours depending on use. That’s behind the iPhone 17, 17 Pro, and 17 Pro Max, but it still meets Apple’s “all-day” standard. On one test, I took it off a charger at 7:30am and it lasted until 5:50pm, or 10 hours and 20 minutes. At best, I recorded six hours and 35 minutes of active screen time; on average, I got around four hours and 45 minutes.\nDuring my first few fast charges, the top of the camera plateau and the area beneath it did get warm, mostly between 0% and 50%, before cooling down. This isn’t unusual for fast charging and reflects the component layout.\nPower users will likely need to recharge by the time they get home. Apple’s slim MagSafe Battery nearly matches the Air’s profile, adding only a bit more thickness than the camera bump. It recharges intelligently throughout the day, manages heat well, and uses pocket detection to optimize charging times. Optional, yes – but it complements the iPhone Air experience nicely.\nI’ve been covering smartphones for years — including iPhones since the iPhone 8 lineup — and my first personal iPhone was the 3GS. For this review, I set up the iPhone Air in Sky Blue, moving my number over from an iPhone 16 Pro Max via eSIM and starting fresh.\nOver more than a week of testing, I put the Air through everyday use: calls, streaming music, gaming, watching TV and movies, capturing photos, and running my usual suite of work apps. I measured performance using both real-world applications and benchmarks, such as GeekBench 6.5, paying close attention to how it handled multitasking and more demanding workloads. For battery life, I tracked how quickly it drained during different tasks and also ran a standardized assessment.\nOn the camera side, I pushed the single 48MP rear lens through its paces — testing 1x, 2x crop, Portrait, and Night modes, plus video recording up to 4K at 60fps. I also spent time with the new 18MP selfie camera, trying both portraits and group shots, and had fun with Dual Capture for video.\nTo get a clearer sense of how it stacks up, I compared the results directly with the iPhone 17, the iPhone 16 and 16 Plus, iPhone 16 Pro and 16 Pro Max, Google Pixel 10 and Pixel 10 Pro, and Samsung ’s Galaxy S25 Ultra.\nFirst reviewed September 2025.\nThe freshest look that Apple has delivered in years\nUnbelievably thin and light\nFeels great in the hand with proper ergonomics\nDesign score: 5 / 5\nAt 6.5 inches the front is virtually all screen\nIt’s on a par with the displays on the Pro and Pro Max\nDisplay score: 5 / 5\nLiquid Glass runs well here and feels purpose-built for the design\niOS 26 brings with it some really smart features\nSoftware score: 4 / 5\nSingle-lens 48MP Fusion camera on the rear\nYou can get some impressive shots, especially portraits\nFront-facing camera is 18MP with Center Stage\nCamera score: 4 / 5\nThe iPhone Air feels responsive and fast, even with more intense workflows\nA19 Pro chip should keep it running smoothly for years\nCan get warm on the camera bump with gaming and other more intensive tasks\nPerformance score: 4 / 5\nIt can deliver all-day battery for some, but more likely will last a full workday\nYou’ll likely need to recharge it during the day\nWhile costly, the MagSafe Battery is a sound investment\nBattery score: 4 / 5"
+            }
+        ]
+    }
+}

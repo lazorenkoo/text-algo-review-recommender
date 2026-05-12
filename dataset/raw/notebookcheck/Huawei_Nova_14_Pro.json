@@ -1,0 +1,184 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Huawei Nova 14 Pro",
+    "article_url": "https://www.notebookcheck.net/Camera-wonder-with-alternative-software-Huawei-Nova-14-Pro-smartphone-review.1229339.0.html",
+    "verdict": {
+        "text": "Huawei continues to fight its way through: although subject to sanctions, its own software ecosystem is now a real alternative to Google's Play Services. But the much bigger problem remains: there is no 5G on Huawei phones in Europe. This is a great pity, because the Huawei Nova 14 Pro is a really good smartphone. The cameras, in particular, deliver images you would normally expect from phones twice as expensive. Sure, there is no periscope zoom, but the variable aperture enables natural blur effects and even lets you adjust it in photos. The front cameras also make great portraits possible, whether you are alone or in a group. And the zoom capabilities are also very good up to around 10x magnification. The battery life is rather mediocre, especially as the battery has been slightly reduced for Europe. However, there is fast WiFi 7, and the screen is bright enough even for sunny days. The processor performance can reasonably keep up with similarly priced devices, but Xiaomi shows that much more is possible for the price. The Huawei Nova 14 Pro is an unusual smartphone in the upper class, which unfortunately cannot quite keep up with the competition in some areas, but delivers a very good camera system.",
+        "pros": [
+            "very powerful camera system",
+            "bright OLED display",
+            "natural color reproduction",
+            "fast WiFi 7",
+            "smooth touch operation",
+            "high build quality",
+            "attractive design",
+            "slim housing",
+            "fast fingerprint sensor"
+        ],
+        "cons": [
+            "no 5G in Europe",
+            "average battery life",
+            "relatively high weight",
+            "no microSD",
+            "no eSIM",
+            "limited GPU/AI performance",
+            "case warm under load",
+            "speaker relatively quiet",
+            "no sustainability data",
+            "PWM flickering",
+            "no update promise"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "The the Huawei Nova 14 Pro is available in either matte black or light blue, with the glass back creating a stylish ice crystal effect when light refracts through it. The camera module with two LED flashes is offset twice, making it stand out clearly from the slim body.\n\n",
+            "The build quality is very high, nothing crunches or creaks. Even the material transitions cannot be felt with the finger. However, the phone weighs 207 grams, which is significantly higher than comparable phones.\n\n",
+            "The chassis is IP65-protected against dust and liquids, but the phone should not be immersed in water.\n\n",
+            "Unfortunately, the USB port does not support the USB 3.0 protocol and therefore cannot send an image signal to external monitors. However, this is not necessarily common in this price range.\n\n",
+            "There is only one memory variant with 12 GB RAM and 512 GB mass storage. There is no provision for expansion via microSD.\n\n",
+            "Huawei has installed fast Wi-Fi 7, and the phone also delivers very fast, stable data rates in our tests.\n\n",
+            "However, you have to make do with 4G for mobile communications. Although the 5G technology is on board the Chinese models of the Nova 14 Pro, it cannot be activated in Europe due to sanctions.\n\n",
+            "The touchscreen is very smooth to use and responds to inputs very reliably. With Air Gestures, gestures can also be performed away from the screen; they are recognized via the front camera and enable scrolling, for example.\n\n",
+            "HarmonyOS now offers a large number of apps that are familiar from Android. It is also quite easy to install and activate Google services on the phone.\n\n",
+            "The only feature that does not work is Google Pay. However, Huawei offers a replacement in cooperation with Bluecode, thus providing a European alternative.\n\n",
+            "Unfortunately, there is no information on the sustainability of the device; plastic films are still used in the packaging.\n\n",
+            "The highlight of the Nova 14 Pro is its unusual camera equipment. For example, there are two selfie cameras on the front, which also enable wide-angle group selfies. We like the quality of the pictures, even bright backgrounds usually still offer good quality.\n\n",
+            "Pictures taken with the 50-megapixel main camera look very sharp and rich in detail, and the colors are somewhat warmer than those of most competitors. The ambient image is also on a par with high-end cameras, and the sharpness remains high in low light.\n\n",
+            "Thanks to the variable aperture of the main camera, portraits can also be taken with very natural blur effects.\n\n",
+            "A zoom of up to 3x is possible via the telephoto camera; images still appear sharp here, but unnaturally blurred at zoom levels higher than 10x. The wide-angle camera takes passable panoramic shots, but looks rather coarse in detail.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The OLED screen offers good brightness and can also be used outdoors on bright days. However, the HDR brightness is not as strong as that of some competitors. However, colors are displayed very naturally.\n\n",
+            "We measured PWM flickering at low brightness at around 120 Hz, so sensitive people should try out the screen before buying.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 120.6 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 120.6 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 1 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 1 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "The HiSilicon Kirin 8020 is used as the SoC. It performs as expected for the price range, but lags far behind in graphics and AI computing.\n\n",
+            "The case can heat up noticeably under load, but the throttling of the SoC always remains minimal.\n\n",
+            "The speakers could be a little louder, but deliver decent sound. However, the selection of Bluetooth audio codecs is very limited.\n\n",
+            "At 5,100 mAh, the battery is a little small and only delivers runtimes of around 16 hours in our WLAN test. This is enough for a day without charging, but other smartphones offer longer battery life.\n\n",
+            "Power Supply (max.) 41.2 °C = 106 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 38.6 °C = 101 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 45.2 °C / 113 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 47.3 °C / 117 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 46.1 °C / 115 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 25 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "73% of all tested devices in this class were better, 5% similar, 22% worse\n\n",
+            "11% of all tested devices in this class were better, 8% similar, 81% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "HiSilicon Kirin 8020 12c/12t, 2 x 2.3 GHz, 6 x 2.1 GHz, 4 x 1.3 GHz",
+            "Graphics adapter:": "HiSilicon Maleoon 920",
+            "Memory:": "12 GB",
+            "Display:": "6.78 inch 20.4:9, 2776 x 1224 pixel 447 PPI, capacitive touchscreen, P-OLED, 300 Hz sampling rate, glossy: yes, HDR, 120 Hz",
+            "Storage:": "512 GB UFS 3.1 Flash, 512 GB , 468 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, compass",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 5.2, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B38/​B40/​B41/​B66), Dual SIM, LTE, GPS",
+            "Size:": "height x width x depth (in mm): 7.8 x 163.4 x 75 ( = 0.31 x 6.43 x 2.95 in)",
+            "Battery:": "5100 mAh Lithium-Ion, 100 Watt charging",
+            "Charging:": "fast charging / Quickcharge",
+            "Operating System:": "Huawei HarmonyOS",
+            "Camera:": "Primary Camera: 50 MPix f/1.4-4.0, 24mm, videos @2160p/​30fps (camera 1) + 12MP, tele, 3x optical zoom, f/2.4, 69mm (camera 2) + 8MP, f/2.2, 16mm, wide angle, macro (camera 3) Secondary Camera: 50 MPix f /2.0 (camera 1), 8MP, 2x optical zoom, f/2.2, 52mm, tele (camera 2)",
+            "Additional features:": "Speakers: stereo speakers (hybrid), Keyboard: OnScreen, silicone bumper, SIM needle, USB cable, 12 Months Warranty, SAR: 0.99W/​kg head, 1.11W/​kg body; IP65 certified, fanless",
+            "Weight:": "207 g ( = 7.3 oz / 0.46 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "699 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "89%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "75%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "33%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "72%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "14%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "85%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "63%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "81%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "5%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "5%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "10%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "10%"
+            }
+        ]
+    }
+}

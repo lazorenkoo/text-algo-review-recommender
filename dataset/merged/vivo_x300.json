@@ -1,0 +1,322 @@
+{
+    "phone_key": "vivo_x300",
+    "primary_name": "Vivo X300",
+    "aliases": [
+        "Vivo X300"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Vivo X300",
+                "article_url": "https://www.notebookcheck.net/Brilliant-Zeiss-camera-in-a-compact-smartphone-Vivo-X300-review.1192262.0.html",
+                "verdict": {
+                    "text": "The Vivo X300 is a handy yet very well-equipped smartphone. The new 200-MP Zeiss camera, in particular, delivers genuinely strong results. An upcoming Galaxy S26 will have to work hard to keep up here. The Dimensity 9500 also delivers true flagship performance, although the compact Vivo phone has a high potential for thermally induced throttling. Users looking for a camera-focused flagship with numerous premium features and an especially bright OLED panel in the compact class will find the Vivo X300 to be an excellent alternative to models such as the Oppo Find X9 or Xiaomi 17. However, battery life is noticeably weaker, at least in the European version with its reduced battery capacity.",
+                    "pros": [
+                        "premium chassis",
+                        "high performance",
+                        "good runtimes",
+                        "excellent Zeiss cameras",
+                        "fast charging",
+                        "bright LTPO panel"
+                    ],
+                    "cons": [
+                        "heavy throttling",
+                        "high heat output",
+                        "smaller battery capacity in Europe"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Case and features – water-resistant Android phone with detachable Zeiss lens\n\n",
+                        "Performance, emissions and battery life – powerful smartphone with large battery\n\n",
+                        "With a display diagonal of 6.31 inches and a weight of 190 grams, the Vivo X300 is significantly more compact than the\n\n",
+                        ". Build quality is very good, and thanks to its IP68/69 certification, the chassis is not only water- and dust-resistant but also feels very premium.\n\n",
+                        "With a high screen-to-body ratio of 90.5 percent, the OLED panel covers almost the entire front, contributing to a modern design. As an extension of the chassis, the X300 also supports the\n\n",
+                        "Features include USB OTG, Bluetooth 6.0, an NFC chip, and a fast USB 3.2 port with display output support.\n\n",
+                        "The Vivo X300 supports fast Wi-Fi 7, including the 6-GHz band. Our measured transfer rates with an Asus ROG Rapture GT-AXE11000 router are very fast and stable. A wide range of frequencies is also available for mobile data use, covering all modern cellular standards. The Vivo smartphone supports dual SIM, either with two nano-SIM cards or two eSIMs.\n\n",
+                        "For positioning, the X300 offers dual-band connectivity across the global satellite navigation networks.\n\n",
+                        "Biometric security is handled by an ultrasonic fingerprint sensor integrated into the display, which operates quickly and reliably. The OLED panel also responds very rapidly to inputs, and overall system performance is excellent. The linear vibration motor provides pleasant haptic feedback.\n\n",
+                        "The Vivo phone comes in a plastic-free outer box, although it is still shrink-wrapped in foil. General information on sustainability is provided for certain critical raw materials, but no specific details on the CO\n\n",
+                        "footprint are disclosed. According to the EPREL database, the device receives a repairability rating of C.\n\n",
+                        ", the Vivo X300 is no longer shipped with the Funtouch interface in Europe, but instead with OriginOS. As a result, the compact smartphone benefits from a modern look, five years of OS updates, seven years of security updates, and Vivo's in-house AI tools.\n\n",
+                        "The Zeiss camera system is a highlight of the Vivo X300. For a compactly built phone, the new 200 MP main camera delivers very strong photo quality. Although the sensor is relatively small at 1/1.4 inches, low light shots are also convincing, with good detail and a manageable level of image smoothing.\n\n",
+                        "By comparison, neither the 50 MP telephoto lens nor the 50 MP ultra wide camera can quite keep up in terms of quality. However, their results certainly do not fall behind those of the\n\n",
+                        ". On the contrary, we were particularly impressed by the wide angle photos taken with the X300.\n\n",
+                        "Video performance is also convincing, as the X300 supports a 4K120 recording mode that can even be combined with HDR.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The LTPO AMOLED panel of the X300 has a very high resolution of 1216p at 446 ppi and supports a variable refresh rate from 1 Hz to 120 Hz. According to Vivo, peak HDR brightness is rated at 4,500 nits, although in our test we reached only 4,072 cd per square metre. Maximum brightness in the more realistic APL18 pattern is also very good at 2,386 cd per square metre.\n\n",
+                        "Vivo equips its compact smartphone with PWM dimming at 2,160 Hz, which we were able to confirm in our measurements. In addition, we measured a base flicker frequency of 360 Hz.\n\n",
+                        "Also pleasing to the eye are the very low average Delta E deviations in the sRGB colour space, which we identified for the X300 in our analysis using a photospectrometer and Calman software.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 360 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 360 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 2 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 2 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "Although the Vivo X300 delivers slightly weaker scores in Geekbench than the\n\n",
+                        ", the upper-class smartphone still offers true flagship performance thanks to its\n\n",
+                        ". In everyday use, the system runs without delays and feels very smooth.\n\n",
+                        "reaches top values. However, the 3DMark stress tests also reveal significant throttling. In these scenarios, the Vivo smartphone sometimes reduces its performance by more than 50 percent.\n\n",
+                        "While the battery capacity is only 5,360 mAh, the X300 still achieves very long runtimes in our battery test. The device can be charged either via USB-C at up to 90 watts or wirelessly at 40 watts. Wired charging takes just under an hour to fully recharge the battery.\n\n",
+                        "Room Temperature 22 °C = 72 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 45 °C / 113 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 46.6 °C / 116 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 45.8 °C / 114 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 28.3 °C / 83 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Mali-G1 Ultra MC12, Dimensity 9500, 256 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 1TB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+                        "Mali-G1 Ultra MC12, Dimensity 9500, 256 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 1TB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 1TB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.6.5:\n\n",
+                        "Mali-G1 Ultra MC12, Dimensity 9500, 256 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "10% of all tested devices in this class were better, 8% similar, 82% worse\n\n",
+                        "9% of all tested devices in this class were better, 7% similar, 84% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "MediaTek Dimensity 9500 8c/8t, 1 x 4.2 GHz ARM C1-Ultra, 3 x 3.5 GHz ARM C1-Premium, 4 x 2.7 GHz ARM C1-Pro, Cortex-X930 Travis / Cortex-A730 6x Gelas",
+                        "Graphics adapter:": "Arm Mali G1- Ultra MC12",
+                        "Memory:": "12 GB , LDDR5x",
+                        "Display:": "6.31 inch 19.5:9, 2640 x 1216 pixel 461 PPI, capacitive Touchscreen, AMOLED, LTPO, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "256 GB UFS 4.1 Flash, 256 GB , 215 GB free",
+                        "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, miracast",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B8), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B17/​B18/​B19/​B20/​B25/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B42/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n20/​n25/​n26/​n28/​n38/​n40/​n41/​n66/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 7.95 x 150.57 x 71.92 ( = 0.31 x 5.93 x 2.83 in)",
+                        "Battery:": "5360 mAh Lithium-Ion, Vivo FlashCharge",
+                        "Charging:": "wireless charging, fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 200 MPix (f/​1.68, OIS, Videos @4320p/​120fps) + 50 MPix (f/​2.0, wide)+ 50 MPix (f/​2.57, OIS, 3x optical,tele), camera2API: Level 3 Secondary Camera: 50 MPix (f/​2.0, Videos @2160p/​30fps)",
+                        "Additional features:": "Speakers: Stereo, case, sim tool, USB cable, infomaterial, OriginOS 6, 36 Months Warranty, Codecs: SBC, AAC, aptX, aptX HD, aptX TWS+, aptX Adaptive, LC3, LDAC, Opus | GNSS: GPS (L1, L5), Glonass (L1), BeiDou (B1I/​B1C/​B2a/​B2b), Galileo (E1, E5), SBAS, NavIC (L5) | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM Widevine L1 | IP68/69, fanless, waterproof",
+                        "Weight:": "190 g ( = 6.7 oz / 0.42 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "1049 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "94%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "97%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "71%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "41%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "84%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "83%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "85%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "60%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "60%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "75%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "90.2%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "40%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "94.5%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "premium chassis",
+            "high performance",
+            "good runtimes",
+            "excellent Zeiss cameras",
+            "fast charging",
+            "bright LTPO panel"
+        ],
+        "cons": [
+            "heavy throttling",
+            "high heat output",
+            "smaller battery capacity in Europe"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "MediaTek Dimensity 9500 8c/8t, 1 x 4.2 GHz ARM C1-Ultra, 3 x 3.5 GHz ARM C1-Premium, 4 x 2.7 GHz ARM C1-Pro, Cortex-X930 Travis / Cortex-A730 6x Gelas",
+                "Graphics adapter:": "Arm Mali G1- Ultra MC12",
+                "Memory:": "12 GB , LDDR5x",
+                "Display:": "6.31 inch 19.5:9, 2640 x 1216 pixel 461 PPI, capacitive Touchscreen, AMOLED, LTPO, glossy: yes, HDR, 120 Hz",
+                "Storage:": "256 GB UFS 4.1 Flash, 256 GB , 215 GB free",
+                "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, miracast",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B8), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B17/​B18/​B19/​B20/​B25/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B42/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n20/​n25/​n26/​n28/​n38/​n40/​n41/​n66/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 7.95 x 150.57 x 71.92 ( = 0.31 x 5.93 x 2.83 in)",
+                "Battery:": "5360 mAh Lithium-Ion, Vivo FlashCharge",
+                "Charging:": "wireless charging, fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 200 MPix (f/​1.68, OIS, Videos @4320p/​120fps) + 50 MPix (f/​2.0, wide)+ 50 MPix (f/​2.57, OIS, 3x optical,tele), camera2API: Level 3 Secondary Camera: 50 MPix (f/​2.0, Videos @2160p/​30fps)",
+                "Additional features:": "Speakers: Stereo, case, sim tool, USB cable, infomaterial, OriginOS 6, 36 Months Warranty, Codecs: SBC, AAC, aptX, aptX HD, aptX TWS+, aptX Adaptive, LC3, LDAC, Opus | GNSS: GPS (L1, L5), Glonass (L1), BeiDou (B1I/​B1C/​B2a/​B2b), Galileo (E1, E5), SBAS, NavIC (L5) | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM Widevine L1 | IP68/69, fanless, waterproof",
+                "Weight:": "190 g ( = 6.7 oz / 0.42 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "1049 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "94%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "97%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "71%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "41%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "84%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "83%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "85%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "60%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "60%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "75%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "90.2%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "40%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "94.5%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Brilliant-Zeiss-camera-in-a-compact-smartphone-Vivo-X300-review.1192262.0.html",
+                "text": "The Vivo X300 is a handy yet very well-equipped smartphone. The new 200-MP Zeiss camera, in particular, delivers genuinely strong results. An upcoming Galaxy S26 will have to work hard to keep up here. The Dimensity 9500 also delivers true flagship performance, although the compact Vivo phone has a high potential for thermally induced throttling. Users looking for a camera-focused flagship with numerous premium features and an especially bright OLED panel in the compact class will find the Vivo X300 to be an excellent alternative to models such as the Oppo Find X9 or Xiaomi 17. However, battery life is noticeably weaker, at least in the European version with its reduced battery capacity.\npremium chassis\nhigh performance\ngood runtimes\nexcellent Zeiss cameras\nfast charging\nbright LTPO panel\nheavy throttling\nhigh heat output\nsmaller battery capacity in Europe\nCase and features – water-resistant Android phone with detachable Zeiss lens\nPerformance, emissions and battery life – powerful smartphone with large battery\nWith a display diagonal of 6.31 inches and a weight of 190 grams, the Vivo X300 is significantly more compact than the\n. Build quality is very good, and thanks to its IP68/69 certification, the chassis is not only water- and dust-resistant but also feels very premium.\nWith a high screen-to-body ratio of 90.5 percent, the OLED panel covers almost the entire front, contributing to a modern design. As an extension of the chassis, the X300 also supports the\nFeatures include USB OTG, Bluetooth 6.0, an NFC chip, and a fast USB 3.2 port with display output support.\nThe Vivo X300 supports fast Wi-Fi 7, including the 6-GHz band. Our measured transfer rates with an Asus ROG Rapture GT-AXE11000 router are very fast and stable. A wide range of frequencies is also available for mobile data use, covering all modern cellular standards. The Vivo smartphone supports dual SIM, either with two nano-SIM cards or two eSIMs.\nFor positioning, the X300 offers dual-band connectivity across the global satellite navigation networks.\nBiometric security is handled by an ultrasonic fingerprint sensor integrated into the display, which operates quickly and reliably. The OLED panel also responds very rapidly to inputs, and overall system performance is excellent. The linear vibration motor provides pleasant haptic feedback.\nThe Vivo phone comes in a plastic-free outer box, although it is still shrink-wrapped in foil. General information on sustainability is provided for certain critical raw materials, but no specific details on the CO\nfootprint are disclosed. According to the EPREL database, the device receives a repairability rating of C.\n, the Vivo X300 is no longer shipped with the Funtouch interface in Europe, but instead with OriginOS. As a result, the compact smartphone benefits from a modern look, five years of OS updates, seven years of security updates, and Vivo's in-house AI tools.\nThe Zeiss camera system is a highlight of the Vivo X300. For a compactly built phone, the new 200 MP main camera delivers very strong photo quality. Although the sensor is relatively small at 1/1.4 inches, low light shots are also convincing, with good detail and a manageable level of image smoothing.\nBy comparison, neither the 50 MP telephoto lens nor the 50 MP ultra wide camera can quite keep up in terms of quality. However, their results certainly do not fall behind those of the\n. On the contrary, we were particularly impressed by the wide angle photos taken with the X300.\nVideo performance is also convincing, as the X300 supports a 4K120 recording mode that can even be combined with HDR.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe LTPO AMOLED panel of the X300 has a very high resolution of 1216p at 446 ppi and supports a variable refresh rate from 1 Hz to 120 Hz. According to Vivo, peak HDR brightness is rated at 4,500 nits, although in our test we reached only 4,072 cd per square metre. Maximum brightness in the more realistic APL18 pattern is also very good at 2,386 cd per square metre.\nVivo equips its compact smartphone with PWM dimming at 2,160 Hz, which we were able to confirm in our measurements. In addition, we measured a base flicker frequency of 360 Hz.\nAlso pleasing to the eye are the very low average Delta E deviations in the sRGB colour space, which we identified for the X300 in our analysis using a photospectrometer and Calman software.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 360 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 360 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 2 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 2 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nAlthough the Vivo X300 delivers slightly weaker scores in Geekbench than the\n, the upper-class smartphone still offers true flagship performance thanks to its\n. In everyday use, the system runs without delays and feels very smooth.\nreaches top values. However, the 3DMark stress tests also reveal significant throttling. In these scenarios, the Vivo smartphone sometimes reduces its performance by more than 50 percent.\nWhile the battery capacity is only 5,360 mAh, the X300 still achieves very long runtimes in our battery test. The device can be charged either via USB-C at up to 90 watts or wirelessly at 40 watts. Wired charging takes just under an hour to fully recharge the battery.\nRoom Temperature 22 °C = 72 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 45 °C / 113 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 46.6 °C / 116 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 45.8 °C / 114 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 28.3 °C / 83 F, compared to the device average of 32.9 °C / 91 F.\nMali-G1 Ultra MC12, Dimensity 9500, 256 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nAdreno 840, SD 8 Elite Gen 5, 1TB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\nMali-G1 Ultra MC12, Dimensity 9500, 256 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nAdreno 840, SD 8 Elite Gen 5, 1TB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nAdreno 840, SD 8 Elite Gen 5, 1TB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.6.5:\nMali-G1 Ultra MC12, Dimensity 9500, 256 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n10% of all tested devices in this class were better, 8% similar, 82% worse\n9% of all tested devices in this class were better, 7% similar, 84% worse"
+            }
+        ]
+    }
+}

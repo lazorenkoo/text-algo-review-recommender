@@ -1,0 +1,187 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Huawei Mate X7",
+    "article_url": "https://www.notebookcheck.net/Slim-Android-smartphone-impresses-with-excellent-cameras-Huawei-Mate-X7-review.1250817.0.html",
+    "verdict": {
+        "text": "The Mate X7 is a solid foldable with a strong camera setup, but for a 2026 foldable, it does not always match rival flagship foldables in terms of technology. It also has weaknesses in key areas such as cellular connectivity and performance. Without 5G support and with a Kirin 9030 Pro that performs adequately in everyday use but is nowhere near Snapdragon flagships, it is hard to recommend, at least at Huawei’s intended price point. Despite its very slim body, the cameras deserve special mention. For a thin foldable, the Mate X7 is exceptionally well positioned. The main camera in particular delivers excellent images, and thanks to its variable aperture and outstanding periscope telephoto lens, Huawei currently likely offers the best overall package for photo quality in the foldable segment, even if low-light performance could have been slightly better given the RYYB sensor.",
+        "pros": [
+            "premium build",
+            "solid battery life",
+            "good photo quality for a foldable",
+            "pleasant-sounding speakers"
+        ],
+        "cons": [
+            "no 5G or 6 GHz Wi-Fi",
+            "quite heavy",
+            "weak SoC",
+            "Play Store access only through workarounds"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Software and sustainability - Huawei's super-thin phone still without Google\n\n",
+            "Performance, emissions and battery life - Foldable phone with a new chipset\n\n",
+            "When unfolded, Huawei’s foldable measures just 4.5 mm; when folded, the Mate X7 comes in at 9.5 mm. That makes the foldable only slightly thicker than a current\n\n",
+            ". However, the Mate X7 does face some criticism for its weight of 236 grams, as the\n\n",
+            "The chassis not only feels premium, but is also IP59-certified and therefore water-resistant. The crease is by no means pronounced, but it is clearly noticeable. Given the approaching wave of crease-free competitors waiting in the wings, Huawei is no longer state of the art in this respect for 2026 either.\n\n",
+            ", the 2026 model now comes with a USB 3.1 port. In addition to wired display output, including an optional desktop mode, this also enables fast data transfers.\n\n",
+            "The Huawei Mate X7 is equipped with NearLink and supports Wi-Fi 7, but it does not use the 6 GHz band. In combination with our reference router, the Asus ROG Rapture GT-AXE11000, the foldable shows minor weaknesses, although the comparatively slow Wi-Fi transfer speeds are unlikely to be noticeable in everyday use.\n\n",
+            "The foldable smartphone does not support 5G and connects only to LTE networks. It supports dual SIM with either two nano-SIMs or a combination of one nano-SIM and one eSIM. Call quality is natural and clear.\n\n",
+            "For biometric security, there is a capacitive fingerprint sensor integrated into the power button, which impresses with good recognition rates and fast response times.\n\n",
+            "The Huawei Mate X7 ships with EMUI 15, which is based on open-source Android 12. It also comes without preinstalled Google services or Google apps. Users who find Huawei’s AppGallery insufficient can turn to the\n\n",
+            ", update support has improved significantly. Due to the new EU regulation, Huawei must also, at least in theory, provide security updates for its smartphones for a minimum of five years. This is noted for the foldable in the EPREL database.\n\n",
+            "Huawei provides little information on sustainability. There are no details on its CO2 footprint or the use of recycled materials. One positive point, however, is that the outer packaging is made of cardboard and the packaging materials do not use plastic.\n\n",
+            "The Mate X7 features a 50 MP main camera with a 1/1.28-inch sensor that is fairly large for a foldable. Huawei’s foldable also offers a variable aperture of f/1.49 to f/4.0.\n\n",
+            ", but they are remarkably good for a super-slim smartphone. We particularly like the sharpness and dynamic range. In low light, we would have expected slightly better illumination given the RYYB sensor. Even so, the Mate X7 is still no worse than a\n\n",
+            "However, the Huawei phone’s biggest advantage lies beyond the main camera. The 40 MP ultra-wide camera and especially the 50 MP periscope telephoto camera with 3.5x zoom are first-rate for this product category and make the difference.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The foldable 120 Hz main display measures 8 inches and, thanks to its resolution of 2,416 x 2,210 pixels, achieves a pixel density of 409 ppi. In our APL measurement, we recorded peak brightness of around 1,500 cd/m², and the same applies to HDR videos at 1,496 cd/m². These are solid values, but\n\n",
+            "Using the oscilloscope, we measured a base frequency of 360 Hz. However, high-frequency PWM dimming of more than 1,500 Hz is also used, so any health effects for sensitive users should remain limited.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 360 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 360 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7898 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "Color accuracy of the main display (color mode: Normal, color temperature: Standard, target color space: sRGB)\n\n",
+            "Color space of the main display (color mode: Normal, color temperature: Standard, target color space: sRGB)\n\n",
+            "Grayscale of the main display (color mode: Normal, color temperature: Standard, target color space: sRGB)\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 2 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "The 6.49-inch outer display is also a 120 Hz LTPO AMOLED panel, but we measured higher peak brightness here. In both the reduced white area test (APL18: 2,672 cd/m²) and the HDR measurement (2,759 cd/m²), the smaller of the two screens is significantly brighter.\n\n",
+            "Color reproduction is also on par with the foldable panel and very accurate. Huawei also makes no compromises when it comes to PWM dimming and uses the same technology here.\n\n",
+            "Color accuracy outdoor display (color mode: Normal, color temperature: Standard, target color space: sRGB)\n\n",
+            ". Although there is no official information on it outside China, Huawei confirmed to us that the Pro version is installed. In everyday use, the Mate X7 delivers satisfactory system performance, even with the high-resolution inner display.\n\n",
+            "In benchmarks, however, both the CPU and GPU clearly trail competing foldables. The SoC in the Mate X7 is not really any faster than the\n\n",
+            ". According to Geekbench, the benchmark uses 9 cores and 14 hyperthreads. That also does not really match the specifications of a Kirin 9030, which likely has only 10 threads.\n\n",
+            "The Huawei flagship also throttles quite noticeably in the 3DMark stress tests. In the worst case, the Kirin 9030 Pro with its\n\n",
+            "The Mate X7 has a 5,600 mAh battery that can be charged at up to 66 watts via USB-C and 50 watts wirelessly. In our Wi-Fi test, the foldable with the large inner display lasted around 17 hours. That is not bad, but it is not on par with\n\n",
+            "Room Temperature 21.8 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 37.2 °C / 99 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 45.2 °C / 113 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 40.9 °C / 106 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 24.5 °C / 76 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Maleoon 935, Kirin 9030 Pro, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Maleoon 935, Kirin 9030 Pro, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Maleoon 935, Kirin 9030 Pro, 512 GB UFS 4.1 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "Maleoon 935, Kirin 9030 Pro, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+            "Maleoon 935, Kirin 9030 Pro, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "7% of all tested devices in this class were better, 6% similar, 87% worse\n\n",
+            "15% of all tested devices in this class were better, 8% similar, 77% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "HiSilicon Kirin 9030 Pro 9c/14t, 1 x 2.8 GHz, 4 x 2.3 GHz, 4 x 1.7 GHz",
+            "Graphics adapter:": "HiSilicon Maleoon 935 , Core: 933 MHz",
+            "Memory:": "16 GB , LPDDR5x",
+            "Display:": "8.00 inch 1.1:1, 2416 x 2210 pixel 409 PPI, Capacitive Touchscreen, OLED, Cover display: 6.49 inches, 2444 x 1080 pixels, 120hz, glossy: yes, HDR, 120 Hz",
+            "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 442 GB free",
+            "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, barometer, OTG, IR-Blaster",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B6/​B7/​B8/​B9/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B34/​B38/​B39/​B40/​B41/​B42/​B48/​B66), Dual SIM, LTE, GPS",
+            "Size:": "height x width x depth (in mm): 4.5 x 156.8 x 144.2 ( = 0.18 x 6.17 x 5.68 in)",
+            "Battery:": "5525 mAh Lithium-Ion",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 12",
+            "Camera:": "Primary Camera: 50 MPix (f/1.5-f/4.0, 24 mm, 1/1.28\", OIS) + 50 MPix (3.5x optical zoom, f/2.2, 81 mm, OIS) + 40 MPix (f/2.2, 13mm), camera2 API: full Secondary Camera: 8 MPix (f/2.2, cover display) + 8 MPix (f/2.4, inner display)",
+            "Additional features:": "Speakers: Stereo, Keyboard: OnScreen, USB cable, case, info material, EMUI 15, 24 Months Warranty, HDR, HLG, HDR10, SAR value: 0.90W/​kg head, 1.23W/​kg body, GPS (L1/​L5), GLONASS, BeiDou (B1I/​B1C/​B2a/​B2b), Galileo (E1/​E5a/​E5b), QZSS (L1/​L5), NavIC, fanless, waterproof",
+            "Weight:": "236 g ( = 8.32 oz / 0.52 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "2099 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "94%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "89%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "87%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "53%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "74%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "22%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "85%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "30%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "30%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "90.8%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "90.8%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "44%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "56.6%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "56.6%"
+            }
+        ]
+    }
+}

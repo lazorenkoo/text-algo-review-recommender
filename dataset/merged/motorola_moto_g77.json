@@ -1,0 +1,172 @@
+{
+    "phone_key": "motorola_moto_g77",
+    "primary_name": "Motorola Moto G77",
+    "aliases": [
+        "Motorola Moto G77"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Motorola Moto G77",
+                "article_url": "https://www.notebookcheck.net/Motorola-Moto-G77-Smartphone-Review-The-brightest-mid-range-AMOLED-phone-is-elegant-and-slim.1239294.0.html",
+                "verdict": {
+                    "text": "The Motorola Moto G77 is an attractive and slim mid-range smartphone. The phone features good speakers and a highly bright display while equally offering good battery life. Thanks to Motorola's design philosophy with Pantone colors and a faux leather back, the phone has a high-quality look that doesn't warp together with a great finish. However, the Moto G77 lacks any form of complete water ingress protection, and you won't find a microSD reader either. So, you will have to make do with the 256 GB storage, which is unfortunately not particularly fast. The SoC could also do with more power for a much smoother operation. The fingerprint sensor is positioned very low on the screen, but it works reliably. The software is kept up to date for four years, which does not actually comply with EU regulations. The cameras take decent pictures, but you shouldn't expect too much flexibility. Overall, the Motorola Moto G77 is a slim and attractive mid-range phone with good battery run times that could do with a little more performance.",
+                    "pros": [
+                        "slim, light, elegant",
+                        "very good workmanship",
+                        "very bright and color-fast AMOLED",
+                        "powerful stereo speakers",
+                        "long battery life",
+                        "stable cell phone reception",
+                        "eSIM support",
+                        "reliable fingerprint sensor",
+                        "bright main camera"
+                    ],
+                    "cons": [
+                        "no microSD storage expansion",
+                        "mass storage only moderately fast",
+                        "weak SoC",
+                        "slow WLAN",
+                        "PWM flickering around 100 Hz",
+                        "camera without 4K video",
+                        "only 4 years of updates",
+                        "little sustainability data"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Motorola's design philosophy relies on Pantone colors. These usually color a back made of a synthetic leather-like material as is the case with our Moto G77 unit. Available color options include Black Olive, a slightly brownish black shade, and Shaded Spruce, a blue-green variant.\n\n",
+                        "The chassis is very well made and can hardly be twisted. Compared to the predecessor\n\n",
+                        ", our test device is significantly slimmer and lighter even though it has slightly more battery capacity.\n\n",
+                        "The Moto G77 is not really water resistant, it is only protected against splash water.\n\n",
+                        "8 GB RAM and 256 GB of storage are installed in the smartphone, which puts it on par with the rest of its class. Memory expansion via microSD is not possible. In addition to a nano-SIM, an eSIM can also be used.\n\n",
+                        "You have to make do with Wi-Fi 5 with Moto G77. Surprising, considering that the Moto G75 already offered Wi-Fi 6, and the\n\n",
+                        "showed that Wi-Fi 6 is possible with higher speeds in this price range.\n\n",
+                        "Unfortunately, you will have to make do with typical Wi-Fi 5 speeds with MIMO 1x1. We also observed slight drops during our test with the Asus ROG Rapture GT-AXE11000 reference router.\n\n",
+                        "Many 4G and 5G frequencies are available for mobile communications. The reception was mostly stable during our test with random samples.\n\n",
+                        "The fingerprint reader is hidden behind the screen and is positioned quite far down. This is good for small hands but can lead to problems with protruding phone cases.\n\n",
+                        "The reader reacts quickly and unlocks the phone with short processing times. 2D face recognition via the front camera is also possible.\n\n",
+                        "Android 16 comes pre-installed and updates are planned until January 2030. System updates up to Android 19 are also planned. This is a reasonable period, but other manufacturers such as Samsung offer a significantly longer security update period.\n\n",
+                        "In terms of sustainability, the phone comes in a box that uses no plastic. Otherwise, nothing is known about recycling quotas or the CO\n\n",
+                        "Motorola is particularly keen to impress with its main camera that sports 108 MP and a large aperture of f/1.7, so that plenty of light hits the sensor. However, the video capabilities have been reduced compared to its predecessor: 4K videos are no longer possible.\n\n",
+                        "The images from the main camera actually look well-lit and offer a decent level of detail. In low light, however, the dynamic range quickly decreases in dark areas. There is also an 8 MP wide-angle camera, which does not take very detailed photos.\n\n",
+                        "The 32 MP selfie camera shoots quite acceptable selfies that also show acceptable details.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The AMOLED screen of the Moto G77 has excellent luminosity and can therefore hold its own even in bright environments. The color reproduction is also very accurate.\n\n",
+                        "However, you have to live with PWM flickering in the 100 Hz range. Sensitive people should therefore try out the screen before buying.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 103 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 103 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 5 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 8 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "is quite weak on the chest and lets the Moto G77 fall somewhat behind the competition in terms of performance. It is generally sufficient for smooth operation, but there are not many reserves for demanding tasks.\n\n",
+                        "The heat build-up on the casing remains very moderate even under prolonged load, and we can only detect minimal throttling in the 3DMark stress tests.\n\n",
+                        "The hybrid stereo speakers sound very good and are powerful, but they become a lot more treble-heavy at full volume. If you turn the volume down a notch, you get a much fuller sound. Many audio codecs are available for wireless sound transmission via Bluetooth 5.4.\n\n",
+                        "The 5,200 mAh battery is typical for the class. At just under 20 hours of battery life in our WLAN test, the Moto G77 achieves a good value and outperforms most competitors in the price range. This should easily last a day with medium use of the phone without charging.\n\n",
+                        "If the phone does need to be plugged in, it will be fully charged again in around 1:30 hours thanks to 30 W charging speeds.\n\n",
+                        "Power Supply (max.) 42.3 °C = 108 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 36.2 °C = 97 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 36.8 °C / 98 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 40 °C / 104 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 38.7 °C / 102 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.1 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "81% of all tested devices in this class were better, 3% similar, 16% worse\n\n",
+                        "42% of all tested devices in this class were better, 8% similar, 50% worse\n\n",
+                        "The Motorola Moto G77 is stylish, quite light, and features good speakers and a bright screen. However, there is still room for improvement in terms of performance.\n\n",
+                        "Motorola Moto G77 in review. Test device provided by Motorola Germany.\n\n",
+                        "The selection of devices to be reviewed is made by our editorial team. The test sample was provided to the author as a loan by the manufacturer or retailer for the purpose of this review. The lender had no influence on this review, nor did the manufacturer receive a copy of this review before publication. There was no obligation to publish this review. As an independent media company, Notebookcheck is not subjected to the authority of manufacturers, retailers or publishers.\n\n",
+                        "Every year, Notebookcheck independently reviews hundreds of laptops and smartphones using standardized procedures to ensure that all results are comparable. We have continuously developed our test methods for around 20 years and set industry standards in the process. In our test labs, high-quality measuring equipment is utilized by experienced technicians and editors. These tests involve a multi-stage validation process. Our complex rating system is based on hundreds of well-founded measurements and benchmarks, which maintains objectivity. Further information on our test methods can be found\n\n",
+                        "Motorola Moto G75 smartphone review – Fast, waterproof and with long update...\n\n",
+                        "Galaxy A37 és Galaxy A57 A57: a kiszivárgás feltárja a Samsung új A-sorozatú telefonjainak legfontosabb specifikációit\n\n",
+                        "Elegáns telefon csúcs akkumulátorral - Motorola Moto G67 Power okostelefon-áttekintés\n\n",
+                        "Hatalmas akkumulátor és elegáns kialakítás: Elég ez még a Xiaomi és a riválisok ellen? - Motorola Moto G57 Power felülvizsgálat\n\n",
+                        "A Moto G77 108 megapixeles kamerával, 3x-os veszteségmentes zoommal, 120 Hz-es AMOLED kijelzővel és IP64-es védettséggel érkezik a piacra\n\n",
+                        "A Moto G67 mellett 108MP-es kamerával rendelkező Motorola Moto G77 is kiszivárgott\n\n",
+                        "I initially wrote about gaming laptops when I joined Notebookcheck in 2009. I was then involved with the setup of the comparison portal Notebookinfo and worked with social media concepts for large companies like BMW and Adidas, while also returning to work for Notebookcheck in 2012. Nowadays, I focus on smartphones, tablets, and future technologies. Since 2018 I have been Managing Editor for mobile device reviews, working alongside my colleague Daniel Schmidt.\n\n",
+                        "My main responsibility as an editorial assistant is maintaining the Library section, which aggregates reviews from other publications and channels. In addition, my daily breakfast is Notebookcheck's long list of new content, which I comb through to select the most interesting topics for translation from English to French, Italian, Spanish, Portuguese, and Dutch.\"\n\n",
+                        "> Motorola Moto G77 Smartphone Review: The brightest mid-range AMOLED phone is elegant and slim\n\n",
+                        "* If you buy something via one of our affiliate links, Notebookcheck may earn a commission. Thank you for your support!\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Mediatek Dimensity 6400 8c/8t, 2 x 2.5 GHz ARM Cortex-A76, 6 x 2.0 GHz ARM Cortex-A55",
+                        "Graphics adapter:": "ARM Mali-G57 MP2",
+                        "Memory:": "8 GB",
+                        "Display:": "6.78 inch 19.6:9, 2772 x 1272 pixel 450 PPI, capacitive touchscreen, AMOLED, Gorilla Glass 7i, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "256 GB UFS 2.1 Flash, 256 GB , 200 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration, gyroscope, compass, proximity",
+                        "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B5/​B8), 4G (B1/​B2/​B3/​B5/​B7/​B8/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42/​B71), 5G (n1/​n3/​n5/​n7/​n8/​n20/​n26/​n28/​n38/​n40/​n41/​n71/​n75/​n77/​n78), LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 7.3 x 164.2 x 77.4 ( = 0.29 x 6.46 x 3.05 in)",
+                        "Battery:": "5200 mAh Lithium-Ion, 30 Watt charging",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 108 MPix f/​1.7, phase shift AF, dual LED flash, Videos @1440p/​30fps (Camera 1); 8.0MP, f/​2.2, Contrast-AF, wide angle (Camera 2) Secondary Camera: 32 MPix Videos @1440p/​30fps",
+                        "Additional features:": "Speakers: stereo speakers (hybrid), silicone bumper, USB cable, SIM tool, 24 Months Warranty, eSIM support, IP64 certified, MIL-STD-810H certified, SAR: 0.90W/​kg (head), 1.35W/​kg (body), fanless",
+                        "Weight:": "182 g ( = 6.42 oz / 0.4 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "300 Euro"
+                    },
+                    "ratings": []
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "slim, light, elegant",
+            "very good workmanship",
+            "very bright and color-fast AMOLED",
+            "powerful stereo speakers",
+            "long battery life",
+            "stable cell phone reception",
+            "eSIM support",
+            "reliable fingerprint sensor",
+            "bright main camera"
+        ],
+        "cons": [
+            "no microSD storage expansion",
+            "mass storage only moderately fast",
+            "weak SoC",
+            "slow WLAN",
+            "PWM flickering around 100 Hz",
+            "camera without 4K video",
+            "only 4 years of updates",
+            "little sustainability data"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Mediatek Dimensity 6400 8c/8t, 2 x 2.5 GHz ARM Cortex-A76, 6 x 2.0 GHz ARM Cortex-A55",
+                "Graphics adapter:": "ARM Mali-G57 MP2",
+                "Memory:": "8 GB",
+                "Display:": "6.78 inch 19.6:9, 2772 x 1272 pixel 450 PPI, capacitive touchscreen, AMOLED, Gorilla Glass 7i, glossy: yes, HDR, 120 Hz",
+                "Storage:": "256 GB UFS 2.1 Flash, 256 GB , 200 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration, gyroscope, compass, proximity",
+                "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B5/​B8), 4G (B1/​B2/​B3/​B5/​B7/​B8/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42/​B71), 5G (n1/​n3/​n5/​n7/​n8/​n20/​n26/​n28/​n38/​n40/​n41/​n71/​n75/​n77/​n78), LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 7.3 x 164.2 x 77.4 ( = 0.29 x 6.46 x 3.05 in)",
+                "Battery:": "5200 mAh Lithium-Ion, 30 Watt charging",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 108 MPix f/​1.7, phase shift AF, dual LED flash, Videos @1440p/​30fps (Camera 1); 8.0MP, f/​2.2, Contrast-AF, wide angle (Camera 2) Secondary Camera: 32 MPix Videos @1440p/​30fps",
+                "Additional features:": "Speakers: stereo speakers (hybrid), silicone bumper, USB cable, SIM tool, 24 Months Warranty, eSIM support, IP64 certified, MIL-STD-810H certified, SAR: 0.90W/​kg (head), 1.35W/​kg (body), fanless",
+                "Weight:": "182 g ( = 6.42 oz / 0.4 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "300 Euro"
+            }
+        },
+        "ratings": {},
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Motorola-Moto-G77-Smartphone-Review-The-brightest-mid-range-AMOLED-phone-is-elegant-and-slim.1239294.0.html",
+                "text": "The Motorola Moto G77 is an attractive and slim mid-range smartphone. The phone features good speakers and a highly bright display while equally offering good battery life. Thanks to Motorola's design philosophy with Pantone colors and a faux leather back, the phone has a high-quality look that doesn't warp together with a great finish. However, the Moto G77 lacks any form of complete water ingress protection, and you won't find a microSD reader either. So, you will have to make do with the 256 GB storage, which is unfortunately not particularly fast. The SoC could also do with more power for a much smoother operation. The fingerprint sensor is positioned very low on the screen, but it works reliably. The software is kept up to date for four years, which does not actually comply with EU regulations. The cameras take decent pictures, but you shouldn't expect too much flexibility. Overall, the Motorola Moto G77 is a slim and attractive mid-range phone with good battery run times that could do with a little more performance.\nslim, light, elegant\nvery good workmanship\nvery bright and color-fast AMOLED\npowerful stereo speakers\nlong battery life\nstable cell phone reception\neSIM support\nreliable fingerprint sensor\nbright main camera\nno microSD storage expansion\nmass storage only moderately fast\nweak SoC\nslow WLAN\nPWM flickering around 100 Hz\ncamera without 4K video\nonly 4 years of updates\nlittle sustainability data\nMotorola's design philosophy relies on Pantone colors. These usually color a back made of a synthetic leather-like material as is the case with our Moto G77 unit. Available color options include Black Olive, a slightly brownish black shade, and Shaded Spruce, a blue-green variant.\nThe chassis is very well made and can hardly be twisted. Compared to the predecessor\n, our test device is significantly slimmer and lighter even though it has slightly more battery capacity.\nThe Moto G77 is not really water resistant, it is only protected against splash water.\n8 GB RAM and 256 GB of storage are installed in the smartphone, which puts it on par with the rest of its class. Memory expansion via microSD is not possible. In addition to a nano-SIM, an eSIM can also be used.\nYou have to make do with Wi-Fi 5 with Moto G77. Surprising, considering that the Moto G75 already offered Wi-Fi 6, and the\nshowed that Wi-Fi 6 is possible with higher speeds in this price range.\nUnfortunately, you will have to make do with typical Wi-Fi 5 speeds with MIMO 1x1. We also observed slight drops during our test with the Asus ROG Rapture GT-AXE11000 reference router.\nMany 4G and 5G frequencies are available for mobile communications. The reception was mostly stable during our test with random samples.\nThe fingerprint reader is hidden behind the screen and is positioned quite far down. This is good for small hands but can lead to problems with protruding phone cases.\nThe reader reacts quickly and unlocks the phone with short processing times. 2D face recognition via the front camera is also possible.\nAndroid 16 comes pre-installed and updates are planned until January 2030. System updates up to Android 19 are also planned. This is a reasonable period, but other manufacturers such as Samsung offer a significantly longer security update period.\nIn terms of sustainability, the phone comes in a box that uses no plastic. Otherwise, nothing is known about recycling quotas or the CO\nMotorola is particularly keen to impress with its main camera that sports 108 MP and a large aperture of f/1.7, so that plenty of light hits the sensor. However, the video capabilities have been reduced compared to its predecessor: 4K videos are no longer possible.\nThe images from the main camera actually look well-lit and offer a decent level of detail. In low light, however, the dynamic range quickly decreases in dark areas. There is also an 8 MP wide-angle camera, which does not take very detailed photos.\nThe 32 MP selfie camera shoots quite acceptable selfies that also show acceptable details.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe AMOLED screen of the Moto G77 has excellent luminosity and can therefore hold its own even in bright environments. The color reproduction is also very accurate.\nHowever, you have to live with PWM flickering in the 100 Hz range. Sensitive people should therefore try out the screen before buying.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 103 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 103 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 5 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 8 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nis quite weak on the chest and lets the Moto G77 fall somewhat behind the competition in terms of performance. It is generally sufficient for smooth operation, but there are not many reserves for demanding tasks.\nThe heat build-up on the casing remains very moderate even under prolonged load, and we can only detect minimal throttling in the 3DMark stress tests.\nThe hybrid stereo speakers sound very good and are powerful, but they become a lot more treble-heavy at full volume. If you turn the volume down a notch, you get a much fuller sound. Many audio codecs are available for wireless sound transmission via Bluetooth 5.4.\nThe 5,200 mAh battery is typical for the class. At just under 20 hours of battery life in our WLAN test, the Moto G77 achieves a good value and outperforms most competitors in the price range. This should easily last a day with medium use of the phone without charging.\nIf the phone does need to be plugged in, it will be fully charged again in around 1:30 hours thanks to 30 W charging speeds.\nPower Supply (max.) 42.3 °C = 108 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 36.2 °C = 97 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 36.8 °C / 98 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 40 °C / 104 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 38.7 °C / 102 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.1 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n81% of all tested devices in this class were better, 3% similar, 16% worse\n42% of all tested devices in this class were better, 8% similar, 50% worse\nThe Motorola Moto G77 is stylish, quite light, and features good speakers and a bright screen. However, there is still room for improvement in terms of performance.\nMotorola Moto G77 in review. Test device provided by Motorola Germany.\nThe selection of devices to be reviewed is made by our editorial team. The test sample was provided to the author as a loan by the manufacturer or retailer for the purpose of this review. The lender had no influence on this review, nor did the manufacturer receive a copy of this review before publication. There was no obligation to publish this review. As an independent media company, Notebookcheck is not subjected to the authority of manufacturers, retailers or publishers.\nEvery year, Notebookcheck independently reviews hundreds of laptops and smartphones using standardized procedures to ensure that all results are comparable. We have continuously developed our test methods for around 20 years and set industry standards in the process. In our test labs, high-quality measuring equipment is utilized by experienced technicians and editors. These tests involve a multi-stage validation process. Our complex rating system is based on hundreds of well-founded measurements and benchmarks, which maintains objectivity. Further information on our test methods can be found\nMotorola Moto G75 smartphone review – Fast, waterproof and with long update...\nGalaxy A37 és Galaxy A57 A57: a kiszivárgás feltárja a Samsung új A-sorozatú telefonjainak legfontosabb specifikációit\nElegáns telefon csúcs akkumulátorral - Motorola Moto G67 Power okostelefon-áttekintés\nHatalmas akkumulátor és elegáns kialakítás: Elég ez még a Xiaomi és a riválisok ellen? - Motorola Moto G57 Power felülvizsgálat\nA Moto G77 108 megapixeles kamerával, 3x-os veszteségmentes zoommal, 120 Hz-es AMOLED kijelzővel és IP64-es védettséggel érkezik a piacra\nA Moto G67 mellett 108MP-es kamerával rendelkező Motorola Moto G77 is kiszivárgott\nI initially wrote about gaming laptops when I joined Notebookcheck in 2009. I was then involved with the setup of the comparison portal Notebookinfo and worked with social media concepts for large companies like BMW and Adidas, while also returning to work for Notebookcheck in 2012. Nowadays, I focus on smartphones, tablets, and future technologies. Since 2018 I have been Managing Editor for mobile device reviews, working alongside my colleague Daniel Schmidt.\nMy main responsibility as an editorial assistant is maintaining the Library section, which aggregates reviews from other publications and channels. In addition, my daily breakfast is Notebookcheck's long list of new content, which I comb through to select the most interesting topics for translation from English to French, Italian, Spanish, Portuguese, and Dutch.\"\n> Motorola Moto G77 Smartphone Review: The brightest mid-range AMOLED phone is elegant and slim\n* If you buy something via one of our affiliate links, Notebookcheck may earn a commission. Thank you for your support!"
+            }
+        ]
+    }
+}

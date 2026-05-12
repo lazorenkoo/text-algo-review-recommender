@@ -1,0 +1,351 @@
+{
+    "phone_key": "xiaomi_poco_f8_ultra",
+    "primary_name": "Xiaomi Poco F8 Ultra",
+    "aliases": [
+        "Xiaomi Poco F8 Ultra"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Xiaomi Poco F8 Ultra",
+                "article_url": "https://www.notebookcheck.net/Affordable-flagship-with-Bose-subwoofer-Xiaomi-Poco-F8-Ultra-review.1189651.0.html",
+                "verdict": {
+                    "text": "The Poco F8 Ultra positions itself as a high-end smartphone and is equipped with a suitably powerful SoC. It also features a bright and colour-accurate 120-Hz AMOLED display, a solid triple-camera setup, USB 3.2 support, IP68 certification, a 6,500 mAh battery and fast charging both wired and wireless. In addition, the device delivers excellent Bose-tuned audio. That said, the display is not based on power-saving LTPO technology, 6-GHz Wi-Fi is missing, and the smartphone shows significant heat development under sustained stress tests. Software update support could also be more generous. Despite these shortcomings, the Poco F8 Ultra offers a very strong overall package that faces little direct competition in its price segment.",
+                    "pros": [
+                        "fast SoC",
+                        "good camera setup",
+                        "IP68-certified",
+                        "excellent 2.1 audio system tuned by Bose",
+                        "large battery with fast charging"
+                    ],
+                    "cons": [
+                        "no 6 GHz Wi-Fi",
+                        "significant heat development under sustained load",
+                        "no LTPO panel"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "The second Ultra model followed quickly, with the Poco F8 Ultra replacing its p\n\n",
+                        "after just around eight months. Poco has sought to reassure buyers, however, stating that this accelerated release cycle is intended as a one-off strategic adjustment rather than a permanent change to the company's internal release calendar.\n\n",
+                        "Unfortunately, Xiaomi has also increased prices. The Poco F8 Ultra is once again available in two storage configurations, 12 GB/256 GB (MSRP: €830) and 16 GB/512 GB (MSRP: €900), representing price increases of €80 and €100 respectively compared to the previous generation. At the time of writing, no officially confirmed US pricing has been announced.\n\n",
+                        "The Poco F8 Ultra is available in Black and Denim Blue colour variants. On the black model, the frame is matte black and the rear panel is made from a fibreglass composite. The blue version, by contrast, uses a silicone-resin-based nanomaterial designed to mimic the look of denim, paired with a matte silver aluminium frame. The chassis has a nominal thickness of 8.3 mm, which we were able to confirm. Including the camera module, thickness increases to up to 11.9 mm.\n\n",
+                        "Build quality appears high overall. The denim-style rear panel features a coarse texture and offers very good grip, although it feels more rubber-like than fabric-like to the touch. Panel gaps are tight and even, and the smartphone exhibits only minimal creaking when subjected to torsional stress. In addition, the device is certified to the IP68 standard, making it resistant to both dust and water. The front is protected by Poco's in-house Poco Shield Glass.\n\n",
+                        ", the Poco F8 Ultra features a fast USB 3.2 port that supports wired image output. The high transfer rates in the copy test (768.14 MB/s) actually speak in favor of the faster Gen 2 standard.\n\n",
+                        "As expected, the device does not feature an audio jack or microSD support. It supports Xiaomi's offline communication, but does without UWB.\n\n",
+                        "The Poco F8 Ultra ships with Google Android 16 and Xiaomi’s HyperOS 3.0. According to the manufacturer, it is set to receive four years of Android version updates and a further two years of security patches. Given the device’s high-end ambitions, longer software support would have been desirable.\n\n",
+                        "Xiaomi’s HyperAI features are also included. However, the system comes with a considerable number of pre-installed third-party apps as well as advertising. While these apps can be removed easily, we explain how to disable system advertising in a separate article.\n\n",
+                        "There is only general information about sustainability on the company website, but no full report on the smartphone. The outer packaging is largely free of plastic, but is shrink-wrapped.\n\n",
+                        "The Poco F8 Ultra supports all modern mobile communication standards with a broad frequency band support and showed good reception characteristics during the test, even abroad.\n\n",
+                        "The current Wi-Fi 7 is supported in the WLAN, but without the fast 6 GHz band. However, the transmission rates with 5 GHz are at the expected level and stable.\n\n",
+                        "Satellite lock-on was achieved very quickly outdoors. Indoors, acquisition took slightly longer, but remained comparatively fast.\n\n",
+                        ". The two devices performed at a similar level, although the fitness smartwatch proved to be slightly more accurate. Nevertheless, the Poco F8 Ultra delivered a very good overall result.\n\n",
+                        "When held to the ear, the Poco F8 Ultra impresses with very good voice quality in quiet environments, while the noise suppression is only mediocre and can lead to dropouts on busy roads. The integrated speaker ensures a solid call volume without any significant reverberation effects.\n\n",
+                        "Dual SIM support includes two nano-SIM cards or two eSIMs, including mixed combinations; VoLTE, Wi-Fi calls and Vo5G are also available and worked reliably in the test.\n\n",
+                        "Although the front camera of the Poco F8 Ultra has a high resolution, it does not use pixel binning and the full number of pixels is only available in the 4:3 aspect ratio, which is reduced to 24 MP in the default 16:9. The images are coherent and pleasing in daylight, but details are lost early on in low light.\n\n",
+                        "sensor, which impresses with a balanced image composition and takes good photos, even in dim light. The ultra-wide angle shows no aberrations in the test, but could do with a little more sharpness. The optical zoom also delivers good results and can also be used as a macro lens (minimum distance: 30 cm). Both the main and zoom sensors can use OIS.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The Poco F8 Ultra's scope of delivery includes a USB cable (Type-A to Type-C), a SIM eject tool and a black silicone protective case.\n\n",
+                        "The smartphone comes with a 12-month manufacturer warranty, which does not affect the\n\n",
+                        "applicable in the country of purchase. Optionally, Xiaomi's Xiaomi Care insurance package can be added, costing either €59 or €79 for two years, depending on the level of coverage.\n\n",
+                        "The capacitive touchscreen of the Poco F8 Ultra responds reliably and precisely to inputs. Glide characteristics with the preinstalled screen protector are good, although direct interaction with the glass itself feels noticeably more premium.\n\n",
+                        "For biometric security, an ultrasonic fingerprint sensor is integrated into the display and proved to be very fast and reliable during testing. In addition or as an alternative, facial recognition via the front-facing camera can be used, which unlocks the device quickly under good lighting conditions.\n\n",
+                        "The linear vibration motor provides crisp haptic feedback, although it could occasionally be a little stronger.\n\n",
+                        "Compared to its predecessor, the display of the Poco F8 Ultra has grown slightly in size, but at the same time features a lower resolution. Even so, a sharp image is still ensured with a pixel density of 416 PPI. It is also disappointing that the panel is once again not based on LTPO technology, meaning the refresh rate can only be adjusted dynamically by the system between 60 and 120 Hz.\n\n",
+                        "Brightness levels are high, reaching around 3,500 cd/m² in both the APL18 and HDR measurements. When brightness is adjusted manually, a maximum of 617 cd/m² is available, while activating the sunlight mode allows values of up to 821 cd/m².\n\n",
+                        ", Poco lists DC dimming for brightness control in the specifications. Under the oscilloscope, however, this turns out to be high-frequency PWM dimming with a low base frequency. As a result, the display is comparatively easy on the eyes, but not completely flicker-free.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7885 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "We assess the display's calibration accuracy using Calman. When the colour temperature is set to\n\n",
+                        ", colour reproduction is very accurate, though it still appears marginally cooler than the target.\n\n",
+                        "Grayscale (color scheme: Original Color Pro, color temperature: Warm, target color space: sRGB)\n\n",
+                        "Colors (color scheme: Original Color Pro, color temperature: Warm, target color space: sRGB)\n\n",
+                        "Color space (color scheme: original color Pro, color temperature: warm, target color space: sRGB)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 3 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "Outdoors, the Poco F8 Ultra leaves a good impression even on warm days and remains easy to read at all times. At most, reflections can be somewhat distracting.\n\n",
+                        "Viewing angle stability of the panel is very good. At very shallow viewing angles, the image only darkens slightly.\n\n",
+                        "Depending on the selected configuration, the smartphone has 12 or 16 GB LPDDR5x RAM available and the UFS 4.1 memory is also one of the fastest.\n\n",
+                        "serves as the graphics solution. At present, there is no faster GPU available in a smartphone. In addition, Poco equips the F8 Ultra with a dedicated VisionBoost D8 chipset, which is intended to further optimise gaming performance.\n\n",
+                        "Under sustained load, surface temperatures occasionally approach the 50-degree mark, which is still within an acceptable range.\n\n",
+                        "Less convincing is the SoC's cooling performance, however. Only one of the 3DMark stress tests was able to run to completion, while the others were terminated early due to overheating concerns. Even the lightest test (Wild Life) stopped after 12 out of 20 loops. In everyday use, however, we have so far not observed any resulting limitations.\n\n",
+                        "Room Temperature 20.6 °C = 69 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 48 °C / 118 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 49.8 °C / 122 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 48.9 °C / 120 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 28 °C / 82 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Solar Bay Extreme Stress Test Stability; 1.0.3.6:\n\n",
+                        "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Solar Bay Extreme Stress Test Stability; 1.0.3.6:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\n\n",
+                        "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\n\n",
+                        "DXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\n\n",
+                        "The speakers tuned by Bose, including a rear-mounted subwoofer, are a genuine highlight. The difference is clearly audible, and the Poco F8 Ultra delivers acoustic performance unlike that of any smartphone we have tested so far.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "0% of all tested devices in this class were better, 0% similar, 100% worse\n\n",
+                        "2% of all tested devices in this class were better, 2% similar, 96% worse\n\n",
+                        "The power consumption of the Poco F8 Ultra remains at a relatively efficient level.\n\n",
+                        "Charging is supported at up to 100 watts via cable and up to 50 watts wirelessly. In testing, a full charging cycle took just 35 minutes (50% in 15 minutes, 80% in 27 minutes).\n\n",
+                        "Qualcomm Snapdragon 8 Elite Gen 5; Geekbench 5.5 Power Consumption 150cd:\n\n",
+                        "Qualcomm Snapdragon 8 Elite Gen 5; 1920x1080 Aztec Ruins Normal Offscreen:\n\n",
+                        "Despite its large battery, the Poco F8 Ultra's runtimes are not among the very best, but they are still very good overall. With just under 22 hours in the Wi-Fi test, it should offer more than enough endurance to last two days.\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                        "Graphics adapter:": "Qualcomm Adreno 840",
+                        "Memory:": "16 GB , LPDDR5x @ 9600 Mbps",
+                        "Display:": "6.90 inch 19.56:9, 2608 x 1200 pixel 416 PPI, Capacitive touchscreen, AMOLED, Touch sampling rate: 480 Hz (instant: 2560 Hz), Wet Touch 2.0, Poco Glass, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 476.4 GB free",
+                        "Connections:": "1 USB 3.1 Gen2, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Accelerometer, proximity, gyroscope, compass, flicker, colour, USB OTG, IR blaster",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850, 900, 1800, 1900 MHz), 3G (1, 2, 4, 5, 6, 8, 19), LTE (Band 1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 48, 66, (70M), 71), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, (70M), 77, 78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.3 x 163.33 x 77.82 ( = 0.33 x 6.43 x 3.06 in)",
+                        "Battery:": "6500 mAh Lithium-Ion, Silicon-carbon anode, USB Power Delivery 2.0 / 3.0, reverse charging up to 22.5 W, battery cycles: 1,000",
+                        "Charging:": "wireless charging, fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 50 MPix (Light Fusion 950, 1/1.31\", f/1.67, 23 mm, 1G + 6P, OIS) + 50 MP (5× optical zoom, f/3.0, 115 mm, 4P, OIS) + 50 MP (ultra-wide, f/2.4, 18 mm); Camera2 API level: Level 3 Secondary Camera: 32 MPix (f/2.2, 22 / 27 mm)",
+                        "Additional features:": "Speakers: Dual speakers + subwoofer, sound by Bose, SIM eject tool, USB-C cable, case, HyperOS 3.0, 12 Months Warranty, Bluetooth audio codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LC3, LHDC 5.0 | GNSS: GPS (L1, L5), GLONASS (L1), BeiDou (B1I, B1C, B2a), Galileo (E1, E5a), QZSS (L1, L5), NavIC (L5) | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM: Widevine L1 | SIM: up to 2 eSIMs, up to 2 nano-SIMs | Protection: IP68 | USB copy test: 768.14 MB/s (connected to Samsung Portable SSD T7, USB 3.2 Gen 2) | Supported file systems (external storage): FAT32, exFAT, NTFS | SAR: body 0.997 W/kg, head 0.994 W/kg | Maximum charging speed: 100 W (wired) / 50 W (wireless), fanless, waterproof",
+                        "Released:": "11/26/2025",
+                        "Weight:": "220 g ( = 7.76 oz / 0.49 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "900 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "99%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "87%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "38%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "55%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "80%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "0%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "0%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "95.9%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "40%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "45.8%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "45.8%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "fast SoC",
+            "good camera setup",
+            "IP68-certified",
+            "excellent 2.1 audio system tuned by Bose",
+            "large battery with fast charging"
+        ],
+        "cons": [
+            "no 6 GHz Wi-Fi",
+            "significant heat development under sustained load",
+            "no LTPO panel"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                "Graphics adapter:": "Qualcomm Adreno 840",
+                "Memory:": "16 GB , LPDDR5x @ 9600 Mbps",
+                "Display:": "6.90 inch 19.56:9, 2608 x 1200 pixel 416 PPI, Capacitive touchscreen, AMOLED, Touch sampling rate: 480 Hz (instant: 2560 Hz), Wet Touch 2.0, Poco Glass, glossy: yes, HDR, 120 Hz",
+                "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 476.4 GB free",
+                "Connections:": "1 USB 3.1 Gen2, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Accelerometer, proximity, gyroscope, compass, flicker, colour, USB OTG, IR blaster",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850, 900, 1800, 1900 MHz), 3G (1, 2, 4, 5, 6, 8, 19), LTE (Band 1, 2, 3, 4, 5, 7, 8, 18, 19, 20, 26, 28, 38, 40, 41, 42, 48, 66, (70M), 71), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 20, 26, 28, 38, 40, 41, 48, 66, (70M), 77, 78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.3 x 163.33 x 77.82 ( = 0.33 x 6.43 x 3.06 in)",
+                "Battery:": "6500 mAh Lithium-Ion, Silicon-carbon anode, USB Power Delivery 2.0 / 3.0, reverse charging up to 22.5 W, battery cycles: 1,000",
+                "Charging:": "wireless charging, fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 50 MPix (Light Fusion 950, 1/1.31\", f/1.67, 23 mm, 1G + 6P, OIS) + 50 MP (5× optical zoom, f/3.0, 115 mm, 4P, OIS) + 50 MP (ultra-wide, f/2.4, 18 mm); Camera2 API level: Level 3 Secondary Camera: 32 MPix (f/2.2, 22 / 27 mm)",
+                "Additional features:": "Speakers: Dual speakers + subwoofer, sound by Bose, SIM eject tool, USB-C cable, case, HyperOS 3.0, 12 Months Warranty, Bluetooth audio codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LC3, LHDC 5.0 | GNSS: GPS (L1, L5), GLONASS (L1), BeiDou (B1I, B1C, B2a), Galileo (E1, E5a), QZSS (L1, L5), NavIC (L5) | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM: Widevine L1 | SIM: up to 2 eSIMs, up to 2 nano-SIMs | Protection: IP68 | USB copy test: 768.14 MB/s (connected to Samsung Portable SSD T7, USB 3.2 Gen 2) | Supported file systems (external storage): FAT32, exFAT, NTFS | SAR: body 0.997 W/kg, head 0.994 W/kg | Maximum charging speed: 100 W (wired) / 50 W (wireless), fanless, waterproof",
+                "Released:": "11/26/2025",
+                "Weight:": "220 g ( = 7.76 oz / 0.49 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "900 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "99%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "87%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "38%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "55%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "80%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "0%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "0%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "95.9%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "40%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "45.8%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "45.8%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Affordable-flagship-with-Bose-subwoofer-Xiaomi-Poco-F8-Ultra-review.1189651.0.html",
+                "text": "The Poco F8 Ultra positions itself as a high-end smartphone and is equipped with a suitably powerful SoC. It also features a bright and colour-accurate 120-Hz AMOLED display, a solid triple-camera setup, USB 3.2 support, IP68 certification, a 6,500 mAh battery and fast charging both wired and wireless. In addition, the device delivers excellent Bose-tuned audio. That said, the display is not based on power-saving LTPO technology, 6-GHz Wi-Fi is missing, and the smartphone shows significant heat development under sustained stress tests. Software update support could also be more generous. Despite these shortcomings, the Poco F8 Ultra offers a very strong overall package that faces little direct competition in its price segment.\nfast SoC\ngood camera setup\nIP68-certified\nexcellent 2.1 audio system tuned by Bose\nlarge battery with fast charging\nno 6 GHz Wi-Fi\nsignificant heat development under sustained load\nno LTPO panel\nThe second Ultra model followed quickly, with the Poco F8 Ultra replacing its p\nafter just around eight months. Poco has sought to reassure buyers, however, stating that this accelerated release cycle is intended as a one-off strategic adjustment rather than a permanent change to the company's internal release calendar.\nUnfortunately, Xiaomi has also increased prices. The Poco F8 Ultra is once again available in two storage configurations, 12 GB/256 GB (MSRP: €830) and 16 GB/512 GB (MSRP: €900), representing price increases of €80 and €100 respectively compared to the previous generation. At the time of writing, no officially confirmed US pricing has been announced.\nThe Poco F8 Ultra is available in Black and Denim Blue colour variants. On the black model, the frame is matte black and the rear panel is made from a fibreglass composite. The blue version, by contrast, uses a silicone-resin-based nanomaterial designed to mimic the look of denim, paired with a matte silver aluminium frame. The chassis has a nominal thickness of 8.3 mm, which we were able to confirm. Including the camera module, thickness increases to up to 11.9 mm.\nBuild quality appears high overall. The denim-style rear panel features a coarse texture and offers very good grip, although it feels more rubber-like than fabric-like to the touch. Panel gaps are tight and even, and the smartphone exhibits only minimal creaking when subjected to torsional stress. In addition, the device is certified to the IP68 standard, making it resistant to both dust and water. The front is protected by Poco's in-house Poco Shield Glass.\n, the Poco F8 Ultra features a fast USB 3.2 port that supports wired image output. The high transfer rates in the copy test (768.14 MB/s) actually speak in favor of the faster Gen 2 standard.\nAs expected, the device does not feature an audio jack or microSD support. It supports Xiaomi's offline communication, but does without UWB.\nThe Poco F8 Ultra ships with Google Android 16 and Xiaomi’s HyperOS 3.0. According to the manufacturer, it is set to receive four years of Android version updates and a further two years of security patches. Given the device’s high-end ambitions, longer software support would have been desirable.\nXiaomi’s HyperAI features are also included. However, the system comes with a considerable number of pre-installed third-party apps as well as advertising. While these apps can be removed easily, we explain how to disable system advertising in a separate article.\nThere is only general information about sustainability on the company website, but no full report on the smartphone. The outer packaging is largely free of plastic, but is shrink-wrapped.\nThe Poco F8 Ultra supports all modern mobile communication standards with a broad frequency band support and showed good reception characteristics during the test, even abroad.\nThe current Wi-Fi 7 is supported in the WLAN, but without the fast 6 GHz band. However, the transmission rates with 5 GHz are at the expected level and stable.\nSatellite lock-on was achieved very quickly outdoors. Indoors, acquisition took slightly longer, but remained comparatively fast.\n. The two devices performed at a similar level, although the fitness smartwatch proved to be slightly more accurate. Nevertheless, the Poco F8 Ultra delivered a very good overall result.\nWhen held to the ear, the Poco F8 Ultra impresses with very good voice quality in quiet environments, while the noise suppression is only mediocre and can lead to dropouts on busy roads. The integrated speaker ensures a solid call volume without any significant reverberation effects.\nDual SIM support includes two nano-SIM cards or two eSIMs, including mixed combinations; VoLTE, Wi-Fi calls and Vo5G are also available and worked reliably in the test.\nAlthough the front camera of the Poco F8 Ultra has a high resolution, it does not use pixel binning and the full number of pixels is only available in the 4:3 aspect ratio, which is reduced to 24 MP in the default 16:9. The images are coherent and pleasing in daylight, but details are lost early on in low light.\nsensor, which impresses with a balanced image composition and takes good photos, even in dim light. The ultra-wide angle shows no aberrations in the test, but could do with a little more sharpness. The optical zoom also delivers good results and can also be used as a macro lens (minimum distance: 30 cm). Both the main and zoom sensors can use OIS.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe Poco F8 Ultra's scope of delivery includes a USB cable (Type-A to Type-C), a SIM eject tool and a black silicone protective case.\nThe smartphone comes with a 12-month manufacturer warranty, which does not affect the\napplicable in the country of purchase. Optionally, Xiaomi's Xiaomi Care insurance package can be added, costing either €59 or €79 for two years, depending on the level of coverage.\nThe capacitive touchscreen of the Poco F8 Ultra responds reliably and precisely to inputs. Glide characteristics with the preinstalled screen protector are good, although direct interaction with the glass itself feels noticeably more premium.\nFor biometric security, an ultrasonic fingerprint sensor is integrated into the display and proved to be very fast and reliable during testing. In addition or as an alternative, facial recognition via the front-facing camera can be used, which unlocks the device quickly under good lighting conditions.\nThe linear vibration motor provides crisp haptic feedback, although it could occasionally be a little stronger.\nCompared to its predecessor, the display of the Poco F8 Ultra has grown slightly in size, but at the same time features a lower resolution. Even so, a sharp image is still ensured with a pixel density of 416 PPI. It is also disappointing that the panel is once again not based on LTPO technology, meaning the refresh rate can only be adjusted dynamically by the system between 60 and 120 Hz.\nBrightness levels are high, reaching around 3,500 cd/m² in both the APL18 and HDR measurements. When brightness is adjusted manually, a maximum of 617 cd/m² is available, while activating the sunlight mode allows values of up to 821 cd/m².\n, Poco lists DC dimming for brightness control in the specifications. Under the oscilloscope, however, this turns out to be high-frequency PWM dimming with a low base frequency. As a result, the display is comparatively easy on the eyes, but not completely flicker-free.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7885 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nWe assess the display's calibration accuracy using Calman. When the colour temperature is set to\n, colour reproduction is very accurate, though it still appears marginally cooler than the target.\nGrayscale (color scheme: Original Color Pro, color temperature: Warm, target color space: sRGB)\nColors (color scheme: Original Color Pro, color temperature: Warm, target color space: sRGB)\nColor space (color scheme: original color Pro, color temperature: warm, target color space: sRGB)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 3 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nOutdoors, the Poco F8 Ultra leaves a good impression even on warm days and remains easy to read at all times. At most, reflections can be somewhat distracting.\nViewing angle stability of the panel is very good. At very shallow viewing angles, the image only darkens slightly.\nDepending on the selected configuration, the smartphone has 12 or 16 GB LPDDR5x RAM available and the UFS 4.1 memory is also one of the fastest.\nserves as the graphics solution. At present, there is no faster GPU available in a smartphone. In addition, Poco equips the F8 Ultra with a dedicated VisionBoost D8 chipset, which is intended to further optimise gaming performance.\nUnder sustained load, surface temperatures occasionally approach the 50-degree mark, which is still within an acceptable range.\nLess convincing is the SoC's cooling performance, however. Only one of the 3DMark stress tests was able to run to completion, while the others were terminated early due to overheating concerns. Even the lightest test (Wild Life) stopped after 12 out of 20 loops. In everyday use, however, we have so far not observed any resulting limitations.\nRoom Temperature 20.6 °C = 69 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 48 °C / 118 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 49.8 °C / 122 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 48.9 °C / 120 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 28 °C / 82 F, compared to the device average of 32.9 °C / 91 F.\nAdreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Solar Bay Extreme Stress Test Stability; 1.0.3.6:\nAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Solar Bay Extreme Stress Test Stability; 1.0.3.6:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\nAdreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\nDXT-48-1536, Tensor G5, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\nThe speakers tuned by Bose, including a rear-mounted subwoofer, are a genuine highlight. The difference is clearly audible, and the Poco F8 Ultra delivers acoustic performance unlike that of any smartphone we have tested so far.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n0% of all tested devices in this class were better, 0% similar, 100% worse\n2% of all tested devices in this class were better, 2% similar, 96% worse\nThe power consumption of the Poco F8 Ultra remains at a relatively efficient level.\nCharging is supported at up to 100 watts via cable and up to 50 watts wirelessly. In testing, a full charging cycle took just 35 minutes (50% in 15 minutes, 80% in 27 minutes).\nQualcomm Snapdragon 8 Elite Gen 5; Geekbench 5.5 Power Consumption 150cd:\nQualcomm Snapdragon 8 Elite Gen 5; 1920x1080 Aztec Ruins Normal Offscreen:\nDespite its large battery, the Poco F8 Ultra's runtimes are not among the very best, but they are still very good overall. With just under 22 hours in the Wi-Fi test, it should offer more than enough endurance to last two days."
+            }
+        ]
+    }
+}

@@ -1,0 +1,347 @@
+{
+    "phone_key": "oppo_reno15_pro_5g",
+    "primary_name": "Oppo Reno15 Pro 5G",
+    "aliases": [
+        "Oppo Reno15 Pro 5G"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Oppo Reno15 Pro 5G",
+                "article_url": "https://www.notebookcheck.net/Polished-looks-powerhouse-battery-a-few-trade-offs-Oppo-Reno15-Pro-5G-review.1259708.0.html",
+                "verdict": {
+                    "text": "The Oppo Reno15 Pro 5G proves to be a well-built upper mid-range smartphone with clear strengths in build quality, features and battery life. Its compact chassis, high-contrast AMOLED display with a peak brightness of nearly 2,000 cd/m², and a six-year update commitment make it a reliable companion for everyday use. The strong camera performance, particularly from the 200 MP main sensor and the optical zoom, rounds off the overall package nicely. In terms of performance, the MediaTek Dimensity 8450 delivers solid results. The generous 6,500 mAh battery impresses with excellent runtimes and fast charging speeds, while the lack of wireless charging and the inclusion of USB 2.0 remain clear shortcomings. Overall, the Reno15 Pro offers a compelling mix of everyday usability, design and technology. However, at a price of €799, it also faces strong competition from rivals such as the Poco F8 Ultra and the Galaxy S26.",
+                    "pros": [
+                        "accurate display",
+                        "very long battery life and fast charging",
+                        "good main and zoom cameras",
+                        "eSIM support",
+                        "long update support"
+                    ],
+                    "cons": [
+                        "no wireless charging",
+                        "only USB 2.0",
+                        "PWM flickering"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Performance, emissions and battery life – Reno15 Pro with solid speakers\n\n",
+                        "The Reno15 Pro represents the top model in Oppo's upper mid-range lineup and aims to impress with its large battery and high-quality camera setup. The naming is somewhat confusing, as the model tested here is marketed as the Oppo Reno15 Pro Mini in other regions.\n\n",
+                        "With an RRP of €799, it not only has to compete with the comparison devices selected here, but also, at least on paper, with models such as the\n\n",
+                        "The Oppo Reno15 Pro 5G is a relatively compact smartphone and, in terms of its rear design, bears some resemblance to the\n\n",
+                        ". However, Oppo takes a different approach when it comes to colours, offering two distinctive options in Dusk Black (which appears more brown in practice) and Aurora Blue (our test unit).\n\n",
+                        "The matte aluminium frame is resistant to fingerprints, while the display is protected by Gorilla Glass 7i. Although the rear panel is made of plastic, it is well executed and visually appealing. Overall, the build quality is convincing, and the smartphone is IP68-certified, making it both dust- and water-resistant.\n\n",
+                        "In terms of features, there are no major omissions. However, compromises include the relatively slow USB 2.0 standard, as well as the lack of UWB and wireless charging.\n\n",
+                        "As its name suggests, the Oppo Reno15 Pro 5G supports the current 5G mobile standard, although its frequency band coverage is somewhat more limited than that of pricier devices. In practice, however, this is only likely to make a difference when travelling to more distant countries.\n\n",
+                        "Call quality is clear and natural when holding the Reno15 Pro to the ear. Background noise suppression also works well in most cases, although the phone does reach its limits in very loud surroundings.\n\n",
+                        "When it comes to Wi-Fi, the Reno15 Pro delivers a pleasant surprise: according to the spec sheet, it only supports Wi-Fi 6, but it can also use the 6 GHz spectrum, meaning Wi-Fi 6E. Transfer rates are correspondingly high and also remain stable.\n\n",
+                        "The Reno15 Pro ships with Google Android 16 and ColorOS 16 already installed, and Oppo promises five major Android updates. In addition, the smartphone will receive security patches for six years.\n\n",
+                        "The smartphone comes in slim packaging that avoids the use of obvious plastic. There is very little information on sustainability, with only a few figures on metal content listed in the specifications. The device is not intended to be repaired by the user.\n\n",
+                        "The rear triple-camera setup uses a 200 MP main sensor with optical image stabilisation (OIS). It takes decent photos, although lens flares can occur in difficult lighting conditions. The setup is complemented by an ultra-wide-angle camera and 3x optical zoom, while digital zoom goes up to 120x. The ultra-wide-angle camera shows aberrations towards the edges and does not offer outstanding depth of field, whereas the zoom camera delivers fairly good results, including in the digital range.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The 6.3-inch (16 cm) AMOLED display of the Oppo Reno15 Pro 5G supports refresh rates from 60 to 120 Hz and all common HDR standards.\n\n",
+                        "Brightness distribution is very even. On a pure white screen, however, brightness always remains just below 1,300 cd/m² and hardly increases even when the white area is reduced. The display only gets brighter during HDR playback, reaching up to 1,967 cd/m². Outdoors, the smartphone remains easy to read in most situations.\n\n",
+                        "The panel shows the OLED-typical flickering at a comparatively low base frequency, meaning sensitive users may still experience discomfort despite Oppo also using high-frequency PWM dimming at 2,160 Hz.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7895 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "Grayscale (colour profile: standard, colour temperature: warm, target colour space: sRGB)\n\n",
+                        "Colours (colour profile: standard, colour temperature: warm, target colour space: sRGB)\n\n",
+                        "Colour space (colour profile: standard, colour temperature: warm, target colour space: sRGB)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 4 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "paired with 12 GB of LPDDR5x RAM. The SoC is positioned in the mid-range, but it delivers good everyday performance and also offers enough power for gaming. It is a pity, however, that Oppo is still using older UFS 3.1 storage here.\n\n",
+                        "Surface temperatures rise noticeably under load, but remain within a safe range. However, throttling in the 3DMark stress test is quite pronounced.\n\n",
+                        "The speakers deliver decent sound quality, although lower frequencies are somewhat muffled and weak. Auracast is not supported at present.\n\n",
+                        "At 6,500 mAh, the Reno15 Pro 5G's battery is not only large but also delivers very good runtimes. With a suitable charger, the phone can be charged at up to 80 watts. In that case, a full charge takes just 51 minutes (50%: 22 min, 80%: 37 min).\n\n",
+                        "Room Temperature 20.9 °C = 70 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 44.1 °C / 111 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 45.1 °C / 113 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 44.5 °C / 112 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 27.1 °C / 81 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Mali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+                        "Mali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Wild Life Stress Test Stability:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Mali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Wild Life Unlimited Stress Test Stability:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+                        "Mali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.17.4:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.17.2:\n\n",
+                        "Mali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\n\n",
+                        "Mali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1:\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "8% of all tested devices in this class were better, 5% similar, 86% worse\n\n",
+                        "0% of all tested devices in this class were better, 0% similar, 100% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "MediaTek Dimensity 8450 8c/8t, 1 x 3.3 GHz ARM Cortex-A725, 3 x 3.0 GHz ARM Cortex-A725, 4 x 2.1 GHz ARM Cortex-A725, Cortex-A725",
+                        "Graphics adapter:": "ARM Mali-G720 MP7 , Core: 1300 MHz",
+                        "Memory:": "12 GB , LPDDR5x",
+                        "Display:": "6.32 inch 19.54:9, 2640 x 1216 pixel 460 PPI, Capacitive, AMOLED, Corning Gorilla Glass 7i, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "512 GB UFS 3.1 Flash, 512 GB , 481 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Accelerometer, gyro, proximity, compass, OTG, IR-Blaster",
+                        "Networking:": "Wi-Fi 6E (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz), Bluetooth 5.4, 2G (850, 900, 1800, 1900 MHz), 3G (Band 1, 2, 4, 5, 6, 8, 19), LTE (Band (1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66, 71), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.13 x 151.21 x 72.42 ( = 0.32 x 5.95 x 2.85 in)",
+                        "Battery:": "24.3 Wh, 6500 mAh Lithium-Ion, Battery Cycles: 1500, 3.92 V, USB PD: 10 - 55 W",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 200 MPix (f/1.8, 6P, 24 mm, OIS) + 50 MPix (3.5x optical zoom, f/2.8, 4P, 85 mm, OIS) + 50 MPix (f/2.0, 6P, 16 mm) Secondary Camera: 50 MPix (f/2.0, 5P, 18 mm, AF)",
+                        "Additional features:": "Speakers: Dual, Keyboard: OnScreen, SIM-Tool, USB-Cabel, ColorOS 16, 24 Months Warranty, Bluetooth Audio Codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LHDC 5.0 | GNSS: GPS (L1), Glonass (L1), BeiDou (B1I, B1C), Galileo (E1), QZSS (L1), SBAS | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM Widevine L1 | eSIM | IP68 | Body-SAR: 1.188 W/kg, Head-SAR: 0.955 W/kg | max. charging speed: 80 W (wired), fanless, waterproof",
+                        "Released:": "01/26/2026",
+                        "Weight:": "188 g ( = 6.63 oz / 0.41 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "799 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "75%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Display",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "49%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "85%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "85%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "71%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "91.7%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "91.7%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "40%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "94.5%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "56.9%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "accurate display",
+            "very long battery life and fast charging",
+            "good main and zoom cameras",
+            "eSIM support",
+            "long update support"
+        ],
+        "cons": [
+            "no wireless charging",
+            "only USB 2.0",
+            "PWM flickering"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "MediaTek Dimensity 8450 8c/8t, 1 x 3.3 GHz ARM Cortex-A725, 3 x 3.0 GHz ARM Cortex-A725, 4 x 2.1 GHz ARM Cortex-A725, Cortex-A725",
+                "Graphics adapter:": "ARM Mali-G720 MP7 , Core: 1300 MHz",
+                "Memory:": "12 GB , LPDDR5x",
+                "Display:": "6.32 inch 19.54:9, 2640 x 1216 pixel 460 PPI, Capacitive, AMOLED, Corning Gorilla Glass 7i, glossy: yes, HDR, 120 Hz",
+                "Storage:": "512 GB UFS 3.1 Flash, 512 GB , 481 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Accelerometer, gyro, proximity, compass, OTG, IR-Blaster",
+                "Networking:": "Wi-Fi 6E (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz), Bluetooth 5.4, 2G (850, 900, 1800, 1900 MHz), 3G (Band 1, 2, 4, 5, 6, 8, 19), LTE (Band (1, 2, 3, 4, 5, 7, 8, 12, 17, 18, 19, 20, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66, 71), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 12, 20, 26, 28, 38, 40, 41, 48, 66, 71, 77, 78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.13 x 151.21 x 72.42 ( = 0.32 x 5.95 x 2.85 in)",
+                "Battery:": "24.3 Wh, 6500 mAh Lithium-Ion, Battery Cycles: 1500, 3.92 V, USB PD: 10 - 55 W",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 200 MPix (f/1.8, 6P, 24 mm, OIS) + 50 MPix (3.5x optical zoom, f/2.8, 4P, 85 mm, OIS) + 50 MPix (f/2.0, 6P, 16 mm) Secondary Camera: 50 MPix (f/2.0, 5P, 18 mm, AF)",
+                "Additional features:": "Speakers: Dual, Keyboard: OnScreen, SIM-Tool, USB-Cabel, ColorOS 16, 24 Months Warranty, Bluetooth Audio Codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LHDC 5.0 | GNSS: GPS (L1), Glonass (L1), BeiDou (B1I, B1C), Galileo (E1), QZSS (L1), SBAS | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM Widevine L1 | eSIM | IP68 | Body-SAR: 1.188 W/kg, Head-SAR: 0.955 W/kg | max. charging speed: 80 W (wired), fanless, waterproof",
+                "Released:": "01/26/2026",
+                "Weight:": "188 g ( = 6.63 oz / 0.41 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "799 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "75%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Display",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "49%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "85%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "85%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "71%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "91.7%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "91.7%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "40%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "94.5%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "56.9%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Polished-looks-powerhouse-battery-a-few-trade-offs-Oppo-Reno15-Pro-5G-review.1259708.0.html",
+                "text": "The Oppo Reno15 Pro 5G proves to be a well-built upper mid-range smartphone with clear strengths in build quality, features and battery life. Its compact chassis, high-contrast AMOLED display with a peak brightness of nearly 2,000 cd/m², and a six-year update commitment make it a reliable companion for everyday use. The strong camera performance, particularly from the 200 MP main sensor and the optical zoom, rounds off the overall package nicely. In terms of performance, the MediaTek Dimensity 8450 delivers solid results. The generous 6,500 mAh battery impresses with excellent runtimes and fast charging speeds, while the lack of wireless charging and the inclusion of USB 2.0 remain clear shortcomings. Overall, the Reno15 Pro offers a compelling mix of everyday usability, design and technology. However, at a price of €799, it also faces strong competition from rivals such as the Poco F8 Ultra and the Galaxy S26.\naccurate display\nvery long battery life and fast charging\ngood main and zoom cameras\neSIM support\nlong update support\nno wireless charging\nonly USB 2.0\nPWM flickering\nPerformance, emissions and battery life – Reno15 Pro with solid speakers\nThe Reno15 Pro represents the top model in Oppo's upper mid-range lineup and aims to impress with its large battery and high-quality camera setup. The naming is somewhat confusing, as the model tested here is marketed as the Oppo Reno15 Pro Mini in other regions.\nWith an RRP of €799, it not only has to compete with the comparison devices selected here, but also, at least on paper, with models such as the\nThe Oppo Reno15 Pro 5G is a relatively compact smartphone and, in terms of its rear design, bears some resemblance to the\n. However, Oppo takes a different approach when it comes to colours, offering two distinctive options in Dusk Black (which appears more brown in practice) and Aurora Blue (our test unit).\nThe matte aluminium frame is resistant to fingerprints, while the display is protected by Gorilla Glass 7i. Although the rear panel is made of plastic, it is well executed and visually appealing. Overall, the build quality is convincing, and the smartphone is IP68-certified, making it both dust- and water-resistant.\nIn terms of features, there are no major omissions. However, compromises include the relatively slow USB 2.0 standard, as well as the lack of UWB and wireless charging.\nAs its name suggests, the Oppo Reno15 Pro 5G supports the current 5G mobile standard, although its frequency band coverage is somewhat more limited than that of pricier devices. In practice, however, this is only likely to make a difference when travelling to more distant countries.\nCall quality is clear and natural when holding the Reno15 Pro to the ear. Background noise suppression also works well in most cases, although the phone does reach its limits in very loud surroundings.\nWhen it comes to Wi-Fi, the Reno15 Pro delivers a pleasant surprise: according to the spec sheet, it only supports Wi-Fi 6, but it can also use the 6 GHz spectrum, meaning Wi-Fi 6E. Transfer rates are correspondingly high and also remain stable.\nThe Reno15 Pro ships with Google Android 16 and ColorOS 16 already installed, and Oppo promises five major Android updates. In addition, the smartphone will receive security patches for six years.\nThe smartphone comes in slim packaging that avoids the use of obvious plastic. There is very little information on sustainability, with only a few figures on metal content listed in the specifications. The device is not intended to be repaired by the user.\nThe rear triple-camera setup uses a 200 MP main sensor with optical image stabilisation (OIS). It takes decent photos, although lens flares can occur in difficult lighting conditions. The setup is complemented by an ultra-wide-angle camera and 3x optical zoom, while digital zoom goes up to 120x. The ultra-wide-angle camera shows aberrations towards the edges and does not offer outstanding depth of field, whereas the zoom camera delivers fairly good results, including in the digital range.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe 6.3-inch (16 cm) AMOLED display of the Oppo Reno15 Pro 5G supports refresh rates from 60 to 120 Hz and all common HDR standards.\nBrightness distribution is very even. On a pure white screen, however, brightness always remains just below 1,300 cd/m² and hardly increases even when the white area is reduced. The display only gets brighter during HDR playback, reaching up to 1,967 cd/m². Outdoors, the smartphone remains easy to read in most situations.\nThe panel shows the OLED-typical flickering at a comparatively low base frequency, meaning sensitive users may still experience discomfort despite Oppo also using high-frequency PWM dimming at 2,160 Hz.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7895 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nGrayscale (colour profile: standard, colour temperature: warm, target colour space: sRGB)\nColours (colour profile: standard, colour temperature: warm, target colour space: sRGB)\nColour space (colour profile: standard, colour temperature: warm, target colour space: sRGB)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 4 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\npaired with 12 GB of LPDDR5x RAM. The SoC is positioned in the mid-range, but it delivers good everyday performance and also offers enough power for gaming. It is a pity, however, that Oppo is still using older UFS 3.1 storage here.\nSurface temperatures rise noticeably under load, but remain within a safe range. However, throttling in the 3DMark stress test is quite pronounced.\nThe speakers deliver decent sound quality, although lower frequencies are somewhat muffled and weak. Auracast is not supported at present.\nAt 6,500 mAh, the Reno15 Pro 5G's battery is not only large but also delivers very good runtimes. With a suitable charger, the phone can be charged at up to 80 watts. In that case, a full charge takes just 51 minutes (50%: 22 min, 80%: 37 min).\nRoom Temperature 20.9 °C = 70 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 44.1 °C / 111 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 45.1 °C / 113 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 44.5 °C / 112 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 27.1 °C / 81 F, compared to the device average of 32.9 °C / 91 F.\nMali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\nMali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Wild Life Stress Test Stability:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nMali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Wild Life Unlimited Stress Test Stability:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\nMali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.17.4:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.17.2:\nMali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\nMali-G720 MP7, Dimensity 8450, 512 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1:\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n8% of all tested devices in this class were better, 5% similar, 86% worse\n0% of all tested devices in this class were better, 0% similar, 100% worse"
+            }
+        ]
+    }
+}

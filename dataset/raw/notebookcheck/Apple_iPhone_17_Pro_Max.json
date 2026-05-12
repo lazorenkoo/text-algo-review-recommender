@@ -1,0 +1,205 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Apple iPhone 17 Pro Max",
+    "article_url": "https://www.notebookcheck.net/Setting-new-battery-life-records-Apple-iPhone-17-Pro-Max-smartphone-review.1148795.0.html",
+    "verdict": {
+        "text": "In the Apple universe, the iPhone 17 Pro Max sets the benchmark, offering the highest specs in every area: the largest display, the biggest battery, the longest battery life, the highest performance, and, at up to 2 TB, also the most storage. Apple has once again succeeded in putting together a very convincing overall package with a raft of small improvements over its predecessor. And even though the base version now has twice the storage on offer, the price hasn't increased. Although the design is a question of taste, the switch from titanium to aluminum for the case leaves a bitter aftertaste. This is partly because it makes the XXL iPhone more scratch-prone than its predecessor. The iPhone also comes in for deserved criticism for its short warranty period and the limited Bluetooth codecs.",
+        "pros": [
+            "premium case",
+            "bright OLED with 120°F (244 mm)",
+            "versatile triple camera with 4x telephoto lens",
+            "USB 3.2 Gen. 2",
+            "WiFi 7, BT 6.0, UWB, NFC, Thread, dual eSIM",
+            "very high performance",
+            "fabulous battery life",
+            "long update availability"
+        ],
+        "cons": [
+            "few Bluetooth codecs",
+            "included cable is only USB 2.0",
+            "only a 12-month warranty"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "The iPhone 17 Pro Max positions itself as a significantly revised successor to the\n\n",
+            ". At the same time (and as usual), Apple has given its new flagship iPhone a faster processor.\n\n",
+            "It now comes equipped with a new telephoto camera and an 18 MP front-facing camera. In addition, the maximum storage capacity has increased to 2 TB, and charging speeds have also improved.\n\n",
+            "The iPhone 17 Pro Max is available in silver, deep blue and cosmic orange, and viewed from the front, it doesn’t look that much different to the\n\n",
+            ". We're still dealing with a 6.9-inch display, with the same resolution and only slightly narrower bezels. But the changes are even more noticeable on the back.\n\n",
+            "The camera bump now extends across the entire width of the back cover. The iPhone 17 Pro Max has also said goodbye to its predecessor's titanium frame and now features an aluminum case, which also takes up a large portion of the back. This design feature is only interrupted by a glass element that enables wireless charging.\n\n",
+            "With Wi-Fi 7, Bluetooth 6.0, UWB, satellite communication, and dual eSIM, the iPhone 17 Pro Max is packed with state-of-the-art features. On top of that, you also get MagSafe and Qi2 charging, as well as a fast USB-C port (USB 3.2 Gen. 2).\n\n",
+            "The iPhone 17 Pro Max comes with 256 GB of storage in its smallest storage variant, and is also available with 512 GB, 1 TB, and, for the first time in an iPhone, 2 TB.\n\n",
+            "Every iPhone 17 model launches with iOS 26, which includes improved Apple AI and the new Liquid Glass design. Further details regarding the new iOS version can be found\n\n",
+            "Apple hasn't provided precise details concerning the support period. However, with the EU requiring at least five years of updates for smartphones after the official end of sales, a six-year update period can be assumed.\n\n",
+            "The iPhone 17 Pro Max supports a wide range of cellular frequencies, meaning you should receive a signal almost anywhere. Unlike in the US, satellite communication in Germany is restricted to emergency calls.\n\n",
+            "Together with our reference router, the Asus ROG Rapture AXE11000, the iPhone 17 Pro Max achieved high and largely stable transfer speeds. However, they could have been a touch higher in the 6 GHz band.\n\n",
+            "The iPhone 17 Pro Max is great for navigation. In our real-life tests, it located us almost as accurately as its comparison device, the Garmin Venu 2 fitness smartwatch - a gadget which can map the route even more precisely.\n\n",
+            "With the exception of the iPhone Air, every new EU iPhone model continues to be equipped with a physical SIM slot. Alternatively, they can also be used with two eSIMs. VoLTE and Wi-Fi calling are both supported.\n\n",
+            "The iPhone 17 Pro Max offers good call quality and even manages to reliably filter out loud background noise during calls. When the speakerphone is activated, voices sound a bit tinny, but intelligibility remains high.\n\n",
+            "The cameras pack a host of new features. Among others, the iPhone 17 Pro Max features a Center Stage selfie camera. Thanks to its square 18MP sensor, it can also automatically switch between portrait and landscape mode without having to rotate the iPhone.\n\n",
+            "Now each of the three rear cameras has a resolution of 48MP. The telephoto camera now has a 4x optical zoom, and it's the one that benefits most from this feature. Because the\n\n",
+            "and iPhone 17 Pro Max cameras are identical, we would like to point you in the direction of our\n\n",
+            ". The verdict? The overall image quality is first-class, displaying only a few weaknesses.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "Under controlled lighting conditions, the test chart image is almost entirely sharp. The main lens also performs impressively when it comes to representing the reference colors. Minor deviations from the target values are only observed in some green and blue tones.\n\n",
+            "Apple includes a USB-C cable and a SIM tool with its iPhone 17 Pro Max.\n\n",
+            "The Apple phone comes with a 12-month warranty. This can be extended with the help of an\n\n",
+            "Biometric authentication is available on the iPhone 17 Pro Max via Face ID. Its 3D facial recognition offers a high level of security and worked flawlessly in our tests.\n\n",
+            "The Taptic Engine is responsible for vibrations and provides good haptic feedback. You'll recognize the camera button and action button from the predecessor.\n\n",
+            "The iPhone 17 Pro Max's OLED screen supports every common HDR standard and is reported to be even brighter than its predecessor:\n\n",
+            "According to Apple, a brightness of up to 3,000 nits is possible, but our test device's display hit a maximum brightness of 2,344 cd/m², which is still remarkably bright.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 240 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 240 Hz is relatively low, so sensitive users will likely notice flickering and experience eyestrain at the stated brightness setting and below.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "A series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\n\n",
+            "The OLED display is very evenly illuminated and displays colors very accurately. However, its 240 Hz PWM frequency isn't particularly high. While display pulse smoothing can be activated in the accessibility options (ensuring a flatter amplitude response). Before purchasing, PWM-sensitive users should take a look at the device to see if it actually alleviates this issue.\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 1 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 1 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "With a display surface less reflective than its predecessor, the iPhone 17 Pro Max is ideal for outdoor use. Despite this, the iPhone is still some way off from the anti-reflective coating seen on the\n\n",
+            "when it comes to CPU performance, it isn't quite as fast in GPU tests. All in all, the A19 Pro is still one of the fastest smartphone SoCs, and is a processor that is also well-equipped for AI tasks.\n\n",
+            "During normal use, the iPhone 17 Pro Max remains pleasantly cool, but under maximum load, surface temperatures increase to up to 42°C. While this feels warm to the touch, it is still thermally safe.\n\n",
+            "improved cooling flexes its muscles – the keywords here being vapor chamber. Depending on the 3DMark scenario, the performance throttling is sometimes significantly less pronounced, and interestingly, the predecessor still scores better in the Steel Nomad test.\n\n",
+            "Power Supply (max.) 41.2 °C = 106 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 36.9 °C = 98 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 40.2 °C / 104 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 42 °C / 108 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 42.3 °C / 108 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 25.5 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Wild Life Extreme Stress Test; 0.0.0.0:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "A18 Pro GPU, A18 Pro, 256 GB NVMe; Wild Life Unlimited Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.1 Flash; Wild Life Unlimited Stress Test Stability:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Solar Bay Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "A18 Pro GPU, A18 Pro, 256 GB NVMe; Solar Bay Unlimited Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Solar Bay Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Steel Nomad Light Stress Test Stability; 0.0.0.0:\n\n",
+            "A18 Pro GPU, A18 Pro, 256 GB NVMe; Steel Nomad Light Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "The great-sounding stereo speakers impressed us with very linear highs and mids. However, as expected, they barely convey any bass. You can connect external audio devices via USB-C and Bluetooth 6.0.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "1% of all tested devices in this class were better, 1% similar, 98% worse\n\n",
+            "2% of all tested devices in this class were better, 2% similar, 96% worse\n\n",
+            "The iPhone charges at up to 40 watts, although it occasionally managed to exceed this limit in our tests. Wireless charging is possible at up to 25 watts.\n\n",
+            "A full charging cycle with a third-party power adapter (Anker 317, 100 watts) took approximately 1 hour and 25 minutes. After 40 minutes, the battery was already charged to 70 percent.\n\n",
+            "Qualcomm Snapdragon 8 Elite for Galaxy; Geekbench 5.5 Power Consumption 150cd:\n\n",
+            "Qualcomm Snapdragon 8 Elite for Galaxy; 1920x1080 Aztec Ruins Normal Offscreen:\n\n",
+            "When talking battery life, the Apple phone sets a new benchmark among iPhones. At almost 29 hours, it significantly outperforms not only its predecessor but also its high-end competitors, even though some of them house significantly larger batteries.\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Apple A19 Pro 6c/6t, 2 x 4.3 GHz Apple A19 P-Core, 4 x 2.6 GHz Apple A19 E-Core",
+            "Graphics adapter:": "Apple A19 Pro 6-Core GPU",
+            "Memory:": "12 GB , LPDDR5x",
+            "Display:": "6.90 inch 19.5:9, 2868 x 1320 pixel 460 PPI, Capacitive touchscreen, OLED, ProMotion, Anti-reflective coating, LTPO 1 - 120 Hz, Ceramic Shield 2, glossy: yes, HDR, 120 Hz",
+            "Storage:": "256 GB NVMe, 256 GB , also available with 512GB, 1TB and 2TB of storage, 236 GB free",
+            "Connections:": "1 USB 3.1 Gen2, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Accelerometer, gyro, proximity, compass, barometer, Face ID, OTG, Thread, UWB (Gen. 2)",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850, 900, 1800, 1900 MHz), 3G (850, 900, 1700/2100, 1900, 2100 MHz), LTE (Band 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 8.8 x 163.4 x 78 ( = 0.35 x 6.43 x 3.07 in)",
+            "Battery:": "4823 mAh Lithium-Ion, (5088 mAh - eSIM only model), Battery Cycles: 1000, max. charging speed: 40 W (wired) / 25 W (wireless: MagSafe and Qi2)",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Apple iOS 26",
+            "Camera:": "Primary Camera: 48 MPix (f/1.8, 24 mm, 1/1.28\", 1.22 µm) + 48 MPix (4x optical zoom, f/2.8, 100 mm, 1/2.55\", 0.7 µm) + 48 MPix (f/2.2, 13 mm, 1/2.55\", 0.7 µm) Secondary Camera: 18 MPix (f/1.9, 20 mm, AF)",
+            "Additional features:": "Speakers: stereo speakers, Keyboard: virtual, SIM tool, USB-C cable, 12 Months Warranty, Bluetooth Audio Codecs: SBC, AAC | Dual-Band-GNSS: GPS, Glonass, BeiDou, Galileo, QZSS, NavIC | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM Widevine L1 | eSIM | IP68 | Supported File Systems for external storages: FAT, FAT32, exFAT, APFS, APFS (encrypted), macOS Extended (HFS+) | Body-SAR: 1.49 W/kg, Head-SAR: 1.19 W/kg, fanless, waterproof",
+            "Weight:": "233 g ( = 8.22 oz / 0.51 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "1449 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "96%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "95%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "70%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "87%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "87.4%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "65%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "76%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "76%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "76%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "83.5%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "83.8%"
+            }
+        ]
+    }
+}

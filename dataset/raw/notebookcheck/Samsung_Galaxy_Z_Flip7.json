@@ -1,0 +1,183 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Samsung Galaxy Z Flip7",
+    "article_url": "https://www.notebookcheck.net/Compact-Flip-phone-loses-ground-Samsung-Galaxy-Z-Flip7-review.1102761.0.html",
+    "verdict": {
+        "text": "It wasn't long ago that Samsung's Flip series was unrivalled. With the Flip7, however, that is no longer the case, partly because the compact foldable has not received as extensive a design upgrade as the Galaxy Fold7. With the Galaxy Z Flip7, Samsung has once again delivered an appealing foldable, but the Xiaomi Mix Flip 2 manages to do several things better. The Samsung's battery is relatively small, the software design does not feel fully adapted to the new cover display, and the Exynos 2500 for Europe is weaker than the Snapdragon 8 Elite. Throttling is once again a major issue with the latest Flip generation, including at times a very pronounced reduction in performance. Samsung may be well advised to reconsider the Flip form factor, not least as a way of standing out from the growing competition.",
+        "pros": [
+            "premium and water-resistant design",
+            "7 years of updates",
+            "bright foldable OLED panel",
+            "fast SoC"
+        ],
+        "cons": [
+            "limited functionality of the cover display",
+            "small battery",
+            "slow charging",
+            "crease more visible than on the competition",
+            "heavy throttling"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Performance, gaming, emissions and battery life – flip phone with high-end processor\n\n",
+            ", the Galaxy Z Flip7 looks much more modern. The most striking change is the larger 4.1-inch cover display, which now finally covers almost the entire front. Gorilla Glass Victus 2 is used to protect both the back and the front.\n\n",
+            "The very well-crafted chassis has also become slightly slimmer and still carries an IP48 certification, making it resistant but not completely protected against dust. Particles smaller than 1 millimetre can theoretically enter and block the hinge mechanism.\n\n",
+            "When unfolded, the foldable measures 6.5 mm; when closed, it is 13.7 mm thick, which makes the Flip7 appear noticeably bulkier than its larger\n\n",
+            ". The hinge, made from advanced Armor Aluminum, feels sturdy and suitable for everyday use.\n\n",
+            "In terms of features, the device offers Wi-Fi 7 without the 6 GHz band, Bluetooth 5.4, and a USB 3.2 Gen 1 port with wired video output. In a copy test with an attached SSD (Samsung PSSD T7), transfer rates reached a good 325 MB/s.\n\n",
+            "The Galaxy Z Flip7 ships with Android 16 and the One UI 8 interface, although DeX support is not included. According to Samsung, the update guarantee runs for seven years. At the time of testing, the security patches were dated 1 August 2025, making them fully up to date.\n\n",
+            "On the small 4.1-inch cover screen, widgets (including those from third parties) can be used and some apps can be run in part. However, it still does not serve as a full replacement for the inner display. Here, other manufacturers such as Xiaomi with its\n\n",
+            "Customer repairability is supported, as spare parts and suitable guides are available directly from Samsung. The company also performs very well in terms of sustainability. The accompanying\n\n",
+            "provides detailed information on the CO₂ footprint and the use of recycled materials.\n\n",
+            ". In fact, the optics on the inside of the Flip7 are nominally a little worse, as the sensor has become slightly smaller. The 10-MP camera with fixed focus delivers solid shots and 4K60 video in daylight. Selfies are more attractive when taken with the main camera, with the cover display acting as a viewfinder.\n\n",
+            "On the back, there is a dual-camera setup. The main camera, which is also used in the\n\n",
+            ", produces good photos. Since there is no telephoto lens, it must also be used for zooming, with up to a tenfold magnification possible.\n\n",
+            "The ultrawide unit also delivers good results in daylight, with a slight blurring towards the edges.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The foldable main display of the Flip7 has grown slightly to 6.9 inches, while the LTPO panel still only offers 1080p resolution. As a result, the pixel density drops to 400 ppi. Brightness in the APL18 test reached a very good 2,636 cd/m². When playing back an HDR video, we measured 2,431 cd/m².\n\n",
+            "For brightness control, Samsung uses pulse-width modulation, as is typical for OLED. We recorded PWM flicker at a relatively low frequency of up to 480 Hz.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 240 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 240 Hz is relatively low, so sensitive users will likely notice flickering and experience eyestrain at the stated brightness setting and below.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7885 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 4 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 2 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "serves as the SoC. In our benchmarks, the Samsung chipset is around 10 percent slower in Geekbench 6 than the Snapdragon 8 Elite for Galaxy in the\n\n",
+            "and can be charged via USB-C as well as wirelessly at up to 25 watts. A look at the\n\n",
+            "shows that Samsung urgently needs to make improvements in this area. Nevertheless, the Galaxy Flip7 achieves very good runtimes of almost 19 hours in the Wi-Fi test.\n\n",
+            "Room Temperature 22 °C = 72 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 42 °C / 108 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 51.5 °C / 125 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 49.7 °C / 121 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 25.1 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Xclipse 950, Exynos 2500, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Xclipse 950, Exynos 2500, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "7% of all tested devices in this class were better, 6% similar, 87% worse\n\n",
+            "26% of all tested devices in this class were better, 9% similar, 65% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Samsung Exynos 2500 10c/10t, 1 x 3.3 GHz ARM Cortex-X925, 2 x 2.7 GHz ARM Cortex-A725, 5 x 2.4 GHz ARM Cortex-A725, 2 x 1.8 GHz ARM Cortex-A520",
+            "Graphics adapter:": "Samsung Xclipse 950",
+            "Memory:": "12 GB , LPDDR5x",
+            "Display:": "6.90 inch 21:9, 2520 x 1080 pixel 397 PPI, Capacitive Touchscreen, AMOLED, 2nd Screen: 4.1\", 1048x948, Glass Victus 2, glossy: yes, HDR, 120 Hz, glossy: yes, HDR, 120 Hz",
+            "Storage:": "256 GB UFS 4.0 Flash, 256 GB , 222 GB free",
+            "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, barometer, OTG, Miracast",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B8), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B25/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n25/​n26/​n28/​n38/​n40/​n41/​n66/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 6.5 x 166.7 x 75.2 ( = 0.26 x 6.56 x 2.96 in)",
+            "Battery:": "4300 mAh Lithium-Ion",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 16",
+            "Camera:": "Primary Camera: 50 MPix (f/1.8, 23 mm, OIS) + 12 MPix (f/2.2, 13 mm, wide), camera2API: level 3 Secondary Camera: 10 MPix (f/​2.2, Videos @2160p/​30fps)",
+            "Additional features:": "Speakers: Stereo, Keyboard: OnScreen, USB cable, info material, One UI 8.0, 24 Months Warranty, Bluetooth Audio Codecs: SBC, AAC, aptX, LDAC, SSC | GNSS: GPS (L1, L5), Glonass (L1), BeiDou (B1I, B1C, B2a), Galileo (E1, E5a), QZSS (L1, L5) | HDR: HLG, HDR10, HDR10+ | DRM Widevine L1 | Dual-eSIM | IP48 | Supported File Systems for external storages: NTFS (only reading), FAT32, exFAT, SAR value: 0.689W/​kg Head, 1.215W/​kg Body, fanless, waterproof",
+            "Weight:": "188 g ( = 6.63 oz / 0.41 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "1199 Euro Amazon $942.38"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "89%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "93%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "95%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "61%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "28%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "86%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "81%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "92.1%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "75%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "95.9%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "80%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "88.8%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "88.8%"
+            }
+        ]
+    }
+}

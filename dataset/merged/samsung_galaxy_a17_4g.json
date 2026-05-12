@@ -1,0 +1,313 @@
+{
+    "phone_key": "samsung_galaxy_a17_4g",
+    "primary_name": "Samsung Galaxy A17 4G",
+    "aliases": [
+        "Samsung Galaxy A17 4G"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Samsung Galaxy A17 4G",
+                "article_url": "https://www.notebookcheck.net/Samsung-Galaxy-A17-4G-smartphone-test-Unusually-well-equipped-budget-phone.1146414.0.html",
+                "verdict": {
+                    "text": "You can hardly get a smartphone with an AMOLED screen cheaper than the Samsung Galaxy A17 4G: You pay less than 200 euros for the phone. But you also have to do without 5G capability and make do with 4 GB of RAM, at least for the basic model. The battery life is also rather mediocre. You won't want to run overly complex apps on the relatively slow SoC. Nevertheless, most everyday tasks run smoothly. The flexible camera system with wide-angle and macro camera is also unusual, even if they have a very low resolution. You have to live with PWM flickering on the screen and should not place too high demands on the Wi-Fi speed. Overall, however, the Samsung Galaxy A17 4G is an unusually well-equipped budget smartphone that is definitely worth a look.",
+                    "pros": [
+                        "cheap",
+                        "slimmer design",
+                        "AMOLED display with 90 Hz",
+                        "good overall features",
+                        "flexible camera system",
+                        "reliable fingerprint sensor",
+                        "decent speaker"
+                    ],
+                    "cons": [
+                        "no 5G",
+                        "PWM flickering",
+                        "comparatively short battery life",
+                        "uncertain update promise",
+                        "few LTE bands",
+                        "no eSIM",
+                        "few audio codecs"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "The chassis of the Samsung Galaxy A17 4G has been redesigned, slimmed down and made 10 grams lighter than its predecessor.\n\n",
+                        "The entire casing is made of plastic, but looks sturdy and has a clean finish. The back slightly reflects the ambient light, but the overall design is quite simple. The cameras are combined in an oval module. The screen is protected by Gorilla Glass Victus, a rarity in this price range.\n\n",
+                        "Our test device comes with 4 GB RAM and 128 GB mass storage. There is also a model with 8 GB RAM and 256 GB mass storage, the price difference is around 30 euros.\n\n",
+                        "We like the fact that NFC is available, for example for mobile payment services.\n\n",
+                        "An eSIM cannot be used, but two nano-SIM slots are available. One of them can also be used for a microSD card, which expands the memory by up to 2 TB. In our test, the reader worked reasonably quickly and with fairly stable transfer rates.\n\n",
+                        "You have to do without 5G mobile communications and there are not too many frequency bands available in the LTE network either.\n\n",
+                        "The reception is not always optimal in various spot checks during our test, but rarely fails completely.\n\n",
+                        "The screen can display up to 90 frames per second and therefore reacts quite quickly to inputs. The touchscreen can be operated precisely.\n\n",
+                        "A fingerprint sensor is integrated in the standby button on the right-hand side of the casing, which unlocks the phone reliably and with little waiting time. Biometric unlocking via facial recognition is also possible. It also works quite quickly and accurately in good ambient light.\n\n",
+                        "Android 15 is pre-installed on the device, with Samsung's OneUI on top, which changes the operating system quite significantly.\n\n",
+                        "The Galaxy A17 4G will receive updates until 2031, i.e. for six years from launch, and new versions of the operating system will be available for this period. However, Samsung restricts this on its website with the addition \"up to\" and other legal clauses. So you can't fully rely on this great promise.\n\n",
+                        "The Galaxy A17 4G is packaged in paper. Recycled materials make up only 1.4% of the product. At least there is a\n\n",
+                        ", but it was already very well equipped: In addition to the 50-megapixel main camera, there is also a wide-angle lens and a macro lens. Both have a low resolution, but the camera system is still quite flexible.\n\n",
+                        "The main camera takes passable pictures that show cool colours. Details are not always easily recognizable. The surrounding image also appears somewhat blurred in places. In low light and strong contrasts, the brightness is quite good and you can still make out details in most areas.\n\n",
+                        "The image from the wide-angle camera looks quite coarse. The front camera takes decent selfies with a good level of detail.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The AMOLED screen of the Galaxy A17 is a rarity in the price range below 200 euros. The screen is quite bright with up to 687 cd/m².\n\n",
+                        "The color reproduction is also pleasing with only slight deviations that are barely visible to the naked eye.\n\n",
+                        "However, you also have to accept PWM flickering at low brightness levels.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 367 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 367 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 13 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 9 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "is a very popular SoC in this price category. It usually enables smooth operation, but waiting times can occur in more demanding situations.\n\n",
+                        "The performance is significantly below the 5G model of the Galaxy A17, but otherwise on a par with similarly priced models. The UFS 2.2 memory works quite quickly, but is actually slower than in the predecessor, which can only be explained by a different memory controller or software throttling.\n\n",
+                        "The phone heats up to a maximum of 44.4 °C under prolonged load, which is noticeable but not critical. The phone also throttles minimally at best after long periods of use.\n\n",
+                        "The single speaker on the bottom edge sounds better than its predecessor, still good at maximum volume and no longer quite as treble-heavy. So you can definitely listen to pop music or movie soundtracks. USB or Bluetooth connections are available for external audio devices. However, there are relatively few audio codecs for wireless transmission.\n\n",
+                        "and runtimes are only slightly different. The Samsung Galaxy A17 4G lasts for around 13 hours in our WiFi battery test, revealing one of its weaknesses in comparison with other phones.\n\n",
+                        "Power Supply (max.) 41.3 °C = 106 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 40 °C = 104 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 38.5 °C / 101 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 44.4 °C / 112 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 44.9 °C / 113 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.3 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "45% of all tested devices in this class were better, 8% similar, 47% worse\n\n",
+                        "32% of all tested devices in this class were better, 7% similar, 60% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Mediatek Helio G99 8c/8t, 2 x 2.2 GHz ARM Cortex-A76, 6 x 2.0 GHz ARM Cortex-A55, Cortex-A76 / A55",
+                        "Graphics adapter:": "ARM Mali-G57 MP2",
+                        "Memory:": "4 GB",
+                        "Display:": "6.70 inch 20:9, 2340 x 1080 pixel 385 PPI, capacitive touchscreen, AMOLED, Gorilla Glass Victus, glossy: yes, 90 Hz",
+                        "Storage:": "128 GB eMMC Flash, 128 GB , 100 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: audio via USB-C, Card Reader: microSD (shared, up to 2TB) , 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration sensor, gyroscope, compass",
+                        "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.3, 2G (850/​900/​1800/​1900), 3G (B1/​B5/​B8), 4G (B1/​B3/​B5/​B7/​B8/​B20/​B28/​B38/​B40/​B41) , Dual SIM, LTE, GPS",
+                        "Size:": "height x width x depth (in mm): 7.5 x 164.4 x 77.9 ( = 0.3 x 6.47 x 3.07 in)",
+                        "Battery:": "5000 mAh Lithium-Ion, 25 Watt charging",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 50 MPix f/​1.8, phase comparison-AF, OIS, LED-flash, Videos @1080p/​30fps (Camera 1); 5.0MP, f/​2.2, wide angle lens (Camera 2); 2.0MP, f/​2.4, macro lens (Camera 3) Secondary Camera: 13 MPix f/​2.0",
+                        "Additional features:": "Speakers: mono speaker, USB cable, SIM tool, 24 Months Warranty, SAR: 0.366W/​kg Head, 1.179W/​kg Body, fanless",
+                        "Weight:": "190 g ( = 6.7 oz / 0.42 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "185 Euro Amazon $229.99"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "86%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "57%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "9%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "67%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "14%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "78%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "51%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "5%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "5%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "75%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "46%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "cheap",
+            "slimmer design",
+            "AMOLED display with 90 Hz",
+            "good overall features",
+            "flexible camera system",
+            "reliable fingerprint sensor",
+            "decent speaker"
+        ],
+        "cons": [
+            "no 5G",
+            "PWM flickering",
+            "comparatively short battery life",
+            "uncertain update promise",
+            "few LTE bands",
+            "no eSIM",
+            "few audio codecs"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Mediatek Helio G99 8c/8t, 2 x 2.2 GHz ARM Cortex-A76, 6 x 2.0 GHz ARM Cortex-A55, Cortex-A76 / A55",
+                "Graphics adapter:": "ARM Mali-G57 MP2",
+                "Memory:": "4 GB",
+                "Display:": "6.70 inch 20:9, 2340 x 1080 pixel 385 PPI, capacitive touchscreen, AMOLED, Gorilla Glass Victus, glossy: yes, 90 Hz",
+                "Storage:": "128 GB eMMC Flash, 128 GB , 100 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: audio via USB-C, Card Reader: microSD (shared, up to 2TB) , 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration sensor, gyroscope, compass",
+                "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.3, 2G (850/​900/​1800/​1900), 3G (B1/​B5/​B8), 4G (B1/​B3/​B5/​B7/​B8/​B20/​B28/​B38/​B40/​B41) , Dual SIM, LTE, GPS",
+                "Size:": "height x width x depth (in mm): 7.5 x 164.4 x 77.9 ( = 0.3 x 6.47 x 3.07 in)",
+                "Battery:": "5000 mAh Lithium-Ion, 25 Watt charging",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 50 MPix f/​1.8, phase comparison-AF, OIS, LED-flash, Videos @1080p/​30fps (Camera 1); 5.0MP, f/​2.2, wide angle lens (Camera 2); 2.0MP, f/​2.4, macro lens (Camera 3) Secondary Camera: 13 MPix f/​2.0",
+                "Additional features:": "Speakers: mono speaker, USB cable, SIM tool, 24 Months Warranty, SAR: 0.366W/​kg Head, 1.179W/​kg Body, fanless",
+                "Weight:": "190 g ( = 6.7 oz / 0.42 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "185 Euro Amazon $229.99"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "86%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "57%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "9%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "67%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "14%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "78%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "51%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "5%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "5%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "75%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "46%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Samsung-Galaxy-A17-4G-smartphone-test-Unusually-well-equipped-budget-phone.1146414.0.html",
+                "text": "You can hardly get a smartphone with an AMOLED screen cheaper than the Samsung Galaxy A17 4G: You pay less than 200 euros for the phone. But you also have to do without 5G capability and make do with 4 GB of RAM, at least for the basic model. The battery life is also rather mediocre. You won't want to run overly complex apps on the relatively slow SoC. Nevertheless, most everyday tasks run smoothly. The flexible camera system with wide-angle and macro camera is also unusual, even if they have a very low resolution. You have to live with PWM flickering on the screen and should not place too high demands on the Wi-Fi speed. Overall, however, the Samsung Galaxy A17 4G is an unusually well-equipped budget smartphone that is definitely worth a look.\ncheap\nslimmer design\nAMOLED display with 90 Hz\ngood overall features\nflexible camera system\nreliable fingerprint sensor\ndecent speaker\nno 5G\nPWM flickering\ncomparatively short battery life\nuncertain update promise\nfew LTE bands\nno eSIM\nfew audio codecs\nThe chassis of the Samsung Galaxy A17 4G has been redesigned, slimmed down and made 10 grams lighter than its predecessor.\nThe entire casing is made of plastic, but looks sturdy and has a clean finish. The back slightly reflects the ambient light, but the overall design is quite simple. The cameras are combined in an oval module. The screen is protected by Gorilla Glass Victus, a rarity in this price range.\nOur test device comes with 4 GB RAM and 128 GB mass storage. There is also a model with 8 GB RAM and 256 GB mass storage, the price difference is around 30 euros.\nWe like the fact that NFC is available, for example for mobile payment services.\nAn eSIM cannot be used, but two nano-SIM slots are available. One of them can also be used for a microSD card, which expands the memory by up to 2 TB. In our test, the reader worked reasonably quickly and with fairly stable transfer rates.\nYou have to do without 5G mobile communications and there are not too many frequency bands available in the LTE network either.\nThe reception is not always optimal in various spot checks during our test, but rarely fails completely.\nThe screen can display up to 90 frames per second and therefore reacts quite quickly to inputs. The touchscreen can be operated precisely.\nA fingerprint sensor is integrated in the standby button on the right-hand side of the casing, which unlocks the phone reliably and with little waiting time. Biometric unlocking via facial recognition is also possible. It also works quite quickly and accurately in good ambient light.\nAndroid 15 is pre-installed on the device, with Samsung's OneUI on top, which changes the operating system quite significantly.\nThe Galaxy A17 4G will receive updates until 2031, i.e. for six years from launch, and new versions of the operating system will be available for this period. However, Samsung restricts this on its website with the addition \"up to\" and other legal clauses. So you can't fully rely on this great promise.\nThe Galaxy A17 4G is packaged in paper. Recycled materials make up only 1.4% of the product. At least there is a\n, but it was already very well equipped: In addition to the 50-megapixel main camera, there is also a wide-angle lens and a macro lens. Both have a low resolution, but the camera system is still quite flexible.\nThe main camera takes passable pictures that show cool colours. Details are not always easily recognizable. The surrounding image also appears somewhat blurred in places. In low light and strong contrasts, the brightness is quite good and you can still make out details in most areas.\nThe image from the wide-angle camera looks quite coarse. The front camera takes decent selfies with a good level of detail.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe AMOLED screen of the Galaxy A17 is a rarity in the price range below 200 euros. The screen is quite bright with up to 687 cd/m².\nThe color reproduction is also pleasing with only slight deviations that are barely visible to the naked eye.\nHowever, you also have to accept PWM flickering at low brightness levels.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 367 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 367 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 13 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 9 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nis a very popular SoC in this price category. It usually enables smooth operation, but waiting times can occur in more demanding situations.\nThe performance is significantly below the 5G model of the Galaxy A17, but otherwise on a par with similarly priced models. The UFS 2.2 memory works quite quickly, but is actually slower than in the predecessor, which can only be explained by a different memory controller or software throttling.\nThe phone heats up to a maximum of 44.4 °C under prolonged load, which is noticeable but not critical. The phone also throttles minimally at best after long periods of use.\nThe single speaker on the bottom edge sounds better than its predecessor, still good at maximum volume and no longer quite as treble-heavy. So you can definitely listen to pop music or movie soundtracks. USB or Bluetooth connections are available for external audio devices. However, there are relatively few audio codecs for wireless transmission.\nand runtimes are only slightly different. The Samsung Galaxy A17 4G lasts for around 13 hours in our WiFi battery test, revealing one of its weaknesses in comparison with other phones.\nPower Supply (max.) 41.3 °C = 106 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 40 °C = 104 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 38.5 °C / 101 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 44.4 °C / 112 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 44.9 °C / 113 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.3 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n45% of all tested devices in this class were better, 8% similar, 47% worse\n32% of all tested devices in this class were better, 7% similar, 60% worse"
+            }
+        ]
+    }
+}

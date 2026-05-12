@@ -1,0 +1,371 @@
+{
+    "phone_key": "xiaomi_redmi_15_5g",
+    "primary_name": "Xiaomi Redmi 15 5G",
+    "aliases": [
+        "Xiaomi Redmi 15 5G"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Xiaomi Redmi 15 5G",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-Redmi-15-5G-smartphone-review-A-hot-candidate-for-the-runtime-throne.1144382.0.html",
+                "verdict": {
+                    "text": "With the Xiaomi Redmi 15 5G, the manufacturer is demonstrating that a low price and very long battery life aren't mutually exclusive. And that it's certainly feasible to offer a powerful mobile phone battery in Europe, even though numerous manufacturers have moved away from this in recent months. The battery life is indeed very impressive and can easily keep going for two or three days of normal use, long movie sessions, or an afternoon playing your favorite game. The screen is large, quite bright, and doesn't exhibit PWM flickering. Apart from that, much of the Redmi 15 5G is merely functional. For example, the occasionally creaky, no-frills plastic chassis, or the cameras which offer rather mediocre image quality. You also have to make do with a few compromises in terms of performance, both when it comes to the processor and the memory. The speakers aren't exactly a sound marvel either, but the phone does, at least, stay quite cool. Xiaomi has clearly made strong battery life a focal point with its Redmi 15 5G, and if that's your top priority, you'll find it tough to come across a better smartphone for $200. By the way, the Redmi 15 5G is, of course, not fireproof – our pictures of an artificial fire are only for show.",
+                    "pros": [
+                        "huge battery and great runtimes",
+                        "wired reverse charging",
+                        "good heat dissipation",
+                        "144 Hz display with good brightness",
+                        "no PWM flickering",
+                        "reliable fingerprint sensor",
+                        "5G with multiple bands",
+                        "update promise until 2031",
+                        "relatively affordable"
+                    ],
+                    "cons": [
+                        "mono speaker with mediocre sound",
+                        "only one rear camera...",
+                        "... with poor sharpness",
+                        "relatively low performance",
+                        "slow storage",
+                        "many pre-installed third-party apps",
+                        "creaking plastic case",
+                        "no eSIM support"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "It's been quite a while since a Redmi phone came from a purely numbered series. With Xiaomi's Redmi 15 5G focusing on its powerful battery, let's now take a look at the compromises you'll have to deal with for a price of around $200.\n\n",
+                        "Xiaomi has chosen a plastic case for its Redmi 15 5G, and it comes in black, reddish titanium gray, and green with a light marbling effect. The chassis doesn't feel particularly high-quality, but it's decent for the price range.\n\n",
+                        "Pressure placed on the rear side is quickly absorbed by the screen's liquid crystal, and twisting it can cause a quiet creaking noise to emit from the smartphone.\n\n",
+                        "Xiaomi boasts its smartphone as having IP64, which means it's well protected against dust and dirt, as well as rain. However, you should definitely not throw the phone into water. And we should add, don't throw it into a fire either. We used an artificial fire for our photos.\n\n",
+                        "Having a 6.9-inch screen means the phone's dimensions are slightly larger than other smartphones in this price range, and the weight is also higher at 224 grams.\n\n",
+                        "The current online price difference is around $20. If possible, we would recommend our larger storage configuration review model.\n\n",
+                        "A USB 2.0 port is built into the case and is used for charging as well as data transfer. Video signals cannot be output via this port.\n\n",
+                        "You can insert either two SIM cards or one SIM and a microSD card, but the Redmi 15 5G doesn't support eSIM.\n\n",
+                        "The card reader can expand the storage by up to 2 TB and operates at average speeds.\n\n",
+                        "The Xiaomi Redmi 15 5G runs Android 15 and Xiaomi's HyperOS 2 skin. It does numerous things differently from stock Android, including significantly redesigning the settings menu.\n\n",
+                        "Unfortunately, more than a dozen apps and games from third-party developers like Amazon or Temu are pre-installed, which means you must first uninstall them if they're surplus to your requirements.\n\n",
+                        "Xiaomi has promised updates for the Redmi 15 until 2031, which is six years from launch. There are also expected to be two new Android versions, up to Android 17. Given the low price, the update promise is reasonable, but how the device will be affected by the new EU guidelines remains to be seen.\n\n",
+                        "There is currently no Redmi 15 5G entry in the EU's EPREL database. We were also unable to find any data regarding its lifetime CO² equivalent emissions.\n\n",
+                        "Unfortunately, you don't get anything more than Wi-Fi 5 as a fast Wi-Fi standard. This allows for speeds of up to 340 Mbps. However, in our test with the Asus ROG Rapture AXE11000 reference router, these were also repeatedly accompanied by drops below 100 Mbps.\n\n",
+                        "As the name of the test device already indicates, the phone can also connect to 5G mobile networks and offers numerous frequencies, and this means it can usually be used abroad.\n\n",
+                        "Compared to high-end phones, reception was rather mediocre in various samples during our test. In challenging situations, such as narrow alleys, the reception can be patchy, but you can still make calls with other phones.\n\n",
+                        "Outdoors, we were located quite quickly with an accuracy of 3 meters. All major satellite networks are available, but SBAS for even greater accuracy is absent.\n\n",
+                        "Curious to discover how the Redmi 15 5G's positioning works in everyday life, we hopped on our bikes. We were accompanied on the trip by the Garmin Venu 2, a smartwatch that usually provides very accurate positioning.\n\n",
+                        "The Redmi 15 5G also did quite well in more open terrain, and although we occasionally seemed to ride through front gardens, this deviation was only a few meters from the actual route.\n\n",
+                        "The phone struggled a bit in narrow old town streets, but overall, the accuracy was absolutely sufficient for everyday navigation, as long as you don't require absolute precision.\n\n",
+                        "For the phone app, Xiaomi leans on Google's standard application. It contains all the essential features and is intuitive to use.\n\n",
+                        "While measuring the call quality in a few test calls, we noticed our caller often sounded a bit muffled through the earpiece, but our voice was recorded quite clearly. Background noise should be avoided as much as possible, since it is only filtered out moderately.\n\n",
+                        "The caller was very easy to understand through both the speaker and the hands-free microphone. Our voice was occasionally recorded a bit quietly, so we had to speak up.\n\n",
+                        "At first glance, the Xiaomi Redmi 15 5G appears to have three camera lenses on the back. However, that's not the case, because there's only a single 50-megapixel camera and a backup lens for blur effects. A dedicated wide-angle or macro camera is nowhere to be seen.\n\n",
+                        "The main camera produces moderately detailed images in good lighting conditions, but sometimes lacks sharpness. However, in low-light and high contrast situations, the level of detail is quite good, and in dark areas, some details are even visible, and a candle flame doesn't overpower the camera.\n\n",
+                        "The front camera takes decent selfies, although some of them appear a bit blurry. On the positive side, however, the image quality works quite well in both bright and dark areas.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "Even in studio light, the results can be rather mixed. The test chart appears patchy in places, and the contrast of text against a red background collapses. In addition, the sharpness of details is rather mediocre.\n\n",
+                        "Shots taken at just one lux brightness allow the subject to be just barely recognized, and can hardly be considered usable.\n\n",
+                        "In Europe, Xiaomi doesn't include a charger, but does include a protective case, a charging cable, and a SIM card reader.\n\n",
+                        "The manufacturer is traditionally rather stingy, offering only a 12-month\n\n",
+                        "The Xiaomi Redmi 15 5G's large 6.9-inch screen can display up to 144 frames per second and responds very quickly to inputs. The touchscreen is very comfortable to use, and the system speed is usually sufficient to allow smooth operation.\n\n",
+                        "The fingerprint sensor is located on the right-hand side of the smartphone's standby button. It's positioned a bit more conveniently for right-handed users than for lefties, who will likely prefer to use their index or middle fingers. Once a finger has been trained, the sensor recognizes it without fail and unlocks the phone almost instantly.\n\n",
+                        "Facial recognition can also be used for biometric unlocking. However, this is only possible via the front camera without additional sensors and is therefore not quite as secure.\n\n",
+                        "With 2,340 x 1,080 pixels and a pixel density of 374 PPI, the smartphone possesses a fine-resolution display.\n\n",
+                        "It's an IPS panel, which means it doesn't quite reach the brightness levels seen in other AMOLED screen smartphones in this price range: The brightness for a solid white area peaks at just under 700 cd/m², while for smaller areas, it can hit just over 800 cd/m².\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "We detected a slight blue tint on the color display, but overall, the accuracy is good enough for everyday use. There are also a few settings options allowing you to adjust the color display to your own taste.\n\n",
+                        "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 35 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "The screen shows relatively slow response rates in our tests and may be too slow for gamers.\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 37 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "The screen brightness is sufficient for outdoor use on cloudy days, and the displayed images are still clearly visible even from very wide viewing angles.\n\n",
+                        ". This is a budget smartphone SoC, and that's highlighted in the Redmi 15 5G's performance. While smooth operation is usually possible, running multiple apps simultaneously or performing demanding tasks quickly leaves the phone overwhelmed.\n\n",
+                        "Graphics performance is decent for this price range. Graphically demanding tasks such as high-resolution rendering aren't the affordable Redmi 15 5G's strengths, but that's probably not to be expected at this price.\n\n",
+                        "Surfing the internet with the Xiaomi Redmi 15 5G is usually a ton of fun, as even larger pages load quite quickly and images are also available quickly when scrolling.\n\n",
+                        "Thanks to the UFS 2.2 standard, you should be able to enjoy fast data transfers and short loading times. However, although the storage appears impressive on paper, the Redmi 15 5G's storage controller doesn't play ball. It significantly slows down the storage, which means you'll still often have to wait.\n\n",
+                        "Games can be controlled via the touchscreen, and, if necessary, the position sensor works smoothly and reliably.\n\n",
+                        "In our test, the case barely heated up even after extended load, and we measured a maximum of 40.3°C. While this can be a bit higher on hot days, the Redmi 15 5G is generally well-cooled.\n\n",
+                        "The 3DMark stress tests also showed no significant drops in results. This means we can assume that the SoC maintains a constant maximum performance.\n\n",
+                        "Power Supply (max.) 40.8 °C = 105 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 37.6 °C = 100 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 35.4 °C / 96 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 40.3 °C / 105 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 38.5 °C / 101 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.1 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Unfortunately, the speaker only produces mono sound that's a bit high-pitched. Although you can listen to pop music, the phone doesn't sound particularly powerful.\n\n",
+                        "Even with movie sound, you quickly miss the punch, but speech is at least quite understandable.\n\n",
+                        "If you wish to connect external speakers or headphones, you can do so via the USB port or wirelessly via Bluetooth. In our tests, both worked without issues.\n\n",
+                        "For wireless audio transmission, the phone supports the most important audio codecs, including some HD audio-capable options such as LDAC and aptX HD.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "56% of all tested devices in this class were better, 8% similar, 36% worse\n\n",
+                        "19% of all tested devices in this class were better, 9% similar, 72% worse\n\n",
+                        "The Redmi 15 5G's power consumption is normal to moderate for a smartphone in this performance class.\n\n",
+                        "The smartphone can be charged at a maximum of 33 watts, and it can sometimes take more than three hours to fully recharge, due to the large battery.\n\n",
+                        "The generous power storage also has the advantage of allowing the Redmi 15 5G to be used as a power bank because wired reverse charging is possible at up to 18 watts.\n\n",
+                        "Many smartphones have recently been released in Germany, housing smaller batteries, but not the Xiaomi Redmi 15 5G. It boasts a very large 7,000 mAh battery, allowing it to offer long battery life.\n\n",
+                        "Specifically, the phone achieved a runtime of over 21 hours in our Wi-Fi test, which helped it last two or three days without charging. You can watch movies from the internal storage for almost 30 hours, meaning you could watch all the Harry Potter films and the Lord of the Rings Extended Versions back to back without the battery running out.\n\n",
+                        "Even under heavy load, the battery life is excellent: For example, you can play games for over 7 hours before the lights go out.\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 6s Gen 3 8c/8t, 2 x 2.3 GHz ARM Cortex-A78, 6 x 2.0 GHz ARM Cortex-A55, Kryo 660 Gold (2x Cortex-A78) / Silver (6x Cortex-A55)",
+                        "Graphics adapter:": "Qualcomm Adreno 619",
+                        "Memory:": "8 GB",
+                        "Display:": "6.90 inch 19.5:9, 2340 x 1080 pixel 374 PPI, capacitive touchscreen, IPS, glossy: yes, 144 Hz",
+                        "Storage:": "256 GB UFS 2.2 Flash, 256 GB , 210 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, Card Reader: microSD (shared, up to 2TB), 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Virtual proximity sensor, Accelerometer, Electronic compass",
+                        "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.1, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42/​B48/​B66/​B71), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n26/​n28/​n38/​n40/​n41/​n48/​n66/​n71/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.6 x 171.1 x 82.1 ( = 0.34 x 6.74 x 3.23 in)",
+                        "Battery:": "7000 mAh Lithium-Ion, 33 Watt charging, 18W reverse charging with cable",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 50 MPix f/​1.8, phase comparison-AF, LED-flash, Videos @1080p/​30fps (Camera 1) Secondary Camera: 8 MPix f/​2.0, Videos @1080p/​30fps",
+                        "Additional features:": "Speakers: mono speaker, Keyboard: OnScreen, SIM tool, USB cable, bumper, 12 Months Warranty, IP64 certified; SAR: 0.998W/​kg Head, 0.996W/​kg Body, fanless",
+                        "Weight:": "224 g ( = 7.9 oz / 0.49 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "250 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "82%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "61%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "14%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "70%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "8%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "79%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "54%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "5%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "5%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "95.4%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "6%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "80%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "46.1%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "huge battery and great runtimes",
+            "wired reverse charging",
+            "good heat dissipation",
+            "144 Hz display with good brightness",
+            "no PWM flickering",
+            "reliable fingerprint sensor",
+            "5G with multiple bands",
+            "update promise until 2031",
+            "relatively affordable"
+        ],
+        "cons": [
+            "mono speaker with mediocre sound",
+            "only one rear camera...",
+            "... with poor sharpness",
+            "relatively low performance",
+            "slow storage",
+            "many pre-installed third-party apps",
+            "creaking plastic case",
+            "no eSIM support"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 6s Gen 3 8c/8t, 2 x 2.3 GHz ARM Cortex-A78, 6 x 2.0 GHz ARM Cortex-A55, Kryo 660 Gold (2x Cortex-A78) / Silver (6x Cortex-A55)",
+                "Graphics adapter:": "Qualcomm Adreno 619",
+                "Memory:": "8 GB",
+                "Display:": "6.90 inch 19.5:9, 2340 x 1080 pixel 374 PPI, capacitive touchscreen, IPS, glossy: yes, 144 Hz",
+                "Storage:": "256 GB UFS 2.2 Flash, 256 GB , 210 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, Card Reader: microSD (shared, up to 2TB), 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Virtual proximity sensor, Accelerometer, Electronic compass",
+                "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.1, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42/​B48/​B66/​B71), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n26/​n28/​n38/​n40/​n41/​n48/​n66/​n71/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.6 x 171.1 x 82.1 ( = 0.34 x 6.74 x 3.23 in)",
+                "Battery:": "7000 mAh Lithium-Ion, 33 Watt charging, 18W reverse charging with cable",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 50 MPix f/​1.8, phase comparison-AF, LED-flash, Videos @1080p/​30fps (Camera 1) Secondary Camera: 8 MPix f/​2.0, Videos @1080p/​30fps",
+                "Additional features:": "Speakers: mono speaker, Keyboard: OnScreen, SIM tool, USB cable, bumper, 12 Months Warranty, IP64 certified; SAR: 0.998W/​kg Head, 0.996W/​kg Body, fanless",
+                "Weight:": "224 g ( = 7.9 oz / 0.49 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "250 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "82%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "61%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "14%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "70%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "8%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "79%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "54%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "5%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "5%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "95.4%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "6%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "80%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "46.1%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-Redmi-15-5G-smartphone-review-A-hot-candidate-for-the-runtime-throne.1144382.0.html",
+                "text": "With the Xiaomi Redmi 15 5G, the manufacturer is demonstrating that a low price and very long battery life aren't mutually exclusive. And that it's certainly feasible to offer a powerful mobile phone battery in Europe, even though numerous manufacturers have moved away from this in recent months. The battery life is indeed very impressive and can easily keep going for two or three days of normal use, long movie sessions, or an afternoon playing your favorite game. The screen is large, quite bright, and doesn't exhibit PWM flickering. Apart from that, much of the Redmi 15 5G is merely functional. For example, the occasionally creaky, no-frills plastic chassis, or the cameras which offer rather mediocre image quality. You also have to make do with a few compromises in terms of performance, both when it comes to the processor and the memory. The speakers aren't exactly a sound marvel either, but the phone does, at least, stay quite cool. Xiaomi has clearly made strong battery life a focal point with its Redmi 15 5G, and if that's your top priority, you'll find it tough to come across a better smartphone for $200. By the way, the Redmi 15 5G is, of course, not fireproof – our pictures of an artificial fire are only for show.\nhuge battery and great runtimes\nwired reverse charging\ngood heat dissipation\n144 Hz display with good brightness\nno PWM flickering\nreliable fingerprint sensor\n5G with multiple bands\nupdate promise until 2031\nrelatively affordable\nmono speaker with mediocre sound\nonly one rear camera...\n... with poor sharpness\nrelatively low performance\nslow storage\nmany pre-installed third-party apps\ncreaking plastic case\nno eSIM support\nIt's been quite a while since a Redmi phone came from a purely numbered series. With Xiaomi's Redmi 15 5G focusing on its powerful battery, let's now take a look at the compromises you'll have to deal with for a price of around $200.\nXiaomi has chosen a plastic case for its Redmi 15 5G, and it comes in black, reddish titanium gray, and green with a light marbling effect. The chassis doesn't feel particularly high-quality, but it's decent for the price range.\nPressure placed on the rear side is quickly absorbed by the screen's liquid crystal, and twisting it can cause a quiet creaking noise to emit from the smartphone.\nXiaomi boasts its smartphone as having IP64, which means it's well protected against dust and dirt, as well as rain. However, you should definitely not throw the phone into water. And we should add, don't throw it into a fire either. We used an artificial fire for our photos.\nHaving a 6.9-inch screen means the phone's dimensions are slightly larger than other smartphones in this price range, and the weight is also higher at 224 grams.\nThe current online price difference is around $20. If possible, we would recommend our larger storage configuration review model.\nA USB 2.0 port is built into the case and is used for charging as well as data transfer. Video signals cannot be output via this port.\nYou can insert either two SIM cards or one SIM and a microSD card, but the Redmi 15 5G doesn't support eSIM.\nThe card reader can expand the storage by up to 2 TB and operates at average speeds.\nThe Xiaomi Redmi 15 5G runs Android 15 and Xiaomi's HyperOS 2 skin. It does numerous things differently from stock Android, including significantly redesigning the settings menu.\nUnfortunately, more than a dozen apps and games from third-party developers like Amazon or Temu are pre-installed, which means you must first uninstall them if they're surplus to your requirements.\nXiaomi has promised updates for the Redmi 15 until 2031, which is six years from launch. There are also expected to be two new Android versions, up to Android 17. Given the low price, the update promise is reasonable, but how the device will be affected by the new EU guidelines remains to be seen.\nThere is currently no Redmi 15 5G entry in the EU's EPREL database. We were also unable to find any data regarding its lifetime CO² equivalent emissions.\nUnfortunately, you don't get anything more than Wi-Fi 5 as a fast Wi-Fi standard. This allows for speeds of up to 340 Mbps. However, in our test with the Asus ROG Rapture AXE11000 reference router, these were also repeatedly accompanied by drops below 100 Mbps.\nAs the name of the test device already indicates, the phone can also connect to 5G mobile networks and offers numerous frequencies, and this means it can usually be used abroad.\nCompared to high-end phones, reception was rather mediocre in various samples during our test. In challenging situations, such as narrow alleys, the reception can be patchy, but you can still make calls with other phones.\nOutdoors, we were located quite quickly with an accuracy of 3 meters. All major satellite networks are available, but SBAS for even greater accuracy is absent.\nCurious to discover how the Redmi 15 5G's positioning works in everyday life, we hopped on our bikes. We were accompanied on the trip by the Garmin Venu 2, a smartwatch that usually provides very accurate positioning.\nThe Redmi 15 5G also did quite well in more open terrain, and although we occasionally seemed to ride through front gardens, this deviation was only a few meters from the actual route.\nThe phone struggled a bit in narrow old town streets, but overall, the accuracy was absolutely sufficient for everyday navigation, as long as you don't require absolute precision.\nFor the phone app, Xiaomi leans on Google's standard application. It contains all the essential features and is intuitive to use.\nWhile measuring the call quality in a few test calls, we noticed our caller often sounded a bit muffled through the earpiece, but our voice was recorded quite clearly. Background noise should be avoided as much as possible, since it is only filtered out moderately.\nThe caller was very easy to understand through both the speaker and the hands-free microphone. Our voice was occasionally recorded a bit quietly, so we had to speak up.\nAt first glance, the Xiaomi Redmi 15 5G appears to have three camera lenses on the back. However, that's not the case, because there's only a single 50-megapixel camera and a backup lens for blur effects. A dedicated wide-angle or macro camera is nowhere to be seen.\nThe main camera produces moderately detailed images in good lighting conditions, but sometimes lacks sharpness. However, in low-light and high contrast situations, the level of detail is quite good, and in dark areas, some details are even visible, and a candle flame doesn't overpower the camera.\nThe front camera takes decent selfies, although some of them appear a bit blurry. On the positive side, however, the image quality works quite well in both bright and dark areas.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nEven in studio light, the results can be rather mixed. The test chart appears patchy in places, and the contrast of text against a red background collapses. In addition, the sharpness of details is rather mediocre.\nShots taken at just one lux brightness allow the subject to be just barely recognized, and can hardly be considered usable.\nIn Europe, Xiaomi doesn't include a charger, but does include a protective case, a charging cable, and a SIM card reader.\nThe manufacturer is traditionally rather stingy, offering only a 12-month\nThe Xiaomi Redmi 15 5G's large 6.9-inch screen can display up to 144 frames per second and responds very quickly to inputs. The touchscreen is very comfortable to use, and the system speed is usually sufficient to allow smooth operation.\nThe fingerprint sensor is located on the right-hand side of the smartphone's standby button. It's positioned a bit more conveniently for right-handed users than for lefties, who will likely prefer to use their index or middle fingers. Once a finger has been trained, the sensor recognizes it without fail and unlocks the phone almost instantly.\nFacial recognition can also be used for biometric unlocking. However, this is only possible via the front camera without additional sensors and is therefore not quite as secure.\nWith 2,340 x 1,080 pixels and a pixel density of 374 PPI, the smartphone possesses a fine-resolution display.\nIt's an IPS panel, which means it doesn't quite reach the brightness levels seen in other AMOLED screen smartphones in this price range: The brightness for a solid white area peaks at just under 700 cd/m², while for smaller areas, it can hit just over 800 cd/m².\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nWe detected a slight blue tint on the color display, but overall, the accuracy is good enough for everyday use. There are also a few settings options allowing you to adjust the color display to your own taste.\nThe screen shows good response rates in our tests, but may be too slow for competitive gamers.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 35 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nThe screen shows relatively slow response rates in our tests and may be too slow for gamers.\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 37 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nThe screen brightness is sufficient for outdoor use on cloudy days, and the displayed images are still clearly visible even from very wide viewing angles.\n. This is a budget smartphone SoC, and that's highlighted in the Redmi 15 5G's performance. While smooth operation is usually possible, running multiple apps simultaneously or performing demanding tasks quickly leaves the phone overwhelmed.\nGraphics performance is decent for this price range. Graphically demanding tasks such as high-resolution rendering aren't the affordable Redmi 15 5G's strengths, but that's probably not to be expected at this price.\nSurfing the internet with the Xiaomi Redmi 15 5G is usually a ton of fun, as even larger pages load quite quickly and images are also available quickly when scrolling.\nThanks to the UFS 2.2 standard, you should be able to enjoy fast data transfers and short loading times. However, although the storage appears impressive on paper, the Redmi 15 5G's storage controller doesn't play ball. It significantly slows down the storage, which means you'll still often have to wait.\nGames can be controlled via the touchscreen, and, if necessary, the position sensor works smoothly and reliably.\nIn our test, the case barely heated up even after extended load, and we measured a maximum of 40.3°C. While this can be a bit higher on hot days, the Redmi 15 5G is generally well-cooled.\nThe 3DMark stress tests also showed no significant drops in results. This means we can assume that the SoC maintains a constant maximum performance.\nPower Supply (max.) 40.8 °C = 105 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 37.6 °C = 100 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 35.4 °C / 96 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 40.3 °C / 105 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 38.5 °C / 101 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.1 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\nUnfortunately, the speaker only produces mono sound that's a bit high-pitched. Although you can listen to pop music, the phone doesn't sound particularly powerful.\nEven with movie sound, you quickly miss the punch, but speech is at least quite understandable.\nIf you wish to connect external speakers or headphones, you can do so via the USB port or wirelessly via Bluetooth. In our tests, both worked without issues.\nFor wireless audio transmission, the phone supports the most important audio codecs, including some HD audio-capable options such as LDAC and aptX HD.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n56% of all tested devices in this class were better, 8% similar, 36% worse\n19% of all tested devices in this class were better, 9% similar, 72% worse\nThe Redmi 15 5G's power consumption is normal to moderate for a smartphone in this performance class.\nThe smartphone can be charged at a maximum of 33 watts, and it can sometimes take more than three hours to fully recharge, due to the large battery.\nThe generous power storage also has the advantage of allowing the Redmi 15 5G to be used as a power bank because wired reverse charging is possible at up to 18 watts.\nMany smartphones have recently been released in Germany, housing smaller batteries, but not the Xiaomi Redmi 15 5G. It boasts a very large 7,000 mAh battery, allowing it to offer long battery life.\nSpecifically, the phone achieved a runtime of over 21 hours in our Wi-Fi test, which helped it last two or three days without charging. You can watch movies from the internal storage for almost 30 hours, meaning you could watch all the Harry Potter films and the Lord of the Rings Extended Versions back to back without the battery running out.\nEven under heavy load, the battery life is excellent: For example, you can play games for over 7 hours before the lights go out."
+            }
+        ]
+    }
+}

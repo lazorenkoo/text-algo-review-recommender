@@ -1,0 +1,184 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Motorola Moto G57 Power",
+    "article_url": "https://www.notebookcheck.net/Huge-battery-and-sleek-design-Is-that-still-enough-against-Xiaomi-and-rivals-Motorola-Moto-G57-Power-review.1221966.0.html",
+    "verdict": {
+        "text": "The Motorola Moto G57 Power aims to impress with its long battery life, and it largely succeeds. However, this feature is no longer as distinctive as it once was, as the competition has caught up. That said, the handset remains worth a look. Its weight stays within reasonable limits, the chassis is both visually appealing and very sturdy, and the device offers a bright display without PWM flickering. Performance is solid overall, albeit with limited headroom. The SoC does not throttle even during prolonged use, which is a positive point. The speakers and cameras are adequate for the price range, but they do not stand out in any particular way. In our Wi-Fi test, the phone lasts for more than 20 hours. While this is a strong result, the Xiaomi Redmi 15 5G manages slightly longer runtimes. As a result, Motorola will likely need to work harder in future generations to better differentiate its Power models. The biggest weakness of the Moto G57 Power is its short update support period.",
+        "pros": [
+            "long battery life",
+            "attractive, sturdy chassis",
+            "bright display",
+            "no PWM flickering",
+            "stable Wi-Fi performance",
+            "wide range of 5G bands",
+            "ample RAM",
+            "reliable fingerprint sensor",
+            "3.5 mm audio jack",
+            "eSIM support"
+        ],
+        "cons": [
+            "cameras only average",
+            "no microSD slot",
+            "short update support period"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Software and sustainability – How long will Motorola phones receive updates?\n\n",
+            "Performance, emissions and battery life – Moto phone lasts a long time\n\n",
+            "True to Motorola's current design language, the Moto G57 Power's rear is clad in a faux-leather texture that feels pleasing to the touch. The camera module flows naturally out of the back via a gentle contour in the material, giving the phone a more premium look than its price might suggest. The chassis itself is very solid, with no creaks or unwanted flex.\n\n",
+            "The handset is offered in blue-green, turquoise and pink. An IP64 rating provides protection against dust ingress and splashes.\n\n",
+            "Storage is fixed at 256 GB, paired with either 8 GB or 12 GB of RAM; we tested the higher-RAM configuration. Unfortunately, there is no option to expand storage via microSD.\n\n",
+            "The USB-C port supports only USB-2.0 speeds, and Bluetooth 5.1 is already past the latest spec, but Motorola includes a 3.5 mm headphone jack, as well as eSIM support alongside a Nano-SIM slot.\n\n",
+            "A wide range of 4G and 5G frequency bands is supported, allowing the smartphone to be used for mobile internet access while travelling.\n\n",
+            "The touchscreen, with a sampling rate of up to 120 Hz, feels smooth to operate and showed no dropouts during our testing.\n\n",
+            "A fingerprint sensor is integrated into the standby button on the right-hand side. After a brief setup, it recognises fingerprints very reliably and unlocks the phone almost instantly. Face recognition is also available and works dependably via the front-facing camera.\n\n",
+            "Android 16 comes preinstalled. Motorola makes only minor changes to stock Android, supplementing it with a few apps for its own features.\n\n",
+            "The manufacturer has confirmed one major OS upgrade to Android 17, but support beyond that remains unclear. Security updates are promised for just two and a half years from the market launch, running until June 2028.\n\n",
+            "Little is known about the device's sustainability credentials. At least the packaging is plastic-free.\n\n",
+            "The main camera itself delivers fairly acceptable photos, but sharpness is lacking, and images quickly appear grainy in slightly weaker daylight. In low-light scenes with high contrast, colour rendering is pleasing, even if very dark areas retain little visible detail.\n\n",
+            "The front-facing camera has a resolution of eight megapixels. It offers decent, though not perfect, brightness dynamics and produces usable selfies overall.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "In our spectrophotometer measurements, the IPS display proves to be very bright. However, its peak luminance is ultimately insufficient for truly convincing HDR reproduction. Even so, the Moto G57 Power remains well suited for outdoor use.\n\n",
+            "Colour reproduction is accurate, with no visible colour cast to the naked eye. We also did not detect any PWM flickering.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 43 % of all devices are better.\n\n",
+            "This means that the measured response time is similar to the average of all tested devices (20 ms).\n\n",
+            "The screen shows slow response rates in our tests and will be unsatisfactory for gamers.\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 48 % of all devices are better.\n\n",
+            "This means that the measured response time is worse than the average of all tested devices (31.2 ms).\n\n",
+            "is used as the SoC. In terms of performance, it operates at class level and generally delivers smooth system operation. However, there is little headroom available for more demanding applications.\n\n",
+            "Under sustained load, the chassis does warm up noticeably, but this is not critical. The 3DMark stress tests also show that the SoC throttles only minimally, if at all.\n\n",
+            "The bottom-firing speaker is supported by the earpiece, resulting in stereo sound. Maximum volume is average, while sound quality is good overall but somewhat treble-heavy. External audio devices can be connected via the 3.5 mm jack or Bluetooth, with a wide range of Bluetooth audio codecs supported.\n\n",
+            "The large 7,000 mAh battery is undoubtedly one of the Moto G57 Power's highlights. It enables runtimes well beyond 20 hours in our Wi-Fi test. That said, batteries of this size are now also found in mid-range smartphones from Xiaomi and other manufacturers, sometimes delivering slightly longer runtimes. Thanks to 30-watt charging, the battery is fully recharged in up to 1 hour and 45 minutes.\n\n",
+            "Power Supply (max.) 42.1 °C = 108 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 38.6 °C = 101 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 36.6 °C / 98 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 45.8 °C / 114 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 41.4 °C / 107 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 26.8 °C / 80 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "31% of all tested devices in this class were better, 8% similar, 61% worse\n\n",
+            "13% of all tested devices in this class were better, 8% similar, 78% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Qualcomm Snapdragon 6s Gen 4 8c/8t, 4 x 2.4 GHz ARM Cortex-A78, 4 x 1.9 GHz ARM Cortex-A55, Cortex-A78/A55",
+            "Graphics adapter:": "Qualcomm Adreno 710",
+            "Memory:": "12 GB",
+            "Display:": "6.72 inch 20:9, 2400 x 1080 pixel 392 PPI, capacitive touchscreen, IPS, 120 Hz sampling rate, glossy: yes, 120 Hz",
+            "Storage:": "256 GB UFS 2.2 Flash, 256 GB , 202 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: 3.5mm, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass",
+            "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.1, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B5/​B8), 4G (B1/​B2/​B3/​B5/​B7/​B8/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42/​B71), 5G (n1/​n3/​n5/​n7/​n8/​n20/​n26/​n28/​n38/​n40/​n41/​n71/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 8.6 x 166.2 x 76.5 ( = 0.34 x 6.54 x 3.01 in)",
+            "Battery:": "7000 mAh Lithium-Ion, 30 Watt charging",
+            "Charging:": "fast charging / Quickcharge",
+            "Operating System:": "Android 16",
+            "Camera:": "Primary Camera: 50 MPix f/​1.8, phase shift AF, LED-flash, videos @1440p/​30fps (camera 1); 8.0MP, f/​2.2, wide angle (camera 2) Secondary Camera: 8 MPix f/​2.2, videos @1440p/​30fps",
+            "Additional features:": "Speakers: stereo speakers (hybrid), Keyboard: OnScreen, USB cable, SIM tool, bumper, 24 Months Warranty, SAR: 1.34W/​kg (head), 1.31W/​kg (body); IP64 certified, MIL-STD-810H certified; eSIM support, fanless",
+            "Weight:": "210.6 g ( = 7.43 oz / 0.46 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "299 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "89%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "59%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "85%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "23%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "75%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "9%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "83%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "61%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "10%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "10%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "6%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "35%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "31.8%"
+            }
+        ]
+    }
+}

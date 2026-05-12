@@ -1,0 +1,522 @@
+{
+    "phone_key": "oneplus_15",
+    "primary_name": "OnePlus 15",
+    "aliases": [
+        "OnePlus 15"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "OnePlus 15",
+                "article_url": "https://www.notebookcheck.net/OnePlus-15-smartphone-review-Gaming-at-165fps-despite-being-slower-than-the-predecessor.1171622.0.html",
+                "verdict": {
+                    "text": "Although the OnePlus 15's specifications show it isn't intended to be Oppo's flagship camera phone, it's still capable of taking good photos. The main focus is on performance, which is designed to operate without any artificial limitations. The downside, however, is that this can cause the phone to overheat and shut down. Furthermore, the phone throttles significantly under sustained load. Despite this, its Snapdragon 8 Elite Gen 5 means you won't have to worry about running out of power for apps or games. The chassis is very high-quality, and its satin-finish frame lends the device a particularly premium feel. The large 7,300 mAh battery has also made its way to Europe thanks to its dual-cell design. While it doesn't quite take the battery life crown, the OnePlus 15 is still a significant upgrade over its predecessor. The screen displays movements very smoothly, and the phone feels very responsive thanks to its dedicated touch controller chip. However, users will have to put up with PWM flickering, so anyone sensitive to such issues should try out the screen before parting with their cash. The sub $1,000 price makes the OnePlus 15 attractive for budget-conscious users for whom the camera isn't the most crucial factor.",
+                    "pros": [
+                        "stylish design",
+                        "comparatively inexpensive (especially when imported)",
+                        "bright display",
+                        "up to 165 fps in games",
+                        "highly responsive touchscreen",
+                        "waterproof",
+                        "good camera system",
+                        "powerful speakers",
+                        "good battery life",
+                        "120W fast charging",
+                        "world phone with good reception",
+                        "accurate GPS",
+                        "6 years of updates"
+                    ],
+                    "cons": [
+                        "performance issues, significant throttling",
+                        "case gets very hot",
+                        "only mediocre energy efficiency",
+                        "stripped-down camera system",
+                        "display has PWM flickering",
+                        "only mediocre Wi-Fi performance",
+                        "no UWB",
+                        "Chinese import lacks eSIM support",
+                        "slight creaking when bent",
+                        "back cover partly plastic instead of glass",
+                        "charger only included with Chinese version"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "When it started out, OnePlus was revolutionary: significantly cheaper than the established competition, yet very well-equipped and boasting premium workmanship. Furthermore, they always cared about what the community had to say and implemented feedback in future models.\n\n",
+                        "However, OnePlus's current models no longer quite live up to this legendary reputation. This is partly because the brand has had to differentiate itself internally from the smartphones of its sister company, Oppo, and often comes up short in this regard.\n\n",
+                        "Nevertheless, the OnePlus 15 is once again an exciting smartphone that is somewhat cheaper than other high-end phones, yet still well-equipped.\n\n",
+                        "When it comes to the case, OnePlus is trying to forge its own path, and is also clearly inspired by the smartphone giant, Apple: The rounded screen corners, the action button placement, and the printed antennas could fool a less experienced user into thinking they're holding a phone from California rather than Shenzhen.\n\n",
+                        "However, the design is also unique thanks to its matte finish: OnePlus uses a process called Micro-Arc Oxidation, which leaves a ceramic protective layer both on the metal of the frame and camera module.\n\n",
+                        "Unfortunately, this finish is only available for the Sand Storm color option, which we were able to test. Opting for this color, however, means you'll have to accept that the back is made of fiberglass-reinforced plastic. In contrast, the Infinite Black and Ultra Violet versions have a glass back.\n\n",
+                        "The phone is sturdy, but we heard a very faint creaking sound when attempting to twist it, and this is something that should be absent in this price range. It offers IP68/IP69 water and dust resistance.\n\n",
+                        "The front features very thin display bezels, and screen protection is provided by the modern Gorilla Glass Victus 2.\n\n",
+                        "A USB 3.1 Gen 1 port with data throughput of up to 5 Gbps and DisplayPort are standard features on high-end phones, and the OnePlus 15 delivers on this front. One bonus is the included infrared port, which can be used to control devices such as TVs. Although UWB for easy device discovery isn't included, Bluetooth 6.0 offers similar functionality.\n\n",
+                        "OnePlus has managed to squeeze even more speed out of the RAM in the larger storage variant. The price difference between the storage options is currently around $50.\n\n",
+                        "There is no microSD card slot, and although the import model does not support eSIM, the European models do, and even support two eSIM profiles.\n\n",
+                        "The China-based lender, TradingShenzhen, provided us with our review unit that came pre-installed with ColorOS, and not the global OxygenOS.\n\n",
+                        "The differences aren't significant; for example, you can select European languages ​​with the Chinese ROM, and Android Auto should also work. However, after extensive testing, TradingShenzhen now offers import models with OxygenOS pre-installed.\n\n",
+                        "The main difference between the software versions is that no Chinese apps are pre-installed, and Google services don't have to be activated separately. Both operating systems are very responsive and intuitive to use. They come with a good gallery app with comprehensive AI editing options and a wide range of settings. However, a few minor translation errors (in German) are also to be found in OxygenOS.\n\n",
+                        "The OnePlus 15 is said to receive six years of security updates and four major Android updates. According to the\n\n",
+                        ", we can expect at least 5 years of updates. This is still too short to conform to EU regulations, so it will be interesting to see how strictly this is handled by the EU.\n\n",
+                        "OnePlus offers repair manuals and spare parts for its smartphones, enabling users to carry out repairs themselves. According to the\n\n",
+                        ", the repairability has received a B rating, the second-highest possible grade. Repair costs can also be viewed in advance.\n\n",
+                        "According to the manufacturer's website, the phone is over 90% recyclable; however, no information has been provided regarding the recycled materials used. There is also no information concerning its carbon footprint.\n\n",
+                        "Modern WiFi 7 is supported, but our Asus ROG Rapture AXE11000 reference router only supports WiFi 6E. This allows for a connection via the less congested 6 GHz band.\n\n",
+                        "In our test, the OnePlus 15 achieved only mediocre transfer speeds, and other smartphones, including its predecessor, were faster. A gigabit internet connection can easily be utilized with the OnePlus 15, but anyone who relies on even higher speeds within their own networks will quickly find their limits.\n\n",
+                        "Both the Chinese import and the European versions of the OnePlus 15 are truly global phones and can connect to mobile networks almost anywhere in the world. Reception is excellent, even in challenging situations, as demonstrated by several spot tests during our analysis, including in narrow streets.\n\n",
+                        "Outdoors, the OnePlus 15 quickly pinpointed our location to within a few meters. All major satellite systems are available for positioning, but unfortunately, the device lacks SBAS for even greater accuracy.\n\n",
+                        "We aimed to test the positioning in real-life situations on a bike trip. In addition, we also used the Garmin Venu 2, a smartwatch with very accurate positioning.\n\n",
+                        "Both devices calculated exactly the same distance, and the OnePlus 15 accurately represented our route. On the bridge, we were placed a few meters off our actual path, but overall, the phone is very well-suited for navigation and location tracking.\n\n",
+                        "Those using the Chinese ColorOS have OnePlus's own dedicated phone app, while OxygenOS comes with Google's default phone app. The OnePlus app can even detect if a caller's voice is AI-generated.\n\n",
+                        "The call quality via the earpiece is very good, and our voice was also transmitted clearly in a test call. Calls work flawlessly via the speakerphone and the hands-free microphone, although the noise cancellation could be improved.\n\n",
+                        "The OnePlus 15's camera system has been scaled back, and the Hasselblad partnership has been removed. To internally differentiate it from the\n\n",
+                        "Nevertheless, the 50-megapixel main camera takes very good photos, which can easily be enlarged. They are both detailed and color-accurate. Even in low light and high-contrast situations, strong detail reproduction is still present, and some detail is only lost in dark areas.\n\n",
+                        "The telephoto camera is fitted with a periscope zoom. It also possesses a 50-megapixel resolution and achieves a 7x optical zoom compared to the main camera. Photos taken at maximum optical zoom still appear very detailed.\n\n",
+                        "The ultrawide camera also has a 50-megapixel resolution, but snapshots taken from longer distances have barely discernible details.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "We would like to have seen a bit more sharpness under full studio lighting, but the subject was still very clearly recognizable at only 1 lux illumination.\n\n",
+                        "The OnePlus 15 comes with a charger in China, but not in Europe. OnePlus traditionally offers a wide range of accessories, such as stylish cases and charging cables.\n\n",
+                        ". TradingShenzhen allows warranty claims for its Chinese imported devices to be processed via a German address.\n\n",
+                        "The touchscreen is said to respond to touch inputs up to 3,200 times per second. This is made possible by a custom-designed chip, and the result is indeed a OnePlus 15 that feels very fast and responsive.\n\n",
+                        "The fingerprint sensor is located beneath the screen, but unusually high up. In practice, this proves quite convenient since you never have to reposition your hand. It's also equally easy for right- and left-handed users to operate, and even users with small hands will have no issues.\n\n",
+                        "Face recognition is also possible, but only using 2D scanning via the front camera.\n\n",
+                        "The display offers a slightly lower resolution than its predecessor, but it can display images at up to 165 Hz. However, this only works in specially adapted games; otherwise, it tops out at 120 Hz.\n\n",
+                        "The maximum brightness in everyday situations is around 1,100 cd/m², which is typical for its class. In small areas, we measured approximately 1,434 cd/m². When viewing HDR content, up to 1,800 cd/m² is said to be possible in certain areas. This is good, but not exactly record-breaking.\n\n",
+                        "Color reproduction is very accurate, and no deviations are perceptible to the naked eye.\n\n",
+                        "The PWM flickering we measured is adapted to the 120 Hz refresh rate, and this helps to make it somewhat less distracting. The PWM rate can also be increased in the options to potentially alleviate any such issues.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "A series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 13 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 12 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "The bright screen is easy to read outdoors, and the display remains perfectly legible even at wide viewing angles.\n\n",
+                        ", one of the fastest SoCs currently available. However, our observations in other smartphones have shown that it isn't always able to deliver its full potential, heating up too quickly to be adequately cooled within the compact smartphone's chassis.\n\n",
+                        "The OnePlus 15 seems to have particular problems with this, with it even lagging behind its predecessor, the\n\n",
+                        "in almost every benchmark. Under very heavy load, some benchmarks even crashed, such as our temperature monitoring test using the Burnout benchmark or the stress tests. However, the SoC remained stable during our tests running demanding apps or games.\n\n",
+                        "The graphics performance also highlights that the SoC is unable to reach its full potential. However, the manufacturer and Qualcomm might be able to improve this with patches. Nevertheless, every kind of mobile game should run on this graphics adapter, and this ought to continue for the next few years.\n\n",
+                        "Technologically, it has almost everything you could desire. From ray tracing and mesh shading to tile memory heaps, many current gaming technologies are available.\n\n",
+                        "Web browsing is fast and, in most cases, lag-free. Images are almost always available immediately while scrolling.\n\n",
+                        "The UFS 4.1 flash handles data transfers quite quickly, and loading times are short.\n\n",
+                        "The improved touch sensitivity can be activated in the gaming overlay, and even professional gamers will find it a suitable environment.\n\n",
+                        "Other games also run smoothly, even at high detail settings. We measured the frame rates using the\n\n",
+                        "We measured a noticeable increase in the case temperature under load, hitting almost 50°C. The burnout benchmark repeatedly failed to complete as the device needed to cool down.\n\n",
+                        "A few 3DMark stress tests also failed to run. When we finally managed to complete runs, the throttling was severe, with the remaining performance after several benchmark runs ranging between 52% and 62%.\n\n",
+                        "Power Supply (max.) 42.1 °C = 108 F | Room Temperature 19.8 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 37.6 °C = 100 F | Room Temperature 19.6 °C = 67 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 43.9 °C / 111 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 47.1 °C / 117 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 49.7 °C / 121 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.8 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "The two speakers housed inside the OnePlus 15 sound very clear and perform well even at maximum volume. Although 80.4 dB(A) isn't record-breaking, the phone still gets loud enough to fill a medium-sized room with sound.\n\n",
+                        "Anyone preferring to connect external audio devices or headphones can do so via Bluetooth or USB. The most important codecs are supported for wireless transmission: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, as well as LDAC and LHDC.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "1% of all tested devices in this class were better, 1% similar, 98% worse\n\n",
+                        "0% of all tested devices in this class were better, 0% similar, 100% worse\n\n",
+                        "Power consumption was relatively high even under light loads, and the review device never dropped below 1.2 watts. The maximum power consumption of 12.3 watts is also slightly higher than most comparable devices, but significantly lower than the\n\n",
+                        ". All in all, the OnePlus 15 proves itself to be only moderately efficient.\n\n",
+                        "The phone can be charged at a generous 120 watts, but only the Chinese import version comes with a compatible charger. This allows the phone to be fully recharged in just over an hour. Wireless charging is possible at up to 50 watts, and reverse charging with or without a cable is also supported.\n\n",
+                        "The 7,300 mAh battery is divided into two cells, which means there are no regulatory issues with the European model.\n\n",
+                        "In our everyday Wi-Fi test, the phone kept going for over 30 hours. That might not be a record result, but it's a very good one nonetheless. Two days without charging are usually possible.\n\n",
+                        "Under load, the phone doesn't last quite as long and runs out of power after just over 4 hours of gaming.\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                        "Graphics adapter:": "Qualcomm Adreno 840",
+                        "Memory:": "16 GB",
+                        "Display:": "6.78 inch 20:9, 2772 x 1272 pixel 450 PPI, capacitive touchscreen, AMOLED, Gorilla Glass Victus 2, glossy: yes, HDR, 165 Hz",
+                        "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 486 GB free",
+                        "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: gyroscope, proximity, compass, barometer",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B25/​B26/​B28/​B30/​B32/​B34/​B38/​B39/​B40/​B41/​B42/​B48/​B66/​B71), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n13/​n20/​n25/​n26/​n28/​n30/​n38/​n40/​n41/​n48/​n66/​n71/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.2 x 161.4 x 76.7 ( = 0.32 x 6.35 x 3.02 in)",
+                        "Battery:": "7300 mAh Lithium-Ion, 120W wired charging (Oppo 120W SuperVOOC), 50W wireless charging (Oppo 50W AirVOOC), 10W wireless reverse charging, 5W wired reverse charging",
+                        "Charging:": "wireless charging, fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 50 MPix f/​1.8, phase shift AF, Laser AF, Contrast AF, OIS, Dual-LED flash, Videos @4320p/​30fps (camera 1); 50.0MP, f/​2.8, phase shift AF, OIS, 3.5x optical Zoom, periscope (Camera 2); 50.0MP, f/​2.0, phaseshift AF, wide angle lens (Camera3) Secondary Camera: 32 MPix f/​2.4, Videos @2160p/​60fps",
+                        "Additional features:": "Speakers: stereo speakers (hybrid), silicone bumper, SIM needle, USB cable, charger (not in Europe), 12 Months Warranty, IP68/​IP69 certified, eSIM, fanless, waterproof",
+                        "Weight:": "215 g ( = 7.58 oz / 0.47 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "999 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "94%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "Display",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "70%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "95%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "34%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "84%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "83%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "75%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "95.4%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "72%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "86.7%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "59%"
+                        }
+                    ]
+                }
+            }
+        ],
+        "techradar": [
+            {
+                "source": "techradar",
+                "phone_name": "OnePlus 15",
+                "article_url": "https://www.techradar.com/phones/oneplus-phones/oneplus-15-review",
+                "verdict": {
+                    "text": "The OnePlus 15 is better than perfect. It grants every smartphone wish I have and exceeds most expectations. It has the best battery life of any smartphone, stellar performance, and top-notch cameras, backed by an understated yet durable design. There isn't a better phone you can buy than this one.",
+                    "pros": [
+                        "Battery life is so good you'll swear I'm exaggerating",
+                        "Incredible durability for a phone with such a refined design",
+                        "Amazing software that will attract switchers and reward fans alike"
+                    ],
+                    "cons": [
+                        "Can't buy it at a carrier for free with a contract agreement",
+                        "No magnets inside for charging and accessories",
+                        "Design is less flashy than before, for better and worse"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "If a smartphone genie offered me three wishes for my dream phone, I couldn't have created a device as great as the OnePlus 15. It delivers more than the most demanding smartphone fans could wish for, with priorities that reflect the ways I really want to use my phone.\n\n",
+                        "My three wishes? First, I'd wish for a battery that lasts all day. The OnePlus 15 watches my dream phone fall asleep then parties hard for another day and a half. I let this phone go uncharged for three days during my review and I still had some juice left. And that’s not to mention the incredibly fast charging speeds.\n\n",
+                        "My second wish would be for a durable phone, water resistant with glass that is tough enough it won't break if I drop it. OnePlus makes its flagship phone more durable than any Samsung or Apple phone you can buy. I watched last year’s OnePlus 13 survive a run through a dishwasher, and the OnePlus 15 is even tougher than that. Bring on the hot water jets!\n\n",
+                        "My final wish would be to get back some of the great smartphone features we've lost over the years. I remember when Android phones were about personality and customization. Now you can't even organize your app drawer on a Pixel phone.\n\n",
+                        "The OnePlus 15, on the other hand, is the phone for people who love smartphones. You can customize it, but it looks great even if you don't. It has a ton of unique widgets that add functions to your home screen, or you can hide those on a separate shelf.\n\n",
+                        "Oh, and it has an IR blaster. Remember when phones had those? Every Galaxy S6 could change the channel on your TV (or the bar TV playing Fox News), and the OnePlus 15 brings that back. It can act as a universal remote control, a feature I treasure when I lose my TV remote after I turn out the lights.\n\n",
+                        "The OnePlus 15 is great at everything you want to do on your phone. For gaming, it's a next-level handheld. I was able to play games with Settings in the Experimental realm. The OnePlus 15 pushes past limits you never noticed on other smartphones, and there are enough game developers on board to make the advantage worthwhile.\n\n",
+                        "Call of Duty looked as good on my phone as it does running on a console, with an even better frame rate, and I say that as a long time gamer, not a casual interloper.\n\n",
+                        "What's the catch? Well, you might have to explain to people who OnePlus is when they ask about your phone, because most people I talk to have never heard of them.\n\n",
+                        "That's because OnePlus doesn't sell its best phones in carrier stores. You won't see the OnePlus 15 available free with a contract and a trade on AT&T or Vodafone. That means you pay more up front, which is a shame. Lots of my friends would love this phone, but don't have hundreds to shell out. At least OnePlus usually has decent trade-in offers when you buy directly from the company.\n\n",
+                        "There are a few other shortcomings, but they don't amount to much when you consider this phone competes with the base model iPhone 17 and Galaxy S25 , even though it offers as much as an Ultra or Pro Max.\n\n",
+                        "We used to call this a flagship killer. Now I just call it the best phone you can buy, and the first phone I've tested that deserves a perfect score.\n\n",
+                        "The OnePlus 15 is a flagship smartphone, but it isn’t the most expensive flagship around. It costs more than the iPhone 17 but less than the iPhone Air . It’s more expensive than a Google Pixel 10 , but less than the Pixel 10 Pro. The Galaxy S25 Plus is more expensive than the black OnePlus 15 with 12GB of RAM and 256GB of storage.\n\n",
+                        "Sadly, the best colors are only available on the more expensive model with 16GB of RAM and 512GB of storage. I’m sure the lower-spec OnePlus 15 performs admirably, but my review sample is the Sand Storm model with more goodness inside. It’s not a necessary upgrade, but even at this $999.99 / £999 price, it’s a great deal for such a powerhouse phone.\n\n",
+                        "OnePlus only makes one flagship – there isn't a Pro or an Ultra or an XL model with better cameras or a faster chip. While Samsung and Apple lure you in with aspirational models that cost more than $1,000 / £1,000 / AU$2,000, the OnePlus 15 is the company's best phone, not a step down.\n\n",
+                        "In the past, OnePlus has offered great trade-in deals that knock at least $100 off the price in the US, but it hasn’t announced similar offers for the OnePlus 15.\n\n",
+                        "I’d still recommend this phone at its full price. You won’t find a more capable phone without paying hundreds more, and even the most expensive phones – the Galaxy Z Fold 7 or Apple iPhone 17 Pro Max come to mind – can’t beat the OnePlus 15 in the things it does best.\n\n",
+                        "The OnePlus 15 features a unique spec list that highlights it's capabilities. It's the first phone most of us can buy with a Qualcomm Snapdragon 8 Elite Gen 5 chipset inside, and that platform seems to pay dividends in performance and power management.\n\n",
+                        "The OnePlus 15 has a 7,300 mAh battery inside, which should make the phone enormous, but it's actually just as thin as an iPhone 17. That huge battery equates to the best battery life I've ever experienced on a smartphone. The OnePlus 15 also has 80-100W charging (80W on my US review sample), and it can charge wirelessly up to 50W, if you have a OnePlus AirVOOC charger.\n\n",
+                        "The display on the OnePlus 15 can refresh up to 165Hz in gaming mode. It can also force itself to draw 120fps consistently on certain competition games like Mobile Legends: Bang Bang.\n\n",
+                        "I’ve tested phones that were as durable as the OnePlus 15, and phones that packed a battery just as large or larger. They were as big as school buses and just as heavy. The OnePlus 15 is a marvel of design because it looks simple and refined – totally normal. It isn’t trying to be gorgeous; it’s just a very nice looking smartphone.\n\n",
+                        "Astonishingly, the OnePlus 15 packs the largest battery of any smartphone I’ve tested, but it’s only a hair thicker than the iPhone 17, which has a battery almost half the size.\n\n",
+                        "Does that mean the OnePlus 15 could have been much thinner with a normal battery? Who cares, apparently nobody wants a thin phone with a small battery. The OnePlus 15 is the phone you’ve been asking for instead of the iPhone Air.\n\n",
+                        "The OnePlus 15 is more restrained than previous OnePlus phones, and while I miss the navy blue curves of the OnePlus 13 and the swirling jade green OnePlus 12 , I understand the impulse to be less flashy. Those camera bumps were very large. The phones were downright wobbly.\n\n",
+                        "The OnePlus 15 looks like it could descend from the same lineage as the Google Pixel 10. It has a prominent camera bump that feels precisely machined, taking up a square of the corner on the back. The curves of the phone, the camera bump, and the camera lens windows are all symmetrically aligned on the same axis.\n\n",
+                        "The color options for the OnePlus 15 are a bit staid compared to previously flashy hues, but each comes with its own benefits. My review unit came in the Sand Storm color that OnePlus claims is slightly more durable than the rest, owing to the electrified way the color is applied to the frame. The lilac color will be more limited, which only makes me want it more.\n\n",
+                        "The OnePlus 15 has a display made for serious gaming. That doesn’t mean you won’t enjoy its benefits if you don’t play hardcore, online multiplayer games. It’s still incredibly bright and colorful. But for gaming it stands out like no other phone I’ve tried.\n\n",
+                        "How fast is the OnePlus 15 display? You’re going to need to find the Experiment settings in Call of Duty Mobile to truly take advantage of what this phone can do. For a number of games, the OnePlus 15 can refresh up to 165 Hz. For the rest of its functions, it refreshes from a 1Hz always-on sleep screen to 120Hz.\n\n",
+                        "I was a big fan of the OnePlus 13 fingerprint sensor, and I’m pleased to report the OnePlus 15 has the most consistent scanner I’ve used on a phone this year. While Samsung phones regularly fail to register my fingerprint, the OnePlus 15 opened the first time I tried, every single time. Only Apple’s FaceID system is this consistent and quick, other Android makers haven’t been able to match this convenience.\n\n",
+                        "Is this the best display around? Our lab tests say the Google Pixel 10 Pro is much brighter, with better color. I definitely preferred the Pixel 10 Pro for taking photos outdoors, but the OnePlus 15 still has a great display, and its fast response time pushes it to the top.\n\n",
+                        "OnePlus has its own version of Android 16, Oxygen OS, and it's a very elegant design that takes great advantage of the sharp resolution of the display. You get plenty of tools like a widget shelf and a pop-up sidebar, or you can just ignore all of those an enjoy the uncluttered, effective look.\n\n",
+                        "There are tons of unique features built in that are actually useful and don't require too much digging. If you're daring, try the Zen Space, which will lock you out of your own phone for a minute. No joke, no half measures. Nothing you do can get you back in. Like I said, it's daring.\n\n",
+                        "I like Oxygen OS, it's clearly inspired by iOS without feeling derivative or amateur. It rewards OnePlus owners who know other OnePlus owners with special sharing and communication features that work between devices. If you're an iPhone owner considering a switch, this is the first Android stop I'd recommend on your bus out of Apple town.\n\n",
+                        "There are AI tools on the OnePlus 15, and even a button that will take a screenshots to save to a special AI mind space. This is similar to Google’s Screenshot app on its Pixel phones, and it's an unobtrusive way to let AI collect your personal data on your own terms. The OnePlus AI also did a fine job transcribing my recordings, which is an AI tool I use frequently across my devices for meetings and interviews.\n\n",
+                        "OnePlus says this phone will get four years of major Android updates, hopefully taking Oxygen OS 16.0 all the way up to Oxygen OS 20, though we’ll have to hold OnePlus to this promise. It will get six years of security updates as well, even after the OS updates stop.\n\n",
+                        "With the OnePlus 15, you get a versatile camera array that rises to any occasion. For hundreds less than a Pixel 10 Pro XL or Galaxy S25 Ultra, you get a camera with the same capabilities – especially a real 3.5x optical zoom lens.\n\n",
+                        "The photos I got from the OnePlus 15 were usually just as good as pics from the best camera phones, and in some cases the OnePlus 15 shots were the best. Compared to the Pixel 10 Pro and Galaxy S25 Ultra, for instance, the OnePlus 15 camera achieves more clarity edge to edge in most photos.\n\n",
+                        "The OnePlus 15 does have some special tricks up its sleeve. It's the best camera phone I've used when I am shooting a fast moving subject. For my kid’s football games, the combo of zoom plus action mode means I get shots with the ball hovering in mid air, taken from high up in the bleachers. Other phones can manage the same zoom, but not the same speed.\n\n",
+                        "Maybe there are too many modes in the camera, but there are some I'm dying to try, like the underwater mode that balances for the blue light and gives you controls to use when the screen doesn't work. I'll need to wait until it's warmer for that one.\n\n",
+                        "Is the OnePlus 15 the absolute best camera phone? I still think the iPhone 17 Pro is tops, but for the price, the OnePlus 15 offers unique features and excellent quality, and it surpassed my expectations once again.\n\n",
+                        "As one of the first smartphones with the newest Qualcomm Snapdragon 8 Elite Gen 5 chipset inside, I knew the OnePlus 15 would be incredibly fast, but I usually wonder where all that speed goes? Thankfully, OnePlus offers concrete examples for gamers, and if you haven't taken mobile gaming seriously before, maybe it's time.\n\n",
+                        "I usually test phones by playing Call of Duty Mobile with my Xbox controller on Bluetooth. I max out the settings and play multiplayer games to test the frame rate. Not only did the OnePlus 15 play CoD better than any previous phone I've used, I maxed out all the settings, including every option in the Experiment mode, and the game ran just as smoothly. It looked like a current-gen console game running on my phone.\n\n",
+                        "The OnePlus 15 even supports a 165Hz display refresh rate, which means some games will be able to run at a theoretical 165 fps. Those include: Clash of Clans, Brawl Stars, Real Racing 3, Standoff 2, Blood Strike - FPS for all, and of course Call of Duty.\n\n",
+                        "Even if you're not a gamer, you'll still appreciate the smooth performance of the OnePlus 15 in everyday tasks. Oxygen OS offers a variety of visual transitions between your home screen panels, for instance, as well as other pop-up features. All of these respond instantly as you tap and swipe.\n\n",
+                        "We'll probably see a slightly faster version of this chipset when the Samsung Galaxy S26 is launched in early 2026, but the big question will be what Samsung does with so much power. Will the next Galaxy have a high-refresh rate display and a stable of games ready to run fast? Or will that power be squandered on AI? The benchmarks might give Samsung a future win, but the OnePlus manages to put all of its power to use, for once.\n\n",
+                        "Last year’s OnePlus 13R was my pick for the best phone to buy for battery life, but this year’s OnePlus 15 raises the bar higher than I thought possible. Its battery seems obnoxiously large on paper, but the phone feels no heavier or thicker than any other flagship smartphone. Is there really a 7,300 mAh cell inside? Our Future Labs test say yes, indeed, and it’s more impressive than it sounds.\n\n",
+                        "How long should a smartphone last? A day? Two day? I woke up on Wednesday with a fully charged OnePlus 15. I went to bed on Friday night and the phone still had battery power in the single digits. It lasted nearly three full days of use. You can leave your charger at the office for the weekend without worrying too much.\n\n",
+                        "Even better, bring the charger along, because the OnePlus 15 charges faster than any other phone you’ll find. In 30 minutes of charging with the included 80W charger (it can charge to 100W in regions outside the US) I had more than 80% battery life. In less than 45 minutes I was fully charged.\n\n",
+                        "That means you might get a week of real world use from this phone with just over an hour sitting on the wired charger. Want to go wireless? Like everything else on the OnePlus 15, wireless charging will demolish your expectations. This phone can charge faster on a OnePlus AirVOOC wireless charger than an iPhone 17 Pro can charge with wire.\n\n",
+                        "Too bad it doesn’t have magnets built-in, then, but I highly recommend getting a OnePlus case. All of the new OnePlus 15 cases have magnets that align the wireless charging with your favorite MagSafe accessories, but I highly recommend splurging on AirVOOC. A few moments on a charging stand and you’ll be ready for hours more play time.\n\n",
+                        "I have been using the OnePlus 15 for more than two weeks as my primary business phone, with all of my personal and work accounts loaded onto the device. I used the phone on AT&T’s 5G network in the greater New York Area, including around our Times Square offices and my home in Connecticut.\n\n",
+                        "I used the OnePlus 15 as my camera, testing almost every camera feature (I couldn’t test the Underwater mode). I connected the OnePlus 15 to my OnePlus Watch 3, my OnePlus Buds Pro 3, and many other Bluetooth headsets and devices. I used Android Auto in my Kia and my friends’ Acura and Subaru cars, and connected to Bluetooth in an older BMW.\n\n",
+                        "I've been testing phones for more than 20 years, since the days of BlackBerry and Palm OS smartphones and Samsung flip phones. I've tested hundreds of devices myself, and our Future Labs experts have tested hundreds more.\n\n",
+                        "Future Labs tests phones using a mix of third-party benchmark software and proprietary, real-world tests. We use Geekbench, CrossMark, JetStream, WebXPRT and Mobile XPRT, and 3DMark for performance testing. We test a phone's performance on video editing tasks using Adobe Premiere Rush. We also measure display color output and brightness.\n\n",
+                        "For battery testing, we have proprietary rundown tests that are the same for every phone, which we use to determine how long it takes for the battery to run down.\n\n",
+                        "First reviewed November 2025\n\n"
+                    ],
+                    "bullet_points": [
+                        "Black version costs $899.99 / £899 for 12GB RAM and 256GB storage",
+                        "Other colors available for $999.99 / £999 with 16GB RAM and 512GB storage",
+                        "Value score: 5 / 5",
+                        "Incredible durability - can withstand more than you’ll encounter",
+                        "Restrained colors and design compared to past OnePlus flagships",
+                        "Design score: 5 / 5",
+                        "Excellent display for gaming with special features",
+                        "Bright, colorful, and incredibly responsive",
+                        "Display score: 5 / 5",
+                        "Oxygen OS 16 is a polished and friendly version of Android",
+                        "Plenty of features to reward power users and iPhone switchers alike",
+                        "Software score: 5 / 5",
+                        "Versatile cameras with effective zoom that captures great detail",
+                        "Best action camera for fast-moving subjects in any light condition",
+                        "Camera score: 5 / 5",
+                        "Stellar performance from Qualcomm Snapdragon 8 Elite Gen 5",
+                        "Gaming mode pushes display to 165 Hz for superlative gamers",
+                        "Performance score: 5 / 5",
+                        "Unbelievable battery life - lasted 3 days in my testing",
+                        "Super-fast charging, wired or wireless (with a OnePlus charger)",
+                        "Battery score: 5 / 5"
+                    ]
+                },
+                "tables": {
+                    "specifications": {},
+                    "ratings": []
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "stylish design",
+            "comparatively inexpensive (especially when imported)",
+            "bright display",
+            "up to 165 fps in games",
+            "highly responsive touchscreen",
+            "waterproof",
+            "good camera system",
+            "powerful speakers",
+            "good battery life",
+            "120W fast charging",
+            "world phone with good reception",
+            "accurate GPS",
+            "6 years of updates",
+            "Battery life is so good you'll swear I'm exaggerating",
+            "Incredible durability for a phone with such a refined design",
+            "Amazing software that will attract switchers and reward fans alike"
+        ],
+        "cons": [
+            "performance issues, significant throttling",
+            "case gets very hot",
+            "only mediocre energy efficiency",
+            "stripped-down camera system",
+            "display has PWM flickering",
+            "only mediocre Wi-Fi performance",
+            "no UWB",
+            "Chinese import lacks eSIM support",
+            "slight creaking when bent",
+            "back cover partly plastic instead of glass",
+            "charger only included with Chinese version",
+            "Can't buy it at a carrier for free with a contract agreement",
+            "No magnets inside for charging and accessories",
+            "Design is less flashy than before, for better and worse"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                "Graphics adapter:": "Qualcomm Adreno 840",
+                "Memory:": "16 GB",
+                "Display:": "6.78 inch 20:9, 2772 x 1272 pixel 450 PPI, capacitive touchscreen, AMOLED, Gorilla Glass Victus 2, glossy: yes, HDR, 165 Hz",
+                "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 486 GB free",
+                "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: gyroscope, proximity, compass, barometer",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B25/​B26/​B28/​B30/​B32/​B34/​B38/​B39/​B40/​B41/​B42/​B48/​B66/​B71), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n13/​n20/​n25/​n26/​n28/​n30/​n38/​n40/​n41/​n48/​n66/​n71/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.2 x 161.4 x 76.7 ( = 0.32 x 6.35 x 3.02 in)",
+                "Battery:": "7300 mAh Lithium-Ion, 120W wired charging (Oppo 120W SuperVOOC), 50W wireless charging (Oppo 50W AirVOOC), 10W wireless reverse charging, 5W wired reverse charging",
+                "Charging:": "wireless charging, fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 50 MPix f/​1.8, phase shift AF, Laser AF, Contrast AF, OIS, Dual-LED flash, Videos @4320p/​30fps (camera 1); 50.0MP, f/​2.8, phase shift AF, OIS, 3.5x optical Zoom, periscope (Camera 2); 50.0MP, f/​2.0, phaseshift AF, wide angle lens (Camera3) Secondary Camera: 32 MPix f/​2.4, Videos @2160p/​60fps",
+                "Additional features:": "Speakers: stereo speakers (hybrid), silicone bumper, SIM needle, USB cable, charger (not in Europe), 12 Months Warranty, IP68/​IP69 certified, eSIM, fanless, waterproof",
+                "Weight:": "215 g ( = 7.58 oz / 0.47 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "999 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "94%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "Display",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "70%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "95%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "34%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "84%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "83%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "75%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "95.4%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "72%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "86.7%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "59%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/OnePlus-15-smartphone-review-Gaming-at-165fps-despite-being-slower-than-the-predecessor.1171622.0.html",
+                "text": "Although the OnePlus 15's specifications show it isn't intended to be Oppo's flagship camera phone, it's still capable of taking good photos. The main focus is on performance, which is designed to operate without any artificial limitations. The downside, however, is that this can cause the phone to overheat and shut down. Furthermore, the phone throttles significantly under sustained load. Despite this, its Snapdragon 8 Elite Gen 5 means you won't have to worry about running out of power for apps or games. The chassis is very high-quality, and its satin-finish frame lends the device a particularly premium feel. The large 7,300 mAh battery has also made its way to Europe thanks to its dual-cell design. While it doesn't quite take the battery life crown, the OnePlus 15 is still a significant upgrade over its predecessor. The screen displays movements very smoothly, and the phone feels very responsive thanks to its dedicated touch controller chip. However, users will have to put up with PWM flickering, so anyone sensitive to such issues should try out the screen before parting with their cash. The sub $1,000 price makes the OnePlus 15 attractive for budget-conscious users for whom the camera isn't the most crucial factor.\nstylish design\ncomparatively inexpensive (especially when imported)\nbright display\nup to 165 fps in games\nhighly responsive touchscreen\nwaterproof\ngood camera system\npowerful speakers\ngood battery life\n120W fast charging\nworld phone with good reception\naccurate GPS\n6 years of updates\nperformance issues, significant throttling\ncase gets very hot\nonly mediocre energy efficiency\nstripped-down camera system\ndisplay has PWM flickering\nonly mediocre Wi-Fi performance\nno UWB\nChinese import lacks eSIM support\nslight creaking when bent\nback cover partly plastic instead of glass\ncharger only included with Chinese version\nWhen it started out, OnePlus was revolutionary: significantly cheaper than the established competition, yet very well-equipped and boasting premium workmanship. Furthermore, they always cared about what the community had to say and implemented feedback in future models.\nHowever, OnePlus's current models no longer quite live up to this legendary reputation. This is partly because the brand has had to differentiate itself internally from the smartphones of its sister company, Oppo, and often comes up short in this regard.\nNevertheless, the OnePlus 15 is once again an exciting smartphone that is somewhat cheaper than other high-end phones, yet still well-equipped.\nWhen it comes to the case, OnePlus is trying to forge its own path, and is also clearly inspired by the smartphone giant, Apple: The rounded screen corners, the action button placement, and the printed antennas could fool a less experienced user into thinking they're holding a phone from California rather than Shenzhen.\nHowever, the design is also unique thanks to its matte finish: OnePlus uses a process called Micro-Arc Oxidation, which leaves a ceramic protective layer both on the metal of the frame and camera module.\nUnfortunately, this finish is only available for the Sand Storm color option, which we were able to test. Opting for this color, however, means you'll have to accept that the back is made of fiberglass-reinforced plastic. In contrast, the Infinite Black and Ultra Violet versions have a glass back.\nThe phone is sturdy, but we heard a very faint creaking sound when attempting to twist it, and this is something that should be absent in this price range. It offers IP68/IP69 water and dust resistance.\nThe front features very thin display bezels, and screen protection is provided by the modern Gorilla Glass Victus 2.\nA USB 3.1 Gen 1 port with data throughput of up to 5 Gbps and DisplayPort are standard features on high-end phones, and the OnePlus 15 delivers on this front. One bonus is the included infrared port, which can be used to control devices such as TVs. Although UWB for easy device discovery isn't included, Bluetooth 6.0 offers similar functionality.\nOnePlus has managed to squeeze even more speed out of the RAM in the larger storage variant. The price difference between the storage options is currently around $50.\nThere is no microSD card slot, and although the import model does not support eSIM, the European models do, and even support two eSIM profiles.\nThe China-based lender, TradingShenzhen, provided us with our review unit that came pre-installed with ColorOS, and not the global OxygenOS.\nThe differences aren't significant; for example, you can select European languages ​​with the Chinese ROM, and Android Auto should also work. However, after extensive testing, TradingShenzhen now offers import models with OxygenOS pre-installed.\nThe main difference between the software versions is that no Chinese apps are pre-installed, and Google services don't have to be activated separately. Both operating systems are very responsive and intuitive to use. They come with a good gallery app with comprehensive AI editing options and a wide range of settings. However, a few minor translation errors (in German) are also to be found in OxygenOS.\nThe OnePlus 15 is said to receive six years of security updates and four major Android updates. According to the\n, we can expect at least 5 years of updates. This is still too short to conform to EU regulations, so it will be interesting to see how strictly this is handled by the EU.\nOnePlus offers repair manuals and spare parts for its smartphones, enabling users to carry out repairs themselves. According to the\n, the repairability has received a B rating, the second-highest possible grade. Repair costs can also be viewed in advance.\nAccording to the manufacturer's website, the phone is over 90% recyclable; however, no information has been provided regarding the recycled materials used. There is also no information concerning its carbon footprint.\nModern WiFi 7 is supported, but our Asus ROG Rapture AXE11000 reference router only supports WiFi 6E. This allows for a connection via the less congested 6 GHz band.\nIn our test, the OnePlus 15 achieved only mediocre transfer speeds, and other smartphones, including its predecessor, were faster. A gigabit internet connection can easily be utilized with the OnePlus 15, but anyone who relies on even higher speeds within their own networks will quickly find their limits.\nBoth the Chinese import and the European versions of the OnePlus 15 are truly global phones and can connect to mobile networks almost anywhere in the world. Reception is excellent, even in challenging situations, as demonstrated by several spot tests during our analysis, including in narrow streets.\nOutdoors, the OnePlus 15 quickly pinpointed our location to within a few meters. All major satellite systems are available for positioning, but unfortunately, the device lacks SBAS for even greater accuracy.\nWe aimed to test the positioning in real-life situations on a bike trip. In addition, we also used the Garmin Venu 2, a smartwatch with very accurate positioning.\nBoth devices calculated exactly the same distance, and the OnePlus 15 accurately represented our route. On the bridge, we were placed a few meters off our actual path, but overall, the phone is very well-suited for navigation and location tracking.\nThose using the Chinese ColorOS have OnePlus's own dedicated phone app, while OxygenOS comes with Google's default phone app. The OnePlus app can even detect if a caller's voice is AI-generated.\nThe call quality via the earpiece is very good, and our voice was also transmitted clearly in a test call. Calls work flawlessly via the speakerphone and the hands-free microphone, although the noise cancellation could be improved.\nThe OnePlus 15's camera system has been scaled back, and the Hasselblad partnership has been removed. To internally differentiate it from the\nNevertheless, the 50-megapixel main camera takes very good photos, which can easily be enlarged. They are both detailed and color-accurate. Even in low light and high-contrast situations, strong detail reproduction is still present, and some detail is only lost in dark areas.\nThe telephoto camera is fitted with a periscope zoom. It also possesses a 50-megapixel resolution and achieves a 7x optical zoom compared to the main camera. Photos taken at maximum optical zoom still appear very detailed.\nThe ultrawide camera also has a 50-megapixel resolution, but snapshots taken from longer distances have barely discernible details.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nWe would like to have seen a bit more sharpness under full studio lighting, but the subject was still very clearly recognizable at only 1 lux illumination.\nThe OnePlus 15 comes with a charger in China, but not in Europe. OnePlus traditionally offers a wide range of accessories, such as stylish cases and charging cables.\n. TradingShenzhen allows warranty claims for its Chinese imported devices to be processed via a German address.\nThe touchscreen is said to respond to touch inputs up to 3,200 times per second. This is made possible by a custom-designed chip, and the result is indeed a OnePlus 15 that feels very fast and responsive.\nThe fingerprint sensor is located beneath the screen, but unusually high up. In practice, this proves quite convenient since you never have to reposition your hand. It's also equally easy for right- and left-handed users to operate, and even users with small hands will have no issues.\nFace recognition is also possible, but only using 2D scanning via the front camera.\nThe display offers a slightly lower resolution than its predecessor, but it can display images at up to 165 Hz. However, this only works in specially adapted games; otherwise, it tops out at 120 Hz.\nThe maximum brightness in everyday situations is around 1,100 cd/m², which is typical for its class. In small areas, we measured approximately 1,434 cd/m². When viewing HDR content, up to 1,800 cd/m² is said to be possible in certain areas. This is good, but not exactly record-breaking.\nColor reproduction is very accurate, and no deviations are perceptible to the naked eye.\nThe PWM flickering we measured is adapted to the 120 Hz refresh rate, and this helps to make it somewhat less distracting. The PWM rate can also be increased in the options to potentially alleviate any such issues.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nA series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 13 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 12 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nThe bright screen is easy to read outdoors, and the display remains perfectly legible even at wide viewing angles.\n, one of the fastest SoCs currently available. However, our observations in other smartphones have shown that it isn't always able to deliver its full potential, heating up too quickly to be adequately cooled within the compact smartphone's chassis.\nThe OnePlus 15 seems to have particular problems with this, with it even lagging behind its predecessor, the\nin almost every benchmark. Under very heavy load, some benchmarks even crashed, such as our temperature monitoring test using the Burnout benchmark or the stress tests. However, the SoC remained stable during our tests running demanding apps or games.\nThe graphics performance also highlights that the SoC is unable to reach its full potential. However, the manufacturer and Qualcomm might be able to improve this with patches. Nevertheless, every kind of mobile game should run on this graphics adapter, and this ought to continue for the next few years.\nTechnologically, it has almost everything you could desire. From ray tracing and mesh shading to tile memory heaps, many current gaming technologies are available.\nWeb browsing is fast and, in most cases, lag-free. Images are almost always available immediately while scrolling.\nThe UFS 4.1 flash handles data transfers quite quickly, and loading times are short.\nThe improved touch sensitivity can be activated in the gaming overlay, and even professional gamers will find it a suitable environment.\nOther games also run smoothly, even at high detail settings. We measured the frame rates using the\nWe measured a noticeable increase in the case temperature under load, hitting almost 50°C. The burnout benchmark repeatedly failed to complete as the device needed to cool down.\nA few 3DMark stress tests also failed to run. When we finally managed to complete runs, the throttling was severe, with the remaining performance after several benchmark runs ranging between 52% and 62%.\nPower Supply (max.) 42.1 °C = 108 F | Room Temperature 19.8 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 37.6 °C = 100 F | Room Temperature 19.6 °C = 67 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 43.9 °C / 111 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 47.1 °C / 117 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 49.7 °C / 121 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.8 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\nThe two speakers housed inside the OnePlus 15 sound very clear and perform well even at maximum volume. Although 80.4 dB(A) isn't record-breaking, the phone still gets loud enough to fill a medium-sized room with sound.\nAnyone preferring to connect external audio devices or headphones can do so via Bluetooth or USB. The most important codecs are supported for wireless transmission: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, as well as LDAC and LHDC.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n1% of all tested devices in this class were better, 1% similar, 98% worse\n0% of all tested devices in this class were better, 0% similar, 100% worse\nPower consumption was relatively high even under light loads, and the review device never dropped below 1.2 watts. The maximum power consumption of 12.3 watts is also slightly higher than most comparable devices, but significantly lower than the\n. All in all, the OnePlus 15 proves itself to be only moderately efficient.\nThe phone can be charged at a generous 120 watts, but only the Chinese import version comes with a compatible charger. This allows the phone to be fully recharged in just over an hour. Wireless charging is possible at up to 50 watts, and reverse charging with or without a cable is also supported.\nThe 7,300 mAh battery is divided into two cells, which means there are no regulatory issues with the European model.\nIn our everyday Wi-Fi test, the phone kept going for over 30 hours. That might not be a record result, but it's a very good one nonetheless. Two days without charging are usually possible.\nUnder load, the phone doesn't last quite as long and runs out of power after just over 4 hours of gaming."
+            },
+            {
+                "source": "techradar",
+                "article_url": "https://www.techradar.com/phones/oneplus-phones/oneplus-15-review",
+                "text": "The OnePlus 15 is better than perfect. It grants every smartphone wish I have and exceeds most expectations. It has the best battery life of any smartphone, stellar performance, and top-notch cameras, backed by an understated yet durable design. There isn't a better phone you can buy than this one.\nBattery life is so good you'll swear I'm exaggerating\nIncredible durability for a phone with such a refined design\nAmazing software that will attract switchers and reward fans alike\nCan't buy it at a carrier for free with a contract agreement\nNo magnets inside for charging and accessories\nDesign is less flashy than before, for better and worse\nIf a smartphone genie offered me three wishes for my dream phone, I couldn't have created a device as great as the OnePlus 15. It delivers more than the most demanding smartphone fans could wish for, with priorities that reflect the ways I really want to use my phone.\nMy three wishes? First, I'd wish for a battery that lasts all day. The OnePlus 15 watches my dream phone fall asleep then parties hard for another day and a half. I let this phone go uncharged for three days during my review and I still had some juice left. And that’s not to mention the incredibly fast charging speeds.\nMy second wish would be for a durable phone, water resistant with glass that is tough enough it won't break if I drop it. OnePlus makes its flagship phone more durable than any Samsung or Apple phone you can buy. I watched last year’s OnePlus 13 survive a run through a dishwasher, and the OnePlus 15 is even tougher than that. Bring on the hot water jets!\nMy final wish would be to get back some of the great smartphone features we've lost over the years. I remember when Android phones were about personality and customization. Now you can't even organize your app drawer on a Pixel phone.\nThe OnePlus 15, on the other hand, is the phone for people who love smartphones. You can customize it, but it looks great even if you don't. It has a ton of unique widgets that add functions to your home screen, or you can hide those on a separate shelf.\nOh, and it has an IR blaster. Remember when phones had those? Every Galaxy S6 could change the channel on your TV (or the bar TV playing Fox News), and the OnePlus 15 brings that back. It can act as a universal remote control, a feature I treasure when I lose my TV remote after I turn out the lights.\nThe OnePlus 15 is great at everything you want to do on your phone. For gaming, it's a next-level handheld. I was able to play games with Settings in the Experimental realm. The OnePlus 15 pushes past limits you never noticed on other smartphones, and there are enough game developers on board to make the advantage worthwhile.\nCall of Duty looked as good on my phone as it does running on a console, with an even better frame rate, and I say that as a long time gamer, not a casual interloper.\nWhat's the catch? Well, you might have to explain to people who OnePlus is when they ask about your phone, because most people I talk to have never heard of them.\nThat's because OnePlus doesn't sell its best phones in carrier stores. You won't see the OnePlus 15 available free with a contract and a trade on AT&T or Vodafone. That means you pay more up front, which is a shame. Lots of my friends would love this phone, but don't have hundreds to shell out. At least OnePlus usually has decent trade-in offers when you buy directly from the company.\nThere are a few other shortcomings, but they don't amount to much when you consider this phone competes with the base model iPhone 17 and Galaxy S25 , even though it offers as much as an Ultra or Pro Max.\nWe used to call this a flagship killer. Now I just call it the best phone you can buy, and the first phone I've tested that deserves a perfect score.\nThe OnePlus 15 is a flagship smartphone, but it isn’t the most expensive flagship around. It costs more than the iPhone 17 but less than the iPhone Air . It’s more expensive than a Google Pixel 10 , but less than the Pixel 10 Pro. The Galaxy S25 Plus is more expensive than the black OnePlus 15 with 12GB of RAM and 256GB of storage.\nSadly, the best colors are only available on the more expensive model with 16GB of RAM and 512GB of storage. I’m sure the lower-spec OnePlus 15 performs admirably, but my review sample is the Sand Storm model with more goodness inside. It’s not a necessary upgrade, but even at this $999.99 / £999 price, it’s a great deal for such a powerhouse phone.\nOnePlus only makes one flagship – there isn't a Pro or an Ultra or an XL model with better cameras or a faster chip. While Samsung and Apple lure you in with aspirational models that cost more than $1,000 / £1,000 / AU$2,000, the OnePlus 15 is the company's best phone, not a step down.\nIn the past, OnePlus has offered great trade-in deals that knock at least $100 off the price in the US, but it hasn’t announced similar offers for the OnePlus 15.\nI’d still recommend this phone at its full price. You won’t find a more capable phone without paying hundreds more, and even the most expensive phones – the Galaxy Z Fold 7 or Apple iPhone 17 Pro Max come to mind – can’t beat the OnePlus 15 in the things it does best.\nThe OnePlus 15 features a unique spec list that highlights it's capabilities. It's the first phone most of us can buy with a Qualcomm Snapdragon 8 Elite Gen 5 chipset inside, and that platform seems to pay dividends in performance and power management.\nThe OnePlus 15 has a 7,300 mAh battery inside, which should make the phone enormous, but it's actually just as thin as an iPhone 17. That huge battery equates to the best battery life I've ever experienced on a smartphone. The OnePlus 15 also has 80-100W charging (80W on my US review sample), and it can charge wirelessly up to 50W, if you have a OnePlus AirVOOC charger.\nThe display on the OnePlus 15 can refresh up to 165Hz in gaming mode. It can also force itself to draw 120fps consistently on certain competition games like Mobile Legends: Bang Bang.\nI’ve tested phones that were as durable as the OnePlus 15, and phones that packed a battery just as large or larger. They were as big as school buses and just as heavy. The OnePlus 15 is a marvel of design because it looks simple and refined – totally normal. It isn’t trying to be gorgeous; it’s just a very nice looking smartphone.\nAstonishingly, the OnePlus 15 packs the largest battery of any smartphone I’ve tested, but it’s only a hair thicker than the iPhone 17, which has a battery almost half the size.\nDoes that mean the OnePlus 15 could have been much thinner with a normal battery? Who cares, apparently nobody wants a thin phone with a small battery. The OnePlus 15 is the phone you’ve been asking for instead of the iPhone Air.\nThe OnePlus 15 is more restrained than previous OnePlus phones, and while I miss the navy blue curves of the OnePlus 13 and the swirling jade green OnePlus 12 , I understand the impulse to be less flashy. Those camera bumps were very large. The phones were downright wobbly.\nThe OnePlus 15 looks like it could descend from the same lineage as the Google Pixel 10. It has a prominent camera bump that feels precisely machined, taking up a square of the corner on the back. The curves of the phone, the camera bump, and the camera lens windows are all symmetrically aligned on the same axis.\nThe color options for the OnePlus 15 are a bit staid compared to previously flashy hues, but each comes with its own benefits. My review unit came in the Sand Storm color that OnePlus claims is slightly more durable than the rest, owing to the electrified way the color is applied to the frame. The lilac color will be more limited, which only makes me want it more.\nThe OnePlus 15 has a display made for serious gaming. That doesn’t mean you won’t enjoy its benefits if you don’t play hardcore, online multiplayer games. It’s still incredibly bright and colorful. But for gaming it stands out like no other phone I’ve tried.\nHow fast is the OnePlus 15 display? You’re going to need to find the Experiment settings in Call of Duty Mobile to truly take advantage of what this phone can do. For a number of games, the OnePlus 15 can refresh up to 165 Hz. For the rest of its functions, it refreshes from a 1Hz always-on sleep screen to 120Hz.\nI was a big fan of the OnePlus 13 fingerprint sensor, and I’m pleased to report the OnePlus 15 has the most consistent scanner I’ve used on a phone this year. While Samsung phones regularly fail to register my fingerprint, the OnePlus 15 opened the first time I tried, every single time. Only Apple’s FaceID system is this consistent and quick, other Android makers haven’t been able to match this convenience.\nIs this the best display around? Our lab tests say the Google Pixel 10 Pro is much brighter, with better color. I definitely preferred the Pixel 10 Pro for taking photos outdoors, but the OnePlus 15 still has a great display, and its fast response time pushes it to the top.\nOnePlus has its own version of Android 16, Oxygen OS, and it's a very elegant design that takes great advantage of the sharp resolution of the display. You get plenty of tools like a widget shelf and a pop-up sidebar, or you can just ignore all of those an enjoy the uncluttered, effective look.\nThere are tons of unique features built in that are actually useful and don't require too much digging. If you're daring, try the Zen Space, which will lock you out of your own phone for a minute. No joke, no half measures. Nothing you do can get you back in. Like I said, it's daring.\nI like Oxygen OS, it's clearly inspired by iOS without feeling derivative or amateur. It rewards OnePlus owners who know other OnePlus owners with special sharing and communication features that work between devices. If you're an iPhone owner considering a switch, this is the first Android stop I'd recommend on your bus out of Apple town.\nThere are AI tools on the OnePlus 15, and even a button that will take a screenshots to save to a special AI mind space. This is similar to Google’s Screenshot app on its Pixel phones, and it's an unobtrusive way to let AI collect your personal data on your own terms. The OnePlus AI also did a fine job transcribing my recordings, which is an AI tool I use frequently across my devices for meetings and interviews.\nOnePlus says this phone will get four years of major Android updates, hopefully taking Oxygen OS 16.0 all the way up to Oxygen OS 20, though we’ll have to hold OnePlus to this promise. It will get six years of security updates as well, even after the OS updates stop.\nWith the OnePlus 15, you get a versatile camera array that rises to any occasion. For hundreds less than a Pixel 10 Pro XL or Galaxy S25 Ultra, you get a camera with the same capabilities – especially a real 3.5x optical zoom lens.\nThe photos I got from the OnePlus 15 were usually just as good as pics from the best camera phones, and in some cases the OnePlus 15 shots were the best. Compared to the Pixel 10 Pro and Galaxy S25 Ultra, for instance, the OnePlus 15 camera achieves more clarity edge to edge in most photos.\nThe OnePlus 15 does have some special tricks up its sleeve. It's the best camera phone I've used when I am shooting a fast moving subject. For my kid’s football games, the combo of zoom plus action mode means I get shots with the ball hovering in mid air, taken from high up in the bleachers. Other phones can manage the same zoom, but not the same speed.\nMaybe there are too many modes in the camera, but there are some I'm dying to try, like the underwater mode that balances for the blue light and gives you controls to use when the screen doesn't work. I'll need to wait until it's warmer for that one.\nIs the OnePlus 15 the absolute best camera phone? I still think the iPhone 17 Pro is tops, but for the price, the OnePlus 15 offers unique features and excellent quality, and it surpassed my expectations once again.\nAs one of the first smartphones with the newest Qualcomm Snapdragon 8 Elite Gen 5 chipset inside, I knew the OnePlus 15 would be incredibly fast, but I usually wonder where all that speed goes? Thankfully, OnePlus offers concrete examples for gamers, and if you haven't taken mobile gaming seriously before, maybe it's time.\nI usually test phones by playing Call of Duty Mobile with my Xbox controller on Bluetooth. I max out the settings and play multiplayer games to test the frame rate. Not only did the OnePlus 15 play CoD better than any previous phone I've used, I maxed out all the settings, including every option in the Experiment mode, and the game ran just as smoothly. It looked like a current-gen console game running on my phone.\nThe OnePlus 15 even supports a 165Hz display refresh rate, which means some games will be able to run at a theoretical 165 fps. Those include: Clash of Clans, Brawl Stars, Real Racing 3, Standoff 2, Blood Strike - FPS for all, and of course Call of Duty.\nEven if you're not a gamer, you'll still appreciate the smooth performance of the OnePlus 15 in everyday tasks. Oxygen OS offers a variety of visual transitions between your home screen panels, for instance, as well as other pop-up features. All of these respond instantly as you tap and swipe.\nWe'll probably see a slightly faster version of this chipset when the Samsung Galaxy S26 is launched in early 2026, but the big question will be what Samsung does with so much power. Will the next Galaxy have a high-refresh rate display and a stable of games ready to run fast? Or will that power be squandered on AI? The benchmarks might give Samsung a future win, but the OnePlus manages to put all of its power to use, for once.\nLast year’s OnePlus 13R was my pick for the best phone to buy for battery life, but this year’s OnePlus 15 raises the bar higher than I thought possible. Its battery seems obnoxiously large on paper, but the phone feels no heavier or thicker than any other flagship smartphone. Is there really a 7,300 mAh cell inside? Our Future Labs test say yes, indeed, and it’s more impressive than it sounds.\nHow long should a smartphone last? A day? Two day? I woke up on Wednesday with a fully charged OnePlus 15. I went to bed on Friday night and the phone still had battery power in the single digits. It lasted nearly three full days of use. You can leave your charger at the office for the weekend without worrying too much.\nEven better, bring the charger along, because the OnePlus 15 charges faster than any other phone you’ll find. In 30 minutes of charging with the included 80W charger (it can charge to 100W in regions outside the US) I had more than 80% battery life. In less than 45 minutes I was fully charged.\nThat means you might get a week of real world use from this phone with just over an hour sitting on the wired charger. Want to go wireless? Like everything else on the OnePlus 15, wireless charging will demolish your expectations. This phone can charge faster on a OnePlus AirVOOC wireless charger than an iPhone 17 Pro can charge with wire.\nToo bad it doesn’t have magnets built-in, then, but I highly recommend getting a OnePlus case. All of the new OnePlus 15 cases have magnets that align the wireless charging with your favorite MagSafe accessories, but I highly recommend splurging on AirVOOC. A few moments on a charging stand and you’ll be ready for hours more play time.\nI have been using the OnePlus 15 for more than two weeks as my primary business phone, with all of my personal and work accounts loaded onto the device. I used the phone on AT&T’s 5G network in the greater New York Area, including around our Times Square offices and my home in Connecticut.\nI used the OnePlus 15 as my camera, testing almost every camera feature (I couldn’t test the Underwater mode). I connected the OnePlus 15 to my OnePlus Watch 3, my OnePlus Buds Pro 3, and many other Bluetooth headsets and devices. I used Android Auto in my Kia and my friends’ Acura and Subaru cars, and connected to Bluetooth in an older BMW.\nI've been testing phones for more than 20 years, since the days of BlackBerry and Palm OS smartphones and Samsung flip phones. I've tested hundreds of devices myself, and our Future Labs experts have tested hundreds more.\nFuture Labs tests phones using a mix of third-party benchmark software and proprietary, real-world tests. We use Geekbench, CrossMark, JetStream, WebXPRT and Mobile XPRT, and 3DMark for performance testing. We test a phone's performance on video editing tasks using Adobe Premiere Rush. We also measure display color output and brightness.\nFor battery testing, we have proprietary rundown tests that are the same for every phone, which we use to determine how long it takes for the battery to run down.\nFirst reviewed November 2025\nBlack version costs $899.99 / £899 for 12GB RAM and 256GB storage\nOther colors available for $999.99 / £999 with 16GB RAM and 512GB storage\nValue score: 5 / 5\nIncredible durability - can withstand more than you’ll encounter\nRestrained colors and design compared to past OnePlus flagships\nDesign score: 5 / 5\nExcellent display for gaming with special features\nBright, colorful, and incredibly responsive\nDisplay score: 5 / 5\nOxygen OS 16 is a polished and friendly version of Android\nPlenty of features to reward power users and iPhone switchers alike\nSoftware score: 5 / 5\nVersatile cameras with effective zoom that captures great detail\nBest action camera for fast-moving subjects in any light condition\nCamera score: 5 / 5\nStellar performance from Qualcomm Snapdragon 8 Elite Gen 5\nGaming mode pushes display to 165 Hz for superlative gamers\nPerformance score: 5 / 5\nUnbelievable battery life - lasted 3 days in my testing\nSuper-fast charging, wired or wireless (with a OnePlus charger)\nBattery score: 5 / 5"
+            }
+        ]
+    }
+}

@@ -1,0 +1,184 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Honor Magic8 Lite",
+    "article_url": "https://www.notebookcheck.net/Rugged-does-not-have-to-mean-a-brick-Honor-Magic8-Lite-review.1206677.0.html",
+    "verdict": {
+        "text": "The Honor Magic8 Lite is a robust mid-range smartphone that succeeds the Magic7 Lite and serves as the global counterpart to the Honor X70. It combines rugged features such as IP68/IP69K protection, drop resistance from heights of up to 2.5 metres and temperature resistance from −30 to +55 °C with a slim design. The 6.79-inch OLED display impresses with a 120-Hz refresh rate, HDR brightness of up to 6,000 cd/m², 3,840-Hz PWM dimming and good outdoor readability. The 108-MP main camera delivers solid photos, but the ultra-wide-angle camera and low-light performance fall short. The Snapdragon 6 Gen 4 paired with 8 GB of RAM ensures decent performance. Wi-Fi is stable but slow, and the speakers tend to distort at maximum volume. The 7,500-mAh battery offers excellent runtimes. Six years of software updates in Europe help round off an otherwise compromise-laden but well-balanced package.",
+        "pros": [
+            "extremely durable",
+            "long battery runtimes",
+            "bright and accurate display"
+        ],
+        "cons": [
+            "sluggish SoC",
+            "slow Wi-Fi",
+            "poor ultra-wide-angle camera"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Communication and operation – Magic8 Lite with optical fingerprint sensor\n\n",
+            "Software and sustainability – six years of updates for the Magic8 Lite\n\n",
+            "Performance, emissions and battery life – Honor relies on the Snapdragon 6 Gen 4\n\n",
+            "and serves as the global counterpart to the Honor X70, which was unveiled in China in July 2025. As with other Honor smartphones, it comes with a smaller battery outside China (8,300 mAh in the Chinese model) and slower charging speeds, while wireless charging is also absent.\n\n",
+            "The Honor Magic8 Lite offers specifications typically associated with a rugged smartphone. It is certified to IP68 and IP69K standards, making it dust- and water-resistant, capable of withstanding high-pressure water jets and hot water vapour. It also survives drops from heights of up to 2.5 metres and operates without restrictions in temperatures ranging from −30 °C to +55 °C. Visually, however, it does not resemble a brick-like rugged phone, instead looking like a conventional smartphone.\n\n",
+            "Build quality is generally convincing, although the handset creaks noticeably when subjected to torsion. In drop tests, however, it emerges unscathed.\n\n",
+            "The Magic8 Lite is available with either 256 GB or 512 GB of internal storage.\n\n",
+            "On paper, the Honor Magic8 Lite supports Wi-Fi 6, but in practice this proves to be comparatively slow in our review and closer to Wi-Fi ac performance levels. Transmission rates are at least stable. All key mobile network frequencies are supported, although overall band coverage is not particularly extensive.\n\n",
+            "Call quality on the Magic8 Lite is good when the device is held to the ear, but background noise suppression is only moderate.\n\n",
+            "The capacitive touchscreen responds reliably and integrates an optical fingerprint sensor, which delivers high recognition rates and unlocks the smartphone quickly. In addition, a less secure face unlock feature via the front-facing camera is available. One-handed operation, comprehensive gesture controls and an always-on display are also on board. The vibration motor is subtle and feels like an ERM unit, although Honor does not provide detailed specifications.\n\n",
+            "The Honor Magic8 Lite still ships with Android 15 and MagicOS 9.0, but is expected to receive the update to Android 16 along with MagicOS 10 in the near future. Compared to the flagship models, the available AI features are slightly limited.\n\n",
+            "The outer packaging is free of plastics, but Honor does not provide any specific information on the overall sustainability of the product. In Europe, the Magic8 Lite receives six years of security and version updates, while buyers in the rest of the world are only offered two years.\n\n",
+            "The front-facing camera of the Honor Magic8 Lite takes decent photos, but image quality drops fairly quickly in low-light conditions and the results tend to look somewhat over-sharpened. Details are also lost towards the edges of the frame.\n\n",
+            "The 108-MP main camera on the rear produces pleasing images and offers a usable 2x zoom via cropping. Beyond that, image quality quickly becomes softer, although a maximum zoom factor of 10x is available. The ultra-wide-angle camera delivers only low resolution and poor results overall.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The 6.79-inch (17.25 cm) OLED display of the Magic8 Lite delivers a sharp image and supports refresh rates of up to 120 Hz, which can be reduced to 60 Hz either automatically by the system or manually.\n\n",
+            "Considering its price class, display brightness is very high and reaches up to 6,000 cd/m² in HDR mode. Colour reproduction is well calibrated, and outdoors the panel remains easy to read in most situations.\n\n",
+            "Honor uses high-frequency PWM dimming at up to 3,840 Hz to make the display easier on the eyes. However, the low base frequency may still pose an issue for sensitive users.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 60 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 60 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "Grayscale (Colors: Normal, Color temperature: Standard, Target color space: sRGB)\n\n",
+            "Colors (Colors: Normal, Color temperature: Standard, Target color space: sRGB)\n\n",
+            "Color space (Colors: Normal, Color temperature: Standard, Target color space: sRGB)\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 4 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 2 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "paired with 8 GB of LPDDR4x RAM. This entry-level SoC delivers solid overall system performance, but no more than that.\n\n",
+            "Surface temperatures remain largely below 40 °C even under load, rising to a peak of 44.8 °C only in a small area. The SoC itself is unaffected and does not throttle.\n\n",
+            "The dual speakers provide solid sound output at medium volume, but distort heavily at maximum volume. Bass response is generally weak.\n\n",
+            "Although the battery is smaller than in the Chinese version, its 7,500 mAh capacity is still very substantial and delivers very good runtimes in our testing. With better efficiency, however, significantly longer runtimes would likely have been possible.\n\n",
+            "The battery charges at up to 66 watts. In our test, a full charge takes 57 minutes (50% in 19 minutes, 80% in 37 minutes).\n\n",
+            "Room Temperature 20.6 °C = 69 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 39.3 °C / 103 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 44.8 °C / 113 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 40.2 °C / 104 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 30.1 °C / 86 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "10% of all tested devices in this class were better, 7% similar, 83% worse\n\n",
+            "8% of all tested devices in this class were better, 6% similar, 87% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Qualcomm Snapdragon 6 Gen 4 8c/8t, 1 x 2.3 GHz ARM Cortex-A720, 3 x 2.2 GHz ARM Cortex-A720, 4 x 1.8 GHz ARM Cortex-A520, Cortex-A720 / A520",
+            "Graphics adapter:": "Qualcomm Adreno 810",
+            "Memory:": "8 GB , LPDDR4x",
+            "Display:": "6.79 inch 19.8:9, 2640 x 1200 pixel 427 PPI, Capacitive touchscreen, OLED, 3,840-Hz PWM dimming, aluminosilicate glass, glossy: yes, HDR, 120 Hz",
+            "Storage:": "512 GB UFS 3.1 Flash, 512 GB , 485.24 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, compass, gyro, proximity, OTG, IR-Blaster",
+            "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 5.2, 2G (850, 900, 1,800, 1,900 MHz), 3G (Band 1, 2, 5, 8), LTE (Band 1, 2, 3, 4, 5, 7, 8, 20, 28, 32, 38, 40, 41), 5G Sub-6 (Band 1, 3, 5, 7, 8, 20, 28, 38, 40, 41, 71, 77, 78), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 7.76 x 161.9 x 76.1 ( = 0.31 x 6.37 x 3 in)",
+            "Battery:": "7500 mAh Lithium-Polymer, two cells, silicon-carbon anode",
+            "Charging:": "fast charging / Quickcharge",
+            "Operating System:": "Android 15",
+            "Camera:": "Primary Camera: 108 MPix (f/1.75, 24 mm) + 5 MP (ultra-wide, f/2.2, 17 mm); Camera2 API level: Level 3 Secondary Camera: 16 MPix (f/2.45, 24 mm)",
+            "Additional features:": "Speakers: Dual, Keyboard: OnScreen, MagicOS 9.0, 24 Months Warranty, Bluetooth audio codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, LDAC | GNSS: GPS (L1, L5), GLONASS (L1), BeiDou (B1I, B1C, B2a), Galileo (E1, E5a) | HDR: HLG, HDR10, HDR10+ | DRM: Widevine L1 | SIM: up to 2× Nano-SIM, up to 1× eSIM, Wi-Fi Calling, VoLTE, Vo5G | Protection: IP68 / IP69K | Maximum charging speed: 66 W (wired), fanless, ruggedized, waterproof",
+            "Released:": "07/15/2025",
+            "Weight:": "189 g ( = 6.67 oz / 0.42 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "400 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "86%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "65%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "93%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "93%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "29%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "73%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "15%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "68%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "93.8%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "20%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "54.8%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "54.8%"
+            }
+        ]
+    }
+}

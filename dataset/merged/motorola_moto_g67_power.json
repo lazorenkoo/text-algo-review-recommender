@@ -1,0 +1,328 @@
+{
+    "phone_key": "motorola_moto_g67_power",
+    "primary_name": "Motorola Moto G67 Power",
+    "aliases": [
+        "Motorola Moto G67 Power"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Motorola Moto G67 Power",
+                "article_url": "https://www.notebookcheck.net/Chic-phone-with-a-top-battery-Motorola-Moto-G67-Power-smartphone-review.1232027.0.html",
+                "verdict": {
+                    "text": "The Moto G67 Power impresses primarily with its long battery life. However, this is no longer particularly unique in the mid-range segment, and the Motorola phone also offers little that stands out in terms of camera quality. That said, a few features still set the phone apart: fast storage, a 3.5 mm headphone jack that is no longer standard, a bright display, and a reliable fingerprint sensor. Our test device is a smartphone for the Indian market, as the Moto G67 Power is not officially available in Europe. This means you have to do without some mobile phone bands, which could be important for good reception, as well as eSIM support. The update supply is also quite limited, which is a problem for Motorola worldwide. The attractive and stable chassis, on the other hand, is a clear plus point, so you should weigh up what is important to you. If you are looking for a phone with a long battery life and a stylish exterior for a rather small budget, the Moto G67 Power is certainly an interesting offer.",
+                    "pros": [
+                        "long running times",
+                        "attractive design",
+                        "sturdy housing",
+                        "bright display",
+                        "no PWM flickering",
+                        "stable WLAN",
+                        "reliable fingerprint sensor",
+                        "3.5 mm audio jack"
+                    ],
+                    "cons": [
+                        "Camera images partly with low sharpness",
+                        "missing mobile phone bands (Indian version)",
+                        "no eSIM support",
+                        "no microSD slot",
+                        "short update supply"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "The Motorola Moto G67 Power is available in three Pantone colors: Parachute Purple (a striking violet), Cilantro (a muted green), and, like our test unit, a vivid light blue called Blue Curacao.\n\n",
+                        "The back panel has a faux-leather texture, and the camera module is smoothly integrated into the material with a gentle curve. The chassis feels very sturdy and is protected against dust and splashes in accordance with the IP64 rating.\n\n",
+                        "Our test unit includes 128 GB of internal storage and 8 GB of RAM; a 256 GB storage variant is also available. There is no microSD slot.\n\n",
+                        "After testing the device with our reference router, the Asus ROG Rapture AXE11000, we measured Wi-Fi 5 performance with fairly stable transfer rates, although speeds do not exceed 350 Mbps.\n\n",
+                        "Mobile connectivity requires some caution: because our test unit is intended for the Indian market, certain 4G bands commonly used in Europe, such as Band 20, are missing. Overall, however, the phone still supports a reasonable range of frequencies.\n\n",
+                        "The touchscreen has a 120 Hz sampling rate and operates smoothly. Since the display also runs at up to 120 Hz, inputs are registered without noticeable delay.\n\n",
+                        "The fingerprint sensor is integrated into the power button. It recognizes fingerprints very reliably and unlocks the phone instantly. Face recognition is also available and works well.\n\n",
+                        "The phone ships with Android 15. The system is only lightly modified, as Motorola places most of its custom features into separate apps.\n\n",
+                        "Motorola promises three years of security updates from launch, meaning support should run until June 2028. Android 16 is expected to arrive on the device, but beyond that the update outlook is uncertain.\n\n",
+                        "Unfortunately, Motorola provides very little information about sustainability, although the packaging is plastic-free.\n\n",
+                        "The phone includes a 50-megapixel main camera that typically captures 12.5-megapixel photos, combining pixels to improve light capture.\n\n",
+                        "In good lighting, the main camera produces decent images, but fine detail could be sharper. In low light, photos quickly appear coarse, and darker areas lack detail.\n\n",
+                        "The front camera offers 32 megapixels but usually records 8-megapixel photos. These are reasonably sharp, though colors appear somewhat washed out and bright areas quickly lose dynamic range.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "In everyday use, the IPS panel can become very bright when needed and is therefore usable outdoors. However, brightness is not quite sufficient for proper HDR playback.\n\n",
+                        "We like the color reproduction in “Natural” mode; it is very close to accurate. We also detected no PWM flickering, so even sensitive users should be able to use the screen comfortably.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 35 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 32 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "is a good fit for a mid-range phone and offers slightly more graphics performance than many comparable devices. Stuttering is rare in everyday use but cannot be ruled out entirely.\n\n",
+                        "The storage is fairly fast and allows reasonably quick data transfers.\n\n",
+                        "There is some noticeable warming under load, but it is not problematic overall. Performance also remains almost fully stable during prolonged stress.\n\n",
+                        "The main speaker is assisted by the earpiece to produce stereo sound. Volume could be stronger, and the sound is somewhat treble-heavy. External audio devices can be connected via the 3.5 mm jack or Bluetooth. A wide range of Bluetooth audio codecs is supported.\n\n",
+                        "The “Power” in the name refers to the particularly large battery. The Moto G67 Power has a capacity of 7,000 mAh. Our Wi-Fi test shows well over 20 hours of runtime. That is very good, although no longer unique in the mid-range segment. A full charge takes about 1 hour and 45 minutes.\n\n",
+                        "Power Supply (max.) 41.2 °C = 106 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 39.2 °C = 103 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 36 °C / 97 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 44.9 °C / 113 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 42.5 °C / 109 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 26.2 °C / 79 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "37% of all tested devices in this class were better, 8% similar, 55% worse\n\n",
+                        "13% of all tested devices in this class were better, 8% similar, 78% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 7s Gen 2 8c/8t, 4 x 2.4 GHz ARM Cortex-A78, 4 x 2.0 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                        "Graphics adapter:": "Qualcomm Adreno 710",
+                        "Memory:": "8 GB",
+                        "Display:": "6.70 inch 20:9, 2400 x 1080 pixel 393 PPI, capacitive touchscreen, IPS, Gorilla Glass 7i, glossy: yes, 120 Hz",
+                        "Storage:": "128 GB UFS 2.2 Flash, 128 GB , 99 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: 3.5mm, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass",
+                        "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.1, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B5/​B8), 4G (B1/​B2/​B3/​B5/​B8/​B28/​B38/​B40/​B41/​B42), 5G (n1/​n3/​n5/​n7/​n8/​n28/​n38/​n40/​n41/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.6 x 166.2 x 76.5 ( = 0.34 x 6.54 x 3.01 in)",
+                        "Battery:": "7000 mAh Lithium-Ion, 30 Watt charging",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 50 MPix f/​1.8, phase shift AF, LED-flash, videos @1440p/​30fps (camera 1); 8.0MP, f/​2.2, wide angle (camera 2) Secondary Camera: 32 MPix f/​2.2, videos @1440p/​30fps",
+                        "Additional features:": "Speakers: stereo speakers (hybrid), Keyboard: OnScreen, USB cable, SIM tool, bumper, 24 Months Warranty, IP64 cerified, , fanless",
+                        "Weight:": "210 g ( = 7.41 oz / 0.46 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "299 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "58%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Display",
+                            "Notes": "",
+                            "Rating": "85%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "22%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "72%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "10%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "61%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "6%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "41.7%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "32.9%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "long running times",
+            "attractive design",
+            "sturdy housing",
+            "bright display",
+            "no PWM flickering",
+            "stable WLAN",
+            "reliable fingerprint sensor",
+            "3.5 mm audio jack"
+        ],
+        "cons": [
+            "Camera images partly with low sharpness",
+            "missing mobile phone bands (Indian version)",
+            "no eSIM support",
+            "no microSD slot",
+            "short update supply"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 7s Gen 2 8c/8t, 4 x 2.4 GHz ARM Cortex-A78, 4 x 2.0 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                "Graphics adapter:": "Qualcomm Adreno 710",
+                "Memory:": "8 GB",
+                "Display:": "6.70 inch 20:9, 2400 x 1080 pixel 393 PPI, capacitive touchscreen, IPS, Gorilla Glass 7i, glossy: yes, 120 Hz",
+                "Storage:": "128 GB UFS 2.2 Flash, 128 GB , 99 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: 3.5mm, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass",
+                "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.1, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B5/​B8), 4G (B1/​B2/​B3/​B5/​B8/​B28/​B38/​B40/​B41/​B42), 5G (n1/​n3/​n5/​n7/​n8/​n28/​n38/​n40/​n41/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.6 x 166.2 x 76.5 ( = 0.34 x 6.54 x 3.01 in)",
+                "Battery:": "7000 mAh Lithium-Ion, 30 Watt charging",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 50 MPix f/​1.8, phase shift AF, LED-flash, videos @1440p/​30fps (camera 1); 8.0MP, f/​2.2, wide angle (camera 2) Secondary Camera: 32 MPix f/​2.2, videos @1440p/​30fps",
+                "Additional features:": "Speakers: stereo speakers (hybrid), Keyboard: OnScreen, USB cable, SIM tool, bumper, 24 Months Warranty, IP64 cerified, , fanless",
+                "Weight:": "210 g ( = 7.41 oz / 0.46 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "299 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "58%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Display",
+                    "Notes": "",
+                    "Rating": "85%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "22%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "72%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "10%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "61%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "6%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "41.7%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "32.9%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Chic-phone-with-a-top-battery-Motorola-Moto-G67-Power-smartphone-review.1232027.0.html",
+                "text": "The Moto G67 Power impresses primarily with its long battery life. However, this is no longer particularly unique in the mid-range segment, and the Motorola phone also offers little that stands out in terms of camera quality. That said, a few features still set the phone apart: fast storage, a 3.5 mm headphone jack that is no longer standard, a bright display, and a reliable fingerprint sensor. Our test device is a smartphone for the Indian market, as the Moto G67 Power is not officially available in Europe. This means you have to do without some mobile phone bands, which could be important for good reception, as well as eSIM support. The update supply is also quite limited, which is a problem for Motorola worldwide. The attractive and stable chassis, on the other hand, is a clear plus point, so you should weigh up what is important to you. If you are looking for a phone with a long battery life and a stylish exterior for a rather small budget, the Moto G67 Power is certainly an interesting offer.\nlong running times\nattractive design\nsturdy housing\nbright display\nno PWM flickering\nstable WLAN\nreliable fingerprint sensor\n3.5 mm audio jack\nCamera images partly with low sharpness\nmissing mobile phone bands (Indian version)\nno eSIM support\nno microSD slot\nshort update supply\nThe Motorola Moto G67 Power is available in three Pantone colors: Parachute Purple (a striking violet), Cilantro (a muted green), and, like our test unit, a vivid light blue called Blue Curacao.\nThe back panel has a faux-leather texture, and the camera module is smoothly integrated into the material with a gentle curve. The chassis feels very sturdy and is protected against dust and splashes in accordance with the IP64 rating.\nOur test unit includes 128 GB of internal storage and 8 GB of RAM; a 256 GB storage variant is also available. There is no microSD slot.\nAfter testing the device with our reference router, the Asus ROG Rapture AXE11000, we measured Wi-Fi 5 performance with fairly stable transfer rates, although speeds do not exceed 350 Mbps.\nMobile connectivity requires some caution: because our test unit is intended for the Indian market, certain 4G bands commonly used in Europe, such as Band 20, are missing. Overall, however, the phone still supports a reasonable range of frequencies.\nThe touchscreen has a 120 Hz sampling rate and operates smoothly. Since the display also runs at up to 120 Hz, inputs are registered without noticeable delay.\nThe fingerprint sensor is integrated into the power button. It recognizes fingerprints very reliably and unlocks the phone instantly. Face recognition is also available and works well.\nThe phone ships with Android 15. The system is only lightly modified, as Motorola places most of its custom features into separate apps.\nMotorola promises three years of security updates from launch, meaning support should run until June 2028. Android 16 is expected to arrive on the device, but beyond that the update outlook is uncertain.\nUnfortunately, Motorola provides very little information about sustainability, although the packaging is plastic-free.\nThe phone includes a 50-megapixel main camera that typically captures 12.5-megapixel photos, combining pixels to improve light capture.\nIn good lighting, the main camera produces decent images, but fine detail could be sharper. In low light, photos quickly appear coarse, and darker areas lack detail.\nThe front camera offers 32 megapixels but usually records 8-megapixel photos. These are reasonably sharp, though colors appear somewhat washed out and bright areas quickly lose dynamic range.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nIn everyday use, the IPS panel can become very bright when needed and is therefore usable outdoors. However, brightness is not quite sufficient for proper HDR playback.\nWe like the color reproduction in “Natural” mode; it is very close to accurate. We also detected no PWM flickering, so even sensitive users should be able to use the screen comfortably.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nThe screen shows good response rates in our tests, but may be too slow for competitive gamers.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 35 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 32 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nis a good fit for a mid-range phone and offers slightly more graphics performance than many comparable devices. Stuttering is rare in everyday use but cannot be ruled out entirely.\nThe storage is fairly fast and allows reasonably quick data transfers.\nThere is some noticeable warming under load, but it is not problematic overall. Performance also remains almost fully stable during prolonged stress.\nThe main speaker is assisted by the earpiece to produce stereo sound. Volume could be stronger, and the sound is somewhat treble-heavy. External audio devices can be connected via the 3.5 mm jack or Bluetooth. A wide range of Bluetooth audio codecs is supported.\nThe “Power” in the name refers to the particularly large battery. The Moto G67 Power has a capacity of 7,000 mAh. Our Wi-Fi test shows well over 20 hours of runtime. That is very good, although no longer unique in the mid-range segment. A full charge takes about 1 hour and 45 minutes.\nPower Supply (max.) 41.2 °C = 106 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 39.2 °C = 103 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 36 °C / 97 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 44.9 °C / 113 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 42.5 °C / 109 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 26.2 °C / 79 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n37% of all tested devices in this class were better, 8% similar, 55% worse\n13% of all tested devices in this class were better, 8% similar, 78% worse"
+            }
+        ]
+    }
+}

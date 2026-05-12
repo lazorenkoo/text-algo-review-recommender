@@ -1,0 +1,400 @@
+{
+    "phone_key": "xiaomi_poco_f7",
+    "primary_name": "Xiaomi Poco F7",
+    "aliases": [
+        "Xiaomi Poco F7"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Xiaomi Poco F7",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-Poco-F7-smartphone-review-Potential-hit-for-bargain-hunters.1092382.0.html",
+                "verdict": {
+                    "text": "The Xiaomi Poco F7 excels in key areas: its 120 Hz AMOLED panel not only shines very brightly but is also well-balanced in terms of color accuracy; the Snapdragon 8s Gen 4 helps the 6.83-inch Poco phone deliver top-class performance. The Poco F7 also impresses with its long battery life and very short charging times. Further advantages include the robust casing with its glass surfaces and narrow display edges, a good main camera, and guaranteed OS updates until 2031. Although Xiaomi has saved on some features, the list remains relatively straightforward. The Poco F7 shares negative points such as USB 2.0 and the lack of wireless charging with many other smartphones in the same price range. However, we find it a shame that despite WiFi 7, the 6 GHz WLAN is not supported and that eSIMs cannot be used.",
+                    "pros": [
+                        "very bright display with 120 Hz",
+                        "narrow display edges",
+                        "high-quality housing with IP68",
+                        "very high system performance",
+                        "excellent battery life",
+                        "fast charging with up to 90 watts",
+                        "good main camera",
+                        "512 GB storage space",
+                        "WiFi 7, Bluetooth 6.0 and dual SIM",
+                        "updates until 2031"
+                    ],
+                    "cons": [
+                        "no eSIM support",
+                        "UI with ads",
+                        "no 6 GHz WLAN",
+                        "no memory card slot",
+                        "only USB 2.0",
+                        "no full always-on display",
+                        "no wireless charging"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Accessories and warranty - No charger; warranty extension as an option\n\n",
+                        "Input devices and operation - Responsive touchscreen with 480 Hz sampling\n\n",
+                        "Xiaomi presented its Poco F7 series in March of this year. The entry-level model is the Poco F7, for which Xiaomi promises nothing less than flagship-level performance and efficiency. With the\n\n",
+                        "The Poco phone also has big things to offer in terms of display and battery, as the former measures a massive 6.83 inches and is said to achieve a brightness of up to 3200 nits. Xiaomi also puts the battery capacity at 6500 mAh, which few other mid-range smartphones can match. Charging with 90 watts is also included. Find out how much the Poco F7 can impress the competition in our review.\n\n",
+                        "With dimensions of 163.1 x 77.9 millimetres, the 8.2 millimetre flat Poco F7 is quite a chunk and, at just under 216 grams, also weighs a little more than similarly sized comparable devices. The main reason for the XXL dimensions is the exceptionally large 6500 mAh battery, which gives the 6.83-inch smartphone excellent battery life.\n\n",
+                        "Available in black, white, and silver, the Poco F7 has a matt aluminum frame with large radii at the corners, making it comfortable to hold. The display frame is only 1.5 millimeters wide on the left, right, and top. Although it is just under 2 millimeters at the bottom, the Poco F7 still has an excellent display-to-surface ratio of 94 percent.\n\n",
+                        "The AMOLED panel is protected by Gorilla Glass 7i, and there is also a glass cover on the back. This looks classy, but also makes Poco F7 a fingerprint magnet.\n\n",
+                        "The dual camera protrudes around 2.5 millimetres from the back cover and quickly causes the smartphone to wobble if it is placed on the table without a protective cover.\n\n",
+                        "Apart from the high-performance RAM/mass storage configuration, you can tell that the Poco F7 only offers mid-range features in some areas for the price of a mid-range phone.\n\n",
+                        "This is less evident in features such as NFC, the IR blaster (which is interestingly located next to the camera module) and the stereo speakers, but in the USB-C port, which only works at USB 2.0 speed. However, in the copy test with the Samsung PSSD T7, it is fast by USB 2.0 standards with a data throughput of 37.2 MB/s.\n\n",
+                        "Further equipment compromises due to the price: The Poco F7 does not support eSIMs and does not have a permanently active always-on display. The display is only visible for a maximum of 10 seconds, either after tapping or when the selfie camera recognizes that you have looked at the screen.\n\n",
+                        "The Poco F7 runs Xiaomi's in-house operating system HyperOS 2.0, which is based on Android 15. Unfortunately, ads also appear in the UI as standard.\n\n",
+                        "Xiaomi promises OS upgrades for 4 years and also wants to provide the smartphone with Android security updates for 6 years. The latter should happen every 90 days. At the time of testing (mid-August), the security updates were up to date as of June 1 and therefore current by Poco standards.\n\n",
+                        ". The manufacturer provides no details about the amount of recycled materials in its smartphones, so it is impossible to make statements about the carbon footprint. Poco does not offer spare parts or repair manuals.\n\n",
+                        "With WiFi 7, NFC, and Bluetooth 6.0, the Poco F7 is very up-to-date in terms of communication equipment. A wide range of mobile frequencies is also included, which should enable the Poco smartphone to receive a signal almost anywhere.\n\n",
+                        "Connected to our reference router, Asus ROG Rapture GT-AXE11000, the Poco F7 achieves stable and fast transfer rates in the 5 GHz band. At its peak, it achieves 939 Mb/s and is therefore on a par with the comparison devices. However, the smartphone does not support the 6 GHz band despite WiFi 7.\n\n",
+                        "The Poco F7 supports all major GPS services and quickly and accurately determined our current location to within 3 meters during the test.\n\n",
+                        "The precision remains high on the move, as the smartphone was almost as accurate as the Garmin Venu 2 fitness smartwatch on a 10-kilometer bike ride.\n\n",
+                        "The Poco F7 has two microphones and space for two nano SIM cards. In addition to VoLTE, it supports WiFi calls, allowing you to make calls via your home WiFi.\n\n",
+                        "We have no complaints about the voice quality. Voices are reproduced clearly in the test, and the noise suppression also works reliably.\n\n",
+                        "Cell phone photographers have to make do with two rear cameras on the Poco F7: an optically stabilized 50 MP lens with the Sony IMX882 image sensor and an 8 MP ultra-wide-angle camera based on the OmniVision OV08F. There is no macro function.\n\n",
+                        "The 20 MP selfie camera (OmniVision OV20B) takes decent photos and achieves good bokeh effects, but tends to blur images and lacks sharpness. However, the quality is easily sufficient for video calls or snapshots.\n\n",
+                        "The main camera takes good pictures in daylight. They show a lot of detail, look natural, and are evenly exposed, but the color reproduction could be better overall. In low-light conditions, the main camera still delivers a satisfactory performance for this smartphone's price range. However, it is then no longer able to capture details sharply, meaning that more homogeneous image areas in terms of color are often washed out. The main camera digitally enlarges images up to 10x, and images with 5x magnification still look reasonably clear.\n\n",
+                        "With its 8 MP, the ultra-wide-angle camera only plays second fiddle in the camera duo, but it doesn't do a bad job at all. Its images are colorful, but are quite aggressively blurred and out of focus at the edges.\n\n",
+                        "The main camera records videos up to 4K at 60 frames per second and also takes well-stabilized footage in daylight. Switching between the two lenses is only possible up to a maximum of 1080p at 30 frames per second.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "Under controlled lighting conditions, the camera has to prove its skill once again in the test lab.\n\n",
+                        "The Poco F7 comes with a USB cable (Type-A to Type-C), a SIM tool, a protective cover, a quick start guide, and warranty information. The\n\n",
+                        "The Poco F7 comes with a 12-month warranty in the EU. It can be extended with the insurance package\n\n",
+                        ", which additionally insures the smartphone against accidental damage and theft for 2 years. Depending on the package selected, this costs 39 or 59 euros.\n\n",
+                        "The Poco F7 processes inputs on its AMOLED screen quickly and accurately, right into the corners of the display. According to Xiaomi, the screen is scanned up to 480 times per second and increases to up to 2560 Hz in games.\n\n",
+                        "Overall, the Poco F7 can be operated very smoothly and is not slowed down in any way by any app in the test. The smartphone's linear vibration motor provides precise haptic feedback.\n\n",
+                        "The fingerprint sensor located under the display reliably recognizes registered fingerprints. Users can also authenticate themselves biometrically via the 2D face recognition of the selfie camera. This is significantly less secure than using the fingerprint sensor, but it worked just as smoothly in the test.\n\n",
+                        "The 6.83-inch AMOLED screen has a resolution of 2772 x 1280 pixels and a high pixel density of 447 PPI. In addition to HDR10 and HDR10+, it also supports Dolby Vision and HLG.\n\n",
+                        "Sensitive users will benefit from the screen's active PWM dimming. We measure a basic flicker of 120 Hz and a high PWM dimming frequency of 3846 Hz (manufacturer's specification 3840 Hz), which is also characterized by its low amplitude curve.\n\n",
+                        "In terms of screen brightness, the Poco F7 delivers a top performance in the mid-range segment. On average, the AMOLED screen achieves a very good luminance of 1637 cd/m² even with a full white display, but increases even further to an excellent 3318 cd/m² in small image sections (APL18). We measured a peak brightness of 3272 cd/m² in HDR mode, which is almost as high as the peak brightness in SDR mode.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "The AMOLED screen combines its impressive brightness with excellent picture quality. In terms of color accuracy and the other image parameters, the display is practically on the ideal line with the preset\n\n",
+                        "Color fidelity (color scheme original color Pro, color temperature warm, target color space sRGB)\n\n",
+                        "Color space (color scheme original color Pro, color temperature warm, target color space sRGB)\n\n",
+                        "Grayscale (color scheme original color Pro, color temperature warm, target color space sRGB)\n\n",
+                        "Color saturation (color scheme original color Pro, color temperature warm, target color space sRGB)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 5 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 4 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "The Poco F7 is a force to be reckoned with outdoors. Content remains clearly visible on the viewing-angle-stable display even in direct sunlight. You should definitely leave the brightness sensor activated, as the maximum display brightness is only 627 cd/m² without the sensor.\n\n",
+                        "and is said to perform up to 31% better in terms of CPU performance than the\n\n",
+                        "The Snapdragon 8s Gen 4 does not achieve the performance of the Snapdragon 8 Elite, but has more than enough power for everyday use, which can compete with that of a top-of-the-range model. Similarly fast is the\n\n",
+                        "performs much better than its predecessor. At the same time, the Poco F7, with its\n\n",
+                        "The browser benchmarks pose no challenge for the Poco F7, as it almost always lands in first place in the test field. Even without knowing the exact results, you can see that websites load quickly and nothing stutters when browsing.\n\n",
+                        "With its UFS 4.1 data storage chip, the Poco F7 is in good company. Many comparably fast mid-range cell phones achieve a similarly high data throughput. Among the comparison devices, only the\n\n",
+                        "The Poco F7 has no problems displaying current games smoothly. The measurements with\n\n",
+                        "makes the Poco F7 very fast, but also pushes its internal cooling system to its limits from time to time. We measured surface temperatures of up to 45.4 °C under continuous load. This no longer feels pleasant.\n\n",
+                        "The Poco cell phone reproducibly aborts some of the 3DMark stress tests with an overheating message. All stress tests only run completely when the CPU temperature is initially at a maximum of 30 °C. This requires the smartphone to cool down for a considerable amount of time. At the end of the stress tests, it can be seen that around 1/3 of the performance is lost due to throttling.\n\n",
+                        "Room Temperature 22 °C = 72 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 44.6 °C / 112 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 45.4 °C / 114 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 45.1 °C / 113 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.8 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+                        "Xclipse 540, Exynos 1580, 128 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Xclipse 540, Exynos 1580, 128 GB UFS 3.1 Flash; Wild Life Stress Test Stability:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+                        "Xclipse 540, Exynos 1580, 128 GB UFS 3.1 Flash; Wild Life Unlimited Stress Test Stability:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+                        "Adreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+                        "Xclipse 540, Exynos 1580, 128 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+                        "The Poco F7 produces a good stereo sound, which typically emphasizes the mids and highs for smartphone speakers, while the lows remain relatively weak.\n\n",
+                        "The USB-C port and Bluetooth 6.0 are available for wired and wireless audio output.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "10% of all tested devices in this class were better, 7% similar, 83% worse\n\n",
+                        "36% of all tested devices in this class were better, 9% similar, 56% worse\n\n",
+                        "Compared to its predecessor, the Poco F7 has roughly the same power consumption when idle. Under load, however, it runs much more economically than the\n\n",
+                        "The Poco F7's 6500 mAh battery can be charged with up to 90 watts. For its part, the smartphone can serve as an energy supplier, as it supports wired reverse charging with up to 22.5 watts. However, the Poco F7 does not support wireless charging.\n\n",
+                        "We used the optional 90-watt power supply unit for the test. This completes a charging cycle within 42 minutes. You only have to wait 31 minutes to charge up to 80 percent.\n\n",
+                        "Qualcomm Snapdragon 8s Gen 4 SM8735; Geekbench 5.5 Power Consumption 150cd:\n\n",
+                        "Qualcomm Snapdragon 8s Gen 4 SM8735; 1920x1080 Aztec Ruins Normal Offscreen:\n\n",
+                        "The Poco F7's 6500 mAh cell is not only one of the highest-capacity batteries in this price range, but according to Xiaomi, it is also the largest battery used in a Poco F-series to date.\n\n",
+                        "The Poco F7 performs excellently in the realistic battery tests. When playing an HD video in a continuous loop, it only runs out of power after just under 33 hours and manages almost 23 hours in a WLAN scenario. Among the comparison devices, the Poco F7 can only be beaten by the\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 8s Gen 4 SM8735 8c/8t, 1 x 3.2 GHz ARM Cortex-X4, 3 x 3.0 GHz ARM Cortex-A720, 2 x 2.8 GHz ARM Cortex-A720, 2 x 2.0 GHz ARM Cortex-A720, Cortex-A720 / Cortex-X4",
+                        "Graphics adapter:": "Qualcomm Adreno 825",
+                        "Memory:": "12 GB , LPDDR5X",
+                        "Display:": "6.83 inch 19.5:9, 2772 x 1280 pixel 447 PPI, capacitive touchscreen, AMOLED, 1700 nits brightness (HBM), 3200 nits (peak brightness), up to 480/2560 Hz touch sampling rate (regular/in-game), 3840 Hz PWM dimming, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 468 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Proximity sensor, Accelerometer, electronic compass, IR blaster, Gyroscope, Flicker sensor, Camera2 API Level 3, DRM Widevine L1, OTG",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (Band 2/3/5/8), 3G (Band 1/2/4/5/6/8/19), 4G (Band 1/2/3/4/5/7/8/18/19/20/26/28/38/40/41/42/48/66), 5G (Band 1/2/3/5/7/8/20/28/38/40/41/48/66/77/78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.2 x 163.1 x 77.9 ( = 0.32 x 6.42 x 3.07 in)",
+                        "Battery:": "6500 mAh Lithium-Polymer, up to 90W charging, 22.5W reverse charging",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 50 MPix (Sony IMX882, f/1.5, 26mm, OIS, 4-in-1 Pixel Binning, RAW support up to 12,5 MP) + 8 MP Ultrawide camera (OmniVision OV08F, f/2.2, 15mm), video recording up to 4K@60fps Secondary Camera: 20 MPix (OmniVision OV20B, f/2.2), video recording up to 1080p@60fps",
+                        "Additional features:": "Speakers: stereo speakers, Keyboard: virtual, USB-C cable, SIM tool, protective case, quick start guide, warranty information, HyperOS 2.0, 12 Months Warranty, IP68 certified, Corning Gorilla Glass 7i (front), glass (back), aluminium frame; HDR support: Dolby Vision, HDR10, HDR10+, HLG; GPS: GPS (L1, L5), Glonass (L1), Galileo (E1, E5a), Beidou (B1, B2a), QZSS (L1, L5), NavIC (L5); Connectivity: Dual Nano SIM + VoLTE/WiFI calling; Bluetooth codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LHDC V1-V5, fanless, waterproof",
+                        "Weight:": "215.7 g ( = 7.61 oz / 0.48 pounds) ( = 0 oz / 0 pounds)"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "77%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Display",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "26%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "85%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "86%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "73%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "0%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "0%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "96.1%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "40%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "41.7%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "41.7%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "very bright display with 120 Hz",
+            "narrow display edges",
+            "high-quality housing with IP68",
+            "very high system performance",
+            "excellent battery life",
+            "fast charging with up to 90 watts",
+            "good main camera",
+            "512 GB storage space",
+            "WiFi 7, Bluetooth 6.0 and dual SIM",
+            "updates until 2031"
+        ],
+        "cons": [
+            "no eSIM support",
+            "UI with ads",
+            "no 6 GHz WLAN",
+            "no memory card slot",
+            "only USB 2.0",
+            "no full always-on display",
+            "no wireless charging"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 8s Gen 4 SM8735 8c/8t, 1 x 3.2 GHz ARM Cortex-X4, 3 x 3.0 GHz ARM Cortex-A720, 2 x 2.8 GHz ARM Cortex-A720, 2 x 2.0 GHz ARM Cortex-A720, Cortex-A720 / Cortex-X4",
+                "Graphics adapter:": "Qualcomm Adreno 825",
+                "Memory:": "12 GB , LPDDR5X",
+                "Display:": "6.83 inch 19.5:9, 2772 x 1280 pixel 447 PPI, capacitive touchscreen, AMOLED, 1700 nits brightness (HBM), 3200 nits (peak brightness), up to 480/2560 Hz touch sampling rate (regular/in-game), 3840 Hz PWM dimming, glossy: yes, HDR, 120 Hz",
+                "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 468 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Proximity sensor, Accelerometer, electronic compass, IR blaster, Gyroscope, Flicker sensor, Camera2 API Level 3, DRM Widevine L1, OTG",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (Band 2/3/5/8), 3G (Band 1/2/4/5/6/8/19), 4G (Band 1/2/3/4/5/7/8/18/19/20/26/28/38/40/41/42/48/66), 5G (Band 1/2/3/5/7/8/20/28/38/40/41/48/66/77/78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.2 x 163.1 x 77.9 ( = 0.32 x 6.42 x 3.07 in)",
+                "Battery:": "6500 mAh Lithium-Polymer, up to 90W charging, 22.5W reverse charging",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 50 MPix (Sony IMX882, f/1.5, 26mm, OIS, 4-in-1 Pixel Binning, RAW support up to 12,5 MP) + 8 MP Ultrawide camera (OmniVision OV08F, f/2.2, 15mm), video recording up to 4K@60fps Secondary Camera: 20 MPix (OmniVision OV20B, f/2.2), video recording up to 1080p@60fps",
+                "Additional features:": "Speakers: stereo speakers, Keyboard: virtual, USB-C cable, SIM tool, protective case, quick start guide, warranty information, HyperOS 2.0, 12 Months Warranty, IP68 certified, Corning Gorilla Glass 7i (front), glass (back), aluminium frame; HDR support: Dolby Vision, HDR10, HDR10+, HLG; GPS: GPS (L1, L5), Glonass (L1), Galileo (E1, E5a), Beidou (B1, B2a), QZSS (L1, L5), NavIC (L5); Connectivity: Dual Nano SIM + VoLTE/WiFI calling; Bluetooth codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LHDC V1-V5, fanless, waterproof",
+                "Weight:": "215.7 g ( = 7.61 oz / 0.48 pounds) ( = 0 oz / 0 pounds)"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "77%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Display",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "26%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "85%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "86%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "73%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "0%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "0%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "96.1%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "40%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "41.7%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "41.7%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-Poco-F7-smartphone-review-Potential-hit-for-bargain-hunters.1092382.0.html",
+                "text": "The Xiaomi Poco F7 excels in key areas: its 120 Hz AMOLED panel not only shines very brightly but is also well-balanced in terms of color accuracy; the Snapdragon 8s Gen 4 helps the 6.83-inch Poco phone deliver top-class performance. The Poco F7 also impresses with its long battery life and very short charging times. Further advantages include the robust casing with its glass surfaces and narrow display edges, a good main camera, and guaranteed OS updates until 2031. Although Xiaomi has saved on some features, the list remains relatively straightforward. The Poco F7 shares negative points such as USB 2.0 and the lack of wireless charging with many other smartphones in the same price range. However, we find it a shame that despite WiFi 7, the 6 GHz WLAN is not supported and that eSIMs cannot be used.\nvery bright display with 120 Hz\nnarrow display edges\nhigh-quality housing with IP68\nvery high system performance\nexcellent battery life\nfast charging with up to 90 watts\ngood main camera\n512 GB storage space\nWiFi 7, Bluetooth 6.0 and dual SIM\nupdates until 2031\nno eSIM support\nUI with ads\nno 6 GHz WLAN\nno memory card slot\nonly USB 2.0\nno full always-on display\nno wireless charging\nAccessories and warranty - No charger; warranty extension as an option\nInput devices and operation - Responsive touchscreen with 480 Hz sampling\nXiaomi presented its Poco F7 series in March of this year. The entry-level model is the Poco F7, for which Xiaomi promises nothing less than flagship-level performance and efficiency. With the\nThe Poco phone also has big things to offer in terms of display and battery, as the former measures a massive 6.83 inches and is said to achieve a brightness of up to 3200 nits. Xiaomi also puts the battery capacity at 6500 mAh, which few other mid-range smartphones can match. Charging with 90 watts is also included. Find out how much the Poco F7 can impress the competition in our review.\nWith dimensions of 163.1 x 77.9 millimetres, the 8.2 millimetre flat Poco F7 is quite a chunk and, at just under 216 grams, also weighs a little more than similarly sized comparable devices. The main reason for the XXL dimensions is the exceptionally large 6500 mAh battery, which gives the 6.83-inch smartphone excellent battery life.\nAvailable in black, white, and silver, the Poco F7 has a matt aluminum frame with large radii at the corners, making it comfortable to hold. The display frame is only 1.5 millimeters wide on the left, right, and top. Although it is just under 2 millimeters at the bottom, the Poco F7 still has an excellent display-to-surface ratio of 94 percent.\nThe AMOLED panel is protected by Gorilla Glass 7i, and there is also a glass cover on the back. This looks classy, but also makes Poco F7 a fingerprint magnet.\nThe dual camera protrudes around 2.5 millimetres from the back cover and quickly causes the smartphone to wobble if it is placed on the table without a protective cover.\nApart from the high-performance RAM/mass storage configuration, you can tell that the Poco F7 only offers mid-range features in some areas for the price of a mid-range phone.\nThis is less evident in features such as NFC, the IR blaster (which is interestingly located next to the camera module) and the stereo speakers, but in the USB-C port, which only works at USB 2.0 speed. However, in the copy test with the Samsung PSSD T7, it is fast by USB 2.0 standards with a data throughput of 37.2 MB/s.\nFurther equipment compromises due to the price: The Poco F7 does not support eSIMs and does not have a permanently active always-on display. The display is only visible for a maximum of 10 seconds, either after tapping or when the selfie camera recognizes that you have looked at the screen.\nThe Poco F7 runs Xiaomi's in-house operating system HyperOS 2.0, which is based on Android 15. Unfortunately, ads also appear in the UI as standard.\nXiaomi promises OS upgrades for 4 years and also wants to provide the smartphone with Android security updates for 6 years. The latter should happen every 90 days. At the time of testing (mid-August), the security updates were up to date as of June 1 and therefore current by Poco standards.\n. The manufacturer provides no details about the amount of recycled materials in its smartphones, so it is impossible to make statements about the carbon footprint. Poco does not offer spare parts or repair manuals.\nWith WiFi 7, NFC, and Bluetooth 6.0, the Poco F7 is very up-to-date in terms of communication equipment. A wide range of mobile frequencies is also included, which should enable the Poco smartphone to receive a signal almost anywhere.\nConnected to our reference router, Asus ROG Rapture GT-AXE11000, the Poco F7 achieves stable and fast transfer rates in the 5 GHz band. At its peak, it achieves 939 Mb/s and is therefore on a par with the comparison devices. However, the smartphone does not support the 6 GHz band despite WiFi 7.\nThe Poco F7 supports all major GPS services and quickly and accurately determined our current location to within 3 meters during the test.\nThe precision remains high on the move, as the smartphone was almost as accurate as the Garmin Venu 2 fitness smartwatch on a 10-kilometer bike ride.\nThe Poco F7 has two microphones and space for two nano SIM cards. In addition to VoLTE, it supports WiFi calls, allowing you to make calls via your home WiFi.\nWe have no complaints about the voice quality. Voices are reproduced clearly in the test, and the noise suppression also works reliably.\nCell phone photographers have to make do with two rear cameras on the Poco F7: an optically stabilized 50 MP lens with the Sony IMX882 image sensor and an 8 MP ultra-wide-angle camera based on the OmniVision OV08F. There is no macro function.\nThe 20 MP selfie camera (OmniVision OV20B) takes decent photos and achieves good bokeh effects, but tends to blur images and lacks sharpness. However, the quality is easily sufficient for video calls or snapshots.\nThe main camera takes good pictures in daylight. They show a lot of detail, look natural, and are evenly exposed, but the color reproduction could be better overall. In low-light conditions, the main camera still delivers a satisfactory performance for this smartphone's price range. However, it is then no longer able to capture details sharply, meaning that more homogeneous image areas in terms of color are often washed out. The main camera digitally enlarges images up to 10x, and images with 5x magnification still look reasonably clear.\nWith its 8 MP, the ultra-wide-angle camera only plays second fiddle in the camera duo, but it doesn't do a bad job at all. Its images are colorful, but are quite aggressively blurred and out of focus at the edges.\nThe main camera records videos up to 4K at 60 frames per second and also takes well-stabilized footage in daylight. Switching between the two lenses is only possible up to a maximum of 1080p at 30 frames per second.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nUnder controlled lighting conditions, the camera has to prove its skill once again in the test lab.\nThe Poco F7 comes with a USB cable (Type-A to Type-C), a SIM tool, a protective cover, a quick start guide, and warranty information. The\nThe Poco F7 comes with a 12-month warranty in the EU. It can be extended with the insurance package\n, which additionally insures the smartphone against accidental damage and theft for 2 years. Depending on the package selected, this costs 39 or 59 euros.\nThe Poco F7 processes inputs on its AMOLED screen quickly and accurately, right into the corners of the display. According to Xiaomi, the screen is scanned up to 480 times per second and increases to up to 2560 Hz in games.\nOverall, the Poco F7 can be operated very smoothly and is not slowed down in any way by any app in the test. The smartphone's linear vibration motor provides precise haptic feedback.\nThe fingerprint sensor located under the display reliably recognizes registered fingerprints. Users can also authenticate themselves biometrically via the 2D face recognition of the selfie camera. This is significantly less secure than using the fingerprint sensor, but it worked just as smoothly in the test.\nThe 6.83-inch AMOLED screen has a resolution of 2772 x 1280 pixels and a high pixel density of 447 PPI. In addition to HDR10 and HDR10+, it also supports Dolby Vision and HLG.\nSensitive users will benefit from the screen's active PWM dimming. We measure a basic flicker of 120 Hz and a high PWM dimming frequency of 3846 Hz (manufacturer's specification 3840 Hz), which is also characterized by its low amplitude curve.\nIn terms of screen brightness, the Poco F7 delivers a top performance in the mid-range segment. On average, the AMOLED screen achieves a very good luminance of 1637 cd/m² even with a full white display, but increases even further to an excellent 3318 cd/m² in small image sections (APL18). We measured a peak brightness of 3272 cd/m² in HDR mode, which is almost as high as the peak brightness in SDR mode.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe AMOLED screen combines its impressive brightness with excellent picture quality. In terms of color accuracy and the other image parameters, the display is practically on the ideal line with the preset\nColor fidelity (color scheme original color Pro, color temperature warm, target color space sRGB)\nColor space (color scheme original color Pro, color temperature warm, target color space sRGB)\nGrayscale (color scheme original color Pro, color temperature warm, target color space sRGB)\nColor saturation (color scheme original color Pro, color temperature warm, target color space sRGB)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 5 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 4 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nThe Poco F7 is a force to be reckoned with outdoors. Content remains clearly visible on the viewing-angle-stable display even in direct sunlight. You should definitely leave the brightness sensor activated, as the maximum display brightness is only 627 cd/m² without the sensor.\nand is said to perform up to 31% better in terms of CPU performance than the\nThe Snapdragon 8s Gen 4 does not achieve the performance of the Snapdragon 8 Elite, but has more than enough power for everyday use, which can compete with that of a top-of-the-range model. Similarly fast is the\nperforms much better than its predecessor. At the same time, the Poco F7, with its\nThe browser benchmarks pose no challenge for the Poco F7, as it almost always lands in first place in the test field. Even without knowing the exact results, you can see that websites load quickly and nothing stutters when browsing.\nWith its UFS 4.1 data storage chip, the Poco F7 is in good company. Many comparably fast mid-range cell phones achieve a similarly high data throughput. Among the comparison devices, only the\nThe Poco F7 has no problems displaying current games smoothly. The measurements with\nmakes the Poco F7 very fast, but also pushes its internal cooling system to its limits from time to time. We measured surface temperatures of up to 45.4 °C under continuous load. This no longer feels pleasant.\nThe Poco cell phone reproducibly aborts some of the 3DMark stress tests with an overheating message. All stress tests only run completely when the CPU temperature is initially at a maximum of 30 °C. This requires the smartphone to cool down for a considerable amount of time. At the end of the stress tests, it can be seen that around 1/3 of the performance is lost due to throttling.\nRoom Temperature 22 °C = 72 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 44.6 °C / 112 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 45.4 °C / 114 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 45.1 °C / 113 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.8 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\nXclipse 540, Exynos 1580, 128 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nXclipse 540, Exynos 1580, 128 GB UFS 3.1 Flash; Wild Life Stress Test Stability:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\nXclipse 540, Exynos 1580, 128 GB UFS 3.1 Flash; Wild Life Unlimited Stress Test Stability:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\nAdreno 825, SD 8s Gen 4, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\nXclipse 540, Exynos 1580, 128 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\nThe Poco F7 produces a good stereo sound, which typically emphasizes the mids and highs for smartphone speakers, while the lows remain relatively weak.\nThe USB-C port and Bluetooth 6.0 are available for wired and wireless audio output.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n10% of all tested devices in this class were better, 7% similar, 83% worse\n36% of all tested devices in this class were better, 9% similar, 56% worse\nCompared to its predecessor, the Poco F7 has roughly the same power consumption when idle. Under load, however, it runs much more economically than the\nThe Poco F7's 6500 mAh battery can be charged with up to 90 watts. For its part, the smartphone can serve as an energy supplier, as it supports wired reverse charging with up to 22.5 watts. However, the Poco F7 does not support wireless charging.\nWe used the optional 90-watt power supply unit for the test. This completes a charging cycle within 42 minutes. You only have to wait 31 minutes to charge up to 80 percent.\nQualcomm Snapdragon 8s Gen 4 SM8735; Geekbench 5.5 Power Consumption 150cd:\nQualcomm Snapdragon 8s Gen 4 SM8735; 1920x1080 Aztec Ruins Normal Offscreen:\nThe Poco F7's 6500 mAh cell is not only one of the highest-capacity batteries in this price range, but according to Xiaomi, it is also the largest battery used in a Poco F-series to date.\nThe Poco F7 performs excellently in the realistic battery tests. When playing an HD video in a continuous loop, it only runs out of power after just under 33 hours and manages almost 23 hours in a WLAN scenario. Among the comparison devices, the Poco F7 can only be beaten by the"
+            }
+        ]
+    }
+}

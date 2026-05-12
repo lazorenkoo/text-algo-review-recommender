@@ -1,0 +1,338 @@
+{
+    "phone_key": "realme_gt_8_pro",
+    "primary_name": "Realme GT 8 Pro",
+    "aliases": [
+        "Realme GT 8 Pro"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Realme GT 8 Pro",
+                "article_url": "https://www.notebookcheck.net/The-most-unusual-smartphone-design-of-2026-including-Ricoh-camera-Realme-GT-8-Pro-review.1237926.0.html",
+                "verdict": {
+                    "text": "The GT 8 Pro promises the best hardware without entering the absolute high-end segment in terms of price. However, our test report reveals an unexpected number of weaknesses which, in addition to some equipment gaps, such as a fast USB port, are not apparent from the data sheet. These include the dimming of the display after a short time or the very high throttling of the otherwise powerful Snapdragon 8 Elite Gen 5, although the latter is unlikely to have a serious impact in everyday use. The manageable photo quality, especially with the zoom, is more relevant to everyday life and a surprise, as Realme has been cooperating with Ricoh on cameras since this year. If you are looking for a high-performance smartphone with a long battery life, you could still be happy with the GT 8 Pro. The Realme phone has a high-quality feel and offers an interesting design concept as well as some equipment highlights, such as a fast ultrasonic fingerprint sensor or 120-watt fast charging.",
+                    "pros": [
+                        "very good workmanship",
+                        "strong performance",
+                        "comparatively low waste heat",
+                        "bright OLED panel with PWM dimming"
+                    ],
+                    "cons": [
+                        "screen dims after a short time",
+                        "WLAN quite slow",
+                        "high throttling",
+                        "only USB 2.0",
+                        "camera quality not at top level"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Performance, emissions and battery life - Android-Phone with high-end chipset\n\n",
+                        "and the manufacturer is breaking new ground in terms of design. The camera module has a cover that can be replaced by the user. There is a choice of a\n\n",
+                        "With a weight of 214 grams (~7.6 oz), the GT 8 Pro is certainly no lightweight. However, considering that Realme has equipped its flagship phone with a 7,000 mAh battery, the 8.3 millimeter (~0.3 inches) thin smartphone is very handy.\n\n",
+                        "While the front of the IP68/IP69-certified and therefore waterproof housing is made of Corning Gorilla Glass 7i, the back has a plastic texture that Realme says is reminiscent of paper. If you want, you can also purchase an F1 edition from Aston Martin with a back made of aramid fibers.\n\n",
+                        "The Realme phone's USB port is disappointing. In 2026, the slow 2.0 standard will hardly play a role for the upper smartphone class, as the demands on the interface in terms of speed and functionality (image output, fast data transfer, ...) have now increased significantly.\n\n",
+                        "In addition to two nano-SIM cards, the GT 8 Pro can also be used with an eSIM. The voice quality via the earpiece is good.\n\n",
+                        "For biometric security, a fast ultrasonic fingerprint sensor is integrated into the display, which offers a high recognition rate. 2D facial recognition is also available via the front camera,\n\n",
+                        "Realme guarantees five major Android upgrades for Europe and new security updates for five years. The Realme GT 8 Pro is delivered with Android 16 and the Realme UI 7.0 during the test. The patches are still dated December 2025, which means they will probably only be rolled out once a quarter (at best).\n\n",
+                        "Those interested in a GT 8 Pro are in the dark when it comes to sustainability. However, the outer packaging appears to be plastic-free.\n\n",
+                        "from Realme has tended to stand for a strong price-performance ratio or for high-end gaming, but this is now set to change with the Ricoh cooperation. The photo quality of the triple rear camera is now also set to be a highlight.\n\n",
+                        "Realme has installed a 50-MPix main camera with OIS, but the sensor is comparatively small at 1/1.56 inches. The results are appealing in daylight and the colors look natural. However, the GT 8 Pro lacks a little sharpness, especially at the edges of the image. In low light, the noise behavior and illumination are suboptimal.\n\n",
+                        "The 1/1.56 inch sensor for the periscope telephoto camera with 200 MPix also delivers a lossless triple zoom. The sharpness offered here is surprisingly poor and hardly any details are recognizable at 5x. We like the 50 MPix ultra-wide-angle lens better, although this is nothing special for a high-end smartphone.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The sharp 1,440p AMOLED panel of the GT 8 Pro works with a frame rate of 144 Hz and a peak brightness of up to 7,000 nits according to the manufacturer. We can also confirm the latter (peak: 6,963 cd/m²), at least for a special mode in the developer settings. In the more everyday tests, such as APL18 or HDR content (2,078 cd/m²), we do not (even come close) to these values. In addition, the maximum luminance dims to below 1,000 cd/m² after a short time in everyday use.\n\n",
+                        "High-frequency PWM dimming is not necessary, the frequency is a very high 2,160 Hz.\n\n",
+                        "We get the best color display in Pro mode. The grayscale is also very accurate.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 2 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 30 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "the Realme phone offers true flagship performance, while an in-house R1 chip is also designed to reduce the input latency of the display.\n\n",
+                        "The values in the benchmarks are really good, both in the CPU and GPU tests. However, the chipset throttles very noticeably under load - sometimes almost 70 percent in the 3DMark stress tests.\n\n",
+                        "The speakers deliver a powerful soundscape, our pink noise measurement shows a pronounced increase in the mids.\n\n",
+                        "The GT 8 Pro is also delivered in Europe with a 7,000 mAh battery, which can be charged via USB-C with up to 120 watts and wirelessly with 50 watts. In our Wi-Fi test, the Realme phone lasted a whole day.\n\n",
+                        "Room Temperature 21.8 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 42.8 °C / 109 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 43.6 °C / 110 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 43.2 °C / 110 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 26.3 °C / 79 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 256 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 256 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "13% of all tested devices in this class were better, 8% similar, 80% worse\n\n",
+                        "9% of all tested devices in this class were better, 7% similar, 84% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                        "Graphics adapter:": "Qualcomm Adreno 840",
+                        "Memory:": "12 GB , LPDDR5X",
+                        "Display:": "6.79 inch 19.6:9, 3136 x 1440 pixel 508 PPI, Capacitive Touchscreen, AMOLED, glossy: yes, HDR, 144 Hz",
+                        "Storage:": "256 GB UFS 4.1 Flash, 256 GB , 218 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, Miracast, IR-Blaster",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B38/​B39/​B40/​B41/​B42/​B48/​B66/​B71), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n20/​n28/​n38/​n40/​n41/​n48/​n66/​n71/​n77/​n78/​n79), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.3 x 161.8 x 76.87 ( = 0.33 x 6.37 x 3.03 in)",
+                        "Battery:": "7000 mAh Lithium-Ion, Silicon-Carbon-Anode",
+                        "Charging:": "wireless charging, fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 50 MPix (f/1.8, 22 mm, OIS, 1/1.56\", 4K@120fps) + 200 MPix (3x optical, f/2.6, 65 mm, OIS) + 50 MPix (f/2.0, 16 mm), camera2API: Level 3 Secondary Camera: 32 MPix (f/2.4, 24 mm)",
+                        "Additional features:": "Speakers: Stereo, Keyboard: OnScreen, USB cable, case, info material, realme UI 7.0, 12 Months Warranty, GNSS: GPS (L1/​L5), GLONASS, BeiDou (B1I/​B1C/​B2a), Galileo (E1/​E5a), QZSS (L1/​L5), NavIC, BT Codecs: SBC, AAC, aptX, aptXHD, LDAC, LHDC, aptX TWS, aptX Adaptiv, HDR: HDR10, HDR10+, HLG, Dolby Vision, SAR: <2 watt / kg (1.136W/kg (head) und 0.857W/kg (body), fanless, waterproof",
+                        "Released:": "11/28/2025",
+                        "Weight:": "214 g ( = 7.55 oz / 0.47 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "1000 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "77%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Display",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "59%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "36%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "87%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "79%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "75%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "94.6%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "40%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "83.5%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "53%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "very good workmanship",
+            "strong performance",
+            "comparatively low waste heat",
+            "bright OLED panel with PWM dimming"
+        ],
+        "cons": [
+            "screen dims after a short time",
+            "WLAN quite slow",
+            "high throttling",
+            "only USB 2.0",
+            "camera quality not at top level"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                "Graphics adapter:": "Qualcomm Adreno 840",
+                "Memory:": "12 GB , LPDDR5X",
+                "Display:": "6.79 inch 19.6:9, 3136 x 1440 pixel 508 PPI, Capacitive Touchscreen, AMOLED, glossy: yes, HDR, 144 Hz",
+                "Storage:": "256 GB UFS 4.1 Flash, 256 GB , 218 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, Miracast, IR-Blaster",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B38/​B39/​B40/​B41/​B42/​B48/​B66/​B71), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n20/​n28/​n38/​n40/​n41/​n48/​n66/​n71/​n77/​n78/​n79), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.3 x 161.8 x 76.87 ( = 0.33 x 6.37 x 3.03 in)",
+                "Battery:": "7000 mAh Lithium-Ion, Silicon-Carbon-Anode",
+                "Charging:": "wireless charging, fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 50 MPix (f/1.8, 22 mm, OIS, 1/1.56\", 4K@120fps) + 200 MPix (3x optical, f/2.6, 65 mm, OIS) + 50 MPix (f/2.0, 16 mm), camera2API: Level 3 Secondary Camera: 32 MPix (f/2.4, 24 mm)",
+                "Additional features:": "Speakers: Stereo, Keyboard: OnScreen, USB cable, case, info material, realme UI 7.0, 12 Months Warranty, GNSS: GPS (L1/​L5), GLONASS, BeiDou (B1I/​B1C/​B2a), Galileo (E1/​E5a), QZSS (L1/​L5), NavIC, BT Codecs: SBC, AAC, aptX, aptXHD, LDAC, LHDC, aptX TWS, aptX Adaptiv, HDR: HDR10, HDR10+, HLG, Dolby Vision, SAR: <2 watt / kg (1.136W/kg (head) und 0.857W/kg (body), fanless, waterproof",
+                "Released:": "11/28/2025",
+                "Weight:": "214 g ( = 7.55 oz / 0.47 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "1000 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "77%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Display",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "59%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "36%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "87%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "79%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "75%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "94.6%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "40%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "83.5%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "53%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/The-most-unusual-smartphone-design-of-2026-including-Ricoh-camera-Realme-GT-8-Pro-review.1237926.0.html",
+                "text": "The GT 8 Pro promises the best hardware without entering the absolute high-end segment in terms of price. However, our test report reveals an unexpected number of weaknesses which, in addition to some equipment gaps, such as a fast USB port, are not apparent from the data sheet. These include the dimming of the display after a short time or the very high throttling of the otherwise powerful Snapdragon 8 Elite Gen 5, although the latter is unlikely to have a serious impact in everyday use. The manageable photo quality, especially with the zoom, is more relevant to everyday life and a surprise, as Realme has been cooperating with Ricoh on cameras since this year. If you are looking for a high-performance smartphone with a long battery life, you could still be happy with the GT 8 Pro. The Realme phone has a high-quality feel and offers an interesting design concept as well as some equipment highlights, such as a fast ultrasonic fingerprint sensor or 120-watt fast charging.\nvery good workmanship\nstrong performance\ncomparatively low waste heat\nbright OLED panel with PWM dimming\nscreen dims after a short time\nWLAN quite slow\nhigh throttling\nonly USB 2.0\ncamera quality not at top level\nPerformance, emissions and battery life - Android-Phone with high-end chipset\nand the manufacturer is breaking new ground in terms of design. The camera module has a cover that can be replaced by the user. There is a choice of a\nWith a weight of 214 grams (~7.6 oz), the GT 8 Pro is certainly no lightweight. However, considering that Realme has equipped its flagship phone with a 7,000 mAh battery, the 8.3 millimeter (~0.3 inches) thin smartphone is very handy.\nWhile the front of the IP68/IP69-certified and therefore waterproof housing is made of Corning Gorilla Glass 7i, the back has a plastic texture that Realme says is reminiscent of paper. If you want, you can also purchase an F1 edition from Aston Martin with a back made of aramid fibers.\nThe Realme phone's USB port is disappointing. In 2026, the slow 2.0 standard will hardly play a role for the upper smartphone class, as the demands on the interface in terms of speed and functionality (image output, fast data transfer, ...) have now increased significantly.\nIn addition to two nano-SIM cards, the GT 8 Pro can also be used with an eSIM. The voice quality via the earpiece is good.\nFor biometric security, a fast ultrasonic fingerprint sensor is integrated into the display, which offers a high recognition rate. 2D facial recognition is also available via the front camera,\nRealme guarantees five major Android upgrades for Europe and new security updates for five years. The Realme GT 8 Pro is delivered with Android 16 and the Realme UI 7.0 during the test. The patches are still dated December 2025, which means they will probably only be rolled out once a quarter (at best).\nThose interested in a GT 8 Pro are in the dark when it comes to sustainability. However, the outer packaging appears to be plastic-free.\nfrom Realme has tended to stand for a strong price-performance ratio or for high-end gaming, but this is now set to change with the Ricoh cooperation. The photo quality of the triple rear camera is now also set to be a highlight.\nRealme has installed a 50-MPix main camera with OIS, but the sensor is comparatively small at 1/1.56 inches. The results are appealing in daylight and the colors look natural. However, the GT 8 Pro lacks a little sharpness, especially at the edges of the image. In low light, the noise behavior and illumination are suboptimal.\nThe 1/1.56 inch sensor for the periscope telephoto camera with 200 MPix also delivers a lossless triple zoom. The sharpness offered here is surprisingly poor and hardly any details are recognizable at 5x. We like the 50 MPix ultra-wide-angle lens better, although this is nothing special for a high-end smartphone.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe sharp 1,440p AMOLED panel of the GT 8 Pro works with a frame rate of 144 Hz and a peak brightness of up to 7,000 nits according to the manufacturer. We can also confirm the latter (peak: 6,963 cd/m²), at least for a special mode in the developer settings. In the more everyday tests, such as APL18 or HDR content (2,078 cd/m²), we do not (even come close) to these values. In addition, the maximum luminance dims to below 1,000 cd/m² after a short time in everyday use.\nHigh-frequency PWM dimming is not necessary, the frequency is a very high 2,160 Hz.\nWe get the best color display in Pro mode. The grayscale is also very accurate.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 2 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nThe screen shows good response rates in our tests, but may be too slow for competitive gamers.\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 30 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nthe Realme phone offers true flagship performance, while an in-house R1 chip is also designed to reduce the input latency of the display.\nThe values in the benchmarks are really good, both in the CPU and GPU tests. However, the chipset throttles very noticeably under load - sometimes almost 70 percent in the 3DMark stress tests.\nThe speakers deliver a powerful soundscape, our pink noise measurement shows a pronounced increase in the mids.\nThe GT 8 Pro is also delivered in Europe with a 7,000 mAh battery, which can be charged via USB-C with up to 120 watts and wirelessly with 50 watts. In our Wi-Fi test, the Realme phone lasted a whole day.\nRoom Temperature 21.8 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 42.8 °C / 109 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 43.6 °C / 110 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 43.2 °C / 110 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 26.3 °C / 79 F, compared to the device average of 32.9 °C / 91 F.\nAdreno 840, SD 8 Elite Gen 5, 256 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nAdreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nAdreno 840, SD 8 Elite Gen 5, 256 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nAdreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n13% of all tested devices in this class were better, 8% similar, 80% worse\n9% of all tested devices in this class were better, 7% similar, 84% worse"
+            }
+        ]
+    }
+}

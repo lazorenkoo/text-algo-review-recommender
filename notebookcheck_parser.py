@@ -7,14 +7,6 @@ from pathlib import Path
 import requests
 from bs4 import BeautifulSoup, NavigableString, Tag
 
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/123.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
 
 KNOWN_SPEC_KEYS = {
     "Processor",
@@ -81,9 +73,7 @@ def safe_filename(name: str) -> str:
     return name[:180] if name else "phone"
 
 
-def get_soup(url: str) -> BeautifulSoup:
-    response = requests.get(url, headers=HEADERS, timeout=30)
-    response.raise_for_status()
+def get_soup(response: str) -> BeautifulSoup:
     return BeautifulSoup(response.text, "html.parser")
 
 
@@ -120,7 +110,9 @@ def find_h3_after_h2(h2_tag: Tag, keyword: str) -> Tag | None:
     return None
 
 
-def collect_text_nodes_until_heading(start_tag: Tag, stop_headings: set[str]) -> list[str]:
+def collect_text_nodes_until_heading(
+    start_tag: Tag, stop_headings: set[str]
+) -> list[str]:
     lines = []
     seen = set()
 
@@ -174,20 +166,16 @@ def collect_text_nodes_between(start_tag: Tag, end_tag: Tag | None) -> list[str]
 
 def get_phone_name(soup: BeautifulSoup, title: str) -> str:
     root = get_main_root(soup)
+    regex_pattern = re.compile(r"^[^-]+-[^-]+-relatedarticles$")
+    div = soup.find("div", class_=regex_pattern)
+    phone_name = div.find("a").text
 
-    for key in ["Verdict on the", "Specifications of the"]:
-        h2 = find_h2_containing(root, key)
-        if h2:
-            text = clean_text(h2.get_text(" ", strip=True))
-            match = re.search(rf"{re.escape(key)}\s+(.+)", text, re.IGNORECASE)
-            if match:
-                return clean_text(match.group(1))
+    if phone_name:
+        return clean_text(phone_name)
 
-    match = re.search(r"-\s*([A-Z][A-Za-z0-9+ .()-]+?)\s+(?:review|test|preview)\b", title)
-    if match:
-        return clean_text(match.group(1))
-
-    fallback = re.split(r"\b(?:review|Review|test|Test|preview|Preview)\b", title, maxsplit=1)[0]
+    fallback = re.split(
+        r"\b(?:review|Review|test|Test|preview|Preview)\b", title, maxsplit=1
+    )[0]
     return clean_text(fallback.strip(" :-â€“â€”"))
 
 
@@ -354,9 +342,9 @@ def parse_intro_and_body_paragraphs(root: Tag) -> list[str]:
 
     toc_h2 = find_h2_containing(root, "Table of Contents")
     spec_h2 = find_h2_containing(root, "Specifications")
-    rating_h2 = find_h2_containing(root, "Notebookcheck overall rating") or find_h2_containing(
-        root, "Notebookcheck total rating"
-    )
+    rating_h2 = find_h2_containing(
+        root, "Notebookcheck overall rating"
+    ) or find_h2_containing(root, "Notebookcheck total rating")
 
     if toc_h2 and spec_h2:
         for line in collect_text_nodes_between(toc_h2, spec_h2):
@@ -374,7 +362,11 @@ def parse_intro_and_body_paragraphs(root: Tag) -> list[str]:
         title = clean_text(h2.get_text(" ", strip=True)).lower()
         if rating_h2 is not None and h2 is rating_h2:
             break
-        if "verdict" in title or "price and availability" in title or "table of contents" in title:
+        if (
+            "verdict" in title
+            or "price and availability" in title
+            or "table of contents" in title
+        ):
             continue
         if "specifications" in title:
             continue
@@ -392,9 +384,9 @@ def parse_intro_and_body_paragraphs(root: Tag) -> list[str]:
 
 
 def parse_ratings(root: Tag) -> list[dict]:
-    rating_h2 = find_h2_containing(root, "Notebookcheck overall rating") or find_h2_containing(
-        root, "Notebookcheck total rating"
-    )
+    rating_h2 = find_h2_containing(
+        root, "Notebookcheck overall rating"
+    ) or find_h2_containing(root, "Notebookcheck total rating")
     if not rating_h2:
         return []
 
@@ -427,8 +419,8 @@ def parse_ratings(root: Tag) -> list[dict]:
     return ratings
 
 
-def parse_article(article_url: str) -> dict:
-    soup = get_soup(article_url)
+def parse_article(response: str, article_url) -> dict:
+    soup = get_soup(response)
     root = get_main_root(soup)
 
     title = find_h1(soup)
@@ -458,17 +450,12 @@ def save_json(data: dict, output_dir: Path) -> Path:
     return file_path
 
 
-def main() -> None:
-    if len(sys.argv) < 2:
-        print('Usage: python notebookcheck_parser.py "ARTICLE_URL" [OUTPUT_DIR]')
-        sys.exit(1)
+def main(response, original_url, out) -> None:
+    if out != "":
+        output_dir = out
+    else:
+        output_dir = Path("parsed_phone") / "techradar"
 
-    article_url = sys.argv[1]
-    output_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("parsed_phone") / "notebookcheck"
-    data = parse_article(article_url)
+    data = parse_article(response, original_url)
     path = save_json(data, output_dir)
     print(f"Saved: {path.resolve()}")
-
-
-if __name__ == "__main__":
-    main()
