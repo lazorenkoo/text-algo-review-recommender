@@ -1,22 +1,11 @@
 import io
 import json
 import re
-import sys
 from pathlib import Path
 from urllib.parse import urlparse
 
 import pandas as pd
-import requests
 from bs4 import BeautifulSoup, Tag
-
-HEADERS = {
-    "User-Agent": (
-        "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
-        "AppleWebKit/537.36 (KHTML, like Gecko) "
-        "Chrome/123.0.0.0 Safari/537.36"
-    ),
-    "Accept-Language": "en-US,en;q=0.9",
-}
 
 
 def clean_text(text: str) -> str:
@@ -34,9 +23,7 @@ def safe_filename(name: str) -> str:
     return name[:180] if name else "phone"
 
 
-def get_soup(url: str) -> BeautifulSoup:
-    response = requests.get(url, headers=HEADERS, timeout=30)
-    response.raise_for_status()
+def get_soup(response) -> BeautifulSoup:
     return BeautifulSoup(response.text, "html.parser")
 
 
@@ -47,26 +34,20 @@ def get_main_content(soup: BeautifulSoup) -> Tag:
     return main_content
 
 
-def slug_to_phone_name(url: str) -> str:
-    path_parts = [part for part in urlparse(url).path.split("/") if part]
-    if not path_parts:
-        return ""
+def extract_phone_name(main_article: Tag, fallback_title: str) -> str:
+    section = main_article.find_all("h2", class_="article-body__section")
+    section_h3 = main_article.find_all("h3", class_="article-body__section")
+    if len(section) <= 1:
+        section = section_h3
 
-    slug = path_parts[-1]
-    slug = re.sub(r"-review.*$", "", slug, flags=re.IGNORECASE)
-    slug = slug.replace("-", " ").strip()
-    return clean_text(slug.title())
-
-
-def extract_phone_name(url: str, main_article: Tag, fallback_title: str) -> str:
-    # Older TechRadar article sections often expose the clean device name in the section headings.
-    section_h2 = main_article.find_all("h2", class_="article-body__section")
-    if len(section_h2) >= 2:
-        span = section_h2[1].find("span")
+    if len(section) >= 2:
+        span = section[1].find("span")
         if span:
             phone_name_text = clean_text(span.get_text(" ", strip=True))
             if "review" in phone_name_text.lower():
-                phone_name_text = re.split(r"\breview\b", phone_name_text, flags=re.IGNORECASE)[0]
+                phone_name_text = re.split(
+                    r"\breview\b", phone_name_text, flags=re.IGNORECASE
+                )[0]
             if ":" in phone_name_text:
                 phone_name_text = phone_name_text.split(":", 1)[0]
             phone_name_text = phone_name_text.strip()
@@ -100,29 +81,40 @@ def parse_table(table_tag: Tag | None) -> tuple[dict, list[dict]]:
 
     spec_data: dict = {}
     if not spec_table.empty:
-        spec_data = spec_table.set_index(spec_table.columns[0])[spec_table.columns[1]].to_dict()
-        spec_data = {clean_text(str(key)): clean_text(str(value)) for key, value in spec_data.items()}
+        spec_data = spec_table.set_index(spec_table.columns[0])[
+            spec_table.columns[1]
+        ].to_dict()
+        spec_data = {
+            clean_text(str(key)): clean_text(str(value))
+            for key, value in spec_data.items()
+        }
 
     rating_data: list[dict] = []
     if not rating_table.empty:
         rating_data = []
         for record in rating_table.to_dict(orient="records"):
-            normalized = {clean_text(str(key)): clean_text(str(value)) for key, value in record.items()}
+            normalized = {
+                clean_text(str(key)): clean_text(str(value))
+                for key, value in record.items()
+            }
             rating_data.append(normalized)
 
     return spec_data, rating_data
 
 
-def parse_article(url: str) -> dict:
-    soup = get_soup(url)
+def parse_article(soup, url) -> dict:
+
     main_content = get_main_content(soup)
     main_article = main_content.find("div", id="article-body")
+
     if main_article is None:
         raise ValueError("Could not find TechRadar article body")
 
     title_tag = soup.find("h1")
-    fallback_title = clean_text(title_tag.get_text(" ", strip=True)) if title_tag else ""
-    phone_name = extract_phone_name(url, main_article, fallback_title)
+    fallback_title = (
+        clean_text(title_tag.get_text(" ", strip=True)) if title_tag else ""
+    )
+    phone_name = extract_phone_name(main_article, fallback_title)
 
     pretty_verdict = main_content.find("div", class_="pretty-verdict")
     verdict_text = ""
@@ -191,14 +183,14 @@ def save_json(data: dict, output_dir: Path) -> Path:
     return file_path
 
 
-def main() -> None:
-    if len(sys.argv) < 2:
-        print('Usage: python techradar_parser.py "ARTICLE_URL" [OUTPUT_DIR]')
-        sys.exit(1)
+def main(response, url, out="") -> None:
+    if out != "":
+        output_dir = out
+    else:
+        output_dir = Path("parsed_phone") / "techradar"
 
-    article_url = sys.argv[1]
-    output_dir = Path(sys.argv[2]) if len(sys.argv) > 2 else Path("parsed_phone") / "techradar"
-    data = parse_article(article_url)
+    soup = get_soup(response)
+    data = parse_article(soup, url)
     path = save_json(data, output_dir)
     print(f"Saved: {path.resolve()}")
 

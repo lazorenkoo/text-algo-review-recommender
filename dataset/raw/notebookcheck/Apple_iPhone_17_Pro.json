@@ -1,0 +1,212 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Apple iPhone 17 Pro",
+    "article_url": "https://www.notebookcheck.net/Apple-iPhone-17-Pro-review-Faster-longer-further-Is-that-enough.1140998.0.html",
+    "verdict": {
+        "text": "Even without any real leaps in innovation, the iPhone 17 Pro presents itself as a consistent evolution of its predecessor. Apple's many improved details include the new, brighter, more color-accurate OLED display. On top of this, you get the larger and longer-lasting battery, and the A19 Pro chip, combined with 12 GB of RAM, ensures outstanding system performance. The camera has also been improved, particularly when it comes to the telephoto lens and front camera, which are now more versatile and technically sophisticated. In reality, the smartphone impresses with powerful performance and one of the longest-running batteries in its class. Nevertheless, we're left with mixed impressions. The switch from titanium to aluminum seems like a backward step, especially since user reports indicate that the surface is more prone to scratches. While the photo quality is top-notch, the ultra-wide angle remains weak, and the zoom sensor finds its limits in low light. The display, as brilliant as it is, still uses low-frequency PWM, which may annoy users sensitive to such issues. There are also small but annoying limitations, such as no high-res audio via Bluetooth, no Auracast, and some new iOS 26 features are still blocked in the EU.",
+        "pros": [
+            "high performance",
+            "good camera setup",
+            "very good battery life",
+            "USB 3.2, UWB, and Wi-Fi 7"
+        ],
+        "cons": [
+            "restrictions in the EU",
+            "no high-res Bluetooth",
+            "only a 12-month warranty"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Telephone functions and voice quality - The iPhone has dual eSIM support\n\n",
+            "Cameras - The iPhone 17 Pro has a new Center Stage camera on the front\n\n",
+            "The iPhone 17 Pro is the successor to last year's iPhone 16 Pro and now comes with at least 256 GB of internal storage, which brings the starting price to $1,099. The smartphone is also available with 512 GB ($1,299) and 1 TB ($1,499) storage options.\n\n",
+            "The iPhone 17 Pro's design has been noticeably revised, the battery has been significantly increased in size, and there's a new zoom lens as well as a new front camera. Charging speeds have also increased, the display is brighter, and, of course, the SoC has also been upgraded. Discover all you need to know in the following review.\n\n",
+            "Titanium is history when it comes to the iPhone Pro and can now only be found in the iPhone Air in the current lineup. Instead, Apple has opted for a completely redesigned aluminum frame that is supposed to be even more durable. However, users are complaining about this very issue with the so-called \"Scratchgate.\" In particular, the camera bump's hard edges are considered vulnerable. We're unable to confirm this, since our review device has been free of any scratches so far.\n\n",
+            "The aluminum frame is interrupted by a glass surface on the back. This additional design element is not only there for aesthetic reasons but also has a practical purpose in enabling wireless charging. The camera bump is visually very prominent and increases the height of the smartphone to 11.3 mm in this area of the phone. The three lenses protrude an additional 1.95 mm, giving the iPhone 17 Pro a maximum height of 13.25 mm. At its thinnest point, we measured 8.55 mm.\n\n",
+            "The build quality is really impressive, although the gaps between the embedded glass on the back aren't entirely even upon closer inspection. The iPhone feels truly comfortable in the hand, and the SIM slot sits flush with the identically-colored frame.\n\n",
+            "The iPhone doesn't emit any sounds when twisted and feels sturdy. It's also dust and water-resistant according to IP68. At 206g, it's comparatively heavy. Colors available include Deep Blue, Cosmic Orange, and Silver.\n\n",
+            "The iPhone 17 Pro has a comprehensive range of features: Bluetooth 6.0, Wi-Fi 7, UWB, satellite communication, dual eSIM, MagSafe wireless charging, Qi2, and USB 3.2 (Gen. 2), with the latter achieving high transfer speeds in our test. In the copy test using a\n\n",
+            "over 600 MB/s was possible. Apple isn't picky about the supported file systems either, but the iPhone doesn't recognize NTFS. Wired video output is possible in Ultra HD with HDR.\n\n",
+            "That may sound seamless, but Bluetooth in particular still lacks an audio codec for high-res audio, and Auracast support isn't yet available. The action and camera buttons also integrate physical controls, something we already saw in its predecessor.\n\n",
+            "The Apple iPhone 17 Pro comes with iOS 26, including Apple Intelligence and the new Liquid Glass look. However, users in the EU are still faced with limitations, with features such as Visited Places and iPhone Mirroring not (yet) available. Further IOS 26 details can be found\n\n",
+            "Apple hasn't made any concrete statements regarding the update supply, but we can assume that the period will cover at least five years, and if you take the new EU guidelines into account, possibly a minimum of six years.\n\n",
+            "The iPhone 17 Pro comes in a slim, plastic-free outer packaging. In its sustainability report, Apple provides information concerning, among other things, the proportion of recycled materials (30% in total) and of rare earth and precious metals recycling rates. It also provides a\n\n",
+            "The iPhone 17 Pro supports Wi-Fi 7 with three bands. In conjunction with our reference router, the Asus ROG Rapture GT-AXE11000, this enabled high and stable data transfers, although data reception in the 6 GHz band could be a bit faster.\n\n",
+            "The frequency band support for mobile networks is broad and should enable a connection in every country around the world. In a big city environment, the connection characteristics were good, and there were no issues. In general, we haven't observed any connection issues with the communication modules since the update to iOS 26.0.1.\n\n",
+            "Unlike the USA, satellite communication in Germany is limited to emergency calls. When exactly the service will be expanded to include calling for roadside assistance or sending messages via the satellite system is still uncertain.\n\n",
+            "Dual-band GNSS using every global satellite network is available for location services. This generally ensures fast and accurate positioning.\n\n",
+            "On a bike ride, we compared the iPhone 17 Pro to the Garmin Venu 2, which demonstrated very good route tracking and only a few minor deviations.\n\n",
+            "The iPhone 17 Pro is still equipped with a nano-SIM in Germany and can also use an eSIM. Alternatively, the use of two eSIMs is also possible, and VoLTE and Wi-Fi calling are also supported.\n\n",
+            "When held to the ear, the Apple smartphone's call quality is good, and even louder background noises are filtered out quite reliably. In speakerphone mode, the user sounds a bit tinny, but this is rarely noticeable.\n\n",
+            "The new Center Stage front camera on the iPhone 17 Pro has been fundamentally redesigned and now features an 18 MP sensor with an f/1.9 aperture and autofocus. The new square sensor allows the camera to automatically switch between portrait and landscape modes. The Center Stage feature ensures that people always remain the focus, and the camera dynamically zooms and shifts the image as soon as someone moves or additional people enter the frame. The camera also enables 4K HDR video recording with improved stabilization as well as the new Dual Capture mode, in which the front and rear cameras record simultaneously.\n\n",
+            "The main camera on the back now uses three 48 MP sensors. This represents a significant upgrade, especially for the zoom, which now has a 4x optical zoom (100 mm) that is said to be virtually lossless even at 200 mm. A 40x digital zoom (1049 mm) is possible, and optical image stabilization with 3D sensor shift is also included. The zoom produces good results in daylight, but its small sensor area is noticeable in low light conditions.\n\n",
+            "The main camera also produces good photos in this area, too. Apple boasts a nearly lossless 2x magnification thanks to the sensor crop. Optical image stabilization with sensor shift (Gen. 2) is also available. This helps the iPhone 17 Pro produce balanced images with a high level of detail and a balanced sharpness ratio, with only details in the depth of field sometimes being a bit blurry. Little has changed regarding the ultra-wide-angle lens, which can still serve as a macro lens. In panoramic shots, the depth of field is not particularly deep, and sharpness also decreases significantly towards the edges. Resolutions of 12, 24 (default), and 48 megapixels are available, and ProRAW can also be used.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "Under controlled lighting conditions, our test chart was almost consistently sharp, with hardly any blurring even at the edges. However, in the center of the image, details appeared somewhat over-sharpened and exhibited minor aberrations.\n\n",
+            "The iPhone 17 Pro comes with a USB cable (type-C on both sides) and a SIM ejection tool.\n\n",
+            "still applies. With Apple Care+, you can also purchase an insurance package, the price of which varies depending on the coverage. A one-time fee of $139.99 is payable for one year, or a monthly payment of $13.99 is also possible.\n\n",
+            "For biometric security, 3D facial recognition via Face ID is on board, which offers high levels of security, recognition, and speed. The Taptic Engine is once again responsible for haptic feedback and provides crisp feedback.\n\n",
+            "The capacitive touchscreen is fast and precise. Touch-sensitive typing is also possible on the back, although this must first be enabled in the settings. Apple also hasn't changed the functionality of the action and camera buttons seen in the\n\n",
+            "The iPhone 17 Pro's OLED display measures 6.3 inches (16 cm) and, thanks to LTPO technology, it operates with a variable refresh rate of 1 to 120 Hz. All common HDR standards are supported, and the brightness is absolutely even.\n\n",
+            "Compared to its predecessor, the brightness has been further increased. While this remains unchanged when displaying a full white area, it climbs to 3,044 cd/m² (APL18) when displaying a reduced white area, and 2,997 cd/m² when displaying HDR. Anyone wishing to adjust the brightness manually has a maximum of 849 cd/m² at their disposal.\n\n",
+            "The OLED uses pulse-width modulation (PWM) to control the panel's brightness. At 480 Hz, the frequency isn't particularly high, and the base frequency is only 240 Hz at minimum brightness. Apple has implemented a \"Pulse Smoothing\" feature in the accessibility settings to protect your eyes, which, in direct comparison, provides a flatter amplitude, at least at low display brightness. Whether this is sufficient to protect sensitive users from any discomfort will likely be on a case-by-case basis. Even with this feature, it can't be completely ruled out.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 240 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 240 Hz is relatively low, so sensitive users will likely notice flickering and experience eyestrain at the stated brightness setting and below.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "A series of measurements at a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.).\n\n",
+            "A series of measurements at a fixed zoom level with display pulse smoothing activated and different brightness settings.\n\n",
+            "When it comes to color accuracy, the iPhone 17 Pro proves to be exemplary in the Calman measurements, with a green tint noticeable only in the light grayscale with True Tone deactivated.\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 4 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "Outdoors, the iPhone 17 Pro performs very well due to its brightness reserves, but the anti-reflective coating is barely noticeable and nowhere near the level of the\n\n",
+            "The Apple smartphone's viewing angle stability is very good, and no color inversions are noticeable, even at very wide viewing angles. At most, the brightness decreases slightly.\n\n",
+            "The iPhone 17 Pro now houses 12 GB of LPDDR5x memory and is powered by the company’s own\n\n",
+            "Especially the CPU performance leaves the competition in the comparison field standing, although the upcoming top\n\n",
+            "The iPhone also delivers extremely good system and AI benchmark results, meaning it's currently hard to find snappier devices of any kind.\n\n",
+            "also delivers high performance and supports hardware-based ray tracing. While the Adreno 830-based competition delivers even better results in some benchmarks, the iPhone's customized system gives it the edge in everyday use, as we're about to see in gaming.\n\n",
+            "When browsing the web, the iPhone is still in a class of its own; whether in everyday use or in benchmarks, the performance remains high.\n\n",
+            "Gaming on the iPhone 17 Pro is always smooth, and this doesn't come at the cost of heat production. Using\n\n",
+            ", the tested games generally ran very smoothly, but there were also minor frame drops that manifested themselves as minor stuttering.\n\n",
+            "Anyone who has owned a larger phone may find the display small, and the dynamic island obscures the displayed content.\n\n",
+            "The iPhone 17 Pro's surface temperatures remained safe throughout, only occasionally rising above 40°C during stress tests.\n\n",
+            "This means Apple has indeed made improvements to the cooling system, with performance throttling being significantly reduced under sustained load.\n\n",
+            "Room Temperature 21.6 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 38.9 °C / 102 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 41.2 °C / 106 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 40.8 °C / 105 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 27.3 °C / 81 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, Apple 512GB NVMe; Wild Life Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, Apple 512GB NVMe; Wild Life Extreme Stress Test:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, Apple 512GB NVMe; Solar Bay Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, Apple 512GB NVMe; Solar Bay Extreme Stress Test Stability:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, Apple 512GB NVMe; Steel Nomad Light Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, Apple 512GB NVMe; Wild Life Unlimited Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, Apple 512GB NVMe; Solar Bay Unlimited Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, Apple 512GB NVMe; Solar Bay Extreme Unlimited Stress Test Stability:\n\n",
+            "A19 Pro 6-Core GPU, A19 Pro, Apple 512GB NVMe; Steel Nomad Light Unlimited Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Unlimited Stress Test Stability; 1.1.1.3:\n\n",
+            "The two speakers deliver comparatively good sound that avoids distortion even at high volumes. As expected, however, there's a slight lack of depth, although this is only really noticeable at higher volumes.\n\n",
+            "The USB port is on board for wired audio output, and Bluetooth is available for wireless audio output. However, the latter offers very limited codec support.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "1% of all tested devices in this class were better, 1% similar, 98% worse\n\n",
+            "2% of all tested devices in this class were better, 2% similar, 96% worse\n\n",
+            "At maximum display brightness and under load, the iPhone 17 Pro's power consumption is quite high. Especially concerning the former, it's important to remember that the panel can also get very bright in manual mode.\n\n",
+            "Apple has increased speeds for both wireless (max. 25W) and wired (max. 40W) charging. Using an original power adapter (65W), we fully recharged the iPhone after 71 minutes, and it took 21 minutes to reach 50%.\n\n",
+            "The iPhone 17 Pro's battery has increased to 3,988 mAh in countries such as Germany, where physical SIM support is still available. In the US (eSIM only), the freed-up space is also reserved for the battery, which means the 17 Pros there have 4,252 mAh.\n\n",
+            "But even the smaller battery achieves incredibly long battery life. Only the\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Apple A19 Pro 6c/6t, 2 x 4.3 GHz Apple A19 P-Core, 4 x 2.6 GHz Apple A19 E-Core",
+            "Graphics adapter:": "Apple A19 Pro 6-Core GPU",
+            "Memory:": "12 GB , LPDDR5x",
+            "Display:": "6.30 inch 19.5:9, 2622 x 1206 pixel 458 PPI, Capacitive touchscreen, Super Retina XDR, OLED, ProMotion, Anti-reflective coating, LTPO 1 - 120 Hz, Ceramic Shield 2, glossy: yes, HDR, 120 Hz",
+            "Storage:": "Apple 512GB NVMe, 512 GB , 479.59 GB free",
+            "Connections:": "1 USB 3.1 Gen2, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Accelerometer, gyro, proximity, compass, barometer, Face ID, OTG, Thread, UWB (Gen. 2)",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850, 900, 1800, 1900 MHz), 3G (850, 900, 1700/2100, 1900, 2100 MHz), LTE (Band 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 30, 32, 34, 38, 39, 40, 41, 42, 48, 53, 66), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 30, 38, 40, 41, 48, 53, 66, 70, 75, 77, 78, 79), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 8.8 x 150 x 71.9 ( = 0.35 x 5.91 x 2.83 in)",
+            "Battery:": "3988 mAh Lithium-Ion, (4252 mAh - eSIM only model), Battery Cycles: 1000",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Apple iOS 26",
+            "Camera:": "Primary Camera: 48 MPix (f/1.8, 24 mm, 1/1.28\", 1.22 µm) + 48 MPix (4x optical zoom, f/2.8, 100 mm, 1/2.55\", 0.7 µm) + 48 MPix (f/2.2, 13 mm, 1/2.55\", 0.7 µm) Secondary Camera: 18 MPix (f/1.9, 20 mm, AF)",
+            "Additional features:": "Speakers: Dual, Keyboard: OnScreen, SIM-Tool, USB-C-Cabel, 12 Months Warranty, Bluetooth Audio Codecs: SBC, AAC | Dual-Band-GNSS: GPS, Glonass, BeiDou, Galileo, QZSS, NavIC | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM Widevine L1 | eSIM | IP68 | USB Copy Test: 602.78 MB/s (connected to Samsung Portable SSD T7 (USB 3.2 Gen. 2), Supported File Systems for external storages: FAT, FAT32, exFAT, APFS, APFS (encrypted), macOS Extended (HFS+) | Body-SAR: 1.49 W/kg, Head-SAR: 1.49 W/kg | max. charging speed: 40 W (wired) / 25 W (wireless: MagSafe and Qi2), fanless, waterproof",
+            "Weight:": "206 g ( = 7.27 oz / 0.45 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "1549 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "96%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "94%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "79%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "95%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "87%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "86.8%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "65%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "94.5%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "94.5%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "76%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "83.5%"
+            }
+        ]
+    }
+}

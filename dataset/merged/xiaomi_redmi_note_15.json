@@ -1,0 +1,336 @@
+{
+    "phone_key": "xiaomi_redmi_note_15",
+    "primary_name": "Xiaomi Redmi Note 15",
+    "aliases": [
+        "Xiaomi Redmi Note 15"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Xiaomi Redmi Note 15",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-Redmi-Note-15-4G-smartphone-review-Star-of-the-affordable-mid-range-with-HDR-and-huge-battery.1207068.0.html",
+                "verdict": {
+                    "text": "The Xiaomi Redmi Note 15 LTE has improvements over its predecessor: for example, significantly longer battery life thanks to the larger battery. Or an officially HDR-capable screen with more brightness and a substantially faster touchscreen sampling rate. The variety of 4G frequencies has also been expanded so that the Redmi Note 15 can be used more flexibly when traveling. Although the processor has a new name, it is only a slightly revised SoC. It offers no performance advantages over its predecessor, but it performs well overall for its price. Some users may be upset that the 3.5 mm audio port has been removed. The screen glass that extends over the edges may also not appeal to all buyers. Thanks to its long battery life, suitable performance, and bright screen, the Xiaomi Redmi Note 15 LTE is a very well-equipped mid-range phone.",
+                    "pros": [
+                        "affordable and well equipped",
+                        "long battery life",
+                        "very bright HDR AMOLED panel",
+                        "fast touch sampling rate",
+                        "many 4G LTE bands",
+                        "light but stable chassis",
+                        "6 years of security updates",
+                        "reverse charging at up to 18 watts"
+                    ],
+                    "cons": [
+                        "3.5mm jack connection absent",
+                        "no 5G",
+                        "system performance not perfectly smooth",
+                        "speakers are treble-heavy",
+                        "PWM display flickering",
+                        "camera captures few details",
+                        "packaging with lots of plastic"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        ", which had a more angular look; now, rounded edges dominate. Our test device is also slightly narrower and lighter than its predecessor.\n\n",
+                        "The matte back is available in black, light blue or light green with a slight wave pattern under the smooth surface. The case is sturdy, nothing creaks or twists. The phone is IP64-protected, meaning it is resistant to dust and splash water.\n\n",
+                        "A microSD reader can be used to add even more storage space. The card reader proved to be averagely fast in our test with the Angelbird V60 reference card.\n\n",
+                        "While the predecessor still had a dedicated 3.5mm audio port, this has been removed from the Redmi Note 15 4G. However, there is still an infrared port and NFC.\n\n",
+                        "The entry-level model of the Redmi series does not have 5G. Instead, you get support for many 4G frequencies, so international trips are possible with the Xiaomi Redmi Note 15 4G.\n\n",
+                        "The reception quality was mostly reliable during our random tests, even in difficult situations.\n\n",
+                        "The touchscreen now responds much faster to touches when required and, together with the fast frame rate of the 120 Hz display, results in very smooth operation. Occasionally, there are stutters due to the not-quite-as-fast SoC.\n\n",
+                        "Android 15 is pre-installed, Xiaomi overlays its HyperOS interface, which greatly customizes and expands the system.\n\n",
+                        "The manufacturer guarantees 6 years of security updates, i.e., until the beginning of 2032.\n\n",
+                        "Xiaomi still uses plastic film for its packaging, otherwise little is known about the sustainability of the product.\n\n",
+                        "The Redmi Note 15 4G has a 108-megapixel camera and a small support sensor for blur effects.\n\n",
+                        "The main camera produces decent pictures, although they could have a little more contrast, show potential for improvement in terms of sharpness of detail, and occasionally over-illuminate very bright areas. In low light and high contrast, the image is also quite acceptable.\n\n",
+                        "The front camera takes selfies with decent dynamics, but is often a little too coarse when it comes to detail.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "Xiaomi has improved the screen: an AMOLED is no longer rare even at this price; however, official HDR support and nearly 3,000 cd/m² are features that were previously exclusive to much more expensive smartphones.\n\n",
+                        "PWM flickering at a frequency around the frame rate is to be expected at low brightness. Xiaomi states that up to 3,840 Hz is also possible if required.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 119 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 119 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7895 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "In Original Color Pro mode, colors are displayed quite accurately, with only slight deviations in some blue and red tones.\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 6 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "is the same SoC as the Helio G99 in the predecessor, apart from minor improvements. Nothing has changed in terms of performance; the values here are very similar. Stuttering is also possible in menus, but it usually occurs only during more demanding tasks.\n\n",
+                        "The heat build-up on the case remains moderate, and the 3DMark stress tests also show hardly any loss of performance after prolonged load.\n\n",
+                        "The phone uses the earpiece as a second speaker, so that slight stereo effects are possible. The speaker's maximum volume is average; bass and low mids are only very weak. This results in a treble-heavy sound, which can also be unpleasant at high volumes.\n\n",
+                        "The Redmi Note 15 can be charged with up to 33 watts. Wired reverse charging with up to 18 watts is also possible.\n\n",
+                        "The large 6,000 mAh battery enables long runtimes: in our WLAN test, the model came close to 20 hours. This means that two days of operation without charging should not be a problem.\n\n",
+                        "Power Supply (max.) 42.1 °C = 108 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 37.9 °C = 100 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 36 °C / 97 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 40.1 °C / 104 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 35.9 °C / 97 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.3 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "26% of all tested devices in this class were better, 9% similar, 64% worse\n\n",
+                        "45% of all tested devices in this class were better, 8% similar, 47% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Mediatek Helio G100 8c/8t, 2 x 2.2 GHz ARM Cortex-A76, 6 x 2.0 GHz ARM Cortex-A55, Cortex-A76 / A55",
+                        "Graphics adapter:": "ARM Mali-G57 MP2",
+                        "Memory:": "8 GB",
+                        "Display:": "6.77 inch 20:9, 2392 x 1080 pixel 388 PPI, capacitive touchscreen, AMOLED, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "256 GB UFS 2.2 Flash, 256 GB , 211 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, Card Reader: microSD (shared, up to 2 TB), 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, compass, proximity",
+                        "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.1, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B38/​B40/​B41/​B66), Dual SIM, LTE, GPS",
+                        "Size:": "height x width x depth (in mm): 7.9 x 164 x 75.4 ( = 0.31 x 6.46 x 2.97 in)",
+                        "Battery:": "6000 mAh Lithium-Ion, 33 Watt charging, 18 Watt reverse charging (via cable)",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 108 MPix f/​1.7, phase shift AF, OIS, LED flash, Videos @1080p/​60fps (camera 1), 2 MP, depth sensor (camera 2) Secondary Camera: 20 MPix f/2.2, Videos @1080p/​30fps",
+                        "Additional features:": "Speakers: stereo speakers (hybrid), 24 Months Warranty, SAR: 0.997W/​kg (head), 0.987W/​kg (body); IP64 certified, fanless",
+                        "Weight:": "184 g ( = 6.49 oz / 0.41 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "249 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "86%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "59%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "11%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "67%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "15%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "55%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "5%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "5%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "7%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "95%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "27%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "affordable and well equipped",
+            "long battery life",
+            "very bright HDR AMOLED panel",
+            "fast touch sampling rate",
+            "many 4G LTE bands",
+            "light but stable chassis",
+            "6 years of security updates",
+            "reverse charging at up to 18 watts"
+        ],
+        "cons": [
+            "3.5mm jack connection absent",
+            "no 5G",
+            "system performance not perfectly smooth",
+            "speakers are treble-heavy",
+            "PWM display flickering",
+            "camera captures few details",
+            "packaging with lots of plastic"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Mediatek Helio G100 8c/8t, 2 x 2.2 GHz ARM Cortex-A76, 6 x 2.0 GHz ARM Cortex-A55, Cortex-A76 / A55",
+                "Graphics adapter:": "ARM Mali-G57 MP2",
+                "Memory:": "8 GB",
+                "Display:": "6.77 inch 20:9, 2392 x 1080 pixel 388 PPI, capacitive touchscreen, AMOLED, glossy: yes, HDR, 120 Hz",
+                "Storage:": "256 GB UFS 2.2 Flash, 256 GB , 211 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, Card Reader: microSD (shared, up to 2 TB), 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, compass, proximity",
+                "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.1, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B38/​B40/​B41/​B66), Dual SIM, LTE, GPS",
+                "Size:": "height x width x depth (in mm): 7.9 x 164 x 75.4 ( = 0.31 x 6.46 x 2.97 in)",
+                "Battery:": "6000 mAh Lithium-Ion, 33 Watt charging, 18 Watt reverse charging (via cable)",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 108 MPix f/​1.7, phase shift AF, OIS, LED flash, Videos @1080p/​60fps (camera 1), 2 MP, depth sensor (camera 2) Secondary Camera: 20 MPix f/2.2, Videos @1080p/​30fps",
+                "Additional features:": "Speakers: stereo speakers (hybrid), 24 Months Warranty, SAR: 0.997W/​kg (head), 0.987W/​kg (body); IP64 certified, fanless",
+                "Weight:": "184 g ( = 6.49 oz / 0.41 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "249 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "86%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "59%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "11%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "67%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "15%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "55%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "5%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "5%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "7%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "95%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "27%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-Redmi-Note-15-4G-smartphone-review-Star-of-the-affordable-mid-range-with-HDR-and-huge-battery.1207068.0.html",
+                "text": "The Xiaomi Redmi Note 15 LTE has improvements over its predecessor: for example, significantly longer battery life thanks to the larger battery. Or an officially HDR-capable screen with more brightness and a substantially faster touchscreen sampling rate. The variety of 4G frequencies has also been expanded so that the Redmi Note 15 can be used more flexibly when traveling. Although the processor has a new name, it is only a slightly revised SoC. It offers no performance advantages over its predecessor, but it performs well overall for its price. Some users may be upset that the 3.5 mm audio port has been removed. The screen glass that extends over the edges may also not appeal to all buyers. Thanks to its long battery life, suitable performance, and bright screen, the Xiaomi Redmi Note 15 LTE is a very well-equipped mid-range phone.\naffordable and well equipped\nlong battery life\nvery bright HDR AMOLED panel\nfast touch sampling rate\nmany 4G LTE bands\nlight but stable chassis\n6 years of security updates\nreverse charging at up to 18 watts\n3.5mm jack connection absent\nno 5G\nsystem performance not perfectly smooth\nspeakers are treble-heavy\nPWM display flickering\ncamera captures few details\npackaging with lots of plastic\n, which had a more angular look; now, rounded edges dominate. Our test device is also slightly narrower and lighter than its predecessor.\nThe matte back is available in black, light blue or light green with a slight wave pattern under the smooth surface. The case is sturdy, nothing creaks or twists. The phone is IP64-protected, meaning it is resistant to dust and splash water.\nA microSD reader can be used to add even more storage space. The card reader proved to be averagely fast in our test with the Angelbird V60 reference card.\nWhile the predecessor still had a dedicated 3.5mm audio port, this has been removed from the Redmi Note 15 4G. However, there is still an infrared port and NFC.\nThe entry-level model of the Redmi series does not have 5G. Instead, you get support for many 4G frequencies, so international trips are possible with the Xiaomi Redmi Note 15 4G.\nThe reception quality was mostly reliable during our random tests, even in difficult situations.\nThe touchscreen now responds much faster to touches when required and, together with the fast frame rate of the 120 Hz display, results in very smooth operation. Occasionally, there are stutters due to the not-quite-as-fast SoC.\nAndroid 15 is pre-installed, Xiaomi overlays its HyperOS interface, which greatly customizes and expands the system.\nThe manufacturer guarantees 6 years of security updates, i.e., until the beginning of 2032.\nXiaomi still uses plastic film for its packaging, otherwise little is known about the sustainability of the product.\nThe Redmi Note 15 4G has a 108-megapixel camera and a small support sensor for blur effects.\nThe main camera produces decent pictures, although they could have a little more contrast, show potential for improvement in terms of sharpness of detail, and occasionally over-illuminate very bright areas. In low light and high contrast, the image is also quite acceptable.\nThe front camera takes selfies with decent dynamics, but is often a little too coarse when it comes to detail.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nXiaomi has improved the screen: an AMOLED is no longer rare even at this price; however, official HDR support and nearly 3,000 cd/m² are features that were previously exclusive to much more expensive smartphones.\nPWM flickering at a frequency around the frame rate is to be expected at low brightness. Xiaomi states that up to 3,840 Hz is also possible if required.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 119 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 119 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7895 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nIn Original Color Pro mode, colors are displayed quite accurately, with only slight deviations in some blue and red tones.\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nis the same SoC as the Helio G99 in the predecessor, apart from minor improvements. Nothing has changed in terms of performance; the values here are very similar. Stuttering is also possible in menus, but it usually occurs only during more demanding tasks.\nThe heat build-up on the case remains moderate, and the 3DMark stress tests also show hardly any loss of performance after prolonged load.\nThe phone uses the earpiece as a second speaker, so that slight stereo effects are possible. The speaker's maximum volume is average; bass and low mids are only very weak. This results in a treble-heavy sound, which can also be unpleasant at high volumes.\nThe Redmi Note 15 can be charged with up to 33 watts. Wired reverse charging with up to 18 watts is also possible.\nThe large 6,000 mAh battery enables long runtimes: in our WLAN test, the model came close to 20 hours. This means that two days of operation without charging should not be a problem.\nPower Supply (max.) 42.1 °C = 108 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 37.9 °C = 100 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 36 °C / 97 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 40.1 °C / 104 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 35.9 °C / 97 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.3 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n26% of all tested devices in this class were better, 9% similar, 64% worse\n45% of all tested devices in this class were better, 8% similar, 47% worse"
+            }
+        ]
+    }
+}

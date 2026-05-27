@@ -1,0 +1,377 @@
+{
+    "phone_key": "xiaomi_17_pro_max",
+    "primary_name": "Xiaomi 17 Pro Max",
+    "aliases": [
+        "Xiaomi 17 Pro Max"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Xiaomi 17 Pro Max",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-17-Pro-Max-smartphone-review-Does-the-giant-phone-s-second-display-help-it-step-out-of-Apple-s-shadow.1153385.0.html",
+                "verdict": {
+                    "text": "The Xiaomi 17 Pro Max is a fantastic, lightning-fast smartphone with a bright screen, fast storage, snappy internet, and every feature you could wish for. Its massive battery results in truly excellent battery life, and currently, few Android smartphones can match it. Apple, on the other hand, almost manages to keep pace with a much smaller battery thanks to numerous software optimizations. The bright screen also displays HDR content effectively, and the premium-feeling case is impeccably crafted. The real highlight is the relatively large display on the back, but it raises a few questions: What will future app support look like? And could it be very fragile when dropped? Xiaomi is also staying tight-lipped about the operating system update support and sustainability. Furthermore, the phone is likely not to be officially released outside of Asia. While importing it through specialized retailers like TradingShenzhen is a relatively straightforward process, restrictions such as the lack of Android Auto and eSIM support remain. Nevertheless, its dedicated camera sensor and secondary display make the Xiaomi 17 Pro Max a very compelling high-end phone.",
+                    "pros": [
+                        "very long battery life",
+                        "two very bright LTPO AMOLED displays",
+                        "high-quality camera system",
+                        "powerful performance",
+                        "speedy UFS 4.1 storage",
+                        "fast Wi-Fi including Wi-Fi 7",
+                        "comprehensive feature set"
+                    ],
+                    "cons": [
+                        "considerable heat production under load",
+                        "severe throttling",
+                        "secondary display has limited app support",
+                        "no official distribution outside of Asia (yet)",
+                        "advertising in key apps",
+                        "no Android Auto",
+                        "no eSIM support",
+                        "pointless apps pre-installed in the West",
+                        "only English available as a Western language",
+                        "unclear update period",
+                        "PWM flickering"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "17 Pro Max – anyone hearing that name probably immediately thinks of Apple's largest iPhone model. And it would appear Xiaomi has deliberately copied the name of one of the world's most successful smartphones.\n\n",
+                        "The 17 Pro Max is currently the largest model in the 17 series, at least until\n\n",
+                        "Our review takes a closer look at whether the secondary rear display is genuinely useful and whether Xiaomi (and its bold choice of name) can actually compete with Apple's flagship phone.\n\n",
+                        "having become significantly more compact, Xiaomi apparently still wanted to offer a top smartphone for its large-screen fans.\n\n",
+                        "To achieve this, the Xiaomi 17 Pro Max features a 6.9-inch screen and a body that is almost exactly the same size as the\n\n",
+                        "The front of the phone boasts a screen-to-body ratio of almost 91% with bezels that are barely visible. Xiaomi has opted to use its own proprietary Xiaomi Dragon Crystal Glass 3 for protection, and it is said to only show scratches on materials with a Mohs hardness of 7.\n\n",
+                        "The phone is IP68-rated for water and dust resistance, which means it can be used not only in dirty environments but also underwater.\n\n",
+                        "The aluminum frame provides the phone with good stability, meaning you can't twist it using your bare hands.\n\n",
+                        "However, the rear screen poses a stability question mark, with it protruding quite far from the case and not possessing the same high-quality protective glass as the front.\n\n",
+                        "The simple matte back looks elegant and is available in dark gray, white, purple, or green.\n\n",
+                        "Xiaomi doesn't offer quite as many options as Apple or Samsung. However, when it comes to price, it significantly undercuts its competitors, hovering at around $1,000.\n\n",
+                        "The USB-C port can transfer data at up to 5 Gbps and also features a DisplayPort mode, which allows you to create a wired connection between the phone and external monitors.\n\n",
+                        "The included ultra-wide band support ensures fast data exchange, and precise location tracking is included, as well as NFC for mobile payment services and ID applications.\n\n",
+                        "Two nano-SIM slots are the only way to use a SIM card since eSIMs are not widely used in China.\n\n",
+                        "Xiaomi's HyperOS 3 is based on Android 16, which makes it a very up-to-date operating system. Google Play Services are already on board and can be fully enabled in the settings.\n\n",
+                        "However, the Chinese ROM comes with many pre-installed apps you might feel the need to uninstall, since they are practically unusable in Western regions. Furthermore, the only Western language option is English. Other example limitations, such as Android Auto, are also present.\n\n",
+                        "The duration of updates is also uncertain. A the time of this review, the security updates on our device were from a very up-to-date October 2025.\n\n",
+                        "Unfortunately, no information is available either regarding the smartphone's carbon footprint or the recycling rate of the materials used. It is also unclear whether Xiaomi will provide spare parts and repair manuals.\n\n",
+                        "Currently, WiFi 7 is the most advanced WiFi standard and is also featured on the Xiaomi 17 Pro Max; however, our Asus ROG Rapture AXE11000 reference router isn't yet designed for it. Using the WiFi 6E standard, the phone still achieved fast data speeds of up to 1,748 Mbps. This will allow you to fully take advantage of a gigabit internet connection and leave room for even faster networks.\n\n",
+                        "The reception was excellent close to the router, and websites loaded very swiftly. At a distance of ten meters and through three walls, the signal strength was still half, and although you could tell that the transmission speed was a bit slower, browsing was still perfectly manageable.\n\n",
+                        "When it comes to mobile connectivity, this high-end phone supports all the necessary frequencies to allow you to use LTE and 5G networks worldwide, which makes the Xiaomi 17 Pro Max ideal for travel.\n\n",
+                        "During our spot check tests, the reception was consistently strong and remained sufficient even in challenging locations between tall buildings.\n\n",
+                        "Stepping outdoors with the Xiaomi 17 Pro Max, we were located quickly with an accuracy of 3 meters. Every major satellite network is available, although SBAS (Sky-Based Assigned Search), which allows for even greater precision, is not supported.\n\n",
+                        "We were keen to test its accuracy in a real-life situation. To achieve this, we went on a bike ride and were accompanied by a Garmin Venu 2 smartwatch for comparison purposes.\n\n",
+                        "The Xiaomi phone tracked our route well, and only occasionally placed us slightly off-center on the road, albeit without any major errors. Overall, it's also a very usable navigation device.\n\n",
+                        "Xiaomi has developed its own easy-to-use phone app. The Carrier Services tab is of little use in Europe, since network providers here don't allow you to use this feature to check your balance. It also advertises phone plans (!) that are only available in China.\n\n",
+                        "Features such as VoLTE and VoWiFi are supported, and you can even call other nearby Xiaomi phones via Bluetooth.\n\n",
+                        "Call quality is good, with our contact person confirming that our voice sounded clear during the test call. In turn, they also sounded very clear. Calls made with the speakerphone and the hands-free microphone work flawlessly.\n\n",
+                        "The cameras use sensors from three different manufacturers: Omnivision sensors are utilized for the front-facing camera and the ultra-wide-angle camera, and a Samsung sensor is used for the telephoto lens and its 5x periscope zoom. The main camera features a rather mysterious sensor, which our system hardware app identified as the STX9500U, although Xiaomi itself refers to it as the Light Hunter 950L. According to Chinese sources, this could be either a SmartSens SC590XS or another Omnivision sensor.\n\n",
+                        "Every camera has a 50-megapixel resolution, but they typically shoot 12.5-megapixel images. The full resolution can, of course, be activated via a special mode. The camera system was developed in cooperation with Leica.\n\n",
+                        "Photos from the main camera appear detailed, offer good dynamic range, and manage to capture challenging situations, such as yellow blossoms in bright light, with a high degree of detail. In low light, the sharpness remains high, and many details are discernible, although the dynamic range in dark areas could be somewhat better.\n\n",
+                        "The wide-angle camera takes good shots, which are slightly distorted at the edges, and at high magnification, fewer details are visible. The front camera takes sharp and detailed selfies.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "Color reproduction can be described as slightly oversaturated, but overall deviates only minimally from the ideal.\n\n",
+                        "The box contains a charger, USB cable, SIM tool, and a transparent silicone bumper. Even in Germany, you can find some accessories online, such as smartphone cases. Our device lender, Tradingshenzhen, also includes an adapter for Western power outlets.\n\n",
+                        ". However, we would suggest using an importer for this, since direct shipping to China is both risky and very expensive.\n\n",
+                        "Touchscreen inputs are recognized very accurately thanks to the 300 Hz sampling rate. The 120 Hz screen also responds swiftly, and we also really like the haptic feedback you get from the vibration motor.\n\n",
+                        "The rear AMOLED display is also reliable, although there isn't much you can do with it: Besides the camera viewfinder, clock, and a pedometer, it can currently only display notifications, and apps cannot be launched directly from the screen.\n\n",
+                        "Xiaomi's 3D ultrasonic fingerprint sensor technology is hidden behind the screen on the front. It works reliably and unlocks the phone very quickly. Facial recognition can also be used via the front camera. This works quite reliably, but it is less secure and more open to manipulation.\n\n",
+                        "The large 6.9-inch AMOLED screen features LTPO technology, which allows it to dynamically adjust the refresh rate between one and 120 frames per second. This saves energy when viewing static content and simultaneously ensures smooth motion tracking of dynamic content.\n\n",
+                        "On paper, the resolution is slightly lower than some other phones, but it offers a unique feature: Our microscope image revealed an unusual subpixel arrangement. This arrangement is designed in such a way that each pixel actually receives a full LED of each of the three primary colors, which Xiaomi claims makes the display more efficient. In our tests, the image quality proved to be just as high as other phones.\n\n",
+                        "With a maximum brightness of nearly 1,100 cd/m², the phone isn't quite as bright as some high-end models, but it's still perfectly adequate for full-screen white. The brightness levels of well over 3,000 cd/m² that are also possible on smaller areas guarantee excellent HDR performance.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 122.4 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 122.4 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "A series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\n\n",
+                        "You'll have to live with PWM flickering, but it's adapted to the 120 Hz refresh rate and therefore potentially less bothersome. Nevertheless, users sensitive to such issues should try out the screen before pulling the trigger on a purchase.\n\n",
+                        "The display of grayscale and colors is fine-detailed and quite accurate. In \"Original Color Pro\" mode, no differences from the reference colors are discernible to the naked eye.\n\n",
+                        "The screen shows slow response rates in our tests and will be unsatisfactory for gamers.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 92 % of all devices are better.\n\n",
+                        "This means that the measured response time is worse than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 100 % of all devices are better.\n\n",
+                        "This means that the measured response time is worse than the average of all tested devices (31.2 ms).\n\n",
+                        "Outdoors, the bright screen is very legible, even on sunny days, and the viewing angle stability from every side is also excellent.\n\n",
+                        "SoC, the Xiaomi 17 Pro Max possesses one of the fastest Android smartphone processors you can currently get your hands on. In terms of pure processing power, it is indeed very good, with only the current iPhone generation being faster.\n\n",
+                        "However, in the system benchmarks, our review device occasionally faltered and fell slightly behind the\n\n",
+                        "During AI calculations, the phone performed somewhat inconsistently, but all in all, it kept up with the comparison devices.\n\n",
+                        "you also get one of the fastest graphics solutions currently available, which supports modern features such as mesh shading and ray tracing.\n\n",
+                        "However, the Xiaomi 17 Pro Max can't quite keep pace with other high-end smartphones in the GPU benchmarks. Despite this, the difference is unlikely to be noticeable in real-life situations, since there are very few apps or games that can push the graphics chip to its limits.\n\n",
+                        "Using the Xiaomi 17 Pro Max to surf the internet is a very quick and easy experience, with even large pages loading almost instantaneously, and everything running smoothly.\n\n",
+                        "UFS 4.1 storage is responsible for making storage access extremely fast and enabling a significant speed increase even when transferring numerous small files.\n\n",
+                        "The Xiaomi 17 Pro Max is a great gaming phone thanks to both its powerful CPU and GPU. Its long-lasting battery also ensures extended gaming sessions without needing to reach for a charger.\n\n",
+                        "Under load, the phone heats up noticeably, and after a period of time, the frame of the device gets really hot. Subsequently, the phone overloaded twice in our stress test and had to cool down before the benchmark was able to continue.\n\n",
+                        "The recorded case temperatures of over 50°C are quite noticeable and can be significantly higher in warmer environments.\n\n",
+                        "The 3DMark stress tests also revealed significant throttling under sustained load, with the phone losing almost 40% of its performance in the Wild Life test.\n\n",
+                        "This extreme throttling could explain why the Xiaomi 17 Pro Max doesn't quite manage to keep up with other phones in many scenarios.\n\n",
+                        "Power Supply (max.) 43.6 °C = 110 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 38.6 °C = 101 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 47.3 °C / 117 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 50.4 °C / 123 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 49.9 °C / 122 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 26.7 °C / 80 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "The speaker along the bottom edge is supported by the earpiece, and together they enable stereo effects when holding the phone horizontally. Combined, they produce a convincing sound stage that can sometimes appear a bit strained when playing loud music.\n\n",
+                        "Movie soundtracks are generally good and reveal some lower frequencies, but we would suggest turning the volume down a bit to keep the sound cleaner and prevent distortion.\n\n",
+                        "External audio devices can be connected via USB-C or Bluetooth 6.0. Every important Bluetooth audio codec is supported, which means you can easily connect your wireless devices and listen at a good quality.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "0% of all tested devices in this class were better, 0% similar, 100% worse\n\n",
+                        "17% of all tested devices in this class were better, 8% similar, 75% worse\n\n",
+                        "The Xiaomi 17 Pro Max is quite energy-efficient, and similar to the Xiaomi 17, it consumes relatively little power, especially under load. It's in this use case, you may find the handset's performance somewhat limited.\n\n",
+                        "The maximum charging capacity is 100 watts. A charger was included with our review device, and the large battery was fully charged in under an hour, or at least when the boost mode was activated.\n\n",
+                        "Wireless charging is also possible, at a maximum of 50 watts. Other devices can be charged directly from the phone at 22.5 watts using a cable, or you can even charge headphones wirelessly via the handset itself.\n\n",
+                        "The phone is home to a very large 7,500 mAh battery. Xiaomi uses L-shaped cells, which offer particularly high energy density thanks to having a higher silicon content.\n\n",
+                        "Additional screen optimizations are designed to help the phone save even more energy. That seems to pay off with the 17 Pro Max achieving 33 hours and 46 minutes in our Wi-Fi test. That's even longer than the\n\n",
+                        "However, this also reveals that Xiaomi is unable to match the Apple phone's efficiency: Possessing a battery of under 5,000 mAh, its battery life is just 15% shorter.\n\n",
+                        "Several days without a power outlet pose no problems for the Xiaomi 17 Pro Max, and even under full load, you can game for over 5 hours.\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                        "Graphics adapter:": "Qualcomm Adreno 840",
+                        "Memory:": "16 GB",
+                        "Display:": "6.90 inch 20:9, 2608 x 1200 pixel 416 PPI, capacitive touchscreen, AMOLED, Dolby Vision, HDR Vivid, HDR10+, Xiaomi Dragon Crystal Glass 3; second display (back): 2.9'', 976 x 596 pixels, glossy: yes, 120 Hz",
+                        "Storage:": "1TB UFS 4.1 Flash, 1024 GB , 992 GB free",
+                        "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 DisplayPort, 1 Infrared, Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, proximity, gyro, compass, barometer, UWB",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G: B2 / B3 / B5 / B8; 3G：B1 / B2 / B4 / B5 / B6 / B8 / B19; 4G：FDD-LTE：B1 / B2 / B3 / B4 / B5 / B7 / B8 / B12 / B17 / B18 / B19 / B20 / B25 / B26 / B28 / B66 TDD-LTE：B34 / B38 / B39 / B40 / B41 / B42 / B48; 5G：n1 / n2 / n3 / n5 / n7 / n8 / n12 / n18 / n20 / n25 / n26 / n28 / n38 / n40 / n41 / n48 / n66 / n77 / n78 / n80 / n81 / n83 / n84 / n89 , Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8 x 162.9 x 77.6 ( = 0.31 x 6.41 x 3.06 in)",
+                        "Battery:": "7500 mAh Lithium-Ion, 100 Watt charging, 50 Watt wireless charging, 22.5 Watt reverse wireless charging",
+                        "Charging:": "wireless charging, fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 50 MPix f/1.7, 23mm, 1/1.28\", 1.22µm, dual pixel PDAF, OIS (camera 1); 50 MP, f/2.6, 115mm, 1/1.95\", 0.8µm, PDAF (30cm - ∞), OIS, 5x optical zoom (camera 2); 50 MP, f/2.4, 17mm, 102°, 1/2.88\", 0.61µm, PDAF (camera 3) Secondary Camera: 50 MPix f/2.2, 21mm (wide), 1/2.88\", 0.61µm, PDAF video@4K@30/60fps, HDR10+, gyro-EIS",
+                        "Additional features:": "Speakers: stereo speakers, charger, USB cable, bumper, SIM tool, 12 Months Warranty, IP 68 certified, fanless, waterproof",
+                        "Weight:": "219 g ( = 7.73 oz / 0.48 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "940 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "97%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "72%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "32%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "80%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "94%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "87%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "75%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "93.4%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "30%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "49.7%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "49.7%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "very long battery life",
+            "two very bright LTPO AMOLED displays",
+            "high-quality camera system",
+            "powerful performance",
+            "speedy UFS 4.1 storage",
+            "fast Wi-Fi including Wi-Fi 7",
+            "comprehensive feature set"
+        ],
+        "cons": [
+            "considerable heat production under load",
+            "severe throttling",
+            "secondary display has limited app support",
+            "no official distribution outside of Asia (yet)",
+            "advertising in key apps",
+            "no Android Auto",
+            "no eSIM support",
+            "pointless apps pre-installed in the West",
+            "only English available as a Western language",
+            "unclear update period",
+            "PWM flickering"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                "Graphics adapter:": "Qualcomm Adreno 840",
+                "Memory:": "16 GB",
+                "Display:": "6.90 inch 20:9, 2608 x 1200 pixel 416 PPI, capacitive touchscreen, AMOLED, Dolby Vision, HDR Vivid, HDR10+, Xiaomi Dragon Crystal Glass 3; second display (back): 2.9'', 976 x 596 pixels, glossy: yes, 120 Hz",
+                "Storage:": "1TB UFS 4.1 Flash, 1024 GB , 992 GB free",
+                "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 DisplayPort, 1 Infrared, Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, proximity, gyro, compass, barometer, UWB",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G: B2 / B3 / B5 / B8; 3G：B1 / B2 / B4 / B5 / B6 / B8 / B19; 4G：FDD-LTE：B1 / B2 / B3 / B4 / B5 / B7 / B8 / B12 / B17 / B18 / B19 / B20 / B25 / B26 / B28 / B66 TDD-LTE：B34 / B38 / B39 / B40 / B41 / B42 / B48; 5G：n1 / n2 / n3 / n5 / n7 / n8 / n12 / n18 / n20 / n25 / n26 / n28 / n38 / n40 / n41 / n48 / n66 / n77 / n78 / n80 / n81 / n83 / n84 / n89 , Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8 x 162.9 x 77.6 ( = 0.31 x 6.41 x 3.06 in)",
+                "Battery:": "7500 mAh Lithium-Ion, 100 Watt charging, 50 Watt wireless charging, 22.5 Watt reverse wireless charging",
+                "Charging:": "wireless charging, fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 50 MPix f/1.7, 23mm, 1/1.28\", 1.22µm, dual pixel PDAF, OIS (camera 1); 50 MP, f/2.6, 115mm, 1/1.95\", 0.8µm, PDAF (30cm - ∞), OIS, 5x optical zoom (camera 2); 50 MP, f/2.4, 17mm, 102°, 1/2.88\", 0.61µm, PDAF (camera 3) Secondary Camera: 50 MPix f/2.2, 21mm (wide), 1/2.88\", 0.61µm, PDAF video@4K@30/60fps, HDR10+, gyro-EIS",
+                "Additional features:": "Speakers: stereo speakers, charger, USB cable, bumper, SIM tool, 12 Months Warranty, IP 68 certified, fanless, waterproof",
+                "Weight:": "219 g ( = 7.73 oz / 0.48 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "940 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "97%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "72%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "32%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "80%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "94%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "87%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "75%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "93.4%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "30%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "49.7%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "49.7%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-17-Pro-Max-smartphone-review-Does-the-giant-phone-s-second-display-help-it-step-out-of-Apple-s-shadow.1153385.0.html",
+                "text": "The Xiaomi 17 Pro Max is a fantastic, lightning-fast smartphone with a bright screen, fast storage, snappy internet, and every feature you could wish for. Its massive battery results in truly excellent battery life, and currently, few Android smartphones can match it. Apple, on the other hand, almost manages to keep pace with a much smaller battery thanks to numerous software optimizations. The bright screen also displays HDR content effectively, and the premium-feeling case is impeccably crafted. The real highlight is the relatively large display on the back, but it raises a few questions: What will future app support look like? And could it be very fragile when dropped? Xiaomi is also staying tight-lipped about the operating system update support and sustainability. Furthermore, the phone is likely not to be officially released outside of Asia. While importing it through specialized retailers like TradingShenzhen is a relatively straightforward process, restrictions such as the lack of Android Auto and eSIM support remain. Nevertheless, its dedicated camera sensor and secondary display make the Xiaomi 17 Pro Max a very compelling high-end phone.\nvery long battery life\ntwo very bright LTPO AMOLED displays\nhigh-quality camera system\npowerful performance\nspeedy UFS 4.1 storage\nfast Wi-Fi including Wi-Fi 7\ncomprehensive feature set\nconsiderable heat production under load\nsevere throttling\nsecondary display has limited app support\nno official distribution outside of Asia (yet)\nadvertising in key apps\nno Android Auto\nno eSIM support\npointless apps pre-installed in the West\nonly English available as a Western language\nunclear update period\nPWM flickering\n17 Pro Max – anyone hearing that name probably immediately thinks of Apple's largest iPhone model. And it would appear Xiaomi has deliberately copied the name of one of the world's most successful smartphones.\nThe 17 Pro Max is currently the largest model in the 17 series, at least until\nOur review takes a closer look at whether the secondary rear display is genuinely useful and whether Xiaomi (and its bold choice of name) can actually compete with Apple's flagship phone.\nhaving become significantly more compact, Xiaomi apparently still wanted to offer a top smartphone for its large-screen fans.\nTo achieve this, the Xiaomi 17 Pro Max features a 6.9-inch screen and a body that is almost exactly the same size as the\nThe front of the phone boasts a screen-to-body ratio of almost 91% with bezels that are barely visible. Xiaomi has opted to use its own proprietary Xiaomi Dragon Crystal Glass 3 for protection, and it is said to only show scratches on materials with a Mohs hardness of 7.\nThe phone is IP68-rated for water and dust resistance, which means it can be used not only in dirty environments but also underwater.\nThe aluminum frame provides the phone with good stability, meaning you can't twist it using your bare hands.\nHowever, the rear screen poses a stability question mark, with it protruding quite far from the case and not possessing the same high-quality protective glass as the front.\nThe simple matte back looks elegant and is available in dark gray, white, purple, or green.\nXiaomi doesn't offer quite as many options as Apple or Samsung. However, when it comes to price, it significantly undercuts its competitors, hovering at around $1,000.\nThe USB-C port can transfer data at up to 5 Gbps and also features a DisplayPort mode, which allows you to create a wired connection between the phone and external monitors.\nThe included ultra-wide band support ensures fast data exchange, and precise location tracking is included, as well as NFC for mobile payment services and ID applications.\nTwo nano-SIM slots are the only way to use a SIM card since eSIMs are not widely used in China.\nXiaomi's HyperOS 3 is based on Android 16, which makes it a very up-to-date operating system. Google Play Services are already on board and can be fully enabled in the settings.\nHowever, the Chinese ROM comes with many pre-installed apps you might feel the need to uninstall, since they are practically unusable in Western regions. Furthermore, the only Western language option is English. Other example limitations, such as Android Auto, are also present.\nThe duration of updates is also uncertain. A the time of this review, the security updates on our device were from a very up-to-date October 2025.\nUnfortunately, no information is available either regarding the smartphone's carbon footprint or the recycling rate of the materials used. It is also unclear whether Xiaomi will provide spare parts and repair manuals.\nCurrently, WiFi 7 is the most advanced WiFi standard and is also featured on the Xiaomi 17 Pro Max; however, our Asus ROG Rapture AXE11000 reference router isn't yet designed for it. Using the WiFi 6E standard, the phone still achieved fast data speeds of up to 1,748 Mbps. This will allow you to fully take advantage of a gigabit internet connection and leave room for even faster networks.\nThe reception was excellent close to the router, and websites loaded very swiftly. At a distance of ten meters and through three walls, the signal strength was still half, and although you could tell that the transmission speed was a bit slower, browsing was still perfectly manageable.\nWhen it comes to mobile connectivity, this high-end phone supports all the necessary frequencies to allow you to use LTE and 5G networks worldwide, which makes the Xiaomi 17 Pro Max ideal for travel.\nDuring our spot check tests, the reception was consistently strong and remained sufficient even in challenging locations between tall buildings.\nStepping outdoors with the Xiaomi 17 Pro Max, we were located quickly with an accuracy of 3 meters. Every major satellite network is available, although SBAS (Sky-Based Assigned Search), which allows for even greater precision, is not supported.\nWe were keen to test its accuracy in a real-life situation. To achieve this, we went on a bike ride and were accompanied by a Garmin Venu 2 smartwatch for comparison purposes.\nThe Xiaomi phone tracked our route well, and only occasionally placed us slightly off-center on the road, albeit without any major errors. Overall, it's also a very usable navigation device.\nXiaomi has developed its own easy-to-use phone app. The Carrier Services tab is of little use in Europe, since network providers here don't allow you to use this feature to check your balance. It also advertises phone plans (!) that are only available in China.\nFeatures such as VoLTE and VoWiFi are supported, and you can even call other nearby Xiaomi phones via Bluetooth.\nCall quality is good, with our contact person confirming that our voice sounded clear during the test call. In turn, they also sounded very clear. Calls made with the speakerphone and the hands-free microphone work flawlessly.\nThe cameras use sensors from three different manufacturers: Omnivision sensors are utilized for the front-facing camera and the ultra-wide-angle camera, and a Samsung sensor is used for the telephoto lens and its 5x periscope zoom. The main camera features a rather mysterious sensor, which our system hardware app identified as the STX9500U, although Xiaomi itself refers to it as the Light Hunter 950L. According to Chinese sources, this could be either a SmartSens SC590XS or another Omnivision sensor.\nEvery camera has a 50-megapixel resolution, but they typically shoot 12.5-megapixel images. The full resolution can, of course, be activated via a special mode. The camera system was developed in cooperation with Leica.\nPhotos from the main camera appear detailed, offer good dynamic range, and manage to capture challenging situations, such as yellow blossoms in bright light, with a high degree of detail. In low light, the sharpness remains high, and many details are discernible, although the dynamic range in dark areas could be somewhat better.\nThe wide-angle camera takes good shots, which are slightly distorted at the edges, and at high magnification, fewer details are visible. The front camera takes sharp and detailed selfies.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nColor reproduction can be described as slightly oversaturated, but overall deviates only minimally from the ideal.\nThe box contains a charger, USB cable, SIM tool, and a transparent silicone bumper. Even in Germany, you can find some accessories online, such as smartphone cases. Our device lender, Tradingshenzhen, also includes an adapter for Western power outlets.\n. However, we would suggest using an importer for this, since direct shipping to China is both risky and very expensive.\nTouchscreen inputs are recognized very accurately thanks to the 300 Hz sampling rate. The 120 Hz screen also responds swiftly, and we also really like the haptic feedback you get from the vibration motor.\nThe rear AMOLED display is also reliable, although there isn't much you can do with it: Besides the camera viewfinder, clock, and a pedometer, it can currently only display notifications, and apps cannot be launched directly from the screen.\nXiaomi's 3D ultrasonic fingerprint sensor technology is hidden behind the screen on the front. It works reliably and unlocks the phone very quickly. Facial recognition can also be used via the front camera. This works quite reliably, but it is less secure and more open to manipulation.\nThe large 6.9-inch AMOLED screen features LTPO technology, which allows it to dynamically adjust the refresh rate between one and 120 frames per second. This saves energy when viewing static content and simultaneously ensures smooth motion tracking of dynamic content.\nOn paper, the resolution is slightly lower than some other phones, but it offers a unique feature: Our microscope image revealed an unusual subpixel arrangement. This arrangement is designed in such a way that each pixel actually receives a full LED of each of the three primary colors, which Xiaomi claims makes the display more efficient. In our tests, the image quality proved to be just as high as other phones.\nWith a maximum brightness of nearly 1,100 cd/m², the phone isn't quite as bright as some high-end models, but it's still perfectly adequate for full-screen white. The brightness levels of well over 3,000 cd/m² that are also possible on smaller areas guarantee excellent HDR performance.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 122.4 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 122.4 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nA series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\nYou'll have to live with PWM flickering, but it's adapted to the 120 Hz refresh rate and therefore potentially less bothersome. Nevertheless, users sensitive to such issues should try out the screen before pulling the trigger on a purchase.\nThe display of grayscale and colors is fine-detailed and quite accurate. In \"Original Color Pro\" mode, no differences from the reference colors are discernible to the naked eye.\nThe screen shows slow response rates in our tests and will be unsatisfactory for gamers.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 92 % of all devices are better.\nThis means that the measured response time is worse than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 100 % of all devices are better.\nThis means that the measured response time is worse than the average of all tested devices (31.2 ms).\nOutdoors, the bright screen is very legible, even on sunny days, and the viewing angle stability from every side is also excellent.\nSoC, the Xiaomi 17 Pro Max possesses one of the fastest Android smartphone processors you can currently get your hands on. In terms of pure processing power, it is indeed very good, with only the current iPhone generation being faster.\nHowever, in the system benchmarks, our review device occasionally faltered and fell slightly behind the\nDuring AI calculations, the phone performed somewhat inconsistently, but all in all, it kept up with the comparison devices.\nyou also get one of the fastest graphics solutions currently available, which supports modern features such as mesh shading and ray tracing.\nHowever, the Xiaomi 17 Pro Max can't quite keep pace with other high-end smartphones in the GPU benchmarks. Despite this, the difference is unlikely to be noticeable in real-life situations, since there are very few apps or games that can push the graphics chip to its limits.\nUsing the Xiaomi 17 Pro Max to surf the internet is a very quick and easy experience, with even large pages loading almost instantaneously, and everything running smoothly.\nUFS 4.1 storage is responsible for making storage access extremely fast and enabling a significant speed increase even when transferring numerous small files.\nThe Xiaomi 17 Pro Max is a great gaming phone thanks to both its powerful CPU and GPU. Its long-lasting battery also ensures extended gaming sessions without needing to reach for a charger.\nUnder load, the phone heats up noticeably, and after a period of time, the frame of the device gets really hot. Subsequently, the phone overloaded twice in our stress test and had to cool down before the benchmark was able to continue.\nThe recorded case temperatures of over 50°C are quite noticeable and can be significantly higher in warmer environments.\nThe 3DMark stress tests also revealed significant throttling under sustained load, with the phone losing almost 40% of its performance in the Wild Life test.\nThis extreme throttling could explain why the Xiaomi 17 Pro Max doesn't quite manage to keep up with other phones in many scenarios.\nPower Supply (max.) 43.6 °C = 110 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 38.6 °C = 101 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 47.3 °C / 117 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 50.4 °C / 123 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 49.9 °C / 122 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 26.7 °C / 80 F, compared to the device average of 32.9 °C / 91 F.\nThe speaker along the bottom edge is supported by the earpiece, and together they enable stereo effects when holding the phone horizontally. Combined, they produce a convincing sound stage that can sometimes appear a bit strained when playing loud music.\nMovie soundtracks are generally good and reveal some lower frequencies, but we would suggest turning the volume down a bit to keep the sound cleaner and prevent distortion.\nExternal audio devices can be connected via USB-C or Bluetooth 6.0. Every important Bluetooth audio codec is supported, which means you can easily connect your wireless devices and listen at a good quality.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n0% of all tested devices in this class were better, 0% similar, 100% worse\n17% of all tested devices in this class were better, 8% similar, 75% worse\nThe Xiaomi 17 Pro Max is quite energy-efficient, and similar to the Xiaomi 17, it consumes relatively little power, especially under load. It's in this use case, you may find the handset's performance somewhat limited.\nThe maximum charging capacity is 100 watts. A charger was included with our review device, and the large battery was fully charged in under an hour, or at least when the boost mode was activated.\nWireless charging is also possible, at a maximum of 50 watts. Other devices can be charged directly from the phone at 22.5 watts using a cable, or you can even charge headphones wirelessly via the handset itself.\nThe phone is home to a very large 7,500 mAh battery. Xiaomi uses L-shaped cells, which offer particularly high energy density thanks to having a higher silicon content.\nAdditional screen optimizations are designed to help the phone save even more energy. That seems to pay off with the 17 Pro Max achieving 33 hours and 46 minutes in our Wi-Fi test. That's even longer than the\nHowever, this also reveals that Xiaomi is unable to match the Apple phone's efficiency: Possessing a battery of under 5,000 mAh, its battery life is just 15% shorter.\nSeveral days without a power outlet pose no problems for the Xiaomi 17 Pro Max, and even under full load, you can game for over 5 hours."
+            }
+        ]
+    }
+}

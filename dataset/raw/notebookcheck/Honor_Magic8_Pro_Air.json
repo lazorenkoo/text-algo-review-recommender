@@ -1,0 +1,166 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Honor Magic8 Pro Air",
+    "article_url": "https://www.notebookcheck.net/Honor-Magic8-Pro-Air-review-A-dream-come-true-for-many-smartphone-fans.1261347.0.html",
+    "verdict": {
+        "text": "The Magic8 Pro Air may not be the thinnest phone on the market, but in contrast to a Samsung Galaxy S25 Edge and Apple iPhone Air, lovers of light and handy smartphones have to make far fewer compromises with the Honor phone. The cameras of the Magic8 Pro Air in particular are surprisingly good and in a different league compared to the Apple phone. The same applies to the battery and its ability to get the smartphone through the day. Here, Honor does an excellent job. The sluggish USB port and the slight throttling of the Dimensity 9500 out of the box do not quite fit the otherwise uncompromising compact flagship concept. The limited availability, along with the resulting uncertainty over updates and warranty coverage, should also be taken into account before making a purchase via import.",
+        "pros": [
+            "high-quality housing with IP69 rating",
+            "light & thin",
+            "beautiful OLED screen with PWM dimming",
+            "good cameras",
+            "quite large battery + good battery life"
+        ],
+        "cons": [
+            "uSB 2.0 only",
+            "lack of availability for Europe",
+            "Throttling ex works & under load",
+            "Uncertainty with update supply"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Performance, emissions and battery life - Compact Android smartphone with a high-end SoC\n\n",
+            "Despite its plastic back, the Magic8 Pro Air feels quite premium. Thanks to its compact dimensions and slim display bezels, the Honor smartphone, at just 6.1 millimeters thick, sits very comfortably in the hand. Despite its aluminum frame and large battery, this slim high-end phone deserves the “Air” suffix in its name, as the Magic8 Pro Air is even 10 grams lighter than an\n\n",
+            ", although the latter has a comparatively tiny battery and no IP69 rating.\n\n",
+            "The compact form factor is barely noticeable in the feature set, too. An IR blaster, fast wireless charging at up to 50 watts, wireless reverse charging, 80-watt wired charging, and a very good ultrasonic fingerprint sensor are all included. The only real drawback is the slow USB 2.0 port, which does not support video output.\n\n",
+            "The Magic8 Pro Air supports Wi-Fi 7, but in combination with our reference router, the Asus ROG Rapture GT-AXE11000, its data transmission rates when sending are fairly low. Reception also shows room for software optimization due to the fluctuations we observed.\n\n",
+            "The Honor smartphone supports all modern cellular standards and offers broad band coverage. Even the Chinese version should pose no problems in German-speaking markets.\n\n",
+            "The Magic8 Pro Air ships with Android 16 and Honor’s MagicOS 10 user interface. Despite being the Chinese version, the system language can be set to German.\n\n",
+            "The security patches are up to date. However, we were unable to determine exactly how long the Air, as a China-only model, will receive updates. The manufacturer will likely follow the policy of its\n\n",
+            "The Honor smartphone comes in outer packaging that appears to be plastic-free. The company does not provide any information on sustainability.\n\n",
+            "The rear camera module is visually reminiscent of Apple’s counterpart, but it delivers substantially higher image quality. Although Honor’s Air model does not use the same main camera as the Magic8 Pro, its sensor is similarly large at 1/1.3 inches.\n\n",
+            "The Magic8 Pro Air takes genuinely good photos, and given its compact, slim design, they are even very good. A comparison with the sample photos from the\n\n",
+            ", reveals a clear class difference. Even in daylight, the Honor phone delivers more detail, better dynamic range, and less artificial sharpening.\n\n",
+            "Unlike Apple’s Air model, which relies on a single-camera setup, the Magic8 Pro Air includes a very capable 50 MP ultra-wide camera and a periscope telephoto lens with OIS. The latter offers 64 MP and 3.2x optical zoom. Telephoto shots are quite appealing at up to 5x zoom and add real value, especially for portraits.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The 6.31-inch LTPO OLED display runs at up to 120 Hz and reaches a peak brightness of just under 1,700 cd/m² in our measurements. That puts it in line with the manufacturer’s claimed 1,800 nits in HBM mode. Honor also lists up to 6,000 nits as a peak value in PBM mode, which means the Magic8 Pro Air, like the\n\n",
+            "Thanks to high-frequency PWM dimming at 4,320 Hz, the OLED panel is comparatively easy on the eyes. However, the low base frequency of just 120 Hz means that discomfort cannot be ruled out for sensitive users.\n\n",
+            "Color reproduction in the Calman measurements is very accurate, and differences from the reference colors are not visible to the naked eye.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7885 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 1 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 3 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "performs about as consistently in the stress tests as the larger flagship phones, and the Air model also fares very well in terms of absolute performance. However, Honor appears to throttle the high-end chipset slightly out of the box, as the\n\n",
+            ", the Magic8 Pro Air’s 5,500 mAh battery is very generously sized. In our battery test, the compact Honor phone lasted for more than 20 hours.\n\n",
+            "Power Supply (max.) 43.6 °C = 110 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 38.6 °C = 101 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 46 °C / 115 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 48.6 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 46.2 °C / 115 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 24.9 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "42% of all tested devices in this class were better, 8% similar, 50% worse\n\n",
+            "22% of all tested devices in this class were better, 9% similar, 69% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "MediaTek Dimensity 9500 8c/8t, 1 x 4.2 GHz ARM C1-Ultra, 3 x 3.5 GHz ARM C1-Premium, 4 x 2.7 GHz ARM C1-Pro, Cortex-X930 Travis / Cortex-A730 6x Gelas",
+            "Graphics adapter:": "Arm Mali G1- Ultra MC12",
+            "Memory:": "16 GB",
+            "Display:": "6.31 inch 19.5:9, 2640 x 1216 pixel 461 PPI, Capacitive touchscreen, OLED, glossy: yes, HDR, 120 Hz",
+            "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 456 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, Miracast",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 5G: n1, n2, n3, n5, n7, n8, n12, n18, n20, n26, n28b, n28a, n38, n40, n41, n48, n66, n77, n78, n79, n80, n81, n83A, n84; 4G: B1, B2, B3, B4, B5, B7, B8, B12, B13, B17, B18, B19, B20, B26, B28b, B28a, B38, B40, B41, B42, B66; 3G: 850/1900/2100 MHz; 2G: 850/900/1800/1900 MHz, Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 6.1 x 150.5 x 71.9 ( = 0.24 x 5.93 x 2.83 in)",
+            "Battery:": "5500 mAh Lithium-Polymer",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 16",
+            "Camera:": "Primary Camera: 50 MPix (f/1.6, 23 mm, OIS, 1/1,3 inch) + 64 MPix (3.2x optical zoom, f/2.6, 74 mm, OIS) + 50 MPix (f/2.2, 16 mm, ultrawide) Secondary Camera: 50 MPix (f/2.0, 21 mm)",
+            "Additional features:": "Speakers: Stereo, Keyboard: Virtual keyboard, charger, USB cable, info material, Magic OS, 12 Months Warranty, widevine L1, IP69, HDR: Doly Vision, HDR10, HDR10+, HLG, GPS (L1+L5), BDS (B1I+B1c+B2a+B2b), GALILEO (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), GLONASS, fanless",
+            "Released:": "01/09/2026",
+            "Weight:": "155 g ( = 5.47 oz / 0.34 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "800 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "96%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "78%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "93%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "81%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "82%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "85%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "94%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "94%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "94%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "30%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "51.5%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "51.5%"
+            }
+        ]
+    }
+}

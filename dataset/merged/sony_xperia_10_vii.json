@@ -1,0 +1,343 @@
+{
+    "phone_key": "sony_xperia_10_vii",
+    "primary_name": "Sony Xperia 10 VII",
+    "aliases": [
+        "Sony Xperia 10 VII"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Sony Xperia 10 VII",
+                "article_url": "https://www.notebookcheck.net/Small-light-smartphone-changes-identity-Sony-Xperia-10-VII-review.1189984.0.html",
+                "verdict": {
+                    "text": "The Sony Xperia 10 VII proves to be a solid mid-range smartphone with a modern design and a slightly improved camera in our review sensors. With the Snapdragon 6 Gen 3 in particular, however, the manufacturer fails to provide a noticeable upgrade to its mid-range model, as performance remains similar to its predecessor, leaving system performance very limited. The Sony mid-range doesn't feel really fast. The front appearance should also be improved in the next generation. A Motorola Edge 60 Neo looks much more modern here. The very long battery life for a compact phone, the microSD slot, and the 3.5 mm jack should be emphasized. The Xperia 10 VII also has quite long updates and good stereo speakers to its credit.",
+                    "pros": [
+                        "long runtimes",
+                        "3.5 mm jack + memory expansion",
+                        "good workmanship",
+                        "waterproof",
+                        "no throttling",
+                        "good stereo sound"
+                    ],
+                    "cons": [
+                        "uSB 2.0 only",
+                        "low system speed",
+                        "wide display edges",
+                        "OLED panel could be a little brighter"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Phone functions and voice quality - Affordable smartphone with dual SIM\n\n",
+                        "Input devices and operation - Inexpensive smartphone with fingerprint sensor\n\n",
+                        "With the Xperia 10 VII, Sony presents its completely revamped mid-range phone based on a\n\n",
+                        ". There are major upgrades to the affordable Xperia phone, particularly in design, display, and cameras. The latter has not only been updated visually, but Sony has also equipped the successor to the\n\n",
+                        ", Sony dares to make a new visual start with the Xperia 10 VII, featuring a horizontal camera bar design, similar to Google\n\n",
+                        ". However, there are still thick edges at the top and bottom of the display. At least Sony uses the black bar for the selfie camera and also for front-facing stereo speakers.\n\n",
+                        ", Sony has also abandoned the narrow 21:9 display format in the mid-range phone and opted for a wider screen (19.5:9). This also makes the compact smartphone slightly wider; however, the screen size remains the same at 6.1 inches.\n\n",
+                        "The OLED panel is protected by Gorilla Glass Victus 2. The back panel and frame are made of plastic, so the Xperia 10 VII does not feel high-quality. However, the workmanship is appealing.\n\n",
+                        "Sony remains true to itself and continues to equip its mid-range phone with a 3.5 mm headphone jack and a microSD card slot. In terms of RAM and UFS memory, however, the Xperia 10 XII is also somewhat \"old school\" with only 8 GB and 128 GB. The latter also continues with the USB 2.0 port, which is not only slow but also does not support wired image output. We measured just 27 MB/s in our copy speed test with an M2.SSD hard disk (Samsung SSD 7T). Connected data carriers may not only be formatted with FAT32, but also with exFAT. However, the NTFS file system cannot be used.\n\n",
+                        "The memory can be expanded up to 2 TB with microSD cards. However, the card slot is rather slow in the copy test with an Angelbird AV Pro V60, and the values in the cross-platform disk test are only average.\n\n",
+                        "Adreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; SDCard Sequential Write 0.5 GB; Angelbird AV Pro V60:\n\n",
+                        "Mali-G615 MP6, Dimensity 8350, 128 GB UFS 3.1 Flash; SDCard Sequential Write 0.5 GB; Angelbird V60:\n\n",
+                        "Adreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; SDCard Sequential Read 0.5 GB; Angelbird AV Pro V60:\n\n",
+                        "Mali-G615 MP6, Dimensity 8350, 128 GB UFS 3.1 Flash; SDCard Sequential Read 0.5 GB; Angelbird V60:\n\n",
+                        "At the time of our test, the Sony phone was running Android 16. Four major Android upgrades and six years of security updates are promised.\n\n",
+                        "Sony strives to keep the ecological footprint as low as possible (plastic-free product packaging, recycled plastic, ...), but no exact figures are given for the Xperia VII. According to the\n\n",
+                        "The Xperia 10 VII uses global satellite networks, sometimes in dual-band, to determine its position. We compared the positioning qualities to a Garmin Venu 2 during a bike ride. Minor inaccuracies can be seen along the route, although navigation tasks can be carried out without hesitation in everyday life.\n\n",
+                        "The Sony phone supports dual SIMs, but only when a nanoSIM is paired with an eSIM. The voice quality is satisfactory. Voices are reproduced clearly and quiet ambient noise is effectively filtered out. VoLTE and VoNR are on board, and Wi-Fi calls are possible.\n\n",
+                        "is replaced in the Xperia 10 VII by a significantly larger 50 MP Exmor RS sensor (1/1.56 inch). Thanks to the crop zoom, a lossless 2x magnification is possible, but the Sony mid-range phone does not offer a telephoto lens, which means that 6x is already the limit, and the photo quality is very poor.\n\n",
+                        "Otherwise, the main camera delivers good results for the mid-range, although the image sharpness and dynamic range still show room for improvement. In low light, however, the larger sensor has a positive effect. The new dedicated camera button should also please photo fans.\n\n",
+                        "The ultra-wide-angle lens has also been updated and now has a resolution of 13 MPix, with photos being taken at 12 MP. As with the main camera, the 16 mm lens is weaker in terms of dynamic range and sharpness.\n\n",
+                        "The Xperia 10 VII uses hybrid OIS/EIS stabilization for videos, but only supports a 4K30 option at best.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The scope of delivery of the Xperia 10 VII is very straightforward. Only a USB cable is included. A quick charger or protective cover are not included. A screen protector is also not included ex-works.\n\n",
+                        "The touchscreen with a 120 Hz sampling rate responds without any delays. Animations and scrolling through the menus are mostly smooth thanks to the 120 Hz panel, although jerks do creep in from time to time. Vibrations are also unconvincing and very spongy with the built-in ERM motor.\n\n",
+                        "Biometric security is ensured by a face unlock function via the front camera using 2D technology or a fingerprint sensor in the on/off button. The sensor works reliably, but does not unlock the Xperia 10 VII particularly quickly.\n\n",
+                        "The 6.1-inch OLED panel has a resolution of Full HD+ and thus 442 ppi. The Xperia 10 VII is not super bright in our measurement, but 1,073 cd/m² in the realistic APL18 test is not really bad either. We also achieve a similar brightness in HDR videos (1,074 cd/m²).\n\n",
+                        "Sony uses PWM modulation to control the luminance. We measured a frequency of 480 Hz with the Rigol software. No information on DC or PWM dimming is provided.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 480 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 480 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "We check the color representation with a photo spectrometer and the Calman analysis software. We get the best results in color mode with \"original colors\". The deviations in the color and grayscale representation are thus very low.\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 7 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 4 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "The mid-range phone cuts a good figure outdoors, but the Xperia 10 VII quickly reaches its limits on sunny days. Especially with the manual brightness control (665 cd/m²), reflections on the display lead to readability problems. The viewing angle stability is appealing, but a blue haze and significant brightness loss are visible at flat angles.\n\n",
+                        ", the performance is still low for the mid-range. In both the Geekbench single-core and multi-core tests, the competition sometimes offers significantly more power. The same applies to the AI tests.\n\n",
+                        "is available. The low graphics performance of the Sony phone is particularly evident in the demanding GFXBench high-tier tests.\n\n",
+                        "The surface temperatures of the Xperia 10 VII are not a problem. We use the 3DMark stress tests to check the heat development on the inside. Here, the\n\n",
+                        "Room Temperature 21.2 °C = 70 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 40.9 °C / 106 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 43.8 °C / 111 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 45.7 °C / 114 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 28.9 °C / 84 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Adreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Mali-G615 MP6, Dimensity 8350, 128 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+                        "Adreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+                        "The two speakers offer a good sound with light bass, even if the super high tones are clearly lacking. Headphones can be connected via cable using the 3.5 mm jack (SNR: 104 dBFS). Those who prefer to use a wireless output can connect TWS via Bluetooth 5.4.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "5% of all tested devices in this class were better, 5% similar, 90% worse\n\n",
+                        "16% of all tested devices in this class were better, 8% similar, 76% worse\n\n",
+                        "The Xperia 10 VII features a 5,000 mAh battery that can be charged via USB-C at up to 30 watts. Charging takes around 1.5 hours. At just over 1 watt, the 6.1-inch phone is slightly more power-hungry when idle than its\n\n",
+                        "In our Wi-Fi test, the mid-range phone demonstrated an excellent battery life under real-world conditions. With nearly 24 hours, the Xperia 10 VII's battery life is very long.\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 6 Gen 3 8c/8t, 4 x 2.4 GHz ARM Cortex-A78, 4 x 1.8 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                        "Graphics adapter:": "Qualcomm Adreno 710",
+                        "Memory:": "8 GB , LDDR4X",
+                        "Display:": "6.10 inch 19.5:9, 2340 x 1080 pixel 422 PPI, Capacitive Touchscreen, OLED, Gorilla Glass Victus 2, HDR not confirmed, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "128 GB UFS 3.1 Flash, 128 GB , 98 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: 3.5 mm jack, Card Reader: microSD (2 TB, exFAT), 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, Miracast",
+                        "Networking:": "Wi-Fi 6E (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B4/​B5/​B8), 4G (B1/​B3/​B4/​B5/​B7/​B8/​B20/​B28/​B38/​B39/​B40/​B41), 5G (n1/​n3/​n5/​n7/​n8/​n20/​n28/​n38/​n40/​n41/​n77/​n78/​n79), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.3 x 153 x 72 ( = 0.33 x 6.02 x 2.83 in)",
+                        "Battery:": "5000 mAh Lithium-Ion",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 50 MPix (f/1.9, 24 mm, OIS) + 13 MPix (f/2.4, 16 mm, wide), camera2API: Level 3 Secondary Camera: 8 MPix (f/2.0, 26 mm)",
+                        "Additional features:": "Speakers: Stereo, Keyboard: OnScreen, USB cable, info material, 24 Months Warranty, SAR value: 0.97 W/​kg - Head, 0.81 W/​kg - Body, IP68, GNSS: GPS (L1, L5), Galileo (E1, Et), Glonass (G1), Beidou (B1), SBAS, BT-Codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, LDAC, fanless, waterproof",
+                        "Weight:": "168 g ( = 5.93 oz / 0.37 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "449 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "85%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "77%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "24%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "71%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "10%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "86%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "66%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "95%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "94.9%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "40%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "61.5%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "long runtimes",
+            "3.5 mm jack + memory expansion",
+            "good workmanship",
+            "waterproof",
+            "no throttling",
+            "good stereo sound"
+        ],
+        "cons": [
+            "uSB 2.0 only",
+            "low system speed",
+            "wide display edges",
+            "OLED panel could be a little brighter"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 6 Gen 3 8c/8t, 4 x 2.4 GHz ARM Cortex-A78, 4 x 1.8 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                "Graphics adapter:": "Qualcomm Adreno 710",
+                "Memory:": "8 GB , LDDR4X",
+                "Display:": "6.10 inch 19.5:9, 2340 x 1080 pixel 422 PPI, Capacitive Touchscreen, OLED, Gorilla Glass Victus 2, HDR not confirmed, glossy: yes, HDR, 120 Hz",
+                "Storage:": "128 GB UFS 3.1 Flash, 128 GB , 98 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: 3.5 mm jack, Card Reader: microSD (2 TB, exFAT), 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, Miracast",
+                "Networking:": "Wi-Fi 6E (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B4/​B5/​B8), 4G (B1/​B3/​B4/​B5/​B7/​B8/​B20/​B28/​B38/​B39/​B40/​B41), 5G (n1/​n3/​n5/​n7/​n8/​n20/​n28/​n38/​n40/​n41/​n77/​n78/​n79), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.3 x 153 x 72 ( = 0.33 x 6.02 x 2.83 in)",
+                "Battery:": "5000 mAh Lithium-Ion",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 50 MPix (f/1.9, 24 mm, OIS) + 13 MPix (f/2.4, 16 mm, wide), camera2API: Level 3 Secondary Camera: 8 MPix (f/2.0, 26 mm)",
+                "Additional features:": "Speakers: Stereo, Keyboard: OnScreen, USB cable, info material, 24 Months Warranty, SAR value: 0.97 W/​kg - Head, 0.81 W/​kg - Body, IP68, GNSS: GPS (L1, L5), Galileo (E1, Et), Glonass (G1), Beidou (B1), SBAS, BT-Codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, LDAC, fanless, waterproof",
+                "Weight:": "168 g ( = 5.93 oz / 0.37 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "449 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "85%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "77%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "24%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "71%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "10%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "86%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "66%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "95%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "94.9%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "40%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "61.5%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Small-light-smartphone-changes-identity-Sony-Xperia-10-VII-review.1189984.0.html",
+                "text": "The Sony Xperia 10 VII proves to be a solid mid-range smartphone with a modern design and a slightly improved camera in our review sensors. With the Snapdragon 6 Gen 3 in particular, however, the manufacturer fails to provide a noticeable upgrade to its mid-range model, as performance remains similar to its predecessor, leaving system performance very limited. The Sony mid-range doesn't feel really fast. The front appearance should also be improved in the next generation. A Motorola Edge 60 Neo looks much more modern here. The very long battery life for a compact phone, the microSD slot, and the 3.5 mm jack should be emphasized. The Xperia 10 VII also has quite long updates and good stereo speakers to its credit.\nlong runtimes\n3.5 mm jack + memory expansion\ngood workmanship\nwaterproof\nno throttling\ngood stereo sound\nuSB 2.0 only\nlow system speed\nwide display edges\nOLED panel could be a little brighter\nPhone functions and voice quality - Affordable smartphone with dual SIM\nInput devices and operation - Inexpensive smartphone with fingerprint sensor\nWith the Xperia 10 VII, Sony presents its completely revamped mid-range phone based on a\n. There are major upgrades to the affordable Xperia phone, particularly in design, display, and cameras. The latter has not only been updated visually, but Sony has also equipped the successor to the\n, Sony dares to make a new visual start with the Xperia 10 VII, featuring a horizontal camera bar design, similar to Google\n. However, there are still thick edges at the top and bottom of the display. At least Sony uses the black bar for the selfie camera and also for front-facing stereo speakers.\n, Sony has also abandoned the narrow 21:9 display format in the mid-range phone and opted for a wider screen (19.5:9). This also makes the compact smartphone slightly wider; however, the screen size remains the same at 6.1 inches.\nThe OLED panel is protected by Gorilla Glass Victus 2. The back panel and frame are made of plastic, so the Xperia 10 VII does not feel high-quality. However, the workmanship is appealing.\nSony remains true to itself and continues to equip its mid-range phone with a 3.5 mm headphone jack and a microSD card slot. In terms of RAM and UFS memory, however, the Xperia 10 XII is also somewhat \"old school\" with only 8 GB and 128 GB. The latter also continues with the USB 2.0 port, which is not only slow but also does not support wired image output. We measured just 27 MB/s in our copy speed test with an M2.SSD hard disk (Samsung SSD 7T). Connected data carriers may not only be formatted with FAT32, but also with exFAT. However, the NTFS file system cannot be used.\nThe memory can be expanded up to 2 TB with microSD cards. However, the card slot is rather slow in the copy test with an Angelbird AV Pro V60, and the values in the cross-platform disk test are only average.\nAdreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; SDCard Sequential Write 0.5 GB; Angelbird AV Pro V60:\nMali-G615 MP6, Dimensity 8350, 128 GB UFS 3.1 Flash; SDCard Sequential Write 0.5 GB; Angelbird V60:\nAdreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; SDCard Sequential Read 0.5 GB; Angelbird AV Pro V60:\nMali-G615 MP6, Dimensity 8350, 128 GB UFS 3.1 Flash; SDCard Sequential Read 0.5 GB; Angelbird V60:\nAt the time of our test, the Sony phone was running Android 16. Four major Android upgrades and six years of security updates are promised.\nSony strives to keep the ecological footprint as low as possible (plastic-free product packaging, recycled plastic, ...), but no exact figures are given for the Xperia VII. According to the\nThe Xperia 10 VII uses global satellite networks, sometimes in dual-band, to determine its position. We compared the positioning qualities to a Garmin Venu 2 during a bike ride. Minor inaccuracies can be seen along the route, although navigation tasks can be carried out without hesitation in everyday life.\nThe Sony phone supports dual SIMs, but only when a nanoSIM is paired with an eSIM. The voice quality is satisfactory. Voices are reproduced clearly and quiet ambient noise is effectively filtered out. VoLTE and VoNR are on board, and Wi-Fi calls are possible.\nis replaced in the Xperia 10 VII by a significantly larger 50 MP Exmor RS sensor (1/1.56 inch). Thanks to the crop zoom, a lossless 2x magnification is possible, but the Sony mid-range phone does not offer a telephoto lens, which means that 6x is already the limit, and the photo quality is very poor.\nOtherwise, the main camera delivers good results for the mid-range, although the image sharpness and dynamic range still show room for improvement. In low light, however, the larger sensor has a positive effect. The new dedicated camera button should also please photo fans.\nThe ultra-wide-angle lens has also been updated and now has a resolution of 13 MPix, with photos being taken at 12 MP. As with the main camera, the 16 mm lens is weaker in terms of dynamic range and sharpness.\nThe Xperia 10 VII uses hybrid OIS/EIS stabilization for videos, but only supports a 4K30 option at best.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe scope of delivery of the Xperia 10 VII is very straightforward. Only a USB cable is included. A quick charger or protective cover are not included. A screen protector is also not included ex-works.\nThe touchscreen with a 120 Hz sampling rate responds without any delays. Animations and scrolling through the menus are mostly smooth thanks to the 120 Hz panel, although jerks do creep in from time to time. Vibrations are also unconvincing and very spongy with the built-in ERM motor.\nBiometric security is ensured by a face unlock function via the front camera using 2D technology or a fingerprint sensor in the on/off button. The sensor works reliably, but does not unlock the Xperia 10 VII particularly quickly.\nThe 6.1-inch OLED panel has a resolution of Full HD+ and thus 442 ppi. The Xperia 10 VII is not super bright in our measurement, but 1,073 cd/m² in the realistic APL18 test is not really bad either. We also achieve a similar brightness in HDR videos (1,074 cd/m²).\nSony uses PWM modulation to control the luminance. We measured a frequency of 480 Hz with the Rigol software. No information on DC or PWM dimming is provided.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 480 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 480 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nWe check the color representation with a photo spectrometer and the Calman analysis software. We get the best results in color mode with \"original colors\". The deviations in the color and grayscale representation are thus very low.\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 7 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 4 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nThe mid-range phone cuts a good figure outdoors, but the Xperia 10 VII quickly reaches its limits on sunny days. Especially with the manual brightness control (665 cd/m²), reflections on the display lead to readability problems. The viewing angle stability is appealing, but a blue haze and significant brightness loss are visible at flat angles.\n, the performance is still low for the mid-range. In both the Geekbench single-core and multi-core tests, the competition sometimes offers significantly more power. The same applies to the AI tests.\nis available. The low graphics performance of the Sony phone is particularly evident in the demanding GFXBench high-tier tests.\nThe surface temperatures of the Xperia 10 VII are not a problem. We use the 3DMark stress tests to check the heat development on the inside. Here, the\nRoom Temperature 21.2 °C = 70 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 40.9 °C / 106 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 43.8 °C / 111 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 45.7 °C / 114 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 28.9 °C / 84 F, compared to the device average of 32.9 °C / 91 F.\nAdreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nMali-G615 MP6, Dimensity 8350, 128 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\nAdreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nAdreno 710, SD 6 Gen 1, 128 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\nThe two speakers offer a good sound with light bass, even if the super high tones are clearly lacking. Headphones can be connected via cable using the 3.5 mm jack (SNR: 104 dBFS). Those who prefer to use a wireless output can connect TWS via Bluetooth 5.4.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n5% of all tested devices in this class were better, 5% similar, 90% worse\n16% of all tested devices in this class were better, 8% similar, 76% worse\nThe Xperia 10 VII features a 5,000 mAh battery that can be charged via USB-C at up to 30 watts. Charging takes around 1.5 hours. At just over 1 watt, the 6.1-inch phone is slightly more power-hungry when idle than its\nIn our Wi-Fi test, the mid-range phone demonstrated an excellent battery life under real-world conditions. With nearly 24 hours, the Xperia 10 VII's battery life is very long."
+            }
+        ]
+    }
+}

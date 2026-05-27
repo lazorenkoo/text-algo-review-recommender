@@ -1,0 +1,353 @@
+{
+    "phone_key": "oppo_find_x9",
+    "primary_name": "Oppo Find X9",
+    "aliases": [
+        "Oppo Find X9"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Oppo Find X9",
+                "article_url": "https://www.notebookcheck.net/Oppo-Find-X9-smartphone-review-High-end-for-under-900-but-with-SoC-problems.1173149.0.html",
+                "verdict": {
+                    "text": "The Oppo Find X9 is relatively impressive in many areas, boasting a fast SoC, a bright, high-resolution screen, decent cameras, and powerful speakers. Input is exceptionally smooth, and the software is up-to-date. Updates are promised for six years, the Wi-Fi is fast, and this is a smartphone that be used almost anywhere in the world. However, there are a few drawbacks such as the system throttling significantly under sustained load, and benchmark results are generally not as high as you might expect. In addition, the case gets quite warm after prolonged use, and the camera images lack that final touch of quality compared to top-tier devices. Coming in at a relatively low price, the Oppo Find X9 is a fast smartphone with excellent battery life - if you can handle minor compromises.",
+                    "pros": [
+                        "priced at under $900",
+                        "bright, sharp AMOLED display",
+                        "long battery life",
+                        "good main camera quality",
+                        "fast Wi-Fi",
+                        "wide 4G/5G frequency coverage",
+                        "USB 3.2 with DisplayPort",
+                        "eSIM support",
+                        "high-quality, robust case",
+                        "decent speakers",
+                        "six-year update guarantee"
+                    ],
+                    "cons": [
+                        "severe throttling under load",
+                        "memory controller limits speed",
+                        "can get uncomfortably hot",
+                        "no 8K video",
+                        "no UWB module",
+                        "screen protector only average quality",
+                        "quiet creaking when twisted",
+                        "PWM flickering"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "The slim bezels framing the screen and the 91% screen-to-body ratio immediately reveal the Oppo Find X9 to be a premium smartphone. However, the front screen is protected by Gorilla Glass 7i, which is now also commonly found in much cheaper mid-range phones such as the\n\n",
+                        "The color variants are Gray, Black or Velvet Red, but in Europe, the gray model is almost exclusively your only option. The design is very clean, boasting rounded corners and a matte back that resists fingerprints.\n\n",
+                        "The phone can be described as sturdy, but using your hands to apply significant pressure produces a slight creaking sound. The chassis is water and dust-resistant to IP68/IP69 standards.\n\n",
+                        "A speedy USB 3.2 port with a data throughput of 5 Gbps and DisplayPort are both included, as is NFC. Bluetooth 6.0 allows for device location tracking, even though UWB is not on board.\n\n",
+                        "eSIMs can be used without any issues in the European models. However, a microSD card slot for storage expansion is not available.\n\n",
+                        "Oppo uses its own ColorOS interface, which is based on Android 16. The security patches are from November 1, 2025, which means they are bang up-to-date at the time of reviewing. Updates are planned for a further six years.\n\n",
+                        "Pre-installed apps include the gallery and its numerous AI editing options, as well as a video player.\n\n",
+                        "Oppo has registered its smartphone in the EU's EPREL database, and Oppo Find X9 repair manuals and spare parts are also available.\n\n",
+                        "Apart from that, sustainability information is scarce: We were unable to find either a carbon footprint or a recycling rate.\n\n",
+                        "The Oppo Find X9 supports WiFi 7, which is currently the fastest Wi-Fi standard. In our test using the Asus ROG Rapture AXE11000 reference router, the phone achieved good data transfer speeds. These speeds were quite stable when it came to the upstream direction, but downstream, drops of up to 20% of the maximum speed occurred.\n\n",
+                        "In terms of mobile network coverage, you can use the Oppo Find X9 almost anywhere in the world. Reception proved to be good even in challenging situations, as observed in spot checks during our testing phase.\n\n",
+                        "During a test call, the receiver's voice sounded very clear and was easy to understand via the earpiece. Our voice was also transmitted clearly. The same applied to the hands-free mode, although this is an area where we would like to see better noise filtering.\n\n",
+                        "are evident in the camera: Apart from the absence of a bokeh sensor, all of the lenses are slightly less light-sensitive than those found in its larger sibling, and some also have lower resolutions.\n\n",
+                        "All in all, we like the images provided by the main camera, although the rendering of the plant appears a touch flat in places. However, the level of detail remains consistently very high, and the dynamic range is good in low light.\n\n",
+                        "The telephoto lens packs a periscope zoom providing 6x optical zoom compared to the main camera. Even images taken at a slightly higher zoom level are still quite usable.\n\n",
+                        "The front camera possesses a maximum resolution of 32 megapixels and takes nice selfies.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The screen comes with a 240 Hz touch sampling rate and a 120 Hz maximum refresh rate. The resulting inputs feel very immediate, as they are processed extremely quickly.\n\n",
+                        "On the left-hand side of the device, you will find the so-called Snap key, which can be configured as a camera shutter button. On top of this, it can also be used, for example, to activate the flashlight.\n\n",
+                        "A fingerprint sensor is hidden beneath the screen. Positioned quite high up, it proved itself to be surprisingly practical in testing: you never have to reposition your hand, and it's easily accessible even for users with small hands.\n\n",
+                        "Unlocking the device via facial recognition is possible, but only by using the front camera's 2D method.\n\n",
+                        "The AMOLED screen features LTPO technology, which means it can automatically adjust the refresh rate to between 1 and 120 Hz as desired. This can, for example, save energy when reading documents.\n\n",
+                        "The maximum brightness of 1,132 cd/m² is on par with other screens in its class. In smaller areas, 1,975 cd/m² is possible, and in HDR mode, the device can even hit over 3,000 cd/m² in specific areas.\n\n",
+                        "However, we did observe PWM flickering at a fairly high frequency of 474 Hz. For this reason, users sensitive to flicker should test the screen before buying, as individual reactions to different screens can vary.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 474.4 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 474.4 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "A series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\n\n",
+                        "Oppo has achieved good display calibration, which results in very minor deviations from the optimum color space.\n\n",
+                        "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 42 % of all devices are better.\n\n",
+                        "This means that the measured response time is similar to the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 33 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "The bright screen remains easy to read even in bright environments, and is also stable even at wide viewing angles.\n\n",
+                        ", there are noticeable problems when it comes to translating this performance into real-world use.\n\n",
+                        "The Oppo Find X9's slightly more compact design likely makes heat dissipation more challenging, and this prevents it from keeping up with other top-tier phones in every benchmark.\n\n",
+                        "Nevertheless, this difference is unlikely to be noticeable in everyday use: every app ran perfectly smoothly during our testing.\n\n",
+                        "Even in terms of the GPU performance, the Oppo Find X9's benchmarks didn't always deliver as you would expect.\n\n",
+                        "In general, surfing the internet is a smooth experience, but the benchmark results are below average in this area, too.\n\n",
+                        "The memory controller is unable to fully utilize the lightning-fast UFS 4.1 flash storage's capabilities. Nevertheless, fast file transfers and relatively short loading times are achievable.\n\n",
+                        "The Oppo Find X9 can get quite warm after prolonged use. For example, we measured temperatures up to 48.2 °C. This is very noticeable and can even become uncomfortable to the touch.\n\n",
+                        "The 3DMark stress tests also revealed a possible reason for the low benchmark scores: Performance dropped by up to 50% after several benchmark runs, especially during demanding calculations. Almost every current high-end phone suffers from this issue to some extent.\n\n",
+                        "Power Supply (max.) 39.9 °C = 104 F | Room Temperature 19.8 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 34.6 °C = 94 F | Room Temperature 19.6 °C = 67 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 45.5 °C / 114 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 48.2 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 47 °C / 117 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.2 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "The speaker along the bottom edge is supported by earphones. The maximum volume of 82.3 dB(A) isn't exactly record-breaking, but it's sufficient for a medium-sized room.\n\n",
+                        "The sound offers some deep midrange tones, and listening to pop songs is also an enjoyable experience.\n\n",
+                        "Anyone searching for even better sound should opt for external audio devices that can be connected via Bluetooth or USB. Both work flawlessly, and the most important audio codecs are available wirelessly.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "4% of all tested devices in this class were better, 4% similar, 92% worse\n\n",
+                        "2% of all tested devices in this class were better, 2% similar, 96% worse\n\n",
+                        "In our power consumption tests across various scenarios, the Oppo Find X9 proved itself to be not quite as energy-efficient as many of its competitors.\n\n",
+                        "The phone can be charged at up to 80 watts via a cable and up to 50 watts wirelessly. A full wired charge from empty takes just under an hour.\n\n",
+                        "At over 7,000 mAh, the battery is generous in size, and the just over 29-hour runtime in our practical Wi-Fi test is very suitable for everyday use.\n\n",
+                        "This should allow users to get through two or perhaps even three days without recharging.\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "MediaTek Dimensity 9500 8c/8t, 1 x 4.2 GHz ARM C1-Ultra, 3 x 3.5 GHz ARM C1-Premium, 4 x 2.7 GHz ARM C1-Pro, Cortex-X930 Travis / Cortex-A730 6x Gelas",
+                        "Graphics adapter:": "Arm Mali G1- Ultra MC12",
+                        "Memory:": "12 GB",
+                        "Display:": "6.59 inch 20:9, 2760 x 1256 pixel 460 PPI, capacitive touchscreen, AMOLED, Gorilla Glass 7i, 240 Hz sample rate, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 498 GB free",
+                        "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration, gyroscope, proximity, compass",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B42/​B48/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n26/​n28/​n38/​n40/​n41/​n48/​n66/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8 x 157 x 73.9 ( = 0.31 x 6.18 x 2.91 in)",
+                        "Battery:": "7025 mAh Lithium-Ion, 80W charging, 50W wireless charging",
+                        "Charging:": "wireless charging, fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 50 MPix f/​1.6, phase shift AF, Laser AF, OIS, Quad LED flash, Videos @2160p/​120fps (Camera 1); 50.0MP, f/​2.0, phase shift AF, wide angle (Camera 2); 50.0MP, f/​2.6, phase shift AF, OIS, 3x optical zoom, periscope tele (Camera 3) Secondary Camera: 32 MPix f/​2.4, Videos @2160p/​60fps",
+                        "Additional features:": "Speakers: stereo speakers (hybrid), USB cable, SIM tool, USB OTG dongle, 24 Months Warranty, IP68/​IP69 certified, fanless, waterproof",
+                        "Weight:": "203 g ( = 7.16 oz / 0.45 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "999 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "95%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "65%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "86%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "12%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "83%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "84%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "10%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "10%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "95.5%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "66%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "96.7%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "59.7%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "priced at under $900",
+            "bright, sharp AMOLED display",
+            "long battery life",
+            "good main camera quality",
+            "fast Wi-Fi",
+            "wide 4G/5G frequency coverage",
+            "USB 3.2 with DisplayPort",
+            "eSIM support",
+            "high-quality, robust case",
+            "decent speakers",
+            "six-year update guarantee"
+        ],
+        "cons": [
+            "severe throttling under load",
+            "memory controller limits speed",
+            "can get uncomfortably hot",
+            "no 8K video",
+            "no UWB module",
+            "screen protector only average quality",
+            "quiet creaking when twisted",
+            "PWM flickering"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "MediaTek Dimensity 9500 8c/8t, 1 x 4.2 GHz ARM C1-Ultra, 3 x 3.5 GHz ARM C1-Premium, 4 x 2.7 GHz ARM C1-Pro, Cortex-X930 Travis / Cortex-A730 6x Gelas",
+                "Graphics adapter:": "Arm Mali G1- Ultra MC12",
+                "Memory:": "12 GB",
+                "Display:": "6.59 inch 20:9, 2760 x 1256 pixel 460 PPI, capacitive touchscreen, AMOLED, Gorilla Glass 7i, 240 Hz sample rate, glossy: yes, HDR, 120 Hz",
+                "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 498 GB free",
+                "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration, gyroscope, proximity, compass",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B42/​B48/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n26/​n28/​n38/​n40/​n41/​n48/​n66/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8 x 157 x 73.9 ( = 0.31 x 6.18 x 2.91 in)",
+                "Battery:": "7025 mAh Lithium-Ion, 80W charging, 50W wireless charging",
+                "Charging:": "wireless charging, fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 50 MPix f/​1.6, phase shift AF, Laser AF, OIS, Quad LED flash, Videos @2160p/​120fps (Camera 1); 50.0MP, f/​2.0, phase shift AF, wide angle (Camera 2); 50.0MP, f/​2.6, phase shift AF, OIS, 3x optical zoom, periscope tele (Camera 3) Secondary Camera: 32 MPix f/​2.4, Videos @2160p/​60fps",
+                "Additional features:": "Speakers: stereo speakers (hybrid), USB cable, SIM tool, USB OTG dongle, 24 Months Warranty, IP68/​IP69 certified, fanless, waterproof",
+                "Weight:": "203 g ( = 7.16 oz / 0.45 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "999 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "95%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "65%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "86%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "12%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "83%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "84%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "10%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "10%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "95.5%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "66%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "96.7%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "59.7%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Oppo-Find-X9-smartphone-review-High-end-for-under-900-but-with-SoC-problems.1173149.0.html",
+                "text": "The Oppo Find X9 is relatively impressive in many areas, boasting a fast SoC, a bright, high-resolution screen, decent cameras, and powerful speakers. Input is exceptionally smooth, and the software is up-to-date. Updates are promised for six years, the Wi-Fi is fast, and this is a smartphone that be used almost anywhere in the world. However, there are a few drawbacks such as the system throttling significantly under sustained load, and benchmark results are generally not as high as you might expect. In addition, the case gets quite warm after prolonged use, and the camera images lack that final touch of quality compared to top-tier devices. Coming in at a relatively low price, the Oppo Find X9 is a fast smartphone with excellent battery life - if you can handle minor compromises.\npriced at under $900\nbright, sharp AMOLED display\nlong battery life\ngood main camera quality\nfast Wi-Fi\nwide 4G/5G frequency coverage\nUSB 3.2 with DisplayPort\neSIM support\nhigh-quality, robust case\ndecent speakers\nsix-year update guarantee\nsevere throttling under load\nmemory controller limits speed\ncan get uncomfortably hot\nno 8K video\nno UWB module\nscreen protector only average quality\nquiet creaking when twisted\nPWM flickering\nThe slim bezels framing the screen and the 91% screen-to-body ratio immediately reveal the Oppo Find X9 to be a premium smartphone. However, the front screen is protected by Gorilla Glass 7i, which is now also commonly found in much cheaper mid-range phones such as the\nThe color variants are Gray, Black or Velvet Red, but in Europe, the gray model is almost exclusively your only option. The design is very clean, boasting rounded corners and a matte back that resists fingerprints.\nThe phone can be described as sturdy, but using your hands to apply significant pressure produces a slight creaking sound. The chassis is water and dust-resistant to IP68/IP69 standards.\nA speedy USB 3.2 port with a data throughput of 5 Gbps and DisplayPort are both included, as is NFC. Bluetooth 6.0 allows for device location tracking, even though UWB is not on board.\neSIMs can be used without any issues in the European models. However, a microSD card slot for storage expansion is not available.\nOppo uses its own ColorOS interface, which is based on Android 16. The security patches are from November 1, 2025, which means they are bang up-to-date at the time of reviewing. Updates are planned for a further six years.\nPre-installed apps include the gallery and its numerous AI editing options, as well as a video player.\nOppo has registered its smartphone in the EU's EPREL database, and Oppo Find X9 repair manuals and spare parts are also available.\nApart from that, sustainability information is scarce: We were unable to find either a carbon footprint or a recycling rate.\nThe Oppo Find X9 supports WiFi 7, which is currently the fastest Wi-Fi standard. In our test using the Asus ROG Rapture AXE11000 reference router, the phone achieved good data transfer speeds. These speeds were quite stable when it came to the upstream direction, but downstream, drops of up to 20% of the maximum speed occurred.\nIn terms of mobile network coverage, you can use the Oppo Find X9 almost anywhere in the world. Reception proved to be good even in challenging situations, as observed in spot checks during our testing phase.\nDuring a test call, the receiver's voice sounded very clear and was easy to understand via the earpiece. Our voice was also transmitted clearly. The same applied to the hands-free mode, although this is an area where we would like to see better noise filtering.\nare evident in the camera: Apart from the absence of a bokeh sensor, all of the lenses are slightly less light-sensitive than those found in its larger sibling, and some also have lower resolutions.\nAll in all, we like the images provided by the main camera, although the rendering of the plant appears a touch flat in places. However, the level of detail remains consistently very high, and the dynamic range is good in low light.\nThe telephoto lens packs a periscope zoom providing 6x optical zoom compared to the main camera. Even images taken at a slightly higher zoom level are still quite usable.\nThe front camera possesses a maximum resolution of 32 megapixels and takes nice selfies.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe screen comes with a 240 Hz touch sampling rate and a 120 Hz maximum refresh rate. The resulting inputs feel very immediate, as they are processed extremely quickly.\nOn the left-hand side of the device, you will find the so-called Snap key, which can be configured as a camera shutter button. On top of this, it can also be used, for example, to activate the flashlight.\nA fingerprint sensor is hidden beneath the screen. Positioned quite high up, it proved itself to be surprisingly practical in testing: you never have to reposition your hand, and it's easily accessible even for users with small hands.\nUnlocking the device via facial recognition is possible, but only by using the front camera's 2D method.\nThe AMOLED screen features LTPO technology, which means it can automatically adjust the refresh rate to between 1 and 120 Hz as desired. This can, for example, save energy when reading documents.\nThe maximum brightness of 1,132 cd/m² is on par with other screens in its class. In smaller areas, 1,975 cd/m² is possible, and in HDR mode, the device can even hit over 3,000 cd/m² in specific areas.\nHowever, we did observe PWM flickering at a fairly high frequency of 474 Hz. For this reason, users sensitive to flicker should test the screen before buying, as individual reactions to different screens can vary.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 474.4 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 474.4 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nA series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\nOppo has achieved good display calibration, which results in very minor deviations from the optimum color space.\nThe screen shows good response rates in our tests, but may be too slow for competitive gamers.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 42 % of all devices are better.\nThis means that the measured response time is similar to the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 33 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nThe bright screen remains easy to read even in bright environments, and is also stable even at wide viewing angles.\n, there are noticeable problems when it comes to translating this performance into real-world use.\nThe Oppo Find X9's slightly more compact design likely makes heat dissipation more challenging, and this prevents it from keeping up with other top-tier phones in every benchmark.\nNevertheless, this difference is unlikely to be noticeable in everyday use: every app ran perfectly smoothly during our testing.\nEven in terms of the GPU performance, the Oppo Find X9's benchmarks didn't always deliver as you would expect.\nIn general, surfing the internet is a smooth experience, but the benchmark results are below average in this area, too.\nThe memory controller is unable to fully utilize the lightning-fast UFS 4.1 flash storage's capabilities. Nevertheless, fast file transfers and relatively short loading times are achievable.\nThe Oppo Find X9 can get quite warm after prolonged use. For example, we measured temperatures up to 48.2 °C. This is very noticeable and can even become uncomfortable to the touch.\nThe 3DMark stress tests also revealed a possible reason for the low benchmark scores: Performance dropped by up to 50% after several benchmark runs, especially during demanding calculations. Almost every current high-end phone suffers from this issue to some extent.\nPower Supply (max.) 39.9 °C = 104 F | Room Temperature 19.8 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 34.6 °C = 94 F | Room Temperature 19.6 °C = 67 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 45.5 °C / 114 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 48.2 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 47 °C / 117 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.2 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\nThe speaker along the bottom edge is supported by earphones. The maximum volume of 82.3 dB(A) isn't exactly record-breaking, but it's sufficient for a medium-sized room.\nThe sound offers some deep midrange tones, and listening to pop songs is also an enjoyable experience.\nAnyone searching for even better sound should opt for external audio devices that can be connected via Bluetooth or USB. Both work flawlessly, and the most important audio codecs are available wirelessly.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n4% of all tested devices in this class were better, 4% similar, 92% worse\n2% of all tested devices in this class were better, 2% similar, 96% worse\nIn our power consumption tests across various scenarios, the Oppo Find X9 proved itself to be not quite as energy-efficient as many of its competitors.\nThe phone can be charged at up to 80 watts via a cable and up to 50 watts wirelessly. A full wired charge from empty takes just under an hour.\nAt over 7,000 mAh, the battery is generous in size, and the just over 29-hour runtime in our practical Wi-Fi test is very suitable for everyday use.\nThis should allow users to get through two or perhaps even three days without recharging."
+            }
+        ]
+    }
+}

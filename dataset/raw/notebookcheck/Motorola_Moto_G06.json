@@ -1,0 +1,187 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Motorola Moto G06",
+    "article_url": "https://www.notebookcheck.net/Motorola-Moto-G06-smartphone-test-Large-discount-phone-with-a-premium-look.1164713.0.html",
+    "verdict": {
+        "text": "The Motorola Moto G06 is a typical cell phone that will end up in the discount stores: Very affordable and yet it offers passable features for everyday use. The stylish casing makes the phone look more expensive than it actually is. You shouldn't expect a lot of performance, but the reasonably bright 120 Hz screen without PWM, the battery life and the usable main camera are actually not bad in this price range. The very short update promise is hardly compatible with the new EU directives and questions also remain unanswered when it comes to sustainability. The waterdrop notch and the low charging power are a step backwards compared to its predecessor. Overall, the Motorola Moto G06 is an attractive and affordable smartphone with typical price features.",
+        "pros": [
+            "high-quality housing",
+            "quite bright display",
+            "no PWM",
+            "loud stereo speakers",
+            "IP64 protection",
+            "good runtime",
+            "cheap"
+        ],
+        "cons": [
+            "only 10 watt charging",
+            "only two years of updates",
+            "no 5G",
+            "slow SoC",
+            "low PPI",
+            "questionable sustainability"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "We like the fact that Motorola has extended its design philosophy with a faux leather back and seamlessly integrated camera module to its most affordable models.\n\n",
+            "The Moto G06 is also protected against dust and water, so it can be used in dirty environments without any problems. However, you can't go diving with the phone.\n\n",
+            "Instead of the punch-hole camera on the front, there is now a waterdrop notch again, which is a step backwards in terms of design. At 194 grams, the phone is slightly heavier than its predecessor and is also a few millimeters longer and wider overall due to the larger screen.\n\n",
+            "NFC for wireless payments is on board. In terms of memory, you can choose between 64, 128 or 256 GB. 4 GB RAM is available for all models.\n\n",
+            "The internal memory can be expanded via a microSD card. The card reader worked moderately fast in our test.\n\n",
+            "5G mobile networks are not available and there are not many frequencies available in the LTE range either, but they are sufficient for most European countries. Reception is satisfactory in spot checks during our test.\n\n",
+            "The screen offers a frame rate of up to 120 Hz and therefore responds quickly to our inputs via the touchscreen. It can be operated reliably.\n\n",
+            "There is also a fingerprint sensor on the right in the standby button. It reliably recognizes fingers and unlocks the phone with minimal waiting time. Face recognition via the front camera is also possible.\n\n",
+            "Android 15 is pre-installed, Motorola only makes minor changes to the software. Third-party advertising apps are pre-installed ex works.\n\n",
+            "As with its predecessor, Motorola will only provide updates for the Moto G06 for two years from the date of release, i.e. until August 2027. It remains to be seen how this complies with the new EU directives.\n\n",
+            "There is no information on sustainability. At least the packaging is plastic-free.\n\n",
+            "You should not expect a photo system with multiple lenses on the Moto G06. The only camera has a resolution of 50 megapixels, the full resolution can be used in a special mode. Here, however, the camera clearly loses light intensity.\n\n",
+            "In conventional mode, the resolution of the images is 12.5 megapixels, some of which appear somewhat coarse in detail, but are not too bad overall for the price range.\n\n",
+            "In low light and high contrasts, there is actually still a decent level of sharpness, but in dark areas, hardly anything is recognizable.\n\n",
+            "The front camera takes passable selfies, but they look quite cool in terms of color.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "With its large 6.88-inch screen and a resolution of 1,640 x 720 pixels, the phone only achieves 260 PPI, which leads to a somewhat coarse picture in some cases.\n\n",
+            "The maximum brightness of over 530 cd/m² is quite good and is sufficient for somewhat brighter environments. Motorola thus also compensates for a weakness of its predecessor, which offered significantly less brightness.\n\n",
+            "The color reproduction shows a slight blue cast. We did not notice any PWM flickering.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "The screen shows relatively slow response rates in our tests and may be too slow for gamers.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 75 % of all devices are better.\n\n",
+            "This means that the measured response time is worse than the average of all tested devices (20 ms).\n\n",
+            "The screen shows slow response rates in our tests and will be unsatisfactory for gamers.\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 71 % of all devices are better.\n\n",
+            "This means that the measured response time is worse than the average of all tested devices (31.2 ms).\n\n",
+            "is a rather slow SoC; even in this price range, other manufacturers can sometimes offer a little more power. You also have to do without the latest graphics interfaces, which means that some games may not run.\n\n",
+            "The temperature of the chassis always remains below 40 °C and is therefore very reasonable. The phone does not throttle in the stress tests either.\n\n",
+            "The small speaker on the bottom edge is supported by the earpiece, so slight stereo effects are possible. The phone can produce a fairly loud sound, but this is clearly at the expense of sound accuracy.\n\n",
+            "If you reduce the volume a little, the sound is more pleasant and precise. A 3.5mm jack or Bluetooth is available for sound output. Wireless audio devices can be connected via a variety of codecs.\n\n",
+            "The battery life is completely OK for the price range: Motorola gets 16:42 hours out of the 5,200 mAh battery in our WLAN test. That should get you through the day.\n\n",
+            "However, charging is only possible with up to 10 watts. This increases the maximum charging time compared to the predecessor: it is now more than 2 hours.\n\n",
+            "Power Supply (max.) 42.9 °C = 109 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 37.4 °C = 99 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 36.7 °C / 98 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 39.7 °C / 103 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 38.4 °C / 101 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 24.5 °C / 76 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "26% of all tested devices in this class were better, 9% similar, 66% worse\n\n",
+            "68% of all tested devices in this class were better, 5% similar, 27% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Mediatek Helio G81 8c/8t, 2 x 2.0 GHz ARM Cortex-A75, 6 x 1.7 GHz ARM Cortex-A55, Cortex-A75 / A55",
+            "Graphics adapter:": "ARM Mali-G52 MP2",
+            "Memory:": "4 GB",
+            "Display:": "6.88 inch 20.5:9, 1640 x 720 pixel 260 PPI, capacitive touchscreen, IPS, Gorilla Glass 3, glossy: yes, 120 Hz",
+            "Storage:": "256 GB eMMC 5.1 Flash, 256 GB , 195 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: 3.5mm audio jack, Card Reader: microSD (dediziert, bis 1TB) , 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration, proximity",
+            "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B3/​B5/​B8), 4G (B1/​B3/​B5/​B7/​B8/​B20/​B28/​B38/​B40/​B41) , Dual SIM, LTE, GPS",
+            "Size:": "height x width x depth (in mm): 8.3 x 171.4 x 77.5 ( = 0.33 x 6.75 x 3.05 in)",
+            "Battery:": "5200 mAh Lithium-Ion, 10 Watt charging",
+            "Operating System:": "Android 15",
+            "Camera:": "Primary Camera: 50 MPix f/​1.8, LED-flash, Videos @1080p/​30fps Secondary Camera: 8 MPix f/​2.0, Videos @1080p/​30fps",
+            "Additional features:": "Speakers: stereo speakers (hybrid), USB cable, SIM needle, silicone bumper, 24 Months Warranty, FM Radio, IP64 certified, SAR: 0.86W/​kg (head), 1.45W/​kg (body), fanless",
+            "Weight:": "194 g ( = 6.84 oz / 0.43 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "129 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "58%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "89%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "82%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "5%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "49%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "53%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "10%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "10%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "60%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "6%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "25.7%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "25.3%"
+            }
+        ]
+    }
+}

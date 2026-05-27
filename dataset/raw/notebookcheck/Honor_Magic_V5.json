@@ -1,0 +1,174 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Honor Magic V5",
+    "article_url": "https://www.notebookcheck.net/Far-more-than-just-a-slim-foldable-Honor-Magic-V5-review.1099715.0.html",
+    "verdict": {
+        "text": "Verdict - Not always the thinnest foldable The Honor Magic V5 not only offers a slim design but also a powerful battery, a fast SoC, a good triple camera, and a robust design with high IP certification, as well as seven years of updates. In the test, it is noticeable that the display quickly reduces the brightness to around 1,000 cd/m² on warm days. It is also unfortunate that peak brightness is only available for HDR content.",
+        "pros": [
+            "schlankes Design",
+            "großer Akku mit langen Laufzeiten",
+            "hohe IP-Zertifizierung",
+            "gutes Kamera-Setup",
+            "hohe Performance"
+        ],
+        "cons": [
+            "Spitzenhelligkeit nur für HDR-Content",
+            "in warmen Umgebungen dimmt das Display früh",
+            "großes Kameramodul"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "and is even slimmer than its predecessor, still claiming to be the thinnest foldable in the world. However, independent measurements have already shown that the result depends on where and how it is measured (\n\n",
+            "However, Honor has integrated even more innovations, including a larger battery and a beefed-up camera.\n\n",
+            "The Honor Magic V5 is nominally the thinnest foldable phone that can be purchased at the time of testing. At least when the\n\n",
+            "are slightly thicker (unfolded: 4.2 mm, closed: 9.0 mm). We like the workmanship of the V5 very much. Despite its slim design, Foldable appears stable, and the inner display is also said to be more resistant thanks to carbon reinforcement.\n\n",
+            "Both displays allow input with an active stylus, which is optionally available from Honor.\n\n",
+            ". Bluetooth 6.0 is new, and the 6 GHz band is finally available for Wi-Fi 7. The number of supported 5G mobile bands is exemplary. The voice quality of the Magic V5 is excellent when held to the ear, and ambient noise is mostly suppressed. A new feature is the improved live phone calls translation, which now works completely offline, is faster, and requires less memory space. AI Deepfake Detection is now also on board.\n\n",
+            "A capacitive fingerprint scanner is integrated into the power button for biometric security. This delivers high recognition rates and unlocks the V5 very quickly. Face recognition is available for both front cameras and also works very quickly, even from steep viewing angles. The linear vibration motor works discreetly and can be adjusted in the settings.\n\n",
+            "The Honor Magic V5 is supplied with Google Android 15 and MagicOS 9.0.1. It receives seven years of major OS and security updates, but this only applies to devices within the EU and UK. It may be shorter in other markets. All known AI functions from the\n\n",
+            "are included. One new feature is the improved live translation when making calls, which is noticeably less laggy.\n\n",
+            "In terms of sustainability, Honor provides hardly any information. There are also no plans for the Foldable to be repaired by the user.\n\n",
+            "The triple camera can also be used for self-portraits, with the external display serving as a viewfinder. The main camera produces well-balanced photos, and the ultra-wide angle also allows for appealing images, but the edges become slightly blurred. The camera features a 3x periscope zoom (70 mm) that can rely on optical image stabilization. The 6x digital zoom is virtually loss-free, and a maximum magnification of 100x is possible. If desired, this can be optimized by AI, which can certainly improve the quality when it comes to objects; however, this approach did not yield improvements in text quality during the test. Both the ultra wide-angle and zoom lenses are ideal for macro subjects.\n\n",
+            "The foldable main display of the Honor Magic V5 shines much brighter than its predecessor and is also better when it comes to color accuracy. If you adjust the brightness manually, you can achieve a maximum of 641 cd/m². With the ambient light sensor activated, this is more than doubled with a pure white display. However, it's a pity that we don't get more brightness from the OLED panel with less white area. The peak brightness is nominally 5,000 cd/m², which we even significantly exceeded when playing an HDR video on YouTube.\n\n",
+            "Honor has now raised the high-frequency PWM dimming to the same level as the outdoor display, which was already the case with the\n\n",
+            "; hence, complaints for sensitive people were virtually eliminated. Other functions, such as a circadian night display and the defocus function, provide additional comfort for the eyes.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 360 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 360 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Grayscale (color mode: Normal, color temperature: Standard, target color space: sRGB)\n\n",
+            "Colors (color mode: Normal, color temperature: Standard, target color space: sRGB)\n\n",
+            "Color space (color mode: Normal, color temperature: Standard, target color space: sRGB)\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 8 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 2 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "The cover display of the Magic V5 appears to be largely identical to that of the V3, but shows a more even illumination in the test, and the manual brightness control has been extended to up to 776 cd/m². The peak brightness is also reserved exclusively for HDR display.\n\n",
+            "The panel's high-frequency PWM dimming is technically identical to that of the foldable display. Complaints are also very unlikely here.\n\n",
+            "Room Temperature 22 °C = 72 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 39.2 °C / 103 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 48.1 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 44 °C / 111 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 28.2 °C / 83 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Maleoon 920, Kirin 9020, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "Maleoon 920, Kirin 9020, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "17% of all tested devices in this class were better, 8% similar, 75% worse\n\n",
+            "10% of all tested devices in this class were better, 8% similar, 82% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Qualcomm Snapdragon 8 Elite 8c/8t, 3 x , 2 x 4.3 GHz Qualcomm Oryon Gen 2 Prime, 6 x 3.5 GHz Qualcomm Oryon Gen 2 Performance, Oryon v2",
+            "Graphics adapter:": "Qualcomm Adreno 830",
+            "Memory:": "16 GB , LPDDR5x",
+            "Display:": "7.95 inch 9.75:9, 2352 x 2172 pixel 403 PPI, Capacitive Touchscreen, native pen support, OLED, LTPO (1 - 120 Hz); Second display: 6.43\" LTPO-OLED, 2346 x 1060 Pixel, 120 Hz, both Stylus support, glossy: yes, HDR, 120 Hz",
+            "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 483.1 GB free",
+            "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, barometer, OTG, IR-Blaster",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G (850, 900, 1800, 1900 MHz), 3G (Band 1, 2, 4, 5, 6, 8, 19), LTE (Band 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 34, 38, 39, 40, 41, 42, 48, 66, 71), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 48, 66, 71, 78, 79, 80, 81, 83A, 84, 89), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 4.1 x 156.8 x 145.9 ( = 0.16 x 6.17 x 5.74 in)",
+            "Battery:": "5820 mAh Lithium-Ion, Battery charge cycles: 1200, Silicon-Carbon-Anode",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 15",
+            "Camera:": "Primary Camera: 50 MPix (f/1.6, 23 mm) + 64 MPix (3x optical zoom, f/2.5, 70 mm) + 50 MPix (f/2.0, 13 mm); Camera2-API-Level: Level 3 Secondary Camera: 20 MPix (f/2.2) | Cover camera: 20 MPix",
+            "Additional features:": "Speakers: Dual, Keyboard: OnScreen, USB-Cabel, SIM-Tool, Case, MagicOS 9.0, 24 Months Warranty, Bluetooth Audio Codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC | GNSS: GPS (L1, L5), Glonass (L1), BeiDou (B1I, B1C, B2a), Galileo (E1, E5a, E5b), QZSS (L1), NavIC (L5) | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM Widevine L1 | eSIM | IP58 / IP59 | USB Copy Test: 401.39 MB/s (connected to Samsung Portable SSD T7 (USB 3.2 Gen. 2)), Supported File Systems for external storages: FAT32, exFAT, NTFS | Body-SAR: 1.29 W/kg, Head-SAR: 0.94 W/kg | max. charging speed: 66 W (wired) / 50 W (wireless), fanless, waterproof",
+            "Weight:": "217 g ( = 7.65 oz / 0.48 pounds) ( = 0 oz / 0 pounds)"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "95%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "93%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "71%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "44%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "85%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "83%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "95.7%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "95.7%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "40%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "47.6%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "47.6%"
+            }
+        ]
+    }
+}

@@ -1,0 +1,212 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Xiaomi 15T Pro",
+    "article_url": "https://www.notebookcheck.net/Xiaomi-15T-Pro-review-an-underrated-gem-among-camera-phones.1157940.0.html",
+    "verdict": {
+        "text": "The Xiaomi 15T Pro continues the strengths of the T series, combining high performance with an impressive camera and an extremely bright display. In terms of build quality, the smartphone impresses with its solid chassis and IP68 certification, while battery life has been greatly improved thanks to the larger battery and more efficient processor. The collaboration with Leica ensures very good photos, even if the ultra-wide angle and digital zoom still show weaknesses. On the software side, Xiaomi scores with long update periods and new AI functions, but lags behind the competition when it comes to sustainability and repairability. The slow USB 2.0 port and the lack of an LTPO panel also deserve criticism.",
+        "pros": [
+            "bright and accurate display",
+            "fast SoC",
+            "IP68-certified",
+            "fast charging with and without cable"
+        ],
+        "cons": [
+            "only USB 2.0",
+            "weak ultra-wide-angle camera",
+            "only 12-month warranty",
+            "no LTPO panel"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            ". Last year's compact flagship from Xiaomi already stood out for its capable camera setup, developed in collaboration with Leica, a partnership that continues this year. With the Pro model, Xiaomi places a stronger emphasis on an improved telephoto lens, while also offering several other advantages over the 15T.\n\n",
+            "The Xiaomi 15T Pro is available in black, grey and mocha gold. At 210 grams, it is not particularly light and has a thickness of just under eight millimetres (measured: 8.15 mm; including camera: 11.4 mm).\n\n",
+            "Xiaomi has redesigned the look, particularly around the camera module, giving the smartphone a more premium appearance. Build quality is good, and the aluminium frame feels solid. However, the transition to the fibreglass composite back is noticeable to the touch and slightly rough. The display is protected by Corning Gorilla Glass 7i.\n\n",
+            "When subjected to light torsion, the 15T Pro emits a faint creak yet maintains a solid overall impression. The SIM tray sits flush with the frame, and the smartphone is IP68 certified, ensuring dust and water resistance.\n\n",
+            "Apart from the internal storage, there are no differences between the models. Given the price range, we would have liked to see a faster USB port, but otherwise the feature set is almost complete. There is no support for UWB, although Auracast is included.\n\n",
+            "The Xiaomi 15T Pro originally shipped with Android 15 and HyperOS 2.0, but by the end of our testing it had already received the update to Google Android 16 with\n\n",
+            "The new version not only introduces design refinements but also enables easier data exchange with Apple devices, adds the Hyper Island feature, enhanced AI functions, an improved gallery search, and more.\n\n",
+            "Xiaomi promises six years of security updates and five years of major OS upgrades.\n\n",
+            "Xiaomi does not provide specific information regarding the smartphone's sustainability. The device comes in largely plastic-free packaging.\n\n",
+            "User repairability is not supported, and the phone can only be sent in or taken to an authorised service partner for repairs.\n\n",
+            "The Xiaomi 15T Pro features modern connectivity modules including Wi-Fi 7 and 5G, with extensive frequency band support across all regions. Mobile reception in urban areas is strong and leaves little to be desired.\n\n",
+            "Satellite acquisition outdoors is very fast and accurate, while indoors it takes longer but eventually settles on a precise position.\n\n",
+            "During a bike ride, we compared the Xiaomi 15T Pro with the Garmin Venu 2. At times, the smartphone's recorded track deviated slightly from the actual route, but there were no practical limitations for navigation tasks.\n\n",
+            "The Xiaomi 15T Pro supports two Nano SIM cards, one of which can be replaced with an eSIM. Features such as VoLTE and Wi-Fi calling are supported. A new addition is the offline communication function, which allows voice calls between compatible devices (currently limited to the 15T series) over distances of up to 1.9 km. However, a SIM card and Bluetooth must still be active, and the smartphone must be linked to a Mi account.\n\n",
+            "Call quality over the mobile network is very good when held to the ear, though loud ambient noise is not completely filtered out. The speaker mode also performs well, although the 15T Pro user's voice sounds slightly echoey.\n\n",
+            "The main camera was developed in co-operation with Leica and delivers good images. In close-up shots, however, care should be taken, as the automatic mode quickly switches to a bokeh mode, which can also lead to unwanted blurring. In low light, exposure times are relatively long (up to three seconds), but the results are good. The ultra-wide-angle lens (which also serves as a macro lens) shows weaknesses in both detail and edge aberrations. The zoom delivers good results but can appear somewhat artificial in the digital range.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The Xiaomi 15T Pro comes with a dark gray silicone protective case, a USB cable (Type-A to Type-C), and a SIM tool. A compatible fast charger must be purchased separately in Europe.\n\n",
+            ". Optionally, the Xiaomi Care insurance package can be taken out for two years, covering accidental damage (€89 / around $95 USD) or theft (€119 / around $125 USD).\n\n",
+            "The capacitive touchscreen comes with a pre-applied screen protector that offers decent gliding properties but scratches easily. The glass beneath it is far more durable and feels noticeably smoother.\n\n",
+            "An optical fingerprint sensor is integrated into the display, unlocking the smartphone quickly and with a high recognition rate. Face recognition via the front camera is also available as an additional or alternative option.\n\n",
+            "The linear vibration motor provides strong yet crisp feedback and can be adjusted in the settings.\n\n",
+            "The AMOLED display of the Xiaomi 15T Pro measures 6.83 inches (17.35 cm) and offers a 1,280p resolution with a refresh rate of up to 144 Hz. However, since it is not an LTPO panel, the refresh rate can only be reduced to 60 Hz.\n\n",
+            "Brightness is exceptionally high, reaching a short-term peak of 1,889 cd/m² in full-screen white (centre of the display) before dropping to 1,064 cd/m² after less than 30 seconds. On a smaller white area (APL18), the screen maintains a steady 3,269 cd/m², while HDR video playback reaches up to 2,868 cd/m².\n\n",
+            "According to the specifications, the 15T Pro uses DC dimming. Under the oscilloscope, however, it shows like the Xiaomi 15T that it actually relies on high-frequency PWM dimming. The panel is generally easy on the eyes, although sensitive users may still experience slight discomfort.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "We tested the display's colour and greyscale reproduction with Calman, and the results are very good.\n\n",
+            "Grayscale (profile: Pro, colour temperature: Warm, target colour space: sRGB)\n\n",
+            "Colours (profile: Pro, colour temperature: Warm, target colour space: sRGB)\n\n",
+            "Colour space (profile: Pro, colour temperature: Warm, target colour space: sRGB)\n\n",
+            "Saturation (profile: Pro, colour temperature: Warm, target colour space: sRGB)\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 5 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 4 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "Outdoors, the Xiaomi 15T Pro makes an excellent impression, maintaining good legibility even in bright sunlight. Only reflections can become distracting when viewed from the side.\n\n",
+            "Viewing-angle stability is also convincing. At very shallow angles, a subtle greenish tint appears and brightness diminishes slightly.\n\n",
+            "paired with 12 GB of RAM, providing smooth system operation and strong overall performance.\n\n",
+            "In the benchmarks, it delivers good results but lags slightly behind other devices with the same SoC, indicating early thermal throttling.\n\n",
+            "handles graphics processing, supports hardware-based ray tracing, and promises strong performance.\n\n",
+            "Surface temperatures can reach up to 48.5 °C under sustained load. However, since the hotspot is located next to the camera, this never becomes uncomfortable in everyday use.\n\n",
+            "The SoC does throttle noticeably, although this is rarely perceptible in practice.\n\n",
+            "Room Temperature 21.6 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 45 °C / 113 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 45.9 °C / 115 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 48.5 °C / 119 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 26 °C / 79 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Immortalis-G925 MC12, Dimensity 9400+, 1TB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Immortalis-G925 MC12, Dimensity 9400+, 1TB UFS 4.1 Flash; Wild Life Stress Test Stability:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Immortalis-G925 MC12, Dimensity 9400+, 1TB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+            "Immortalis-G925 MC12, Dimensity 9400+, 1TB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1:\n\n",
+            "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "The two speakers of the Xiaomi 15T Pro can get quite loud, though the sound becomes somewhat tinny at higher volumes. At lower levels, the phone delivers a more balanced audio profile.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "11% of all tested devices in this class were better, 8% similar, 81% worse\n\n",
+            "9% of all tested devices in this class were better, 7% similar, 84% worse\n\n",
+            "Wired charging is supported at up to 90 watts. Using a compatible power adapter, a full charge takes just 37 minutes (50% in 15 minutes, 80% in 27 minutes).\n\n",
+            "The combination of improved efficiency and a larger battery also results in longer runtimes. In our practical Wi-Fi test, the Xiaomi 15T Pro achieved almost 21 hours.\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Mediatek Dimensity 9400+ 8c/8t, 1 x 3.7 GHz ARM Cortex-X925, 3 x 3.3 GHz ARM Cortex-X4, 4 x 2.4 GHz ARM Cortex-A720, Cortex-X925, X4, A720",
+            "Graphics adapter:": "ARM Immortalis-G925 MC12",
+            "Memory:": "12 GB , LPDDR5x",
+            "Display:": "6.83 inch 19.49:9, 2772 x 1280 pixel 447 PPI, Capacitive Touchschreen, AMOLED, 480 Hz Touch Sampling Rate, Wet Touch, DC Dimming, glossy: yes, HDR, 144 Hz",
+            "Storage:": "1TB UFS 4.1 Flash, 1024 GB , 995.2 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Proximity, Accelerometer, Gyroscope, Electronic Compass, Flicker, Colour Temperature, OTG",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2g (850, 900, 1800, 1900 MHz), 3G (Band 1, 2, 4, 5, 6, 8, 19), LTE (Band 1, 2, 3, 4, 5, 7, 8, 12, 13, 17, 18, 19, 20, 25, 26, 28, 32, 38, 39, 40, 41, 42, 48, 66, 71), 5G-Sub6 (Band 1, 2, 3, 5, 7, 8, 12, 20, 25, 26, 28, 38, 40, 41, 48, 66, 71, 75, 77, 78), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 7.96 x 162.7 x 77.9 ( = 0.31 x 6.41 x 3.07 in)",
+            "Battery:": "5500 mAh Lithium-Ion, PD 2.0 / 3.0; Battery Cycles: 1,600",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 15",
+            "Camera:": "Primary Camera: 50 MPix (OV Light Fusion 900, f/1.62, 23 mm, OIS) + 12 MPix (OV13b, Ultra Wide, f/2.2, 15 mm) + 50 MPix (Samung JN5, f/3.0, 115 mm, OIS); Camera2-API-Level: Level 3 Secondary Camera: 32 MPix (Samsung S5KKDS, f/2.2, 21 mm)",
+            "Additional features:": "Speakers: Dual, USB Cable, SIM Tool, Case, HyperOS 2.0, 12 Months Warranty, Bluetooth Audio Codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LHDC V5 | GNSS: GPS (L1, L5), GLONASS (L1), BeiDou (B1I, B1C, B2a), Galileo (E1, E5a, E5b), QZSS (L1, L5), NavIC (L5), SBAS | HDR: HLG, HDR10, HDR10+, Dolby Vision | DRM: Widevine L1 | eSIM | IP68 | USB Copy Test: 22.38 MB/s (connected to Samsung Portable SSD T7 [USB 3.2 Gen 2]); Supported file systems for external storage: FAT32, exFAT, NTFS | Body SAR: 0.994 W/kg, Head SAR: 0.989 W/kg | Maximum charging speed: 90 W (wired) / 50 W (wireless), fanless, waterproof",
+            "Weight:": "210 g ( = 7.41 oz / 0.46 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "1000 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "89%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "94%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "80%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "79%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "85%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "75%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "87%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "72%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "97.7%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "40%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "94.5%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "57.9%"
+            }
+        ]
+    }
+}

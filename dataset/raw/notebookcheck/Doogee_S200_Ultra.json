@@ -1,0 +1,189 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Doogee S200 Ultra",
+    "article_url": "https://www.notebookcheck.net/Robust-and-durable-but-with-few-updates-if-any-Doogee-S200-Ultra-smartphone-review.1188290.0.html",
+    "verdict": {
+        "text": "With an RRP of around $549, the Doogee S200 Ultra targets competing upper mid-range outdoor smartphones. Given that positioning, it needs to deliver on features and, for the most part, it does. Alongside solid performance and a PWM-free 120 Hz display, the 6.78-inch device stands out with its AMOLED secondary display, night vision camera, dual SIM support, 5G connectivity, and a generous 1 TB of storage. The main camera also proves to be genuinely useful in practice. Whether you like the extravagant design of the S200 Ultra is a matter of taste. However, the lack of a clear update policy is a definite drawback and is difficult to reconcile with the new EU directives. The Doogee phone also falls short on sustainability, as the manufacturer has made no discernible efforts in this area.",
+        "pros": [
+            "IP68 and IP69K certification",
+            "very good runtime",
+            "fast charging with 66 watts",
+            "Reverse charging with 10 watts",
+            "Second display with always-on function",
+            "no PWM",
+            "solid SoC performance",
+            "1 TB storage, 5G & dual SIM"
+        ],
+        "cons": [
+            "heavy",
+            "dark display",
+            "unclear update situation",
+            "questionable sustainability",
+            "no DRM Widevine L1"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Anyone looking for a powerful and durable outdoor smartphone should take a closer look at the Doogee S200 Ultra. The 6.73-inch device also offers extras such as a night vision camera, a secondary display, and 1 TB of storage.\n\n",
+            "Our test examines whether these features are enough to make the Doogee S200 Ultra convincing in practice.\n\n",
+            "Even at first glance, the striking design of the Doogee S200 Ultra makes it clear that this is an outdoor smartphone. The very solidly built 383-gram heavyweight withstands high-pressure and steam cleaning in accordance with IP68 and IP69K standards and should also survive drops unscathed thanks to its MIL-STD-810H certification.\n\n",
+            "The LED lighting on the rear provides information on notifications and battery status. The small, round AMOLED touchscreen with always-on functionality can display the same information.\n\n",
+            "The mini display shows the time and calendar and allows you to launch the music player, YouTube, and the camera app. It can also be used to adjust network settings, such as activating flight mode.\n\n",
+            "The S200 Ultra offers 1 TB of internal storage, which can be expanded by up to 2 TB via a microSD card. However, the card reader did not perform well in our test.\n\n",
+            "With WiFi 6E, the Doogee S200 Ultra supports a modern WiFi communication standard and delivers fast and stable data transfers with our reference router Asus ROG Rapture GT-AXE11000.\n\n",
+            "Two nano SIM cards fit into the card slot for full dual SIM. If you want to use a microSD card, you have to give up a nano-SIM slot. eSIMs are not supported by the smartphone. In the test, the call quality is decent, but ambient noise is not suppressed.\n\n",
+            "The capacitive touchscreen responds quickly and flawlessly to inputs, as does the fingerprint sensor integrated into the power button. Biometric login is also possible using 2D facial recognition, which works just as reliably in good lighting conditions. An ERM vibration motor, which is not particularly precise, is responsible for haptic feedback.\n\n",
+            "Doogee’s outdoor smartphone runs Android 15 and does without preinstalled bloatware. However, Widevine DRM L1 is not supported, meaning copy-protected streaming content is limited to SD quality. Doogee provides no information on the duration or scope of software updates.\n\n",
+            "The manufacturer also largely ignores the issue of sustainability. The S200 Ultra’s packaging is shrink-wrapped in plastic film and includes a plastic insert. Doogee does not disclose any information on CO₂ footprint or the use of recycled materials, and the device is not designed for user self-repair.\n\n",
+            "The 32 MP selfie camera offers high resolution, but its images are not particularly color-accurate and lack fine detail.\n\n",
+            "The 100-megapixel main camera performs better and produces quite respectable photos in good lighting conditions. However, colors appear too muted, image detail becomes very blurred when using the maximum 4x digital zoom, and low-light performance is poor.\n\n",
+            "The S200 Ultra’s night vision camera is a welcome extra. It illuminates the immediate surroundings up to a distance of around 5 meters and produces a bright image up to about 2 meters, allowing for reliable orientation in the dark.\n\n",
+            "The S200 Ultra can also record 4K video in acceptable quality, albeit limited to 30 frames per second, with no noticeable image stabilization and relatively slow autofocus.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The IPS display runs at up to 120 Hz and supports HDR. However, its low brightness limits any real benefit, as the panel reached only 418 cd/m² in our test. Contrast, uniformity, and color accuracy are also underwhelming. On the plus side, the display does not use PWM for brightness control.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7898 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 53 % of all devices are better.\n\n",
+            "This means that the measured response time is worse than the average of all tested devices (20 ms).\n\n",
+            "The screen shows slow response rates in our tests and will be unsatisfactory for gamers.\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 45 % of all devices are better.\n\n",
+            "This means that the measured response time is similar to the average of all tested devices (31.2 ms).\n\n",
+            ", the S200 Ultra relies on a solid mid-range processor. In our test configuration, the eight-core SoC is paired with 12 GB of RAM and delivers good system performance, with virtually no stuttering in everyday use. The\n\n",
+            "Under sustained load, surface temperatures can rise to over 46 °C, but this remains thermally uncritical. Accordingly, the 3DMark stress tests show that the S200 Ultra exhibits virtually no performance throttling.\n\n",
+            "The bottom-firing speaker can get quite loud, but sounds heavily biased toward the treble at higher volumes. At medium volume, it delivers a relatively balanced sound. USB-C and Bluetooth are available for external audio output.\n\n",
+            "One of the S200 Ultra’s highlights is its 11,000 mAh silicon-anode battery. Thanks to this XXL capacity, the smartphone achieved an excellent runtime of nearly 30 hours in the Wi-Fi test. Charging is also comparatively fast.\n\n",
+            "In our test, the battery was fully recharged in 1 hour and 18 minutes using the included 66-watt power adapter. The S200 Ultra can also be used as a power bank, as it supports reverse charging at up to 10 watts.\n\n",
+            "Power Supply (max.) 29.8 °C = 86 F | Room Temperature 21.2 °C = 70 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "Power Supply (max.) 23.9 °C = 75 F | Room Temperature 22 °C = 72 F | Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 41 °C / 106 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 46.5 °C / 116 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 39.2 °C / 103 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 25.8 °C / 78 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Adreno 810, SD 7s Gen 3, 128 GB UFS 2.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Mali-G615 MP2, Dimensity 7400X, 1 TB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 810, SD 7s Gen 3, 128 GB UFS 2.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Mali-G615 MP2, Dimensity 7400X, 1 TB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "10% of all tested devices in this class were better, 8% similar, 82% worse\n\n",
+            "17% of all tested devices in this class were better, 9% similar, 74% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "MediaTek Dimensity 7400X 8c/8t, 4 x 2.6 GHz ARM Cortex-A78, 4 x 2.0 GHz ARM Cortex-A55, Cortex-A78 / A55",
+            "Graphics adapter:": "ARM Mali-G615 MP2",
+            "Memory:": "12 GB",
+            "Display:": "6.72 inch 20:9, 2400 x 1080 pixel 392 PPI, capacitive touchscreen, IPS, 2nd screen on back cover: 1.32\" AMOLED display, 60 Hz, glossy: yes, HDR, 120 Hz",
+            "Storage:": "1 TB UFS 3.1 Flash, 1024 GB , 979 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: USB-C, Card Reader: microSD up to 2 TB (exFAT support), 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Accelerometer, Proximity, Magnetometer, Gyroscope, USB-OTG",
+            "Networking:": "Wi-Fi 6E (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz), Bluetooth 5.2, 2G (Band 2/3/5/8), 3G (Band 1/2/4/5/8), 4G (Band 1/2/3/4/5/7/8/12/17/18/19/20/25/26/28/34/38/39/40/41/66), 5G (Band N1/N3/N7/N8/N28/N38/N41/N77/N78/N79), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 19.1 x 179.5 x 82.5 ( = 0.75 x 7.07 x 3.25 in)",
+            "Battery:": "11000 mAh Silicon-Carbon, 66W max. charing speed, 10W reverse charging",
+            "Charging:": "fast charging / Quickcharge",
+            "Operating System:": "Android 15",
+            "Camera:": "Primary Camera: 100 MPix (f/1.8, PDAF, LED Flash, 78.6° FOV) + 20 MP night vision (f/1.8, 78.1° FOV) + 2 MP macro (f/2.4, 80.1° FOV), video recording up to 4K@30fps Secondary Camera: 32 MPix (f.2.25, FF, 80.4° FOV)",
+            "Additional features:": "Speakers: single speaker, Keyboard: virtual, USB-C cable, charger, protective film (pre-applied), additional protective film, user guide, warrany card, 12 Months Warranty, unibody metal design; HDR support: HDR10, HDR10+, HLG, GPS: GPS, Glonass, Galileo, Beidou; IP68 / IP69K / MIL-STD-810H; Bluetooth codecs: SBC, AAC, LDAC; Head SAR 0.453 W/kg, Body SAR 1.597 W/kg, fanless, ruggedized, waterproof",
+            "Weight:": "383 g ( = 13.51 oz / 0.84 pounds), Power Supply: 107 g ( = 3.77 oz / 0.24 pounds)",
+            "Price:": "629 US-Dollar"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "76%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "71%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "85%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "95%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "74%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "29%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "58%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "59%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "0%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "0%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "93.6%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "93.6%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "20%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "11.3%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "20.8%"
+            }
+        ]
+    }
+}

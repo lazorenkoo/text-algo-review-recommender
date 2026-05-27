@@ -1,0 +1,193 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Samsung Galaxy A06",
+    "article_url": "https://www.notebookcheck.net/Affordable-Galaxy-makes-the-most-of-its-budget-Samsung-Galaxy-A06-smartphone-review.1096613.0.html",
+    "verdict": {
+        "text": "For very little money, the Samsung Galaxy A06 offers a fairly sturdy and well-designed plastic casing, a fingerprint sensor, a screen with a brightness of around 500 cd/m² without PWM flickering and runtimes that will get you through the day. Unfortunately, you also have to do without some things: there is no NFC for wireless payment, the performance is not always sufficient for smooth operation and you also have to put up with a blue cast in the color display on the screen. The cameras are OK for quick snapshots, but the autofocus is often overwhelmed when filming. At least Samsung also provides Android 16 and security updates until 2029 for its very affordable smartphone.",
+        "pros": [
+            "very affordable",
+            "4 years of updates",
+            "reasonably bright display",
+            "no PWM flickering",
+            "good battery life",
+            "sturdy plastic casing",
+            "integrated fingerprint sensor",
+            "decent front camera",
+            "low heating",
+            "packaging without plastic"
+        ],
+        "cons": [
+            "no NFC",
+            "weak SoC performance",
+            "waiting times during operation",
+            "low resolution 1600×720",
+            "only 60 Hz",
+            "blue cast for colors",
+            "moderate main camera",
+            "weak autofocus for video",
+            "no 5G"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "With a budget of just 90 Euros (~$105), even Samsung can't do magic. Nevertheless, the Galaxy A06 is housed in a relatively sturdy plastic casing with a metal-look frame and a slightly textured and reflective back.\n\n",
+            "The smartphone is available in dark blue, white, yellow and light blue.\n\n",
+            "Our model comes with 4 GB RAM and 64 GB mass storage. Depending on the country, models with 6 GB RAM and/or 128 GB mass storage are also possible. Unfortunately, the Galaxy A06 does not support NFC, so contactless payment is not possible. Samsung Pay is nevertheless installed, allowing you to pay by QR code in some countries.\n\n",
+            "You can use two SIM cards at the same time and also insert a microSD card. The reader works at an average speed.\n\n",
+            "You have to do without 5G on this very inexpensive cell phone and in the 4G range you have to check whether you can use the mobile Internet when traveling abroad: Many frequencies are not supported.\n\n",
+            "Due to the relatively slow SoC, there are always waiting times and slow reactions when using the device, but the touchscreen recognizes touches accurately.\n\n",
+            "A fingerprint sensor is integrated into the standby button, which unlocks the phone after a short wait. Face recognition via the front camera is also possible and works well.\n\n",
+            "The Samsung Galaxy A06 was actually delivered with Android 14, but there is now an update to Android 15. This has to be deducted from Samsung's update promise, but in this price range it's still a good proposition, considering some phones never receive a single Android OS version update. You can still expect Andorid 16 and a total of four years of security updates here, i.e. until 2029.\n\n",
+            "Despite the low price, the packaging is plastic-free. Samsung usually provides a wide range of repair manuals and spare parts for private users, but there is no certainty regarding that with the Galaxy A06 as it is missing from the respective European databases.\n\n",
+            "You can't expect a top camera in a cell phone for under 100 Euros (~$116), but the main camera in the Galaxy A06 is at least good for snapshots. On a superficial view, the pictures look quite decent, at best a little dull in terms of color reproduction. A closer look reveals a lack of dynamics and sharpness of detail.\n\n",
+            "In very low light in the lab, only rough details can be made out. The second camera on the back only serves as support for the depth of field and cannot take its own pictures.\n\n",
+            "There is an 8-megapixel camera at the front for selfies. We like the resulting pictures quite well, even when enlarged.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The screen has to make do with a low resolution of 1,600 x 720 pixels. A frame rate of more than 60 Hz is also not possible.\n\n",
+            "However, the brightness is comparatively high and, at 450 - 505 cd/m² at its peak, is still suitable for cloudy days outdoors. However, you have to live with a clear blue cast in the color reproduction.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 47 % of all devices are better.\n\n",
+            "This means that the measured response time is similar to the average of all tested devices (20 ms).\n\n",
+            "The screen shows slow response rates in our tests and will be unsatisfactory for gamers.\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 50 % of all devices are better.\n\n",
+            "This means that the measured response time is worse than the average of all tested devices (31.2 ms).\n\n",
+            "SoC does not offer any major performance reserves and often falters in everyday use. However, other phones in this price range don't do any better and the Galaxy A06 can even score a few more points in the benchmarks from time to time. However, the smartphone is unsuitable for demanding apps.\n\n",
+            "There is hardly any noticeable warming of the casing even after long periods of load and the performance is maintained in the stress tests.\n\n",
+            "The small speaker achieves a reasonable volume, but sounds clearly treble-heavy. The sound is still reasonably acceptable, but fans of good music will prefer to connect speakers or headphones. This can be done via USB or Bluetooth. Apart from Samsung's own codec, there are hardly any Hi-Res versions available for wireless audio transmission.\n\n",
+            "The speaker has a capacity of 5,000 mAh and can be recharged with up to 25 watts. This takes less than 2 hours. In our Wi-Fi test, the smartphone achieved a decent 15:33 hours, which should get you through the day even with frequent use.\n\n",
+            "Power Supply (max.) 42.3 °C = 108 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 36.7 °C = 98 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 36.5 °C / 98 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 39.6 °C / 103 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 40.7 °C / 105 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 26.5 °C / 80 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "68% of all tested devices in this class were better, 5% similar, 27% worse\n\n",
+            "74% of all tested devices in this class were better, 5% similar, 21% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Mediatek Helio G85 8c/8t 8 x 1.8 - 2 GHz, Cortex-A75 / A55",
+            "Graphics adapter:": "ARM Mali-G52 MP2",
+            "Memory:": "4 GB",
+            "Display:": "6.70 inch 20:9, 1600 x 720 pixel 262 PPI, capacitive touchscreen, IPS, glossy: yes, 60 Hz",
+            "Storage:": "64 GB eMMC Flash, 64 GB , 50 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: 3.5mm, Card Reader: microSD (up to 1 TB), 1 Fingerprint Reader, Brightness Sensor, Sensors: accelerometer, proximity, compass",
+            "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.3, 2G (850/​900/​1800/​1900), 3G (B1/​B5/​B8), 4G (B1/​B3/​B5/​B7/​B8/​B20/​B28/​B38/​B40/​B41), Dual SIM, LTE, GPS",
+            "Size:": "height x width x depth (in mm): 8 x 167.3 x 77.3 ( = 0.31 x 6.59 x 3.04 in)",
+            "Battery:": "5000 mAh Lithium-Polymer, 25 Watt charging",
+            "Charging:": "fast charging / Quickcharge",
+            "Operating System:": "Android 15",
+            "Camera:": "Primary Camera: 50 MPix f/​1.8, phase comparison-AF, LED-flash, Videos @1080p/​30fps (Camera 1); 2.0MP, f/​2.4, depth of field (Camera 2) Secondary Camera: 8 MPix f/​2.0, Videos @1080p/​30fps",
+            "Additional features:": "Speakers: mono speaker, USB cable, SIM tool, 24 Months Warranty, SAR: 0.44W/​kg Head, 1.08W/​kg Body, 2 operating system updates, 4 years security updates, fanless",
+            "Weight:": "189 g ( = 6.67 oz / 0.42 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "90 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "77%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "83%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "54%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "89%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "75%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "6%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "55%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "20%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "72%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "10%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "10%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "95%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "38.3%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "38.3%"
+            }
+        ]
+    }
+}

@@ -1,0 +1,348 @@
+{
+    "phone_key": "oukitel_wp60",
+    "primary_name": "Oukitel WP60",
+    "aliases": [
+        "Oukitel WP60"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Oukitel WP60",
+                "article_url": "https://www.notebookcheck.net/One-of-the-largest-smartphone-displays-of-all-time-Oukitel-WP60-smartphone-review.1155791.0.html",
+                "verdict": {
+                    "text": "With the Oukitel WP60, you will definitely stand out. Whether it's the massive metal chassis in cyberpunk or Transformers style or the night vision camera, which allows you to take pictures even in complete darkness. Although the large 10,000 mAh battery delivers what it promises and far exceeds the runtimes of other outdoor phones, the battery life of just under 24 hours is not quite as impressive compared to top phones with a significantly smaller battery. You get a stable phone that has its heating under control, but you shouldn't expect too much power from the SoC. The screen is quite bright, which is good for sunny days. The cameras take decent pictures, but you shouldn't have too high expectations here either. All in all, a decent outdoor phone with eye-catching qualities.",
+                    "pros": [
+                        "long operating times",
+                        "IP68/69K protection",
+                        "Night vision camera",
+                        "robust metal housing...",
+                        "...with striking design",
+                        "quite high display brightness",
+                        "no PWM"
+                    ],
+                    "cons": [
+                        "relatively heavy",
+                        "low screen resolution",
+                        "rather weak SoC",
+                        "unclear software update duration",
+                        "only average reception"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Performance, emissions and battery life - little power for a long time\n\n",
+                        "The manufacturer has come up with a few design ideas for the Oukitel WP60: Although it also has the visible screws found on many other outdoor smartphones, the back is made of metal and has subtle stripes that refract the light. The camera bezels look like screw nuts and the buttons on the side also have an octagonal design.\n\n",
+                        "Especially in the yellow color variant, the phone is reminiscent of the Autobot Bumblebee from Transformers or the look of the game Cyberpunk 2077. The black and silver color variants are somewhat more subtle.\n\n",
+                        "At 360 grams, the phone is no lightweight, but at 7.2 inches it also offers a huge screen. It is protected against dust and water in accordance with IP68/69K and can therefore also be taken on shallow dives in fresh water.\n\n",
+                        "NFC for mobile payments is on board. If you give up one of the two SIM slots, you can also insert a microSD card. The reader works at a medium speed.\n\n",
+                        "The Oukitel WP60 cannot use the 6 GHz network for Wi-Fi connections. With Wi-Fi 5 you get standard speeds between 250 and 360 Mbps. These are achieved quite stably.\n\n",
+                        "There are many mobile phone bands available, so you can often use the phone for mobile Internet even when traveling. The reception is only average, perhaps the robust metal housing has a negative effect here.\n\n",
+                        "The large buttons can be felt accurately and the touchscreen can be operated precisely. There is also a fingerprint sensor on the right in the standby button. However, this is difficult for left-handers to reach with their index finger due to the size of the phone. It recognizes a fingerprint very quickly and reliably.\n\n",
+                        "Android 15 is pre-installed and is only minimally modified by the manufacturer. The security updates are from October 2025 at the time of testing and are therefore very up-to-date.\n\n",
+                        "There is also no information on sustainability. Oukitel does not use plastic for the packaging either.\n\n",
+                        "The 108-megapixel main camera takes decent photos, which can also be enlarged a little. A macro camera provides some flexibility, but it has a very low resolution and is therefore only suitable for snapshots.\n\n",
+                        "The real highlight, however, is the night vision camera with up to 8 megapixels. It uses an infrared diode on the back to take black and white photos in decent quality at a distance of up to 10 meters, even in complete darkness. This is particularly useful for observing animals or as a night vision device via the screen.\n\n",
+                        "There is a 32-megapixel selfie camera at the front, which takes reasonably detailed pictures. However, the dynamics and color selection are only moderately accurate.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "Outside of flip phones, we have rarely had a cell phone screen this large in the test lab: The Oukitel WP60 offers a 7.2-inch display and therefore a very large screen area.\n\n",
+                        "However, the resolution is very low at 1,560 x 720 pixels, resulting in a somewhat coarse image impression.\n\n",
+                        "The maximum brightness of around 700 cd/m² is good and is also sufficient on bright days.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "The screen shows slow response rates in our tests and will be unsatisfactory for gamers.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 90 % of all devices are better.\n\n",
+                        "This means that the measured response time is worse than the average of all tested devices (20 ms).\n\n",
+                        "The screen shows relatively slow response rates in our tests and may be too slow for gamers.\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 38 % of all devices are better.\n\n",
+                        "This means that the measured response time is similar to the average of all tested devices (31.2 ms).\n\n",
+                        "SoC is not the best choice because it is not incredibly fast. It usually manages to avoid stutters in everyday use, but waiting times occur during more demanding activities.\n\n",
+                        "Many modern graphics standards are also not supported, which means that some games do not run at all or only in greatly reduced quality. On the other hand, the casing hardly heats up at all.\n\n",
+                        "The small speaker on the bottom edge does a decent job and can get relatively loud at over 87 dB(A). The most important Bluetooth audio codecs are also available for wireless audio transmission.\n\n",
+                        "The huge 10,000 mAh battery makes the Oukitel WP60 the ideal companion for trips away from the power grid: In our practical WLAN test, it enabled runtimes of almost 24 hours. This means you can even bridge several days without a power outlet.\n\n",
+                        "The battery can be charged with up to 33 watts, resulting in maximum charging times of just under 3 hours.\n\n",
+                        "Power Supply (max.) 43.2 °C = 110 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 35.9 °C = 97 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 35.7 °C / 96 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 41.1 °C / 106 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 39.4 °C / 103 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "33% of all tested devices in this class were better, 9% similar, 58% worse\n\n",
+                        "8% of all tested devices in this class were better, 5% similar, 86% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "MediaTek Dimensity 7025 8c/8t, 2 x 2.5 GHz ARM Cortex-A78, 6 x 2.0 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                        "Graphics adapter:": "IMG BXM-8-256",
+                        "Memory:": "16 GB",
+                        "Display:": "7.20 inch 19.5:9, 1560 x 720 pixel 239 PPI, capacitive touchscreen, IPS, Gorilla Glass 5, glossy: yes, 120 Hz",
+                        "Storage:": "512 GB UFS 2.2 Flash, 512 GB , 498 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: audio via USB, Card Reader: microSD, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: G-sensor, proximity, gyroscope, compass",
+                        "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.2, 2G (Band 850/900/1800/1900 MHz), 3G (Band 1/2/4/5/6/8/19), 4G (Band 1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/38/40/41/42/48/66), 5G (Band 1/2/3/5/7/8/12/20/26/28/38/40/41/48/66/77/78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 14.9 x 184 x 87 ( = 0.59 x 7.24 x 3.43 in)",
+                        "Battery:": "10000 mAh Lithium-Polymer, 33 Watt, reverse charge",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 108 MPix 1/1.8'', LED flash, videos @4K 30fps (camera 1), 2 Megapixels, macro camera, 1/1.5'' (camera 2), 8 Megapixels, night vision, 1/1.78'', infrared diode (camera 3) Secondary Camera: 32 MPix 1/2.74'', videos@ 2K 30fps",
+                        "Additional features:": "Speakers: mono speaker, charger, USB cable, IP68/ IP69K certified, MIL-STD-810H certified, fanless, ruggedized, waterproof",
+                        "Weight:": "360 g ( = 12.7 oz / 0.79 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "699 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "86%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "60%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "85%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Display",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "13%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "70%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "14%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "78%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "58%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "5%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "5%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "20%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "6%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "6%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "14.3%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "14.3%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "long operating times",
+            "IP68/69K protection",
+            "Night vision camera",
+            "robust metal housing...",
+            "...with striking design",
+            "quite high display brightness",
+            "no PWM"
+        ],
+        "cons": [
+            "relatively heavy",
+            "low screen resolution",
+            "rather weak SoC",
+            "unclear software update duration",
+            "only average reception"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "MediaTek Dimensity 7025 8c/8t, 2 x 2.5 GHz ARM Cortex-A78, 6 x 2.0 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                "Graphics adapter:": "IMG BXM-8-256",
+                "Memory:": "16 GB",
+                "Display:": "7.20 inch 19.5:9, 1560 x 720 pixel 239 PPI, capacitive touchscreen, IPS, Gorilla Glass 5, glossy: yes, 120 Hz",
+                "Storage:": "512 GB UFS 2.2 Flash, 512 GB , 498 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: audio via USB, Card Reader: microSD, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: G-sensor, proximity, gyroscope, compass",
+                "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.2, 2G (Band 850/900/1800/1900 MHz), 3G (Band 1/2/4/5/6/8/19), 4G (Band 1/2/3/4/5/7/8/12/13/17/18/19/20/26/28/32/38/40/41/42/48/66), 5G (Band 1/2/3/5/7/8/12/20/26/28/38/40/41/48/66/77/78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 14.9 x 184 x 87 ( = 0.59 x 7.24 x 3.43 in)",
+                "Battery:": "10000 mAh Lithium-Polymer, 33 Watt, reverse charge",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 108 MPix 1/1.8'', LED flash, videos @4K 30fps (camera 1), 2 Megapixels, macro camera, 1/1.5'' (camera 2), 8 Megapixels, night vision, 1/1.78'', infrared diode (camera 3) Secondary Camera: 32 MPix 1/2.74'', videos@ 2K 30fps",
+                "Additional features:": "Speakers: mono speaker, charger, USB cable, IP68/ IP69K certified, MIL-STD-810H certified, fanless, ruggedized, waterproof",
+                "Weight:": "360 g ( = 12.7 oz / 0.79 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "699 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "86%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "60%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "85%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Display",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "13%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "70%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "14%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "78%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "58%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "5%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "5%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "20%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "6%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "6%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "14.3%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "14.3%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/One-of-the-largest-smartphone-displays-of-all-time-Oukitel-WP60-smartphone-review.1155791.0.html",
+                "text": "With the Oukitel WP60, you will definitely stand out. Whether it's the massive metal chassis in cyberpunk or Transformers style or the night vision camera, which allows you to take pictures even in complete darkness. Although the large 10,000 mAh battery delivers what it promises and far exceeds the runtimes of other outdoor phones, the battery life of just under 24 hours is not quite as impressive compared to top phones with a significantly smaller battery. You get a stable phone that has its heating under control, but you shouldn't expect too much power from the SoC. The screen is quite bright, which is good for sunny days. The cameras take decent pictures, but you shouldn't have too high expectations here either. All in all, a decent outdoor phone with eye-catching qualities.\nlong operating times\nIP68/69K protection\nNight vision camera\nrobust metal housing...\n...with striking design\nquite high display brightness\nno PWM\nrelatively heavy\nlow screen resolution\nrather weak SoC\nunclear software update duration\nonly average reception\nPerformance, emissions and battery life - little power for a long time\nThe manufacturer has come up with a few design ideas for the Oukitel WP60: Although it also has the visible screws found on many other outdoor smartphones, the back is made of metal and has subtle stripes that refract the light. The camera bezels look like screw nuts and the buttons on the side also have an octagonal design.\nEspecially in the yellow color variant, the phone is reminiscent of the Autobot Bumblebee from Transformers or the look of the game Cyberpunk 2077. The black and silver color variants are somewhat more subtle.\nAt 360 grams, the phone is no lightweight, but at 7.2 inches it also offers a huge screen. It is protected against dust and water in accordance with IP68/69K and can therefore also be taken on shallow dives in fresh water.\nNFC for mobile payments is on board. If you give up one of the two SIM slots, you can also insert a microSD card. The reader works at a medium speed.\nThe Oukitel WP60 cannot use the 6 GHz network for Wi-Fi connections. With Wi-Fi 5 you get standard speeds between 250 and 360 Mbps. These are achieved quite stably.\nThere are many mobile phone bands available, so you can often use the phone for mobile Internet even when traveling. The reception is only average, perhaps the robust metal housing has a negative effect here.\nThe large buttons can be felt accurately and the touchscreen can be operated precisely. There is also a fingerprint sensor on the right in the standby button. However, this is difficult for left-handers to reach with their index finger due to the size of the phone. It recognizes a fingerprint very quickly and reliably.\nAndroid 15 is pre-installed and is only minimally modified by the manufacturer. The security updates are from October 2025 at the time of testing and are therefore very up-to-date.\nThere is also no information on sustainability. Oukitel does not use plastic for the packaging either.\nThe 108-megapixel main camera takes decent photos, which can also be enlarged a little. A macro camera provides some flexibility, but it has a very low resolution and is therefore only suitable for snapshots.\nThe real highlight, however, is the night vision camera with up to 8 megapixels. It uses an infrared diode on the back to take black and white photos in decent quality at a distance of up to 10 meters, even in complete darkness. This is particularly useful for observing animals or as a night vision device via the screen.\nThere is a 32-megapixel selfie camera at the front, which takes reasonably detailed pictures. However, the dynamics and color selection are only moderately accurate.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nOutside of flip phones, we have rarely had a cell phone screen this large in the test lab: The Oukitel WP60 offers a 7.2-inch display and therefore a very large screen area.\nHowever, the resolution is very low at 1,560 x 720 pixels, resulting in a somewhat coarse image impression.\nThe maximum brightness of around 700 cd/m² is good and is also sufficient on bright days.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nThe screen shows slow response rates in our tests and will be unsatisfactory for gamers.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 90 % of all devices are better.\nThis means that the measured response time is worse than the average of all tested devices (20 ms).\nThe screen shows relatively slow response rates in our tests and may be too slow for gamers.\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 38 % of all devices are better.\nThis means that the measured response time is similar to the average of all tested devices (31.2 ms).\nSoC is not the best choice because it is not incredibly fast. It usually manages to avoid stutters in everyday use, but waiting times occur during more demanding activities.\nMany modern graphics standards are also not supported, which means that some games do not run at all or only in greatly reduced quality. On the other hand, the casing hardly heats up at all.\nThe small speaker on the bottom edge does a decent job and can get relatively loud at over 87 dB(A). The most important Bluetooth audio codecs are also available for wireless audio transmission.\nThe huge 10,000 mAh battery makes the Oukitel WP60 the ideal companion for trips away from the power grid: In our practical WLAN test, it enabled runtimes of almost 24 hours. This means you can even bridge several days without a power outlet.\nThe battery can be charged with up to 33 watts, resulting in maximum charging times of just under 3 hours.\nPower Supply (max.) 43.2 °C = 110 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 35.9 °C = 97 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 35.7 °C / 96 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 41.1 °C / 106 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 39.4 °C / 103 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n33% of all tested devices in this class were better, 9% similar, 58% worse\n8% of all tested devices in this class were better, 5% similar, 86% worse"
+            }
+        ]
+    }
+}

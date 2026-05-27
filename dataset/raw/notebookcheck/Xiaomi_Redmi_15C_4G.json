@@ -1,0 +1,178 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Xiaomi Redmi 15C 4G",
+    "article_url": "https://www.notebookcheck.net/Xiaomi-Redmi-15C-4G-smartphone-review-Ideal-second-phone-with-120-Hz-display-audio-jack.1147375.0.html",
+    "verdict": {
+        "text": "The Xiaomi Redmi 15C 4G does not exceed the class standard in terms of cameras, speakers, performance and casing quality. In view of the low price on the internet in some cases, you shouldn't expect much. When it comes to runtimes, however, with 21 hours in our WLAN test, you get enough freedom to use your phone for several days without charging. On top of this, it charges quite quickly, has a precise touchscreen and a long update promise until 2031. If you only use your smartphone for simple, standard tasks or are looking for a second phone with a large screen and long battery life, the Xiaomi Redmi 15C 4G is a decent choice.",
+        "pros": [
+            "PWM-free 120Hz screen",
+            "long runtimes",
+            "fast charging",
+            "3.5mm headphone jack",
+            "NFC and fingerprint sensor",
+            "Update promise until 2031"
+        ],
+        "cons": [
+            "Plastic housing warps easily",
+            "moderate camera quality",
+            "limited performance",
+            "treble-heavy speaker",
+            "no eSIM",
+            "$130.66"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Xiaomi wraps its affordable Redmi 15C 4G in plastic and offers different color variants: black and mint green with a plain back as well as blue and orange with a wavy pattern that is also slightly iridescent.\n\n",
+            "You shouldn't have too high expectations when it comes to stability: The phone is easy to twist and then creaks noticeably.\n\n",
+            "the design has changed, in particular the formerly round camera module has now moved to the side and become more square. At 211 grams, the Redmi 15C is not too heavy.\n\n",
+            "On the front, the low price is noticeable due to the wide chin below the screen and the waterdrop notch, but at least the screen is protected by Gorilla Glass 3.\n\n",
+            "NFC for mobile payments is on board and you can use two SIM cards at the same time, but no eSIM. There is a separate slot for a microSD card, which is written to and read by the reader reasonably quickly.\n\n",
+            "Mobile networks can be contacted via the LTE standard, for which all the necessary frequencies are available. When traveling abroad, however, you should check in advance whether the required frequencies are supported.\n\n",
+            "The touchscreen is very responsive with up to 240 Hz sampling rate and 120 Hz frame rate and can be operated reliably. A fingerprint sensor is built into the standby button on the right-hand side, which unlocks the smartphone after a short wait. Face unlocking is also possible.\n\n",
+            "HyperOS 2 is the name of the phone's user interface, which is based on Android 15. The security patches date from August 2025 and are therefore somewhat older at the time of testing. However, Xiaomi promises updates until 2031, i.e. 6 years from launch, as well as at least two new Android versions.\n\n",
+            "The manufacturer is keeping a low profile when it comes to the sustainability of the device. In Europe you can go to\n\n",
+            "to find out the approximate prices of spare parts and the packaging is largely plastic-free.\n\n",
+            "While the predecessor still had four cut-outs for camera lenses on the back, this time Xiaomi has become more honest and only placed the two there that are actually being used.\n\n",
+            "However, only the main camera can shoot pictures. It has a resolution of 50 megapixels and takes rather mediocre photos overall. In view of the price range, however, the sharpness in low light is quite okay.\n\n",
+            "There is even a slight downgrade in the front camera compared to the Redmi 14C: the new phone only has an 8-megapixel sensor. The camera takes quite acceptable selfies, but shows a visible blue cast, which distorts faces in particular.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "At 1,600 x 702 pixels, the resolution of the 6.9-inch screen is at class level. However, with only 254 PPI, the display appears somewhat coarse.\n\n",
+            "The brightness of 526 cd/m² at maximum with full white is quite good. This means that the phone can also be used outdoors on cloudy days.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 40 % of all devices are better.\n\n",
+            "This means that the measured response time is similar to the average of all tested devices (20 ms).\n\n",
+            "The screen shows slow response rates in our tests and will be unsatisfactory for gamers.\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 41 % of all devices are better.\n\n",
+            "This means that the measured response time is similar to the average of all tested devices (31.2 ms).\n\n",
+            "an SoC with a maximum clock speed of 2 GHz is used. It does not always achieve smooth system operation and is also not ideal for AI calculations. Overall, however, it is on a par with similarly priced devices and is sufficiently fast for simple tasks.\n\n",
+            "There are no advantages for the Redmi 15C 4G in terms of memory: The eMMC flash ensures rather long loading times and relatively slow data transfers.\n\n",
+            "The heat build-up on the casing is never critical. Even after prolonged load, the processor remains similarly powerful, as the 3DMark stress tests show us.\n\n",
+            "The mono speaker on the bottom edge of the phone can get quite loud, but is very treble-heavy and therefore sounds quite thin. External audio devices can be connected via a 3.5mm audio jack or via Bluetooth. There are not many exotic Bluetooth audio codecs, but the most common variants are available.\n\n",
+            "The battery has grown significantly to 6,000 mAh. Great runtimes of up to 21 hours are possible in our WLAN test. The Redmi 15C 4G clearly beats other similarly priced phones. The phone can be charged with up to 33 watts, and a full charging cycle takes just over 2 hours.\n\n",
+            "Power Supply (max.) 41.6 °C = 107 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 39.2 °C = 103 F | Room Temperature 39.5 °C = 103 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 36.1 °C / 97 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 43.3 °C / 110 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 41.5 °C / 107 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 24.7 °C / 76 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "68% of all tested devices in this class were better, 5% similar, 26% worse\n\n",
+            "68% of all tested devices in this class were better, 5% similar, 27% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Mediatek Helio G81 Ultra 8c/8t, 2 x 2.0 GHz ARM Cortex-A75, 6 x 2.0 GHz ARM Cortex-A55, Cortex-A75 / A55",
+            "Graphics adapter:": "ARM Mali-G52 MP2",
+            "Memory:": "4 GB",
+            "Display:": "6.90 inch 20:9, 1600 x 720 pixel 254 PPI, capacitive touchscreen, IPS, Gorilla Glass 3, glossy: yes, 120 Hz",
+            "Storage:": "128 GB eMMC Flash, 128 GB , 102 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: 3.5mm audio port, Card Reader: microSD slot (dedicated, up to 1TB) , 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration sensor, compass",
+            "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.4, 2G (850/​900/​1800/​1900), 3G (B1/​B5/​B8), 4G (B1/​B3/​B5/​B7/​B8/​B20/​B28/​B38/​B40/​B41), Dual SIM, LTE, GPS",
+            "Size:": "height x width x depth (in mm): 8.2 x 173.2 x 81.1 ( = 0.32 x 6.82 x 3.19 in)",
+            "Battery:": "6000 mAh Lithium-Ion, 33 Watt charging",
+            "Charging:": "fast charging / Quickcharge",
+            "Operating System:": "Android 15",
+            "Camera:": "Primary Camera: 50 MPix f/​1.8, phase comparison-AF, LED-flash, Videos @1080p/​30fps Secondary Camera: 8 MPix f/​2.0, Videos @1080p/​30fps",
+            "Additional features:": "Speakers: mono speaker, USB cable, SIM tool, bumper, 12 Months Warranty, FM radio; SAR: 0.851W/​kg Head, 0.941W/​kg Body, IP 64 certified, fanless",
+            "Weight:": "211 g ( = 7.44 oz / 0.47 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "150 Euro Amazon $130.66"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "82%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "59%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "81%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "5%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "55%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "78%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "11%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "11%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "11%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "83.3%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "39.9%"
+            }
+        ]
+    }
+}

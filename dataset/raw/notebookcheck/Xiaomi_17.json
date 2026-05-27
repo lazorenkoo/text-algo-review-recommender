@@ -1,0 +1,234 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Xiaomi 17",
+    "article_url": "https://www.notebookcheck.net/Xiaomi-17-review-A-compact-Android-smartphone-heralding-a-new-era.1150243.0.html",
+    "verdict": {
+        "text": "Xiaomi's latest generation of smartphones not only ushers in a new device naming era but also makes battery life issues a thing of the past for compact smartphones. Despite its relatively thin and light case, this dinky high-end phone delivered excellent battery life in our tests, and promised several days of everyday use. In addition, the energy-efficient Snapdragon 8 Elite Gen 5 also contributes to the top-notch battery performance, and although the Qualcomm chipset is extremely powerful, Xiaomi seems to be unable to fully utilize its potential due to thermal issues, particularly with the graphics chip. Apart from that, there's not much we can criticize. The Xiaomi 17 offers a thoroughly successful complete package. Anyone who can't wait for the global version and can live with the Chinese version's restrictions (no Android Auto, no eSIM, etc.) will get their hands on one of the best smartphones currently available in a compact form factor. All rounded off by an attractive price as well as a wide range of frequency options.",
+        "pros": [
+            "premium case",
+            "compact despite its XXL battery",
+            "bright display",
+            "excellent speakers",
+            "good main camera",
+            "fast SoC..."
+        ],
+        "cons": [
+            "... with throttling",
+            "high-level waste heat",
+            "availability currently limited to China",
+            "lack of transparency"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Input devices and operation - A compact phone with an ultrasound fingerprint sensor\n\n",
+            "Xiaomi is now on par with Apple due to the Chinese manufacturer's latest flagship smartphone series catching up with the current iPhone generation. The\n\n",
+            "successor now bears the name Xiaomi 17 and promises to deliver a truly flagship experience in a compact form factor.\n\n",
+            "The spec sheet promises several significant upgrades over its predecessor. Above all, this compact flagship phone's battery capacity takes things to a whole new level, and the new\n\n",
+            "With its screen diagonal measuring 6.3 inches, the Xiaomi 17 is one of the most compact high-end smartphones on the market, and at approximately 8 millimeters thick and tipping the scales at only 191 grams, it's slightly thinner and weighs the same as its\n\n",
+            ". Nevertheless, the battery has grown significantly and now has a capacity of 7,000 mAh, while the comparably compact but considerably heavier\n\n",
+            "The Xiaomi 17 boasts impressive build quality right across the board. The unibody aluminum frame and glass back feel premium to the touch. The matte surfaces help fingerprints remain visually discreet. Furthermore, the Xiaomi 17 is IP68 certified, offering excellent protection against dust and water.\n\n",
+            "The screen bezels are very slim on all four sides, and this results in a remarkable screen-to-body ratio of 89.5 percent. The OLED display is protected by Dragon Crystal Glass, which is also known internationally as Xiaomi Shield Glass.\n\n",
+            "The Xiaomi 17 comes in various configurations, with the base model starting with 12 GB of LPDDR5X RAM and 256 GB of fast UFS 4.1 storage. Users with higher storage requirements need look no further than the top-of-the-line version, which offers 1 TB of storage and 16 GB of RAM.\n\n",
+            "This compact high-end phone features a USB 3.2 Gen 1 port, which not only enables fast data transfer but also supports USB OTG and wired video output. The included Miracast allows the Xiaomi smartphone to connect wirelessly to a display.\n\n",
+            "An infrared transmitter and NFC are on board for contactless payments as well as controlling compatible devices. However, the Xiaomi 17 lacks the UWB support, seen in the\n\n",
+            "The Xiaomi 17 ships with Android 16 and HyperOS 3, and the latter is clearly inspired by the iOS interface. For example, it includes HyperIsland, which is Xiaomi's interpretation of Apple's Dynamic Island and offers similar features.\n\n",
+            "New clock designs are also available, as well as the ability to sort face or animal photos via AI and to modify them stylistically, again using AI. Xiaomi smartphones that run HyperOS 3 can now be located on a map even when they are switched off.\n\n",
+            "As seen in the past with the Chinese version of HyperOS, you'll find that only English is truly usable as the system language in Europe, and that you'll have to install the Google Play Store via Xiaomi's App Store. However, although Google frameworks are already included, Xiaomi will only announce the update timeframe for the global version.\n\n",
+            "Despite this, our Chinese version should also receive updates for the next four to five years. One positive is that the Android security patches were from October 2025, at the time of this review.\n\n",
+            "Xiaomi hasn't disclosed precise information regarding the percentage of recycled materials used in its smartphones. This means, based on current information, the ecological footprint also cannot be assessed. Anyone for whom this is an important factor should maybe consider either a\n\n",
+            "The Xiaomi 17's packaging appears to be plastic-free and made of cardboard.\n\n",
+            "The Xiaomi 17 supports the modern Wi-Fi 7 standard with two transmit and two receive antennas (2x2 MIMO). According to the data sheet, only the 2.4 GHz and 5 GHz bands can be used to establish a connection. However, in our test, the 6 GHz channel was also detected, and we achieved high transfer speeds of over 1,000 Mbps in conjunction with the Asus ROG Rapture GT-AXE11000. However, compared to the\n\n",
+            "When it comes to mobile connectivity, the Xiaomi 17 offers a wide range of frequencies for both 5G and 4G networks, including LTE bands important for good network coverage, sometimes in rural areas. It supports Band 20 and Band 28, as well as MIMO (4x4).\n\n",
+            "The compact high-end phone's location tracking uses all of the common major satellite systems in dual-band mode.\n\n",
+            "Positioning was successful in our practical test, and we didn't observe any significant deviations on our trip.\n\n",
+            "The route was accurately reproduced by the Xiaomi 17, and our Garmin Venu 2 comparison device provided a very similar route.\n\n",
+            "The Xiaomi 17 offers full dual-SIM functionality with two nano-SIM card slots. The Chinese version doesn't allow the option to integrate an eSIM into the system, but this feature will be available in the global version.\n\n",
+            "Call quality was consistently good, and voice transmission was clear. Features such as VoLTE and Wi-Fi calling are supported.\n\n",
+            "Once again, the camera system was developed in collaboration with Leica. Xiaomi now uses four 50-megapixel sensors in its compact high-end smartphone, meaning the selfie camera has also been upgraded. The new front-facing lens is based on the Omnivision OV50M, which is also responsible for the ultra-wide-angle lens.\n\n",
+            "Exposure and color reproduction are excellent, and thanks to autofocus, selfies are also delightfully sharp. While the front camera records videos in 4K60, the new main camera even offers 8K recording.\n\n",
+            "The aforementioned main camera has a new 1/1.3-inch sensor at its disposal called the Light Hunter 950. This sensor is designed to deliver a particularly high dynamic range and is supported by an OIS system. In daylight situations, the Xiaomi 17 takes really good photos, even if the subjects are slightly over-sharpened, and the small Xiaomi phone performs surprisingly well in low light. In direct comparison, images captured by the\n\n",
+            "For zoom shots, a telephoto lens with optical image stabilization and lossless 2.6x magnification is included. Thanks to its liquid lens design, you can also take macro shots.\n\n",
+            "In everyday situations, the Samsung JN5 delivers good results (for a compact phone), provided the lighting conditions are suitable. Even 10x zoom shots are not considerably worse than those seen in the\n\n",
+            "The 17mm ultra-wide-angle lens has a 102-degree field of view and delivers solid images, without being especially good.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "Under controlled lighting conditions, we examined the image quality in more detail and compared the Xiaomi 17 to reference colors, and the deviations we recorded were within a satisfactory range. However, there are smartphones in this price category whose color-brightening is less exaggerated and also go easier on the over-saturation.\n\n",
+            "The Chinese version comes in a box containing a USB-C data cable, a protective case, a SIM card eject tool, and a power adapter. Although the charger will likely be absent from the global version, this model does come with a pre-fitted screen protector.\n\n",
+            "covers 12 months, and in the event of a warranty claim for a device imported from Trading Shenzhen, you can send the smartphone to a German shipping address.\n\n",
+            "Inputs performed on the AMOLED display are accurately and responsively registered. With Xiaomi specifying a sampling rate of up to 300 Hz, the compact flagship phone's user experience is very smooth, delivering crisp haptic feedback in everyday use, thanks to its excellent vibration motor.\n\n",
+            "For authentication purposes, the Xiaomi smartphone utilizes 3D ultrasonic technology. The ultrasonic sensor housed in the display reliably registers fingerprints and unlocks the smartphone very quickly. Biometric facial recognition is also provided via insecure 2D face unlock functionality. However, this method is considered vulnerable and therefore less secure.\n\n",
+            "The 6.3-inch screen supports a refresh rate of up to 120 Hz and, thanks to LTPO technology, it can reduce the said refresh rate to as low as an energy-saving 1 Hz. The pixel density of over 460 PPI is responsible for very sharp images.\n\n",
+            "The OLED panel is said to deliver a peak brightness of 3,500 nits, which makes it 11 percent brighter than the\n\n",
+            "but simultaneously consumes less power. We measured a maximum luminance of 3,339 cd/m² using the realistic APL18 test pattern, and this is very close to the actual brightness, especially since HDR content often allows additional brightness to be coaxed out of an OLED panel.\n\n",
+            "For brightness control matters, Xiaomi uses PWM - something typical for OLED displays. According to the specifications, it possesses a high frequency of 2,160 Hz, and we measured a baseline flicker of approximately 120 Hz. In our oscilloscope measurements, the amplitude response was consistent across the entire brightness spectrum. One new feature is the ability to switch between DC and PWM dimming.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7898 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "A series of measurements with a fixed zoom level and different brightness settings (The amplitude curve at minimum brightness appears flat, but this is due to the scaling. The enlarged version of the amplitude at minimum brightness can be seen in the info box.)\n\n",
+            "We carried out our measurements using a spectrophotometer and CalMAN software, and they clearly show that the screen not only shines very brightly, but also offers highly accurate color reproduction in \"Original Color Pro\" mode. Deviations in hues and grayscale within the sRGB color space are imperceptible to the naked eye.\n\n",
+            "Two different color profiles and color temperature adjustment are available, and individual parameters, such as gamma values, can no longer be customized within HyperOS 3.\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 1 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 1 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "The high brightness that the Xiaomi 17 offers also makes the OLED panel suitable for outdoor use, although reflections on the glass surface can still be annoying. Displayed content remains very color-stable even at wide viewing angles, and we didn't observe any noticeable changes in color or brightness values in everyday use.\n\n",
+            "The 3nm chip delivers powerful single-core performance inside the compact Xiaomi phone. With its Oryon Gen 3 Prime cores, the Xiaomi handset positions itself on par with the\n\n",
+            "In the Geekbench 6 multi-core test, the Snapdragon 8 Elite Gen 5 significantly outperforms its Apple counterpart.\n\n",
+            "When it comes to graphics performance, the Xiaomi 17 impressed us, with its\n\n",
+            "also cutting a fine figure. The increase in GPU power in the data sheet compared to the\n\n",
+            "This compact mobile phone is a very good choice for browsing the internet, despite the rather poor results in browser benchmarks. Even when navigating demanding websites, loading times are minimal, and scrolling is a pleasantly smooth experience.\n\n",
+            "With its very fast UFS 4.1 storage, the Xiaomi 17 performed very well in the AndroBench read and write test.\n\n",
+            ", and without any anomalies to speak of. However, we were not really expecting any drops in the frame rate, considering the immense power at hand. We used the\n\n",
+            "Our recorded surface temperature measurements were very high. In one hot spot area, the Xiaomi 17 even exceeded 50 degrees Celsius, and although this may be within a tolerable thermal range, it does negatively impact performance.\n\n",
+            "Using the 3DMark stress tests, we took a closer look at the throttling behavior. After 20 repetitions, the calculated frames per second dropped significantly over the course of the benchmark, and we observed throttling of approximately 30 percent. However, in everyday situations, we didn't notice any app or game limitations.\n\n",
+            "Power Supply (max.) 42.1 °C = 108 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 37.6 °C = 100 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 45.8 °C / 114 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 48.7 °C / 120 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 50.1 °C / 122 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 24.6 °C / 76 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+            "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1:\n\n",
+            "Adreno 830, SD 8 Elite, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "The Xiaomi 17 features Dolby Atmos stereo speakers, which provide a surprisingly good sound experience for a compact phone. The sound offers depth, and the pink noise test reveals a fairly linear frequency response in the mids and highs.\n\n",
+            "Anyone who prefers to enjoy their music through headphones can do so via a wired USB connection or wireless Bluetooth 6.0 with Auracast.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "1% of all tested devices in this class were better, 0% similar, 99% worse\n\n",
+            "2% of all tested devices in this class were better, 2% similar, 96% worse\n\n",
+            "One of the Xiaomi smartphone's highlights is its very generously-sized battery. With a capacity of 7,000 mAh, the battery is over 20 percent larger than its predecessor. According to Xiaomi, this was achieved by using a battery possessing a high silicon content of 16 percent and a 894 Wh/L high energy density.\n\n",
+            "The manufacturer claims that 80 percent of the battery capacity will remain after 2,000 charging cycles, and a value below this is generally considered poor battery condition. Using the compatible HyperCharge power adapter, the Xiaomi 17 can be rapidly charged at up to 100 watts via the PPS protocol. This took around 40 minutes in our test. If you're in a hurry, however, you'll need to activate Boost mode.\n\n",
+            "Wireless charging is supported at 50 watts, and wired reverse fast charging, for in-ear headphones, is also available at up to 22.5 watts.\n\n",
+            "power consumption is slightly more power-hungry at idle than its predecessor, the Xiaomi 17. However, at under 2 watts, it's still within the green zone.\n\n",
+            "Qualcomm Snapdragon 8 Elite Gen 5; Geekbench 5.5 Power Consumption 150cd:\n\n",
+            "Qualcomm Snapdragon 8 Elite for Galaxy; Geekbench 5.5 Power Consumption 150cd:\n\n",
+            "Qualcomm Snapdragon 8 Elite Gen 5; 1920x1080 Aztec Ruins Normal Offscreen:\n\n",
+            "Qualcomm Snapdragon 8 Elite for Galaxy; 1920x1080 Aztec Ruins Normal Offscreen:\n\n",
+            "Combined with its extra-large battery, the Xiaomi 17 achieved a fantastic runtime of approximately 31 hours in our Wi-Fi test. With the display brightness adjusted to 150 cd/m², the compact flagship phone managed over 36 hours of continuous video playback with Wi-Fi disabled.\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+            "Graphics adapter:": "Qualcomm Adreno 840",
+            "Memory:": "12 GB , LPDDR5X",
+            "Display:": "6.30 inch 19.5:9, 2656 x 1220 pixel 464 PPI, capacitive Touchscreen, LTPO AMOLED , HDR, 120 Hz",
+            "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 477 GB free",
+            "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, proximity, gyro, compass, barometer, OTG, Miracast, Snapdragon sound",
+            "Networking:": "Bluetooth 6.0, 5G：n1 / n2 / n3 / n5 / n7/ n8 / n12 / n18 / n20 / n25 / n26 / n28 / n38 / n40 / n41 / n48 / n66 / n77 / n78 / n80 / n81 / n83 / n84 / n89 ; 4G：FDD-LTE：B1 / B2 /B3 / B4 / B5 / B7 / B8 / B12 / B17 / B18 / B19 / B20 / B25/ B26 / B28 / B66 TDD-LTE：B34 / B38 / B39 / B40 / B41 / B42 / B48; 3G：WCDMA：B1 / B2 / B4 / B5 / B6 / B8 / B19; 2G: GSM:B2 / B3 / B5 / B8, Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 8.1 x 151.1 x 71.8 ( = 0.32 x 5.95 x 2.83 in)",
+            "Battery:": "7000 mAh Silicon-Carbon",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 16",
+            "Camera:": "Primary Camera: 50 MPix (f/1.7, 23 mm, 1/1.31\", 1.2 µm, OIS) + 50 MPix (f/2.0, 60 mm, telephoto, 1/2.76\", 0.64 µm, macro, OIS, 2.6x optical) + 50 MPix (f/2.4, 17 mm, ultrawide, 1/2.76\") Secondary Camera: 50 MPix (f/2.2, 21 mm, PDAF)",
+            "Additional features:": "Speakers: Stereo, charger, case, USB cable, Hyper OS 3, 12 Months Warranty, Dolby Atmos | Dolby Vision, HDR Vivid, HDR10+ | GPS (L1+L5), BDS (B1I+B1c+B2a), GALILEO (E1+E5a), QZSS (L1+L5), NavIC (L5), GLONASS, fanless, waterproof",
+            "Weight:": "191 g ( = 6.74 oz / 0.42 pounds), Power Supply: 106 g ( = 3.74 oz / 0.23 pounds)",
+            "Price:": "650 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "96%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "85%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "89%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "43%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "83%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "95%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "70%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "75%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "30%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "30%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "50.2%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "50.2%"
+            }
+        ]
+    }
+}

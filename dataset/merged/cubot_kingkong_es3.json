@@ -1,0 +1,345 @@
+{
+    "phone_key": "cubot_kingkong_es3",
+    "primary_name": "Cubot KingKong ES3",
+    "aliases": [
+        "Cubot KingKong ES3"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Cubot KingKong ES3",
+                "article_url": "https://www.notebookcheck.net/The-affordable-mobile-phone-for-uncomfortable-places-Cubot-KingKong-ES3-smartphone-review.1117002.0.html",
+                "verdict": {
+                    "text": "If you don't want to spend a lot of money, but often have to be away from the power grid for long periods of time and are looking for a smartphone for this purpose, you should take a look at the Cubot KingKong ES3. The phone costs less than $200, is waterproof and dustproof and is also protected against moderate drops. Thanks to the huge battery, it lasted well over a day in our WLAN test and should therefore survive several days in the wilderness in normal use. However, the bargain price leaves its mark on the features: slow memory, little RAM and only moderately fast Internet. The cameras are also only useful in an emergency; for great landscape shots on a multi-day hiking tour, you will probably want to take another smartphone or camera with you. How long software updates will be available is not revealed and the screen could also be a little brighter. Overall, buyers should be aware that they are only getting basic performance and features. However, if you are only looking for an affordable outdoor phone, the Cubot KingKong ES 3 is decent overall.",
+                    "pros": [
+                        "affordable price",
+                        "waterproof and dustproof",
+                        "very long battery life",
+                        "robust housing",
+                        "NFC available",
+                        "90 Hz touchscreen",
+                        "passable color display"
+                    ],
+                    "cons": [
+                        "slow memory",
+                        "only 6 GB RAM",
+                        "moderately fast internet",
+                        "no 5G",
+                        "poor camera performance",
+                        "display not very bright",
+                        "no fingerprint sensor",
+                        "no update promise",
+                        "no Widevine certification"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "The Cubot KingKong ES3 immediately shows that it was designed for use in inhospitable places: It features a black casing with industrial design rubber coating and a fairly thick casing edge around the display. This also protrudes slightly so that the display is also physically protected from direct drops onto flat surfaces.\n\n",
+                        "The buttons are quite large, making them easy to feel and operate even when wearing gloves. At 352 grams, the phone is not quite light and with a thickness of over 1.5 centimeters it is not slim either, but it still feels good in the hand.\n\n",
+                        "256 GB of mass storage and 6 GB of RAM are OK for the price range, but do not set any new records. NFC for wireless payments is on board.\n\n",
+                        "Instead of two nano SIMs, you can also insert just one SIM card and one microSD. The reader for the memory card works reasonably quickly.\n\n",
+                        "Unfortunately, there is no 5G on the outdoor phone, but there are enough 4G frequencies for use when traveling, even if not all countries are covered.\n\n",
+                        "The screen can handle up to 90 Hz and therefore processes inputs quite quickly. The touchscreen is quite reliable, but there is no special glove mode for higher sensitivity.\n\n",
+                        "Unfortunately, there is also no fingerprint sensor. For biometric unlocking, you can use face recognition via the front camera using a 2D method. This works quite well, but is less secure.\n\n",
+                        "The software is based on Android 15 and shows no major adaptations to Google's operating system.\n\n",
+                        "The security updates date from May 2025, which means they were already out of date at the time of testing. The manufacturer does not say how many further updates can be expected.\n\n",
+                        "There is also no information on the Cubot KingKong ES3 in terms of sustainability.\n\n",
+                        "The manufacturer has installed a rather simple camera system, even though the main camera on the back offers a decent resolution of 48 megapixels. Photos are OK for low demands, but are not very detailed and have pale colors.\n\n",
+                        "There is also a macro camera and a support sensor for depth of field on the back. Macro shots usually look a little blurred.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The screen resolution of 720p is okay for the class and the display looks reasonably sharp.\n\n",
+                        "The brightness of the large 6.8-inch display is at a passable level with a maximum of 444 cd/m² in our test, but there are still strong reflections on the screen on bright days.\n\n",
+                        "However, the color reproduction is actually quite accurate, with only slight deviations from the ideal value visible to the naked eye.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "The screen shows relatively slow response rates in our tests and may be too slow for gamers.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 78 % of all devices are better.\n\n",
+                        "This means that the measured response time is worse than the average of all tested devices (20 ms).\n\n",
+                        "The screen shows slow response rates in our tests and will be unsatisfactory for gamers.\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 58 % of all devices are better.\n\n",
+                        "This means that the measured response time is worse than the average of all tested devices (31.2 ms).\n\n",
+                        "does not provide much power as an SoC. It is sufficient for reasonably smooth everyday use, but the phone quickly reaches its limits with more complex apps.\n\n",
+                        "The memory is also quite slow, so loading times can sometimes take longer.\n\n",
+                        "The maximum temperature on the casing after prolonged use is 42 °C. This is OK, so there is no risk of the SoC throttling and this is also confirmed by the 3DMark stress test.\n\n",
+                        "The mono speaker quickly sounds overloaded, but can get quite loud, which can be an advantage on construction sites and in other noisy environments. External audio devices can be connected via USB or Bluetooth. The most necessary codecs are available for wireless audio transmissions.\n\n",
+                        "The battery has a large 10,200 mAh battery. It enables runtimes of almost 26 hours in our WLAN test and should therefore also enable several days of operation away from power sources. It can be charged with a maximum of 33 watts, a full charge takes around 3 hours.\n\n",
+                        "Power Supply (max.) 41.9 °C = 107 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 39.6 °C = 103 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 37.7 °C / 100 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 42 °C / 108 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 41.8 °C / 107 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 28.5 °C / 83 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "26% of all tested devices in this class were better, 9% similar, 64% worse\n\n",
+                        "46% of all tested devices in this class were better, 7% similar, 47% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Unisoc T7250 (T615) 8c/8t 8 x 1.8 - 2 GHz, Cortex-A75 / A55",
+                        "Graphics adapter:": "ARM Mali-G57 MP1",
+                        "Memory:": "6 GB",
+                        "Display:": "6.75 inch 20:9, 1600 x 720 pixel 260 PPI, capacitive touchscreen, IPS, glossy: yes, 90 Hz",
+                        "Storage:": "256 GB eMMC 5.1 Flash, 256 GB , 200 GB free",
+                        "Connections:": "1 USB 2.0, Card Reader: microSD up to 1 TB (shared), NFC, Brightness Sensor, Sensors: Proximity, Accelerometer, Magnetic",
+                        "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.0, 2G (850/900/1800/1900MHz), 3G (1/2/4/5/8), 4G (B1/2/3/4/5/7/8/12/17/20/26/28AB/38/40/41/66), Dual SIM, LTE, GPS",
+                        "Size:": "height x width x depth (in mm): 15.3 x 177.4 x 83.7 ( = 0.6 x 6.98 x 3.3 in)",
+                        "Battery:": "10200 mAh Lithium-Ion, 33 Watt charging",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 48 MPix LED flash (camera 1), 2 MP macro camera (camera 2), 0,3 MP depth sensor Secondary Camera: 16 MPix fixfocus",
+                        "Additional features:": "Speakers: mono speaker, charger, USB cable, 12 Months Warranty, IP68/IP69K, MIL-STD-810, fanless, ruggedized, waterproof",
+                        "Weight:": "352 g ( = 12.42 oz / 0.78 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "200 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "82%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "89%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "53%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "86%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "94%"
+                        },
+                        {
+                            "Attributes": "Display",
+                            "Notes": "",
+                            "Rating": "78%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "5%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "50%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "9%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "47%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "94.6%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "94.6%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "94.6%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "6%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "19.3%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "19.3%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "affordable price",
+            "waterproof and dustproof",
+            "very long battery life",
+            "robust housing",
+            "NFC available",
+            "90 Hz touchscreen",
+            "passable color display"
+        ],
+        "cons": [
+            "slow memory",
+            "only 6 GB RAM",
+            "moderately fast internet",
+            "no 5G",
+            "poor camera performance",
+            "display not very bright",
+            "no fingerprint sensor",
+            "no update promise",
+            "no Widevine certification"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Unisoc T7250 (T615) 8c/8t 8 x 1.8 - 2 GHz, Cortex-A75 / A55",
+                "Graphics adapter:": "ARM Mali-G57 MP1",
+                "Memory:": "6 GB",
+                "Display:": "6.75 inch 20:9, 1600 x 720 pixel 260 PPI, capacitive touchscreen, IPS, glossy: yes, 90 Hz",
+                "Storage:": "256 GB eMMC 5.1 Flash, 256 GB , 200 GB free",
+                "Connections:": "1 USB 2.0, Card Reader: microSD up to 1 TB (shared), NFC, Brightness Sensor, Sensors: Proximity, Accelerometer, Magnetic",
+                "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.0, 2G (850/900/1800/1900MHz), 3G (1/2/4/5/8), 4G (B1/2/3/4/5/7/8/12/17/20/26/28AB/38/40/41/66), Dual SIM, LTE, GPS",
+                "Size:": "height x width x depth (in mm): 15.3 x 177.4 x 83.7 ( = 0.6 x 6.98 x 3.3 in)",
+                "Battery:": "10200 mAh Lithium-Ion, 33 Watt charging",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 48 MPix LED flash (camera 1), 2 MP macro camera (camera 2), 0,3 MP depth sensor Secondary Camera: 16 MPix fixfocus",
+                "Additional features:": "Speakers: mono speaker, charger, USB cable, 12 Months Warranty, IP68/IP69K, MIL-STD-810, fanless, ruggedized, waterproof",
+                "Weight:": "352 g ( = 12.42 oz / 0.78 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "200 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "82%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "89%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "53%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "86%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "94%"
+                },
+                {
+                    "Attributes": "Display",
+                    "Notes": "",
+                    "Rating": "78%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "5%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "50%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "9%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "47%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "94.6%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "94.6%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "94.6%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "6%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "19.3%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "19.3%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/The-affordable-mobile-phone-for-uncomfortable-places-Cubot-KingKong-ES3-smartphone-review.1117002.0.html",
+                "text": "If you don't want to spend a lot of money, but often have to be away from the power grid for long periods of time and are looking for a smartphone for this purpose, you should take a look at the Cubot KingKong ES3. The phone costs less than $200, is waterproof and dustproof and is also protected against moderate drops. Thanks to the huge battery, it lasted well over a day in our WLAN test and should therefore survive several days in the wilderness in normal use. However, the bargain price leaves its mark on the features: slow memory, little RAM and only moderately fast Internet. The cameras are also only useful in an emergency; for great landscape shots on a multi-day hiking tour, you will probably want to take another smartphone or camera with you. How long software updates will be available is not revealed and the screen could also be a little brighter. Overall, buyers should be aware that they are only getting basic performance and features. However, if you are only looking for an affordable outdoor phone, the Cubot KingKong ES 3 is decent overall.\naffordable price\nwaterproof and dustproof\nvery long battery life\nrobust housing\nNFC available\n90 Hz touchscreen\npassable color display\nslow memory\nonly 6 GB RAM\nmoderately fast internet\nno 5G\npoor camera performance\ndisplay not very bright\nno fingerprint sensor\nno update promise\nno Widevine certification\nThe Cubot KingKong ES3 immediately shows that it was designed for use in inhospitable places: It features a black casing with industrial design rubber coating and a fairly thick casing edge around the display. This also protrudes slightly so that the display is also physically protected from direct drops onto flat surfaces.\nThe buttons are quite large, making them easy to feel and operate even when wearing gloves. At 352 grams, the phone is not quite light and with a thickness of over 1.5 centimeters it is not slim either, but it still feels good in the hand.\n256 GB of mass storage and 6 GB of RAM are OK for the price range, but do not set any new records. NFC for wireless payments is on board.\nInstead of two nano SIMs, you can also insert just one SIM card and one microSD. The reader for the memory card works reasonably quickly.\nUnfortunately, there is no 5G on the outdoor phone, but there are enough 4G frequencies for use when traveling, even if not all countries are covered.\nThe screen can handle up to 90 Hz and therefore processes inputs quite quickly. The touchscreen is quite reliable, but there is no special glove mode for higher sensitivity.\nUnfortunately, there is also no fingerprint sensor. For biometric unlocking, you can use face recognition via the front camera using a 2D method. This works quite well, but is less secure.\nThe software is based on Android 15 and shows no major adaptations to Google's operating system.\nThe security updates date from May 2025, which means they were already out of date at the time of testing. The manufacturer does not say how many further updates can be expected.\nThere is also no information on the Cubot KingKong ES3 in terms of sustainability.\nThe manufacturer has installed a rather simple camera system, even though the main camera on the back offers a decent resolution of 48 megapixels. Photos are OK for low demands, but are not very detailed and have pale colors.\nThere is also a macro camera and a support sensor for depth of field on the back. Macro shots usually look a little blurred.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe screen resolution of 720p is okay for the class and the display looks reasonably sharp.\nThe brightness of the large 6.8-inch display is at a passable level with a maximum of 444 cd/m² in our test, but there are still strong reflections on the screen on bright days.\nHowever, the color reproduction is actually quite accurate, with only slight deviations from the ideal value visible to the naked eye.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nThe screen shows relatively slow response rates in our tests and may be too slow for gamers.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 78 % of all devices are better.\nThis means that the measured response time is worse than the average of all tested devices (20 ms).\nThe screen shows slow response rates in our tests and will be unsatisfactory for gamers.\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 58 % of all devices are better.\nThis means that the measured response time is worse than the average of all tested devices (31.2 ms).\ndoes not provide much power as an SoC. It is sufficient for reasonably smooth everyday use, but the phone quickly reaches its limits with more complex apps.\nThe memory is also quite slow, so loading times can sometimes take longer.\nThe maximum temperature on the casing after prolonged use is 42 °C. This is OK, so there is no risk of the SoC throttling and this is also confirmed by the 3DMark stress test.\nThe mono speaker quickly sounds overloaded, but can get quite loud, which can be an advantage on construction sites and in other noisy environments. External audio devices can be connected via USB or Bluetooth. The most necessary codecs are available for wireless audio transmissions.\nThe battery has a large 10,200 mAh battery. It enables runtimes of almost 26 hours in our WLAN test and should therefore also enable several days of operation away from power sources. It can be charged with a maximum of 33 watts, a full charge takes around 3 hours.\nPower Supply (max.) 41.9 °C = 107 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 39.6 °C = 103 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 37.7 °C / 100 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 42 °C / 108 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 41.8 °C / 107 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 28.5 °C / 83 F, compared to the device average of 32.9 °C / 91 F.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n26% of all tested devices in this class were better, 9% similar, 64% worse\n46% of all tested devices in this class were better, 7% similar, 47% worse"
+            }
+        ]
+    }
+}

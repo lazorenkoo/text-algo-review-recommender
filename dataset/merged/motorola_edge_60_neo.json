@@ -1,0 +1,356 @@
+{
+    "phone_key": "motorola_edge_60_neo",
+    "primary_name": "Motorola Edge 60 Neo",
+    "aliases": [
+        "Motorola Edge 60 Neo"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Motorola Edge 60 Neo",
+                "article_url": "https://www.notebookcheck.net/Stylish-bargain-smartphone-with-a-premium-feel-Motorola-Edge-60-Neo-review.1179325.0.html",
+                "verdict": {
+                    "text": "With the Edge 60 Neo, Motorola has created an exciting smartphone in the mid-range segment. It is aimed at price-conscious users with a focus on design and functionality, rather than performance enthusiasts. The Dimensity 7400 is not particularly powerful for the mid-range and often seems a little overwhelmed in everyday use - but the MediaTek SoC is not a deal-breaker in our opinion. In return, buyers of an Edge 60 Neo get interesting features for the price range below 400 Euros (~$466), such as eSIM support, wireless charging, a waterproof housing, a bright OLED panel with LTPO technology and a very appealing look. The extremely good battery life for a compact and lightweight phone is the icing on the cake of the Motorola phone. With better availability and a resulting price drop, the Edge 60 Neo offers an exciting strength/weakness profile in the affordable mid-range.",
+                    "pros": [
+                        "chic design",
+                        "lightweight construction",
+                        "high durability",
+                        "long runtime",
+                        "long update period",
+                        "wireless charging"
+                    ],
+                    "cons": [
+                        "low system performance",
+                        "only Android 15 ex works",
+                        "low bass sound",
+                        "USB 2.0 only"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Phone functions and voice quality - Motorola relies on nano-SIM and eSIM\n\n",
+                        "Input devices and operation - fingerprint sensor and face unlock on board\n\n",
+                        "With a screen diagonal of 6.36 inches, the Motorola Edge 60 Neo is the most compact smartphone in the\n\n",
+                        "and a number of premium features, such as wireless charging and eSIM support.\n\n",
+                        "The Edge 60 Neo impresses with a well-made and handy casing that is pleasantly light in the hand. The frame is made of plastic, while the back has a silicone finish inspired by twill fabric. Thanks to Pantone colors, this not only looks chic, but also provides a non-slip feel thanks to the rubber coating. Fingerprints remain practically invisible on the back.\n\n",
+                        "The Motorola smartphone is certified to IP69/IP68 and MIL-STD 810H standards, making the housing particularly resistant to water, dust and mechanical stress. The front is protected by Gorilla Glass 7i and impresses with a high screen-to-body ratio of almost 89%. Thanks to the thin edges, the mid-range phone is efficiently built and looks modern.\n\n",
+                        "In terms of features, the Edge 60 Neo offers Miracast for wireless image transmission as well as Bluetooth 5.4 and NFC. With the USB-C connection, however, the USB 2.0 standard means you have to accept compromises in terms of data transfer speed and fading image output.\n\n",
+                        "With four years of operating system upgrades, the Motorola phone will receive updates until Android 19. The mid-range phone will also receive security patches until June 2031. This puts the Edge 60 Neo in a good position, even if\n\n",
+                        "During the test, the security patches from September 2025 are no longer completely up to date.\n\n",
+                        "footprint or the materials used for the Edge 60 Neo. The index in the EPREL database certifies good repairability for the Motorola cell phone with the top grade A. The availability of spare parts for seven years is also (theoretically) covered.\n\n",
+                        "The Edge 60 Neo's built-in cellular modem offers a wide range of frequencies for both LTE and 5G connections.\n\n",
+                        "Although Motorola's mid-range phone does not use WiFi 7, it does use WiFi 6 including the 6 GHz band, which means that the transfer rates with our Asus reference router are quite fast and mostly stable.\n\n",
+                        "Outdoors, the mid-range phone quickly finds the satellite signal and locates the position with an accuracy of 2 meters (~6.5 feet). The major global satellite networks are available for positioning, even in dual band.\n\n",
+                        "Voice transmission is natural and background noise is filtered out effectively. The Edge 60 Neo supports common functions such as VoLTE/VoNR and VoWiFi as well as dual SIM. However, the latter is only possible if an eSIM is also integrated into the system.\n\n",
+                        "Motorola's mid-range phone has a 50 MPix main camera in 1/1.56-inch format based on the Sony LYTIA 700, which has optical image stabilization. In daylight, the Edge 60 Neo delivers good imaging performance with a nice sharpness. The low-light qualities and color reproduction are also appealing considering the price level of the Motorola phone. A look at our comparison photos of the\n\n",
+                        "However, the wide-angle lens is visibly under pressure to save money, as the 13 MPix images are neither particularly sharp nor do they show much detail. There are also many artifacts. Zoom photos are very good thanks to the dedicated telephoto camera including OIS and triple optical magnification. However, more than a 5x zoom is not recommended with the Edge 60 Neo.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The package does not include a power supply unit, but a stylish hard case in the color of the casing, a data or charging cable (USB-C to USB-C) and a SIM tool. No protective film is applied ex works.\n\n",
+                        "Thanks to the high refresh rate of up to 120 Hz and a sampling rate of up to 300 Hz, the Motorola phone is easy to use - but the Edge 60 Neo doesn't feel really fast. The vibration motor also does not convey a feeling of value and could be more precise and powerful for our taste.\n\n",
+                        "The optical fingerprint sensor under the OLED panel reacts quickly and reliably. A relatively insecure 2D FaceUnlock function is also on board.\n\n",
+                        "The Edge 60 Neo's pOLED display uses a refresh rate of up to 120 Hz, which can be adaptively adjusted thanks to LTPO technology. We were shown a minimum frequency of 1 Hz during the test. The 6.36-inch 1,240p panel achieves a maximum luminance of 1,942 cd/m² in our measurement in the realistic APL18 test (Average Picture Level). HDR video content with a high dynamic range is therefore displayed perfectly.\n\n",
+                        "To control the luminance, the mid-range smartphone uses OLED-typical PWM with a basic flicker of around 240 Hz. Motorola does not provide any information on eye-friendly high-frequency PWM dimming.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 242 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 242 Hz is relatively low, so sensitive users will likely notice flickering and experience eyestrain at the stated brightness setting and below.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "Our analysis with the photo spectrometer and CalMan software results in very low average Delta-E deviations in the sRGB color space. In addition to three color profiles, the white balance can also be individually adjusted in the settings menus.\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 12 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 13 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "The Edge 60 Neo leaves a good impression outdoors, although don't expect the brightness reserves of a\n\n",
+                        ". The viewing angles of the OLED panel remain stable even when viewed from shallow angles.\n\n",
+                        "The SoC installed in the Edge 60 Neo and its system speed are not a strength of the mid-range phone. Compared to a\n\n",
+                        "The Edge 60 Neo does not really feel confident in everyday use and the Hello UI interface is often noticeably jerky.\n\n",
+                        "The performance differences in the graphics unit are even greater than in the CPU benchmarks. The\n\n",
+                        "The surface temperatures are pronounced under constant load, but not noticeably high. Especially since the waste heat of the Edge 60 Neo is not negatively noticeable in the 3DMark stress tests. The Motorola smartphone only throttles very slightly or not at all.\n\n",
+                        "Power Supply (max.) 42.1 °C = 108 F | Room Temperature 19.5 °C = 67 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 36.7 °C = 98 F | Room Temperature 19 °C = 66 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 44.2 °C / 112 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 46.8 °C / 116 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 45.3 °C / 114 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 24.8 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Mali-G615 MP2, Dimensity 7400X, 256 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Mali-G615 MP2, Dimensity 7300, 512 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+                        "Mali-G615 MP2, Dimensity 7400X, 256 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Mali-G615 MP2, Dimensity 7300, 512 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Mali-G615 MP2, Dimensity 7400X, 256 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+                        "Mali-G615 MP2, Dimensity 7300, 512 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+                        "The stereo speakers offer an almost bass-free sound, but are basically okay for the price range. The Pink Noise shows rising mids, but also fairly even highs. Alternatively, headphones can be connected via a USB port or wirelessly via Bluetooth 5.4. There is a wide range of audio codecs to choose from.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "16% of all tested devices in this class were better, 8% similar, 76% worse\n\n",
+                        "22% of all tested devices in this class were better, 10% similar, 68% worse\n\n",
+                        "The Edge 60 Neo has a 5,000 mAh battery, which can be charged either via USB-C with up to 68 watts or wirelessly with 15 watts. In the power consumption tests, the mid-range phone, equipped with the\n\n",
+                        "proved to be quite economical and the overall energy consumption is not particularly high.\n\n",
+                        "Qualcomm Snapdragon 8s Gen 4 SM8735; Geekbench 5.5 Power Consumption 150cd:\n\n",
+                        "Qualcomm Snapdragon 8s Gen 4 SM8735; 1920x1080 Aztec Ruins Normal Offscreen:\n\n",
+                        "Under real-world conditions, the Edge 60 Neo demonstrates excellent battery life for a compact cell phone in our WLAN test. Compared to the\n\n",
+                        "the mid-range cell phone is significantly more enduring with over 24 hours.\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "MediaTek Dimensity 7400X 8c/8t, 4 x 2.6 GHz ARM Cortex-A78, 4 x 2.0 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                        "Graphics adapter:": "ARM Mali-G615 MP2",
+                        "Memory:": "8 GB , LPDDR4X",
+                        "Display:": "6.36 inch 20:9, 2670 x 1200 pixel 460 PPI, capacitive Touchscreen, pOLED, HDR, 120 Hz",
+                        "Storage:": "256 GB UFS 3.1 Flash, 256 GB , 215 GB free",
+                        "Connections:": "1 USB 2.0, 1 Fingerprint Reader, Brightness Sensor, Sensors: acceleration sensor, gyroscope, proximity sensor, compass, OTG, Miracast",
+                        "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B8), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B25/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B42/​B43/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n20/​n26/​n28/​n38/​n40/​n41/​n66/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 8.1 x 154.1 x 71.2 ( = 0.32 x 6.07 x 2.8 in)",
+                        "Battery:": "5000 mAh",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 50 MPix (f/​1.8, OIS, videos @2160p/​30fps) + 13 0MPix (f/​2.4, wide, makro) + 10 MPix (f/​2.0, OIS, 3x optical, teleo) Secondary Camera: 32 MPix (f/​2.4)",
+                        "Additional features:": "Speakers: Stereo, USB cable, case, SIM-Tool, 24 Months Warranty, SAR-Wert: 0.86W/​kg head, 1.31W/​kg body | IP68/​IP69, MIL-STD-810H, fanless, waterproof",
+                        "Weight:": "175 g ( = 6.17 oz / 0.39 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "399 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "63%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "94%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "29%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "80%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "57%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "85%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "86%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "86%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "73%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "30%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "30%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "76%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "68.3%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "59.2%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "chic design",
+            "lightweight construction",
+            "high durability",
+            "long runtime",
+            "long update period",
+            "wireless charging"
+        ],
+        "cons": [
+            "low system performance",
+            "only Android 15 ex works",
+            "low bass sound",
+            "USB 2.0 only"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "MediaTek Dimensity 7400X 8c/8t, 4 x 2.6 GHz ARM Cortex-A78, 4 x 2.0 GHz ARM Cortex-A55, Cortex-A78 / A55",
+                "Graphics adapter:": "ARM Mali-G615 MP2",
+                "Memory:": "8 GB , LPDDR4X",
+                "Display:": "6.36 inch 20:9, 2670 x 1200 pixel 460 PPI, capacitive Touchscreen, pOLED, HDR, 120 Hz",
+                "Storage:": "256 GB UFS 3.1 Flash, 256 GB , 215 GB free",
+                "Connections:": "1 USB 2.0, 1 Fingerprint Reader, Brightness Sensor, Sensors: acceleration sensor, gyroscope, proximity sensor, compass, OTG, Miracast",
+                "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B8), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B25/​B26/​B28/​B32/​B38/​B39/​B40/​B41/​B42/​B43/​B66), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n20/​n26/​n28/​n38/​n40/​n41/​n66/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 8.1 x 154.1 x 71.2 ( = 0.32 x 6.07 x 2.8 in)",
+                "Battery:": "5000 mAh",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 50 MPix (f/​1.8, OIS, videos @2160p/​30fps) + 13 0MPix (f/​2.4, wide, makro) + 10 MPix (f/​2.0, OIS, 3x optical, teleo) Secondary Camera: 32 MPix (f/​2.4)",
+                "Additional features:": "Speakers: Stereo, USB cable, case, SIM-Tool, 24 Months Warranty, SAR-Wert: 0.86W/​kg head, 1.31W/​kg body | IP68/​IP69, MIL-STD-810H, fanless, waterproof",
+                "Weight:": "175 g ( = 6.17 oz / 0.39 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "399 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "63%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "94%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "29%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "80%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "57%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "85%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "86%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "86%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "73%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "30%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "30%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "76%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "68.3%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "59.2%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Stylish-bargain-smartphone-with-a-premium-feel-Motorola-Edge-60-Neo-review.1179325.0.html",
+                "text": "With the Edge 60 Neo, Motorola has created an exciting smartphone in the mid-range segment. It is aimed at price-conscious users with a focus on design and functionality, rather than performance enthusiasts. The Dimensity 7400 is not particularly powerful for the mid-range and often seems a little overwhelmed in everyday use - but the MediaTek SoC is not a deal-breaker in our opinion. In return, buyers of an Edge 60 Neo get interesting features for the price range below 400 Euros (~$466), such as eSIM support, wireless charging, a waterproof housing, a bright OLED panel with LTPO technology and a very appealing look. The extremely good battery life for a compact and lightweight phone is the icing on the cake of the Motorola phone. With better availability and a resulting price drop, the Edge 60 Neo offers an exciting strength/weakness profile in the affordable mid-range.\nchic design\nlightweight construction\nhigh durability\nlong runtime\nlong update period\nwireless charging\nlow system performance\nonly Android 15 ex works\nlow bass sound\nUSB 2.0 only\nPhone functions and voice quality - Motorola relies on nano-SIM and eSIM\nInput devices and operation - fingerprint sensor and face unlock on board\nWith a screen diagonal of 6.36 inches, the Motorola Edge 60 Neo is the most compact smartphone in the\nand a number of premium features, such as wireless charging and eSIM support.\nThe Edge 60 Neo impresses with a well-made and handy casing that is pleasantly light in the hand. The frame is made of plastic, while the back has a silicone finish inspired by twill fabric. Thanks to Pantone colors, this not only looks chic, but also provides a non-slip feel thanks to the rubber coating. Fingerprints remain practically invisible on the back.\nThe Motorola smartphone is certified to IP69/IP68 and MIL-STD 810H standards, making the housing particularly resistant to water, dust and mechanical stress. The front is protected by Gorilla Glass 7i and impresses with a high screen-to-body ratio of almost 89%. Thanks to the thin edges, the mid-range phone is efficiently built and looks modern.\nIn terms of features, the Edge 60 Neo offers Miracast for wireless image transmission as well as Bluetooth 5.4 and NFC. With the USB-C connection, however, the USB 2.0 standard means you have to accept compromises in terms of data transfer speed and fading image output.\nWith four years of operating system upgrades, the Motorola phone will receive updates until Android 19. The mid-range phone will also receive security patches until June 2031. This puts the Edge 60 Neo in a good position, even if\nDuring the test, the security patches from September 2025 are no longer completely up to date.\nfootprint or the materials used for the Edge 60 Neo. The index in the EPREL database certifies good repairability for the Motorola cell phone with the top grade A. The availability of spare parts for seven years is also (theoretically) covered.\nThe Edge 60 Neo's built-in cellular modem offers a wide range of frequencies for both LTE and 5G connections.\nAlthough Motorola's mid-range phone does not use WiFi 7, it does use WiFi 6 including the 6 GHz band, which means that the transfer rates with our Asus reference router are quite fast and mostly stable.\nOutdoors, the mid-range phone quickly finds the satellite signal and locates the position with an accuracy of 2 meters (~6.5 feet). The major global satellite networks are available for positioning, even in dual band.\nVoice transmission is natural and background noise is filtered out effectively. The Edge 60 Neo supports common functions such as VoLTE/VoNR and VoWiFi as well as dual SIM. However, the latter is only possible if an eSIM is also integrated into the system.\nMotorola's mid-range phone has a 50 MPix main camera in 1/1.56-inch format based on the Sony LYTIA 700, which has optical image stabilization. In daylight, the Edge 60 Neo delivers good imaging performance with a nice sharpness. The low-light qualities and color reproduction are also appealing considering the price level of the Motorola phone. A look at our comparison photos of the\nHowever, the wide-angle lens is visibly under pressure to save money, as the 13 MPix images are neither particularly sharp nor do they show much detail. There are also many artifacts. Zoom photos are very good thanks to the dedicated telephoto camera including OIS and triple optical magnification. However, more than a 5x zoom is not recommended with the Edge 60 Neo.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe package does not include a power supply unit, but a stylish hard case in the color of the casing, a data or charging cable (USB-C to USB-C) and a SIM tool. No protective film is applied ex works.\nThanks to the high refresh rate of up to 120 Hz and a sampling rate of up to 300 Hz, the Motorola phone is easy to use - but the Edge 60 Neo doesn't feel really fast. The vibration motor also does not convey a feeling of value and could be more precise and powerful for our taste.\nThe optical fingerprint sensor under the OLED panel reacts quickly and reliably. A relatively insecure 2D FaceUnlock function is also on board.\nThe Edge 60 Neo's pOLED display uses a refresh rate of up to 120 Hz, which can be adaptively adjusted thanks to LTPO technology. We were shown a minimum frequency of 1 Hz during the test. The 6.36-inch 1,240p panel achieves a maximum luminance of 1,942 cd/m² in our measurement in the realistic APL18 test (Average Picture Level). HDR video content with a high dynamic range is therefore displayed perfectly.\nTo control the luminance, the mid-range smartphone uses OLED-typical PWM with a basic flicker of around 240 Hz. Motorola does not provide any information on eye-friendly high-frequency PWM dimming.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 242 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 242 Hz is relatively low, so sensitive users will likely notice flickering and experience eyestrain at the stated brightness setting and below.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nOur analysis with the photo spectrometer and CalMan software results in very low average Delta-E deviations in the sRGB color space. In addition to three color profiles, the white balance can also be individually adjusted in the settings menus.\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 12 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 13 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nThe Edge 60 Neo leaves a good impression outdoors, although don't expect the brightness reserves of a\n. The viewing angles of the OLED panel remain stable even when viewed from shallow angles.\nThe SoC installed in the Edge 60 Neo and its system speed are not a strength of the mid-range phone. Compared to a\nThe Edge 60 Neo does not really feel confident in everyday use and the Hello UI interface is often noticeably jerky.\nThe performance differences in the graphics unit are even greater than in the CPU benchmarks. The\nThe surface temperatures are pronounced under constant load, but not noticeably high. Especially since the waste heat of the Edge 60 Neo is not negatively noticeable in the 3DMark stress tests. The Motorola smartphone only throttles very slightly or not at all.\nPower Supply (max.) 42.1 °C = 108 F | Room Temperature 19.5 °C = 67 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 36.7 °C = 98 F | Room Temperature 19 °C = 66 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 44.2 °C / 112 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 46.8 °C / 116 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 45.3 °C / 114 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 24.8 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\nMali-G615 MP2, Dimensity 7400X, 256 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nMali-G615 MP2, Dimensity 7300, 512 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\nMali-G615 MP2, Dimensity 7400X, 256 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nMali-G615 MP2, Dimensity 7300, 512 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nMali-G615 MP2, Dimensity 7400X, 256 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\nMali-G615 MP2, Dimensity 7300, 512 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\nThe stereo speakers offer an almost bass-free sound, but are basically okay for the price range. The Pink Noise shows rising mids, but also fairly even highs. Alternatively, headphones can be connected via a USB port or wirelessly via Bluetooth 5.4. There is a wide range of audio codecs to choose from.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n16% of all tested devices in this class were better, 8% similar, 76% worse\n22% of all tested devices in this class were better, 10% similar, 68% worse\nThe Edge 60 Neo has a 5,000 mAh battery, which can be charged either via USB-C with up to 68 watts or wirelessly with 15 watts. In the power consumption tests, the mid-range phone, equipped with the\nproved to be quite economical and the overall energy consumption is not particularly high.\nQualcomm Snapdragon 8s Gen 4 SM8735; Geekbench 5.5 Power Consumption 150cd:\nQualcomm Snapdragon 8s Gen 4 SM8735; 1920x1080 Aztec Ruins Normal Offscreen:\nUnder real-world conditions, the Edge 60 Neo demonstrates excellent battery life for a compact cell phone in our WLAN test. Compared to the\nthe mid-range cell phone is significantly more enduring with over 24 hours."
+            }
+        ]
+    }
+}

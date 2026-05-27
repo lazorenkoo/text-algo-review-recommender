@@ -1,0 +1,195 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Honor Win",
+    "article_url": "https://www.notebookcheck.net/Gaming-monster-with-active-fan-and-10-000-mAh-battery-Honor-Win-smartphone-review.1226006.0.html",
+    "verdict": {
+        "text": "The small fan, elegantly concealed within the camera module, effectively extends the sustained performance of the Snapdragon 8 Elite Gen 5 in the Honor Win and limits throttling. However, the clearly audible fan must be tolerated, although it can be completely disabled if required. Otherwise, the Honor Win offers all the features expected from a true premium-class phone: a very bright display, a good camera system, and a large 10,000 mAh battery that enables long runtimes and also recharges relatively quickly. The phone is currently only available as an import from China. European languages are included in the software, but there is no Widevine certification, meaning some streaming content can only be viewed in low resolution. eSIM support is also absent, and there is no periscope zoom camera. Nevertheless, the Honor Win is an interesting smartphone, especially for gamers who are not bothered by the fan noise during gaming.",
+        "pros": [
+            "effective active cooling",
+            "very long runtime",
+            "relatively fast charging",
+            "bright OLED display",
+            "sturdy metal casing",
+            "fast and stable WiFi",
+            "plenty of memory and RAM on request",
+            "accurate fingerprint sensor",
+            "physical camera button",
+            "good 50 MP main camera",
+            "many Bluetooth audio codecs",
+            "hardly any software restrictions despite import"
+        ],
+        "cons": [
+            "Fan clearly audible",
+            "no Widevine L1",
+            "no eSIM support",
+            "no periscope zoom",
+            "only available as a China import",
+            "PWM flickering",
+            "no sustainability information"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Performance, emissions and battery life - Sustained performance thanks to the fan\n\n",
+            "The gaming phone’s design is understated: a white matte glass back and a large camera module spanning the entire width, reminiscent of the\n\n",
+            "The metal frame makes the chassis feel very rigid and it could not be twisted in our test. IP68/69K protection even allows submersion in water.\n\n",
+            "The USB port supports fast data transfer and also provides DisplayPort output. The phone includes 16 GB of RAM and 512 GB of internal storage; microSD expansion is not supported. A configuration with 12 GB of RAM and 256 GB of storage is also available.\n\n",
+            "All major 4G and 5G frequency bands are supported, allowing the phone to be used worldwide.\n\n",
+            "The fingerprint reader is integrated beneath the display panel, works very reliably, and unlocks the phone instantly once a fingerprint is recognized. Facial recognition is also available, but it relies only on the front camera in 2D and is therefore somewhat less secure.\n\n",
+            "The Chinese version of MagicOS 10 is preinstalled on our smartphone. The main difference compared to the international version is that Google apps must first be installed manually if needed.\n\n",
+            "Otherwise, most European languages are available without issues, and even Android Auto and Google Pay work. However, there is no Widevine L1 certification, meaning streaming content from many providers is limited to a maximum of 480p.\n\n",
+            "Honor provides no information regarding sustainability, although plastic film is used in the packaging. The update policy is expected to include four major software updates.\n\n",
+            "The 50-megapixel main camera is located on the rear and is supported by a telephoto camera that enables 3× hybrid zoom using different focal lengths. However, there is no optical periscope zoom.\n\n",
+            "Photos from the main camera show vivid colors and appear sharp, though sometimes over-sharpened. Images remain sharp in low light, but dynamic range in darker areas could be stronger.\n\n",
+            "The 12-megapixel ultra-wide camera takes acceptable panoramic photos, but fine details are barely recognizable when enlarged.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "The 6.8-inch screen has a resolution of 2,800 × 1,272 pixels. The OLED panel therefore achieves a good pixel density, although other phones such as the\n\n",
+            "offer slightly higher resolution. The screen is not quite as bright as the competition in HDR mode or in small bright areas, but it remains easily usable outdoors and also provides very accurate color reproduction.\n\n",
+            "We detected PWM flickering at 120 Hz, and the manufacturer also states that the frequency can be increased to over 5,000 Hz. Nevertheless, sensitive users should test the display before purchasing.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7898 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 2 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 4 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "is currently one of the most powerful smartphone SoCs, and the Honor Win correspondingly ranks near the top in benchmarks. To maintain performance for longer, Honor installs a small fan that activates when needed but can also be enabled manually. It does not increase peak performance, but keeps performance stable for longer.\n\n",
+            "The fan can automatically switch off when the speakers are in use and is not particularly loud overall, reaching a maximum of about 40 dB(A) at a distance of 15 cm. The speakers can become quite loud, but at maximum volume they sound somewhat treble-heavy. Many Bluetooth audio codecs are supported.\n\n",
+            "The Honor Win features a very large 10,000 mAh battery: the phone lasted 32:36 hours in our Wi-Fi test, making three days of use without charging realistic. If recharging is required, wired charging supports up to 100 W and takes just over two hours. Wireless charging of up to 80 W is also supported.\n\n",
+            "Power Supply (max.) 41.9 °C = 107 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 35.9 °C = 97 F | Room Temperature 21 °C = 70 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 47.7 °C / 118 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 49.5 °C / 121 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 47.8 °C / 118 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 24.3 °C / 76 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "24% of all tested devices in this class were better, 9% similar, 67% worse\n\n",
+            "0% of all tested devices in this class were better, 0% similar, 100% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Qualcomm Snapdragon 8 Elite Gen 5 8c/8t, 2 x 4.6 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.6 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+            "Graphics adapter:": "Qualcomm Adreno 840",
+            "Memory:": "16 GB",
+            "Display:": "6.83 inch 13:9, 2800 x 1272 pixel 450 PPI, capacitive touchscreen, OLED, glossy: yes, HDR, 185 Hz",
+            "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 487 GB free",
+            "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), Audio Connections: audio via USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: compass, hall, acceleration, proximity",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 5G: n1 / n2 / n3 / n5 / n7 / n8 / n12 / n13 / n18 / n20 / n25 / n26 / n28 / n38 / n40 / n41 / n48 / n66 / n70 / n77 / n78 / n79 / n80 / n81 / n83 / n84 / n89: 4G：FDD-LTE：B1 / B2 / B3 / B4 / B5 / B7 / B8 / B12 / B13 / B17 / B18 / B19 / B20 / B25 / B26 / B28 / B66; TDD-LTE：B34 / B38 / B39 / B40 / B41 / B42 / B48; 3G：B1 / B2 / B4 / B5 / B6 / B8 / B19; 2G：B2 / B3 / B5 / B8, Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 8.3 x 163.1 x 76.6 ( = 0.33 x 6.42 x 3.02 in)",
+            "Battery:": "10000 mAh Lithium-Ion, 100 Watt wired charging, 80 Watt wireless charging, 27 Watt wired reverse charging",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 16",
+            "Camera:": "Primary Camera: 50 MPix f/1.95, OIS (camera 1), 50 MP, f/2.4, tele, OIS, 3x zoom (camera 2), 12 MP, f/2.2, ultrawide (camera 3) Secondary Camera: 50 MPix f/2.0",
+            "Additional features:": "Speakers: stereo speakers with AI subwoofer, charger, USB cable, SIM tool, silicone bumper, 12 Months Warranty, IP68/IP69/IP69K certified; , waterproof",
+            "Weight:": "229 g ( = 8.08 oz / 0.5 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "737 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "96%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "87%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "97%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "77%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "49%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "82%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "80%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "83%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "5%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "5%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "10%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "6%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "20.2%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "20.2%"
+            }
+        ]
+    }
+}

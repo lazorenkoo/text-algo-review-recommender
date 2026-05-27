@@ -1,0 +1,363 @@
+{
+    "phone_key": "xiaomi_15t",
+    "primary_name": "Xiaomi 15T",
+    "aliases": [
+        "Xiaomi 15T"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Xiaomi 15T",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-15T-review-Price-drop-makes-this-Android-smartphone-the-best-deal.1167533.0.html",
+                "verdict": {
+                    "text": "The Xiaomi 15T has become a real price-performance hit in a very short time. The high RRP of almost 650 euros is forgotten at the current price level of around 400 euros, just a few weeks after the market launch. For an affordable mid-range smartphone, the Chinese manufacturer's new T model actually has everything it takes to become a bestseller. The 6.83-inch 120 Hz OLED panel is not only super bright, but also offers a high pixel density and eye-friendly high-frequency PWM dimming. In combination with the overall appealing Dimensity 8400, users can also enjoy the Xiaomi 15T for a long time, thanks to its attractive battery life. The same applies to the Leica main camera, which produces very respectable photos in the mid-range. Even though the 15T will probably only be updated to Android 19, the Xiaomi phone scores with a fairly long update period. If you also use a case for your smartphone, you may forgive the plastic casing for its lack of value. The Xiaomi 15T also lacks other premium smartphone features, such as wireless charging or a fast USB port.",
+                    "pros": [
+                        "bright OLED panel",
+                        "High-frequency PWM dimming",
+                        "waterproof",
+                        "good mid-range SoC",
+                        "fast charging",
+                        "appealing main camera"
+                    ],
+                    "cons": [
+                        "uSB 2.0 only",
+                        "Plastic housing",
+                        "no wireless charging",
+                        "only 12 months warranty"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Communication and GNSS - Calls not via satellite, but without mobile communications\n\n",
+                        "Phone functions and voice quality - Xiaomi smartphone supports two eSIMs\n\n",
+                        "Just in time for the Christmas season, Xiaomi is once again launching its updated T series on the market, which traditionally aims to score with a strong price-performance ratio. The new Xiaomi 15T is no exception.\n\n",
+                        ", the mid-range phone is vying for the favor of price-conscious buyers. Those who highly value zoom photos can also check our\n\n",
+                        "Xiaomi has adopted the design language of the previous models for the 15T. The gold color of our test sample is a new addition. The display has grown to 6.83 inches, and at 194 grams, the Xiaomi 15T is slightly lighter than the\n\n",
+                        "The mid-range smartphone is IP68-certified and offers a modern look with a high screen-to-body ratio of over 90 percent. Gorilla Glass 7i protects the OLED display against scratches.\n\n",
+                        "The back is made of glass fiber-reinforced plastic, while the frame is also made of plastic and not aluminum like its predecessor. Despite minor compromises in the feel, the Xiaomi 15T impresses with its good workmanship.\n\n",
+                        "Xiaomi still relies on a USB 2.0 port for its T model without the option of image output. In our copy test, we achieved a transfer speed of just 30 MB/s with a Samsung Portable SSD T7. The connected storage media can be formatted with either NTFS or exFAT. However, USB-OTG is supported, allowing external devices to be connected without any problems.\n\n",
+                        "Xiaomi uses LPDDR5X for the main memory. However, the internal storage uses a fast UFS 4.1 memory.\n\n",
+                        "In terms of connectivity, the Xiaomi 15T already offers Bluetooth 6.0 for improved connectivity and energy efficiency compared to older Bluetooth versions. An IR blaster and NFC are also on board, enabling contactless payment and control of televisions or air conditioning systems. Miracast is available for wireless image transmission.\n\n",
+                        "Ultra-wideband (UWB), a technology for precise positioning of smart tags, for example, is not included.\n\n",
+                        "The T series is advertised with four Android updates and six years of security updates. Since Xiaomi relies on Android 15 ex-works, Android 19 should be the end of the road. At around 400 euros, this is certainly not a deal-breaker, but Samsung or Google offers a little more future-proofing here.\n\n",
+                        "The Xiaomi 15T was still running HyperOS 2.0 as the operating system during the test, but the global rollout of the major software update to HyperOS 3 has already begun. With an update during the test, the security patches are up to date as of October 2025.\n\n",
+                        "We have received the update to Android 16 with HyperOS 3.0.4.0 for our test sample.\n\n",
+                        "The Xiaomi 15T is listed in the EPREL database with repair class C. This means that the availability of spare parts (in theory) is regulated for at least 6 years. Xiaomi does not provide information on the use of recycled materials for specific models, but only in very general terms, and CO\n\n",
+                        "It also supports all current mobile communication standards, including 5G Sub6 and a wide range of LTE frequency bands. This means that the mid-range phone should be able to establish a data connection anywhere.\n\n",
+                        "The Xiaomi 15T does not offer classic satellite communication, but the company's own Astral Communication can be used. This enables a direct connection between two Xiaomi devices without an active Wi-Fi or mobile phone connection. The manufacturer specifies a range of up to 1.3 kilometers for phone calls. However, this function is currently only available for the T series.\n\n",
+                        "The Xiaomi phone quickly performs a Satfix outdoors with a high accuracy of 1 meter. In our practical test, we compare the Xiaomi 15T with a Garmin smartwatch (Venu 2). Both have some inaccuracies, but the mid-range phone's positioning is more than sufficient for navigation tasks.\n\n",
+                        "For the price range in which the Xiaomi 15T operates, it offers very interesting options. In addition to 5G+5G dual SIM with two nanoSIM cards, users can also integrate two eSIMs into the system. A combination of both worlds is also possible.\n\n",
+                        "The voice quality is natural and the noise suppression works satisfactorily. In addition to VoNR and VoLTE, VoWiFi is also supported.\n\n",
+                        "Although Xiaomi is positioning its T-series as a photo pro with its Leica camera, the hardware is not quite on par with the flagship competition, in many respects.\n\n",
+                        "Compared to the camera elite, the main camera of the Xiaomi 15T uses a somewhat small 1/1.55-inch sensor, which is also used in the\n\n",
+                        ". Nevertheless, good photos in daylight are possible with the Light Fusion 800. The images show an appealing sharpness and high dynamic range. However, details are not brought out perfectly with the mid-range smartphone, and the contrast also drops slightly. In low light, the low yield and soft focus are not surprising due to the lack of a sensor.\n\n",
+                        "With only 2x optical zoom, the telephoto camera is useful up to 5x magnification, but beyond that, it quickly becomes pixelated and artificial. We also feel that the exposure is not optimal. The same applies to the telephoto lens: it lacks OIS, as does the main camera, but at least it has autofocus.\n\n",
+                        "The ultra-wide-angle lens has neither optical image stabilization nor autofocus. The imaging performance is decent, but it shows edge artifacts and blurring.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The Xiaomi 15T reveals a very decent color reproduction under controlled lighting conditions. In our measurement, the colors are slightly brighter than the reference, but the DeltaE deviations are still significantly lower than those of the Flagship models (we tested the China version).\n\n",
+                        "The mid-range phone comes with a USB-C cable, a TPU case, and a SIM tool. A protective film is also pre-installed ex-works. The matching fast-charging power adapter or other accessories are optionally available in the manufacturer's online store.\n\n",
+                        "for the Xiaomi 15T is only 12 months in Germany and can be extended with the in-house Care insurance package against accidental damage and theft. Depending on the insurance scope, this costs between 74 and 104 euros at the time of testing.\n\n",
+                        "The Xiaomi 15T has a touchscreen from Tianma with a sampling rate of up to 2,560 Hz. However, this high refresh rate is only active in Game Turbo mode. The company's own wet-touch technology is also on board, enabling sensible operation with wet hands, and it worked well in the test.\n\n",
+                        "An in-display sensor is available for biometric unlocking. The optical fingerprint recognition works reliably and quickly in the test, but not at the level of a\n\n",
+                        ". There is also an insecure 2D face recognition using the front camera.\n\n",
+                        "The X-axis vibration motor of the Xiaomi 15T generates haptically appealing vibrations and conveys a feeling of value.\n\n",
+                        "Xiaomi uses an AMOLED panel with a 1,280p resolution and 12-bit color depth for its mid-range phone. With a diagonal of 6.83 inches, the pixel density is therefore a very good 447 ppi. The display can also automatically adjust the maximum frame rate of 120 Hz to 60 Hz or 90 Hz.\n\n",
+                        "According to the data sheet, a peak brightness of 3,200 nits can be achieved. For our everyday usage scenario (APL18 sample), we are pleased to even exceed the manufacturer's specifications with 3,310 cd/m². With HDR content, we achieve a brightness of 3,267 cd/m². The Xiaomi 15T is therefore ideally suited for video content with a high dynamic range: HDR10, HDR 10+, Dolby Vision and HLG are available.\n\n",
+                        "As is usual for smartphones with OLED screens, Xiaomi uses PWM to control the brightness. According to the manufacturer, the standard dimming method of the Xiaomi 15T for high brightness ranges is DC dimming, while high-frequency PWM dimming (3,840 Hz) is used for low brightness. We can also confirm the latter based on our measurement.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "With HyperOS in the second generation, the Xiaomi 15T has various color profiles, a white balance and an adjustment of individual parameters, such as gamma values, to choose from. With a look at our tests of the\n\n",
+                        "the setting options should be somewhat reduced after the update to HyperOS 3.\n\n",
+                        "We examine the color calibration with the Calman analysis software and a photo spectrometer. In the \"Pro\" profile, we found the smallest deviations from the reference colors and a high color fidelity. However, the\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 7 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "There are no problems with the mid-range phone's readability outdoors and content is also recognizable in direct sunlight. The viewing angle stability is also very good and there are no color distortions.\n\n",
+                        "When it comes to the SoC, Xiaomi does not reach for the highest performance shelf for its 15T model, the\n\n",
+                        "is a good deal faster than the Xiaomi 15T with its Cortex-A725 cores, especially when it comes to single-core performance. However, the Xiaomi phone makes a convincing performance in AI calculations.\n\n",
+                        "The rather below-average performance in the browser benchmarks does not really match the impressive performance when surfing. We cannot say what the reason for the rather poor values is.\n\n",
+                        "Although the UFS 4.1 memory of the Xiaomi 15T is theoretically very fast and offers high transfer rates, the mid-range phone's scores in the AndroBench are surprisingly slow. The memory controller of the\n\n",
+                        "The Xiaomi 15T is not a gaming smartphone, but its large, high-resolution screen and stereo sound still offer a really good gaming experience. The\n\n",
+                        "confirms that the Xiaomi phone has sufficient GPU power for current games.\n\n",
+                        "The temperature development is not a major problem for the Xiaomi 15T, even under permanent load. The performance during the 3DMark stress tests remains constant and only results in moderate throttling. We achieve SoC throttling of up to 25 percent.\n\n",
+                        "Room Temperature 21.6 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 42.1 °C / 108 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 42.8 °C / 109 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 43.5 °C / 110 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.1 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Mali-G720 MP7, Dimensity 8400, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+                        "Mali-G720 MP7, Dimensity 8400, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.17.2:\n\n",
+                        "Mali-G720 MP7, Dimensity 8400, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\n\n",
+                        "Mali-G720 MP7, Dimensity 8400, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1:\n\n",
+                        "The stereo speakers with Dolby Audio support sound good, but have very little depth. The Pink Noise also shows only a linear progression in the treble. Headphones or external speakers can be connected via the USB-C port. If you prefer to use Bluetooth for wireless output, there are many audio codecs and the new 6.0 standard, including Auracast.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "5% of all tested devices in this class were better, 5% similar, 91% worse\n\n",
+                        "18% of all tested devices in this class were better, 8% similar, 74% worse\n\n",
+                        "The lithium-polymer battery in the Xiaomi 15T has a capacity of 5,500 mAh and supports the company's own fast charging technology with up to 67 watts. However, the charging process took just under 60 minutes in the test. Wireless charging is not supported.\n\n",
+                        "The battery runtimes of the Xiaomi 15T are at a good level. The best comparison can be made by setting the display brightness to 150 cd/m². The Xiaomi phone achieves over 17 hours in our WLAN test and thus lasts just as long as its predecessor. On the\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "MediaTek Dimensity 8400 8c/8t, 1 x 3.3 GHz ARM Cortex-A725, 3 x 3.0 GHz ARM Cortex-A725, 4 x 2.1 GHz ARM Cortex-A725, Cortex-A725",
+                        "Graphics adapter:": "ARM Mali-G720 MP7",
+                        "Memory:": "12 GB , LPDDR5x",
+                        "Display:": "6.83 inch 19.49:9, 2772 x 1280 pixel 447 PPI, capacitive Touchscreen, AMOLED, Gorilla Glass 7i, glossy: yes, HDR, 120 Hz",
+                        "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 479 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB Type C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration sensor, gyroscope, proximity sensor, compass, OTG, Miracast",
+                        "Networking:": "Wi-Fi 6E (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42/​B48/​B66/​B71), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n26/​n28/​n38/​n40/​n41/​n48/​n66/​n71/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 7.5 x 163.2 x 78 ( = 0.3 x 6.43 x 3.07 in)",
+                        "Battery:": "5500 mAh Lithium-Polymer",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 15",
+                        "Camera:": "Primary Camera: 50 MPix (f/​1.7, OIS, 1/1.56'', Videos @2160p/​60fps) + 50 MPix (f/​1.9, 2x optical zoom, telephoto) + 12 MPix (f/​2.2, wide angle, FF), Camera2-API-Level: Level 3 Secondary Camera: 32 MPix (f/​2.2, FF, Videos @2160p/​30fps)",
+                        "Additional features:": "Speakers: Stereo, case, USB cable, SIM Eject Tool , HyperOS 2.0, 12 Months Warranty, SAR value: 0.99W/​kg Head, 0.99W/​kg Body | GPS: L1+L5, Galileo: E1+E5a, GLONASS: G1, Beidou, NavIC: L5 | BT-Codecs SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LHDC V5, fanless, waterproof",
+                        "Weight:": "194 g ( = 6.84 oz / 0.43 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "650 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "94%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "74%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "76%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "79%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "82%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "25%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "97.4%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "40%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "56.9%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "56.9%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "bright OLED panel",
+            "High-frequency PWM dimming",
+            "waterproof",
+            "good mid-range SoC",
+            "fast charging",
+            "appealing main camera"
+        ],
+        "cons": [
+            "uSB 2.0 only",
+            "Plastic housing",
+            "no wireless charging",
+            "only 12 months warranty"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "MediaTek Dimensity 8400 8c/8t, 1 x 3.3 GHz ARM Cortex-A725, 3 x 3.0 GHz ARM Cortex-A725, 4 x 2.1 GHz ARM Cortex-A725, Cortex-A725",
+                "Graphics adapter:": "ARM Mali-G720 MP7",
+                "Memory:": "12 GB , LPDDR5x",
+                "Display:": "6.83 inch 19.49:9, 2772 x 1280 pixel 447 PPI, capacitive Touchscreen, AMOLED, Gorilla Glass 7i, glossy: yes, HDR, 120 Hz",
+                "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 479 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB Type C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: acceleration sensor, gyroscope, proximity sensor, compass, OTG, Miracast",
+                "Networking:": "Wi-Fi 6E (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz), Bluetooth 6.0, 2G (850/​900/​1800/​1900), 3G (B1/​B2/​B4/​B5/​B6/​B8/​B19), 4G (B1/​B2/​B3/​B4/​B5/​B7/​B8/​B12/​B13/​B17/​B18/​B19/​B20/​B26/​B28/​B32/​B38/​B40/​B41/​B42/​B48/​B66/​B71), 5G (n1/​n2/​n3/​n5/​n7/​n8/​n12/​n20/​n26/​n28/​n38/​n40/​n41/​n48/​n66/​n71/​n75/​n77/​n78), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 7.5 x 163.2 x 78 ( = 0.3 x 6.43 x 3.07 in)",
+                "Battery:": "5500 mAh Lithium-Polymer",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 15",
+                "Camera:": "Primary Camera: 50 MPix (f/​1.7, OIS, 1/1.56'', Videos @2160p/​60fps) + 50 MPix (f/​1.9, 2x optical zoom, telephoto) + 12 MPix (f/​2.2, wide angle, FF), Camera2-API-Level: Level 3 Secondary Camera: 32 MPix (f/​2.2, FF, Videos @2160p/​30fps)",
+                "Additional features:": "Speakers: Stereo, case, USB cable, SIM Eject Tool , HyperOS 2.0, 12 Months Warranty, SAR value: 0.99W/​kg Head, 0.99W/​kg Body | GPS: L1+L5, Galileo: E1+E5a, GLONASS: G1, Beidou, NavIC: L5 | BT-Codecs SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LHDC V5, fanless, waterproof",
+                "Weight:": "194 g ( = 6.84 oz / 0.43 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "650 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "94%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "74%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "76%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "79%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "82%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "25%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "97.4%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "40%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "56.9%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "56.9%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Xiaomi-15T-review-Price-drop-makes-this-Android-smartphone-the-best-deal.1167533.0.html",
+                "text": "The Xiaomi 15T has become a real price-performance hit in a very short time. The high RRP of almost 650 euros is forgotten at the current price level of around 400 euros, just a few weeks after the market launch. For an affordable mid-range smartphone, the Chinese manufacturer's new T model actually has everything it takes to become a bestseller. The 6.83-inch 120 Hz OLED panel is not only super bright, but also offers a high pixel density and eye-friendly high-frequency PWM dimming. In combination with the overall appealing Dimensity 8400, users can also enjoy the Xiaomi 15T for a long time, thanks to its attractive battery life. The same applies to the Leica main camera, which produces very respectable photos in the mid-range. Even though the 15T will probably only be updated to Android 19, the Xiaomi phone scores with a fairly long update period. If you also use a case for your smartphone, you may forgive the plastic casing for its lack of value. The Xiaomi 15T also lacks other premium smartphone features, such as wireless charging or a fast USB port.\nbright OLED panel\nHigh-frequency PWM dimming\nwaterproof\ngood mid-range SoC\nfast charging\nappealing main camera\nuSB 2.0 only\nPlastic housing\nno wireless charging\nonly 12 months warranty\nCommunication and GNSS - Calls not via satellite, but without mobile communications\nPhone functions and voice quality - Xiaomi smartphone supports two eSIMs\nJust in time for the Christmas season, Xiaomi is once again launching its updated T series on the market, which traditionally aims to score with a strong price-performance ratio. The new Xiaomi 15T is no exception.\n, the mid-range phone is vying for the favor of price-conscious buyers. Those who highly value zoom photos can also check our\nXiaomi has adopted the design language of the previous models for the 15T. The gold color of our test sample is a new addition. The display has grown to 6.83 inches, and at 194 grams, the Xiaomi 15T is slightly lighter than the\nThe mid-range smartphone is IP68-certified and offers a modern look with a high screen-to-body ratio of over 90 percent. Gorilla Glass 7i protects the OLED display against scratches.\nThe back is made of glass fiber-reinforced plastic, while the frame is also made of plastic and not aluminum like its predecessor. Despite minor compromises in the feel, the Xiaomi 15T impresses with its good workmanship.\nXiaomi still relies on a USB 2.0 port for its T model without the option of image output. In our copy test, we achieved a transfer speed of just 30 MB/s with a Samsung Portable SSD T7. The connected storage media can be formatted with either NTFS or exFAT. However, USB-OTG is supported, allowing external devices to be connected without any problems.\nXiaomi uses LPDDR5X for the main memory. However, the internal storage uses a fast UFS 4.1 memory.\nIn terms of connectivity, the Xiaomi 15T already offers Bluetooth 6.0 for improved connectivity and energy efficiency compared to older Bluetooth versions. An IR blaster and NFC are also on board, enabling contactless payment and control of televisions or air conditioning systems. Miracast is available for wireless image transmission.\nUltra-wideband (UWB), a technology for precise positioning of smart tags, for example, is not included.\nThe T series is advertised with four Android updates and six years of security updates. Since Xiaomi relies on Android 15 ex-works, Android 19 should be the end of the road. At around 400 euros, this is certainly not a deal-breaker, but Samsung or Google offers a little more future-proofing here.\nThe Xiaomi 15T was still running HyperOS 2.0 as the operating system during the test, but the global rollout of the major software update to HyperOS 3 has already begun. With an update during the test, the security patches are up to date as of October 2025.\nWe have received the update to Android 16 with HyperOS 3.0.4.0 for our test sample.\nThe Xiaomi 15T is listed in the EPREL database with repair class C. This means that the availability of spare parts (in theory) is regulated for at least 6 years. Xiaomi does not provide information on the use of recycled materials for specific models, but only in very general terms, and CO\nIt also supports all current mobile communication standards, including 5G Sub6 and a wide range of LTE frequency bands. This means that the mid-range phone should be able to establish a data connection anywhere.\nThe Xiaomi 15T does not offer classic satellite communication, but the company's own Astral Communication can be used. This enables a direct connection between two Xiaomi devices without an active Wi-Fi or mobile phone connection. The manufacturer specifies a range of up to 1.3 kilometers for phone calls. However, this function is currently only available for the T series.\nThe Xiaomi phone quickly performs a Satfix outdoors with a high accuracy of 1 meter. In our practical test, we compare the Xiaomi 15T with a Garmin smartwatch (Venu 2). Both have some inaccuracies, but the mid-range phone's positioning is more than sufficient for navigation tasks.\nFor the price range in which the Xiaomi 15T operates, it offers very interesting options. In addition to 5G+5G dual SIM with two nanoSIM cards, users can also integrate two eSIMs into the system. A combination of both worlds is also possible.\nThe voice quality is natural and the noise suppression works satisfactorily. In addition to VoNR and VoLTE, VoWiFi is also supported.\nAlthough Xiaomi is positioning its T-series as a photo pro with its Leica camera, the hardware is not quite on par with the flagship competition, in many respects.\nCompared to the camera elite, the main camera of the Xiaomi 15T uses a somewhat small 1/1.55-inch sensor, which is also used in the\n. Nevertheless, good photos in daylight are possible with the Light Fusion 800. The images show an appealing sharpness and high dynamic range. However, details are not brought out perfectly with the mid-range smartphone, and the contrast also drops slightly. In low light, the low yield and soft focus are not surprising due to the lack of a sensor.\nWith only 2x optical zoom, the telephoto camera is useful up to 5x magnification, but beyond that, it quickly becomes pixelated and artificial. We also feel that the exposure is not optimal. The same applies to the telephoto lens: it lacks OIS, as does the main camera, but at least it has autofocus.\nThe ultra-wide-angle lens has neither optical image stabilization nor autofocus. The imaging performance is decent, but it shows edge artifacts and blurring.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe Xiaomi 15T reveals a very decent color reproduction under controlled lighting conditions. In our measurement, the colors are slightly brighter than the reference, but the DeltaE deviations are still significantly lower than those of the Flagship models (we tested the China version).\nThe mid-range phone comes with a USB-C cable, a TPU case, and a SIM tool. A protective film is also pre-installed ex-works. The matching fast-charging power adapter or other accessories are optionally available in the manufacturer's online store.\nfor the Xiaomi 15T is only 12 months in Germany and can be extended with the in-house Care insurance package against accidental damage and theft. Depending on the insurance scope, this costs between 74 and 104 euros at the time of testing.\nThe Xiaomi 15T has a touchscreen from Tianma with a sampling rate of up to 2,560 Hz. However, this high refresh rate is only active in Game Turbo mode. The company's own wet-touch technology is also on board, enabling sensible operation with wet hands, and it worked well in the test.\nAn in-display sensor is available for biometric unlocking. The optical fingerprint recognition works reliably and quickly in the test, but not at the level of a\n. There is also an insecure 2D face recognition using the front camera.\nThe X-axis vibration motor of the Xiaomi 15T generates haptically appealing vibrations and conveys a feeling of value.\nXiaomi uses an AMOLED panel with a 1,280p resolution and 12-bit color depth for its mid-range phone. With a diagonal of 6.83 inches, the pixel density is therefore a very good 447 ppi. The display can also automatically adjust the maximum frame rate of 120 Hz to 60 Hz or 90 Hz.\nAccording to the data sheet, a peak brightness of 3,200 nits can be achieved. For our everyday usage scenario (APL18 sample), we are pleased to even exceed the manufacturer's specifications with 3,310 cd/m². With HDR content, we achieve a brightness of 3,267 cd/m². The Xiaomi 15T is therefore ideally suited for video content with a high dynamic range: HDR10, HDR 10+, Dolby Vision and HLG are available.\nAs is usual for smartphones with OLED screens, Xiaomi uses PWM to control the brightness. According to the manufacturer, the standard dimming method of the Xiaomi 15T for high brightness ranges is DC dimming, while high-frequency PWM dimming (3,840 Hz) is used for low brightness. We can also confirm the latter based on our measurement.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 120 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 120 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nWith HyperOS in the second generation, the Xiaomi 15T has various color profiles, a white balance and an adjustment of individual parameters, such as gamma values, to choose from. With a look at our tests of the\nthe setting options should be somewhat reduced after the update to HyperOS 3.\nWe examine the color calibration with the Calman analysis software and a photo spectrometer. In the \"Pro\" profile, we found the smallest deviations from the reference colors and a high color fidelity. However, the\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 7 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nThere are no problems with the mid-range phone's readability outdoors and content is also recognizable in direct sunlight. The viewing angle stability is also very good and there are no color distortions.\nWhen it comes to the SoC, Xiaomi does not reach for the highest performance shelf for its 15T model, the\nis a good deal faster than the Xiaomi 15T with its Cortex-A725 cores, especially when it comes to single-core performance. However, the Xiaomi phone makes a convincing performance in AI calculations.\nThe rather below-average performance in the browser benchmarks does not really match the impressive performance when surfing. We cannot say what the reason for the rather poor values is.\nAlthough the UFS 4.1 memory of the Xiaomi 15T is theoretically very fast and offers high transfer rates, the mid-range phone's scores in the AndroBench are surprisingly slow. The memory controller of the\nThe Xiaomi 15T is not a gaming smartphone, but its large, high-resolution screen and stereo sound still offer a really good gaming experience. The\nconfirms that the Xiaomi phone has sufficient GPU power for current games.\nThe temperature development is not a major problem for the Xiaomi 15T, even under permanent load. The performance during the 3DMark stress tests remains constant and only results in moderate throttling. We achieve SoC throttling of up to 25 percent.\nRoom Temperature 21.6 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 42.1 °C / 108 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 42.8 °C / 109 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 43.5 °C / 110 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.1 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\nMali-G720 MP7, Dimensity 8400, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\nMali-G720 MP7, Dimensity 8400, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.17.2:\nMali-G720 MP7, Dimensity 8400, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\nMali-G720 MP7, Dimensity 8400, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1:\nThe stereo speakers with Dolby Audio support sound good, but have very little depth. The Pink Noise also shows only a linear progression in the treble. Headphones or external speakers can be connected via the USB-C port. If you prefer to use Bluetooth for wireless output, there are many audio codecs and the new 6.0 standard, including Auracast.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n5% of all tested devices in this class were better, 5% similar, 91% worse\n18% of all tested devices in this class were better, 8% similar, 74% worse\nThe lithium-polymer battery in the Xiaomi 15T has a capacity of 5,500 mAh and supports the company's own fast charging technology with up to 67 watts. However, the charging process took just under 60 minutes in the test. Wireless charging is not supported.\nThe battery runtimes of the Xiaomi 15T are at a good level. The best comparison can be made by setting the display brightness to 150 cd/m². The Xiaomi phone achieves over 17 hours in our WLAN test and thus lasts just as long as its predecessor. On the"
+            }
+        ]
+    }
+}

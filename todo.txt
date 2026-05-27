@@ -1,0 +1,5 @@
+Wrucić w bazy wektorowa
+Metryka odleglosci pomiedzy stronami
+Macierz odleglosci pomiedzy stronami
+
+(wizualizacja)

@@ -1,0 +1,216 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Oppo Find X9 Pro",
+    "article_url": "https://www.notebookcheck.net/Ingenious-smartphone-with-camera-innovation-SoC-dilemma-Oppo-Find-X9-Pro-review.1158701.0.html",
+    "verdict": {
+        "text": "Oppo has raised the bar with the Find X9 Pro. The successor to the Find X8 Pro performs significantly better and offers a comprehensive package that doesn't have to hide behind the Galaxy S25 Ultra or iPhone 17 Pro Max. On the contrary, thanks to the best hardware packaged in an almost borderless design, the flagship from Oppo plays in the absolute high-end league. The new LUMO image processing, especially its automated way of providing maximum image details, offers significant potential and will, hopefully, set a new standard. The Dimensity 9500 in the Oppo smartphone has minor weaknesses, but it can certainly compete with the competition, including the Snapdragon 8 Elite Gen 5. However, the Find X9 Pro also exhibits very pronounced SoC throttling - in some cases, the flagship throttles almost 80 percent of its performance, which significantly lowers our overall rating. What is particularly interesting for potential buyers of the Find X9 Pro is that there are hardly any restrictions compared to the global version with the Chinese variant. Besides the much lower price, the imported device also offers several benefits, not just drawbacks.",
+        "pros": [
+            "bright LTPO panel",
+            "extra large battery",
+            "high-quality housing with 2 additional keys",
+            "good cameras",
+            "long update promise for Europe",
+            "fast SoC"
+        ],
+        "cons": [
+            "deficits in sustainability transparency",
+            "throttling",
+            "relatively heavy and angular"
+        ]
+    },
+    "article_content": {
+        "paragraphs": [
+            "Accessories and warranty - Oppo Find X9 Pro comes with power adapter, but not in Europe\n\n",
+            "brings with it some notable innovations. This starts with the design, as the Find X9 Pro has a fresh look with a rectangular camera module.\n\n",
+            "In addition, the battery has grown to an impressive 7,500 mAh and the chipset has also been updated. With the new\n\n",
+            "The Find X9 Pro impresses with its first-class workmanship. The front is protected with Gorilla Glass Victus 2, which makes it highly resistant to scratches and drops. Oppo does not specify which material is used on the back.\n\n",
+            "The 8 millimeter slim case is IP68 and IP69 certified and feels good in the hand, although the aluminum frame combined with the flat back looks angular. With a weight of 224 grams, the Find X9 Pro is also not exactly light.\n\n",
+            "The customizable snap button, for example, for the AI assistant or for switching between vibration and ringing, as well as the dedicated camera button for quick access to the camera app, are practical.\n\n",
+            "The flagship phone impresses with a very good display-to-front ratio of over 91%, with the edges kept extremely narrow at just around one millimeter, ensuring an almost borderless appearance. This also makes the phone somewhat more compact than the\n\n",
+            "The Find X9 Pro is only available in one memory variant in Europe, while several options (256 GB to 1 TB) are offered in China. Whether it's the global or Chinese version, both use LPDDR5X RAM and omit the slightly faster LPDDR5T; UFS 4.1 is used for the internal memory.\n\n",
+            "The USB port supports the fast 3.2 standard, including image output and OTG functionality. An NFC chip and an infrared blaster are also integrated. The Find X9 Pro does not come with ultra-wideband wireless technology.\n\n",
+            "Together with the Find X9 series, Oppo has also released the new ColorOS 16 based on Android 16. The focus is on improvements in speed and energy efficiency through intelligent resource allocation.\n\n",
+            "The design has also been tweaked to convey an interplay of light and shadow and allow different folder sizes. Users can now set moving photos or videos as the background and use the always-on display in full screen.\n\n",
+            "During the test period, Oppo is combining its ColorOS version 16 with security patches from October 2025. There are some question marks over the planned software support for the China version. Those who opt for the global version are promised 5 major Android versions and 6 years of updates.\n\n",
+            ", Oppo still has some catching up to do when it comes to transparency. Unfortunately, there is no concrete information available on the percentage of recycled materials used in the Find X9 Pro. However, over 90 percent of the critical raw materials used, such as cobalt and neodymium, are reportedly recycled materials.\n\n",
+            "The focus is not on reparability by the user, and it is almost impossible to check. The Find X9 Pro is not listed in the EPREL database.\n\n",
+            "The packaging is apparently plastic-free. According to the sustainability report, 45% of the fibers used should also come from recycled materials.\n\n",
+            "Although the Find X9 Pro offers the maximum possible bandwidth with WiFi 7, the China version of the flagship does not support the 6 GHz frequency band for WiFi transmissions. As with the\n\n",
+            "In combination with the Asus ROG Rapture GT-AXE11000, our test sample only connects in the 2.4 and 5 GHz bands, although a high speed is still possible with our WiFi 6E router thanks to VHT160 in the 5 GHz frequency band.\n\n",
+            "According to the data sheet, there are no major differences between the Find X9 Pro for Europe and China in terms of frequency support. Our Oppo phone from the Far East also uses LTE bands 20 and 28, as well as a wide range of 5G frequencies. Network problems are therefore not to be expected with the flagship smartphone.\n\n",
+            "To test the positioning accuracy in everyday life, we took the Find X9 Pro on a short bike ride and compared the measured values with a Garmin Venu 2 as a reference. At best, the Oppo phone's position is determined using dual-band GNSS and a fast Satfix - even inside buildings.\n\n",
+            "The high-end smartphone proved to be very accurate during the route of our practical test; even in curves or when changing direction, we could only detect marginal inaccuracies.\n\n",
+            "The call quality with the Find X9 Pro is intelligible and sufficiently loud both with the hands-free mode and via the earpiece.\n\n",
+            "VoNR and VoLTE are offered, as well as VoWifi. If you want to use an eSIM, you must opt for the global version, as our China version only supports classic dual SIM with two nano-SIM cards in this country.\n\n",
+            "On the front, the Find X9 Pro uses a new 50 MP sensor from Samsung (S5KJN5), which achieves good results utilizing the pixel binning method. Much more interesting, however, are the cameras on the back, featuring Hasselblad branding, especially the new 50 MP main camera.\n\n",
+            "A 1/1.28-inch stacked sensor from Sony (LYT-828) is used for this, which should cover a particularly wide dynamic range thanks to Hybrid Frame HDR. A new feature is that photos can now be taken automatically in different resolutions, such as 12 MP, 26 MP and 50 MP - depending on the lighting conditions and temperature, the in-house LUMO image processing, based on the ISP, NPU, GPU, and CPU unit, should provide the best possible details in the photos.\n\n",
+            "The results are very good in daylight, and the dynamic range in the photos is really first-class. The images taken in low light are somewhat less convincing, as the soft focus blurs some details. There are also occasional problems with the white balance, where a magenta color cast is visible in the photos.\n\n",
+            "For zoom photos, a 200 MP lens with a 1/1.56-inch sensor (ISOCELL HP5) is installed, which allows a 3x optical magnification and macro function. This means that the Find X9 Pro is certainly not at the top level, especially at long focal lengths; however, the results are really good within a zoom range of 3x to 10x, which is often relevant for everyday use.\n\n",
+            "The ultra-wide-angle camera, which was taken over from the Find X8 Pro, is somewhat weaker in terms of quality. At this point, we refer you to our comprehensive\n\n",
+            "The cooperation with Hasselblad provides the Find X9 Pro with some familiar features, such as the XPan mode or the Hasselblad Master mode with 16-bit RAW. Videos can be recorded in UHD with up to 120 frames per second, optionally also in 8K30 format.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "Our China version comes with a case and quick-charging power adapter, a charging cable (USB-C to USB-A), a SIM pin, and a quick start guide. A film is also installed on the screen. Our loaner Trading Shenzhen adds an EU adapter for the charger to the scope of delivery. The Super VOOC Charger is not included in the global version.\n\n",
+            "The optional Hasselblad camera kit for the Find X9 Pro, including protective cover, handle and lens, which transforms the main camera into a telephoto camera with 10x optical zoom, can be purchased in Europe for an RRP of 549 euros. As an import, interested parties can get the accessories\n\n",
+            ". In the event of a warranty claim, Trading Shenzhen offers the option of sending the smartphone to a German shipping address. The global model comes with a 24-month warranty, but is not officially available in Germany.\n\n",
+            "The capacitive touchscreen has a sampling rate of 240 Hz and responds quickly to inputs. Animations are displayed very smoothly thanks to the 120 Hz panel. There is also splash water touch and glove detection, both of which worked reliably in the test, with the touchscreen even recognizing thick polyester gloves. A linear motor is responsible for vibrations, which provides crisp haptic feedback.\n\n",
+            "The fingerprint sensor is integrated into the OLED display and is based on ultrasound technology, which works very reliably and quickly detects our finger. A biometric unlocking option is made possible via a face unlock function using the front camera in 2D mode.\n\n",
+            "The 6.78-inch AMOLED display achieves a resolution of 2,772 x 1,272 pixels and therefore delivers a very nice sharpness of 450 ppi. The LTPO panel with a refresh rate of 1 Hz to 120 Hz should achieve a brightness (HBM) of 1,800 nits.\n\n",
+            "In our measurement, we achieve around 1,100 cd/m² with a pure white display. However, OLED panels typically exhibit a significantly more pronounced luminosity with the APL18 pattern, which is more relevant in everyday life. This is also the case with the Oppo smartphone, which has a brightness of 1,785 cd/m², in compliance with the manufacturer's specifications. The maximum display brightness is reportedly 3,200 nits, possibly at specific points when playing an HDR video.\n\n",
+            "The OLED technology in the Find X9 Pro uses pulse width modulation to control the screen brightness. According to the manufacturer, high-frequency PWM dimming at 2,160 Hz is offered, which minimizes the negative effects of flickering. We measure a base frequency of 466 Hz with the Rigol software.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 465.6 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 465.6 Hz is relatively high, so most users sensitive to PWM should not notice any flickering. However, there are reports that some users are still sensitive to PWM at 500 Hz and above, so be aware.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "The ColorOS 3 settings options for the color display are not extensive, but three profiles, including color temperature selection, should be more than sufficient for most users.\n\n",
+            "We examine the deviations with the Calman analysis software. In the \"Standard\" profile, the sRGB color space is selected and almost completely covered. Differences in the individual colors are not visible to the eye, and the measured DeltaE values are very low.\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 8 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "The screen shows good response rates in our tests, but may be too slow for competitive gamers.\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 25 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "The viewing angle stability is very appealing, and colors remain unchanged. Only the brightness drops slightly at flat viewing angles.\n\n",
+            "The Find X9 Pro remains very easy to read outdoors, but reflections on the glossy surface of the display glass can reduce readability.\n\n",
+            ", which is built on the new ARM v9.3 architecture and features a C1 Ultra Prime core with clock frequencies of up to 4.21 GHz.\n\n",
+            "The single-core performance in Geekbench is slightly worse than that of the\n\n",
+            ". However, thanks to three C1 Premium cores (3.5 GHz) and four C1 Pro cores (2.7 GHz), the multi-thread performance is on par.\n\n",
+            "The Find X9 Pro is surprisingly weak in the PCMark system benchmark and in the AI tests. The latter has always been a strength of the Dimensity chips.\n\n",
+            "with twelve cores promises plenty of performance, but the Find X9 Pro does not seem to be able to exploit its full potential due to thermal problems. This is particularly evident in the demanding GFXBench tests.\n\n",
+            "The Oppo phone impresses with its high browser speed. Websites load quickly and scrolling is smooth. However, the Find X9 Pro achieves relatively weak benchmark results. However, this probably only concerns the China version.\n\n",
+            "With a UFS 4.1, the flagship phone has fast memory. However, the write rates in particular are extremely low. This is more likely due to the memory controller of the Dimensity 9500 than the memory hardware.\n\n",
+            "We take a look at how the new Mali G1-Ultra performs in gaming with the software from\n\n",
+            "The surface temperatures are not exactly low in our measurements, but the heat dissipation is limited compared to the competition. In the 3DMark stress tests, however, the Find X9 Pro shows a sometimes significant performance loss of almost 80 percent. However, we did not notice any anomalies in performance during the test, apart from the benchmark measurements.\n\n",
+            "Power Supply (max.) 43.1 °C = 110 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "Power Supply (max.) 38.5 °C = 101 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 44.4 °C / 112 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 47.3 °C / 117 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 47 °C / 117 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 26.8 °C / 80 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Mali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+            "Immortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Mali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Immortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Mali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.2:\n\n",
+            "Immortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+            "Mali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.1:\n\n",
+            "Immortalis-G925 MC12, Dimensity 9400, 512 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "The Oppo phone relies on a dual speaker system with good playback quality, including a slight bass. The Pink Noise measurement shows an increase in the frequency curve for the mids, and only the super tweeters break down significantly.\n\n",
+            "For external sound output on the go with headphones, the Find X9 Pro offers a USB port or wireless Bluetooth 6.0.\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "4% of all tested devices in this class were better, 3% similar, 93% worse\n\n",
+            "1% of all tested devices in this class were better, 1% similar, 98% worse\n\n",
+            "With its flagship smartphones, Oppo relies on a silicon-carbon-based battery including Oppo Mag compatibility and a large capacity of 7,500 mAh (28.13 Wh). However, the manufacturer only promises a minimum battery life of 1,300 cycles.\n\n",
+            "The device can be charged with a maximum power of 80 watts or 50 watts wirelessly. In the test, we needed just over an hour to fully charge the Find X9 Pro with the appropriate power supply unit. If you want to power your in-ears, you can activate reverse charging with 10 watts.\n\n",
+            "The power consumption of the MediaTek SoC is low in our measurement, although the predecessor uses slightly less power. The reason for this could be the increased consumption of the GPU.\n\n",
+            "The large energy storage enables the Oppo flagship to achieve excellent runtimes in our practical battery test with an adjusted display brightness of 150 cd/m². With over 34 hours in our Wi-Fi test, the Find X9 Pro should only need to be plugged in every other day during normal use, or even less with infrequent use.\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "MediaTek Dimensity 9500 8c/8t, 1 x 4.2 GHz ARM C1-Ultra, 3 x 3.5 GHz ARM C1-Premium, 4 x 2.7 GHz ARM C1-Pro, Cortex-X930 Travis / Cortex-A730 6x Gelas",
+            "Graphics adapter:": "Arm Mali G1- Ultra MC12",
+            "Memory:": "16 GB",
+            "Display:": "6.78 inch 19.5:9, 2772 x 1272 pixel 450 PPI, capacitive Touchscreen, LTPO AMOLED, HDR, 120 Hz",
+            "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 454 GB free",
+            "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, 1 Infrared, Audio Connections: USB Type C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, proximity, compass, OTG, Miracast, Satellite connectivity support (1TB 16GB RAM model only)",
+            "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6.0, 2G: 850/900/1800/1900MHz; 3G: Band 1/2/4/5/6/8/19; 4G FDD: Band 1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/32/66/71; TDD: Band 38/39/40/41/42/48; 5G: n1/n2/n3/n5/n7/n8/n12/n20/n25/n26/n28/n38/n40/n41/n48/n66/n71/n75/n76/n77/n78/n79, Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 8.3 x 161.3 x 76.5 ( = 0.33 x 6.35 x 3.01 in)",
+            "Battery:": "7500 mAh Silicon-Carbon",
+            "Charging:": "wireless charging, fast charging / Quickcharge",
+            "Operating System:": "Android 16",
+            "Camera:": "Primary Camera: 50 MPix (f/1.5, 7P, OIS, 1/1.28\") + 50 MPix (f/2.0, 6P, ultrawide) + 200 MPix (f/2.1, 6P. OIS, tele, 3x optical zoom) + 2 MPix (f/2.4. monochrom) Secondary Camera: 50 MPix (f/2.0, AF, 1/2.76\")",
+            "Additional features:": "Speakers: Stereo, case, USB cable, charger (CN version), ColorOS, 24 Months Warranty, GPS (L1+L5), GLONASS (G1), BDS (B1I+B1C+B2a+B2b), Galileo (E1+E5a+E5b), QZSS (L1+L5), NavIC (L5), fanless, waterproof",
+            "Weight:": "224 g ( = 7.9 oz / 0.49 pounds), Power Supply: 106 g ( = 3.74 oz / 0.23 pounds)",
+            "Price:": "1299 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "96%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "87%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "97%"
+            },
+            {
+                "Attributes": "Display",
+                "Notes": "",
+                "Rating": "93%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "63%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "12%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "84%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "40%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "40%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "70%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "95.4%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "30%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "54.2%"
+            }
+        ]
+    }
+}

@@ -1,0 +1,337 @@
+{
+    "phone_key": "vivo_v70",
+    "primary_name": "Vivo V70",
+    "aliases": [
+        "Vivo V70"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Vivo V70",
+                "article_url": "https://www.notebookcheck.net/Vivo-V70-review-A-standout-feature-leaves-Xiaomi-behind-in-the-mid-range-smartphone-segment.1244797.0.html",
+                "verdict": {
+                    "text": "The Vivo V70 is a visual standout in the mid-range price segment and, thanks to its very slim display bezels, is every bit as refined in this respect as Vivo’s own flagship models. The V70 also pushes into premium territory with its ultrasonic fingerprint sensor, since this feature is still rare in the mid-range segment and helps Vivo distinguish itself from the Redmi competition. In many respects, however, this mid-range smartphone ends up caught between categories. The Snapdragon SoC does not feel underpowered in everyday use, but it does not deliver especially strong performance for this price class. SoC throttling is also limited, although we would not have expected any performance drop at all from an entry-level chipset. The speaker system is similarly neither particularly good nor especially bad. The same is true of the \"shrinking battery\" in Europe. Battery life is very decent, but mid-range phones such as the Redmi Note 15 Pro 5G can sometimes last significantly longer. Given the strong camera performance of the Zeiss main cameras in Vivo’s X series, we do not find the V70’s photos above average for its intended price point. We see the Redmi Note 15 Pro+ as a good alternative. Once the Vivo V70 falls into a similar price range, it becomes a genuinely interesting option in the affordable mid-range segment.",
+                    "pros": [
+                        "thin display edges",
+                        "well-made and waterproof housing",
+                        "Ultrasonic sensor",
+                        "Zoom camera with OIS",
+                        "good runtimes"
+                    ],
+                    "cons": [
+                        "weak SoC",
+                        "Speaker without depth",
+                        "low-resolution ultra-wide angle",
+                        "no 6 GHz band WLAN"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Communication and operation - Mid-range phone without Wi-Fi 7, but with 5G\n\n",
+                        "Cameras - Android cell phone with Zeiss optics and optical image stabilization\n\n",
+                        "Performance, emissions, and battery life - Android phone uses a Qualcomm chipset\n\n",
+                        "At 7.6 millimeters thick and 187 grams, the Vivo V70 feels comfortable in the hand. Our black review unit does not have a glass back like the other color variants of the V70, but a fiberglass back, in other words plastic. According to the spec sheet, this reduces the weight by 7 grams. Schott Xensation Core is used as the protective glass on the front.\n\n",
+                        "The mid-range phone is IP68 and IP69 certified for water resistance and is also claimed to survive drops from up to 1.8 meters. Thanks to its metal frame, the Vivo V70 feels premium, but those planning to use the smartphone without a case and who care about in-hand feel should opt for the gray version.\n\n",
+                        "The slim display bezels and the ultrasonic fingerprint sensor, which works very well, are highlights in this class. The USB port is limited to the USB 2.0 standard.\n\n",
+                        "The Vivo V70 only supports Wi-Fi 6 and does not offer access to the 6 GHz band. As a result, transfer rates were not especially high in our testing with the Asus ROG Rapture GT-AXE11000. Average upload speeds in particular reached only around 600 Mbps.\n\n",
+                        "All important 4G and 5G bands are supported. The phone offers either two Nano SIM slots or eSIM support.\n\n",
+                        "The Vivo V70 ships with Android 16 and is expected to receive at least four major Android updates and six years of security patches. The mid-range phone may even receive monthly security updates, as the predecessor is listed accordingly by Vivo. On our review unit, the security patch level was updated to February 2026.\n\n",
+                        "We were unable to determine any exact details regarding sustainability. The packaging is made of paper-based materials, and Vivo does not use plastic film.\n\n",
+                        ", the Vivo V70 uses cameras with Zeiss optics. The 50 MP main camera with a 1/1.56-inch sensor and OIS delivers good photos with decent sharpness in daylight. However, contours look somewhat oversharpened, and colors could be a bit more neutral. Despite the relatively small sensor, low-light shots are quite appealing.\n\n",
+                        "A periscope telephoto camera with 3x optical zoom is unusual in a mid-range phone. It allows for zoom photos with good sharpness. The 8 MP ultra-wide camera is less convincing in everyday use. Neither the dynamic range nor the image sharpness is particularly convincing.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The Vivo V70 features a 6.59-inch 120 Hz OLED panel with a high 1260p resolution and a peak brightness of almost 3,800 cd/m² in our APL measurement. Brightness is controlled via PWM dimming at more than 4,000 Hz. We also measured a base flicker frequency of 90 Hz.\n\n",
+                        "Our display analysis showed only very minor deviations in sRGB and grayscale reproduction.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        ". Performance is rather modest for this price class, but at least everyday system performance is better than that of the\n\n",
+                        "The Vivo V70 also turns in a weak speaker performance. Our pink noise measurements show limited midrange linearity and very little depth. We could not make out any bass in the sound.\n\n",
+                        "Due to EU regulations, the battery capacity drops from 6,500 mAh in the Chinese version to 5,400 mAh in Europe. Even so, the Vivo phone still performs reasonably well in our Wi-Fi test at 21 hours. In Europe, it can also be charged at up to 90 watts via USB-C. Wireless charging is not supported.\n\n",
+                        "Power Supply (max.) 42.3 °C = 108 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 39.9 °C = 104 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 42.2 °C / 108 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 44.6 °C / 112 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 43.1 °C / 110 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 25.1 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "Adreno 722, SD 7 Gen 4, 256 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+                        "Adreno 722, SD 7 Gen 4, 256 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Xclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "51% of all tested devices in this class were better, 7% similar, 42% worse\n\n",
+                        "12% of all tested devices in this class were better, 8% similar, 80% worse\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 7 Gen 4 SM7750-AB 8c/8t, 1 x 2.8 GHz ARM Cortex-A720, 4 x 2.4 GHz ARM Cortex-A720, 3 x 1.8 GHz ARM Cortex-A520, Cortex A520/A720",
+                        "Graphics adapter:": "Qualcomm Adreno 722",
+                        "Memory:": "8 GB , LPDDR5X",
+                        "Display:": "6.59 inch 19.5:9, 2750 x 1260 pixel, capacitive Touchscreen, OLED, HDR, 120 Hz",
+                        "Storage:": "256 GB UFS 4.1 Flash, 256 GB , 216 GB free",
+                        "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, compass, proximity, OTG, Miracast",
+                        "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 5.4, 2G GSM 850/900/1800 MHz 3G WCDMA B1/B4/B5/B6/B8/B19 4G FDD-LTE B1/B3/B4/B5/B8/B18/B19/B26/B28/B66 4G TD-LTE B38/B39/B40/B41/B42 5G n1/n3/n5/n8/n28/n38/n40/n41/n66/n77/n78, Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 7.4 x 157.5 x 74.3 ( = 0.29 x 6.2 x 2.93 in)",
+                        "Battery:": "5400 mAh Silicon-Carbon",
+                        "Charging:": "fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 50 MPix (f/1.9, 23 mm, 1/1.56\", PDAF, OIS) + 50 MPix (f/2.7, 73 mm, periscope telephoto,, 1/1.95\", OIS, 3x optical zoom) + 8 MPix (f/2.2, 15 mm, ultrawide) Secondary Camera: 50 MPix (f/2.0, AF)",
+                        "Additional features:": "Speakers: Stereo, USB cable, case, info material, OrignOS 6, 12 Months Warranty, fanless, waterproof",
+                        "Released:": "03/05/2026",
+                        "Weight:": "187 g ( = 6.6 oz / 0.41 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "599 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Pointing Device",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "68%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "46%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "81%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "18%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "87%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "75%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "80%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "40%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "40%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "97%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "97%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "52%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "73.3%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "58.7%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "thin display edges",
+            "well-made and waterproof housing",
+            "Ultrasonic sensor",
+            "Zoom camera with OIS",
+            "good runtimes"
+        ],
+        "cons": [
+            "weak SoC",
+            "Speaker without depth",
+            "low-resolution ultra-wide angle",
+            "no 6 GHz band WLAN"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 7 Gen 4 SM7750-AB 8c/8t, 1 x 2.8 GHz ARM Cortex-A720, 4 x 2.4 GHz ARM Cortex-A720, 3 x 1.8 GHz ARM Cortex-A520, Cortex A520/A720",
+                "Graphics adapter:": "Qualcomm Adreno 722",
+                "Memory:": "8 GB , LPDDR5X",
+                "Display:": "6.59 inch 19.5:9, 2750 x 1260 pixel, capacitive Touchscreen, OLED, HDR, 120 Hz",
+                "Storage:": "256 GB UFS 4.1 Flash, 256 GB , 216 GB free",
+                "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: accelerometer, gyro, compass, proximity, OTG, Miracast",
+                "Networking:": "802.11 a/b/g/n/ac/ax (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/), Bluetooth 5.4, 2G GSM 850/900/1800 MHz 3G WCDMA B1/B4/B5/B6/B8/B19 4G FDD-LTE B1/B3/B4/B5/B8/B18/B19/B26/B28/B66 4G TD-LTE B38/B39/B40/B41/B42 5G n1/n3/n5/n8/n28/n38/n40/n41/n66/n77/n78, Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 7.4 x 157.5 x 74.3 ( = 0.29 x 6.2 x 2.93 in)",
+                "Battery:": "5400 mAh Silicon-Carbon",
+                "Charging:": "fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 50 MPix (f/1.9, 23 mm, 1/1.56\", PDAF, OIS) + 50 MPix (f/2.7, 73 mm, periscope telephoto,, 1/1.95\", OIS, 3x optical zoom) + 8 MPix (f/2.2, 15 mm, ultrawide) Secondary Camera: 50 MPix (f/2.0, AF)",
+                "Additional features:": "Speakers: Stereo, USB cable, case, info material, OrignOS 6, 12 Months Warranty, fanless, waterproof",
+                "Released:": "03/05/2026",
+                "Weight:": "187 g ( = 6.6 oz / 0.41 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "599 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Pointing Device",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "68%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "46%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "81%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "18%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "87%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "75%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "80%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "40%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "40%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "97%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "97%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "52%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "73.3%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "58.7%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Vivo-V70-review-A-standout-feature-leaves-Xiaomi-behind-in-the-mid-range-smartphone-segment.1244797.0.html",
+                "text": "The Vivo V70 is a visual standout in the mid-range price segment and, thanks to its very slim display bezels, is every bit as refined in this respect as Vivo’s own flagship models. The V70 also pushes into premium territory with its ultrasonic fingerprint sensor, since this feature is still rare in the mid-range segment and helps Vivo distinguish itself from the Redmi competition. In many respects, however, this mid-range smartphone ends up caught between categories. The Snapdragon SoC does not feel underpowered in everyday use, but it does not deliver especially strong performance for this price class. SoC throttling is also limited, although we would not have expected any performance drop at all from an entry-level chipset. The speaker system is similarly neither particularly good nor especially bad. The same is true of the \"shrinking battery\" in Europe. Battery life is very decent, but mid-range phones such as the Redmi Note 15 Pro 5G can sometimes last significantly longer. Given the strong camera performance of the Zeiss main cameras in Vivo’s X series, we do not find the V70’s photos above average for its intended price point. We see the Redmi Note 15 Pro+ as a good alternative. Once the Vivo V70 falls into a similar price range, it becomes a genuinely interesting option in the affordable mid-range segment.\nthin display edges\nwell-made and waterproof housing\nUltrasonic sensor\nZoom camera with OIS\ngood runtimes\nweak SoC\nSpeaker without depth\nlow-resolution ultra-wide angle\nno 6 GHz band WLAN\nCommunication and operation - Mid-range phone without Wi-Fi 7, but with 5G\nCameras - Android cell phone with Zeiss optics and optical image stabilization\nPerformance, emissions, and battery life - Android phone uses a Qualcomm chipset\nAt 7.6 millimeters thick and 187 grams, the Vivo V70 feels comfortable in the hand. Our black review unit does not have a glass back like the other color variants of the V70, but a fiberglass back, in other words plastic. According to the spec sheet, this reduces the weight by 7 grams. Schott Xensation Core is used as the protective glass on the front.\nThe mid-range phone is IP68 and IP69 certified for water resistance and is also claimed to survive drops from up to 1.8 meters. Thanks to its metal frame, the Vivo V70 feels premium, but those planning to use the smartphone without a case and who care about in-hand feel should opt for the gray version.\nThe slim display bezels and the ultrasonic fingerprint sensor, which works very well, are highlights in this class. The USB port is limited to the USB 2.0 standard.\nThe Vivo V70 only supports Wi-Fi 6 and does not offer access to the 6 GHz band. As a result, transfer rates were not especially high in our testing with the Asus ROG Rapture GT-AXE11000. Average upload speeds in particular reached only around 600 Mbps.\nAll important 4G and 5G bands are supported. The phone offers either two Nano SIM slots or eSIM support.\nThe Vivo V70 ships with Android 16 and is expected to receive at least four major Android updates and six years of security patches. The mid-range phone may even receive monthly security updates, as the predecessor is listed accordingly by Vivo. On our review unit, the security patch level was updated to February 2026.\nWe were unable to determine any exact details regarding sustainability. The packaging is made of paper-based materials, and Vivo does not use plastic film.\n, the Vivo V70 uses cameras with Zeiss optics. The 50 MP main camera with a 1/1.56-inch sensor and OIS delivers good photos with decent sharpness in daylight. However, contours look somewhat oversharpened, and colors could be a bit more neutral. Despite the relatively small sensor, low-light shots are quite appealing.\nA periscope telephoto camera with 3x optical zoom is unusual in a mid-range phone. It allows for zoom photos with good sharpness. The 8 MP ultra-wide camera is less convincing in everyday use. Neither the dynamic range nor the image sharpness is particularly convincing.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe Vivo V70 features a 6.59-inch 120 Hz OLED panel with a high 1260p resolution and a peak brightness of almost 3,800 cd/m² in our APL measurement. Brightness is controlled via PWM dimming at more than 4,000 Hz. We also measured a base flicker frequency of 90 Hz.\nOur display analysis showed only very minor deviations in sRGB and grayscale reproduction.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 90 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 90 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 6 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\n. Performance is rather modest for this price class, but at least everyday system performance is better than that of the\nThe Vivo V70 also turns in a weak speaker performance. Our pink noise measurements show limited midrange linearity and very little depth. We could not make out any bass in the sound.\nDue to EU regulations, the battery capacity drops from 6,500 mAh in the Chinese version to 5,400 mAh in Europe. Even so, the Vivo phone still performs reasonably well in our Wi-Fi test at 21 hours. In Europe, it can also be charged at up to 90 watts via USB-C. Wireless charging is not supported.\nPower Supply (max.) 42.3 °C = 108 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 39.9 °C = 104 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 42.2 °C / 108 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 44.6 °C / 112 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 43.1 °C / 110 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 25.1 °C / 77 F, compared to the device average of 32.9 °C / 91 F.\nAdreno 722, SD 7 Gen 4, 256 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\nAdreno 722, SD 7 Gen 4, 256 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nXclipse 940, Exynos 2400, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n51% of all tested devices in this class were better, 7% similar, 42% worse\n12% of all tested devices in this class were better, 8% similar, 80% worse"
+            }
+        ]
+    }
+}

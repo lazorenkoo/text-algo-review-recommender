@@ -1,0 +1,193 @@
+{
+    "source": "notebookcheck",
+    "phone_name": "Xiaomi Poco M8 5G",
+    "article_url": "https://www.notebookcheck.net/Battery-and-display-are-better-but-the-Samsung-Galaxy-A36-remains-our-favorite-Xiaomi-Poco-M8-5G-review.1230385.0.html",
+    "verdict": {
+        "text": "",
+        "pros": [],
+        "cons": []
+    },
+    "article_content": {
+        "paragraphs": [
+            "Performance, emissions and battery life - Enduring thanks to silicon technology battery\n\n",
+            "as the control center: Xiaomi is competing with itself with the Poco M8 5G, as it is technically equivalent to the Xiaomi Redmi Note 15 5G. The Poco phone should therefore also be recommended as an affordable but well-equipped smartphone.\n\n",
+            "Xiaomi packs the Poco M8 5G into a sturdy and lightweight plastic casing. Its rounded long sides make the back cover and display appear to merge seamlessly. However, the factory-applied screen protector acts as a haptic brake because it can be clearly felt due to the curved design.\n\n",
+            "Xiaomi does not provide any information on the protection class of the display glass. The Poco M8 5G is protected against dust and water in accordance with IP65, which means that it cannot be harmed by rain, for example. The proximity sensor is only virtual and therefore tends to be less accurate than its physical counterpart.\n\n",
+            "A microSD card of up to 1 TB fits into the hybrid SIM slot. In the copy test with the Angelbird AV Pro V60 microSD reference card, the card reader achieved a reasonable speed of 32.3 MByte/s on average.\n\n",
+            "Mali-G615 MP6, Dimensity 8350, 128 GB UFS 3.1 Flash; SDCard Sequential Write 0.5 GB; Angelbird V60:\n\n",
+            "IMG BXM-8-256, Dimensity 7025, 256 GB UFS 2.2 Flash; SDCard Sequential Write 0.5 GB; Angelbird AV Pro V60:\n\n",
+            "Mali-G615 MP6, Dimensity 8350, 128 GB UFS 3.1 Flash; SDCard Sequential Read 0.5 GB; Angelbird V60:\n\n",
+            "IMG BXM-8-256, Dimensity 7025, 256 GB UFS 2.2 Flash; SDCard Sequential Read 0.5 GB; Angelbird AV Pro V60:\n\n",
+            "The Poco M8 5G supports WiFi 5 as the fastest WiFi communication standard. Connected to our reference router Asus ROG Rapture GT-AXE11000, the Xiaomi phone therefore only achieves below-average WiFi transfer rates.\n\n",
+            "The Poco M8 5G only supports dual SIM if the microSD card is omitted. In the test, the smartphone scored with good voice quality and managed to largely block out distracting ambient noise.\n\n",
+            "The capacitive touchscreen responds quickly to inputs and works as reliably as the fingerprint sensor underneath it in the test. Alternatively, you can authenticate yourself biometrically using 2D Face Unlock. An ERM vibration motor is responsible for haptic feedback, which can be adjusted in 3 levels.\n\n",
+            "Xiaomi's HyperOS 2.0 operating system for the Poco M8 5G is still based on Android 15, displays ads in many places and comes with a lot of bloatware. Xiaomi plans to provide four Android updates for the Poco M8 5G and supply it\n\n",
+            "The packaging of the Poco M8 5G is made of recycled paper, but is delivered shrink-wrapped in plastic film. The manufacturer does not provide any information on the recycled materials used in the smartphone. Xiaomi also offers\n\n",
+            "The selfie camera offers a fairly high resolution of 20 MPix. However, the quality of its images is very average and sometimes look artificial due to the pronounced sharpening. However, the quality is fine for occasional video chats, which can take place at up to 1080p at 30 frames per second.\n\n",
+            "The main camera sensor has a resolution of 50 MPix, uses Light Fusion 400 and takes quite acceptable photos in daylight. However, it does not show much detail and it quickly becomes blurry at higher zoom levels. Video recordings achieve roughly the same image quality, up to 4K at 30 frames per second.\n\n",
+            "This largely exhausts the Poco M8 5G's photo capabilities, as it does not have an ultra-wide-angle camera. Additional cameras include only a 2 MP camera, which is only used to capture depth information.\n\n",
+            "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+            "According to Xiaomi, the 120 Hz AMOLED panel achieves a peak brightness of 3200 nits, which it also reaches in smaller image sections (APL18 measurement 3355 cd/m²) and in HDR with 3492 cd/m². This is complemented by precise color reproduction and a high PWM dimming frequency of 3840 Hz.\n\n",
+            "Thanks to its high peak brightness, the Poco M8 is well equipped for outdoor use. In the test, however, it makes no difference whether we activate the sunlight mode or not. This should actually provide a brightness boost, but it does not change the display brightness.\n\n",
+            "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+            "The display backlight flickers at 60 Hz (worst case, e.g., utilizing PWM) .\n\n",
+            "The frequency of 60 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+            "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7892 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+            "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+            "Color fidelity (color scheme standard, color temperature standard, target color space sRGB)\n\n",
+            "Color space (color scheme standard, color temperature standard, target color space sRGB)\n\n",
+            "Grayscale (color scheme standard, color temperature standard, target color space sRGB)\n\n",
+            "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+            "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 3 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+            "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 4 % of all devices are better.\n\n",
+            "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+            "the Poco M8 5G is not fast, but can still get quite warm during operation. The SoC power is not sufficient for complex apps and if you want to play a lot with the smartphone, you are better off with the\n\n",
+            "The stereo speakers deliver the typical treble-heavy smartphone sound and sound best at medium volume. USB-C and Bluetooth are available for external sound output.\n\n",
+            "The 5520 mAh battery helps the Poco M8 5G achieve above-average runtimes. In the WLAN test, only the\n\n",
+            "is more enduring. With a suitable power adapter, the Xiaomi can be charged with up to 45 watts. In the test, a full charging cycle takes just under 1.5 hours.\n\n",
+            "Room Temperature 21.8 °C = 71 F | Fluke t3000FC (calibrated) & Voltcraft IR-260\n\n",
+            "The average temperature for the upper side under maximal load is 40.7 °C / 105 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+            "The maximum temperature on the upper side is 44.5 °C / 112 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+            "The bottom heats up to a maximum of 40 °C / 104 F, compared to the average of 34 °C / 93 F\n\n",
+            "In idle usage, the average temperature for the upper side is 26 °C / 79 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+            "Adreno 710, SD 6 Gen 1, 512 GB UFS 2.2 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+            "Adreno 810, SD 7s Gen 3, 256 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Mali-G615 MP6, Dimensity 8350, 128 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.14.1:\n\n",
+            "Adreno 710, SD 6 Gen 1, 256 GB UFS 3.1 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Mali-G615 MP2, Dimensity 7300, 512 GB UFS 2.2 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+            "Adreno 710, SD 6 Gen 1, 512 GB UFS 2.2 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 810, SD 7s Gen 3, 256 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 710, SD 6 Gen 1, 256 GB UFS 3.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Mali-G615 MP2, Dimensity 7300, 512 GB UFS 2.2 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 710, SD 6 Gen 1, 512 GB UFS 2.2 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 810, SD 7s Gen 3, 256 GB UFS 3.1 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 710, SD 6 Gen 1, 256 GB UFS 3.1 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "Mali-G615 MP2, Dimensity 7300, 512 GB UFS 2.2 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+            "Adreno 710, SD 6 Gen 1, 512 GB UFS 2.2 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+            "Adreno 810, SD 7s Gen 3, 256 GB UFS 3.1 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "Mali-G615 MP2, Dimensity 7300, 512 GB UFS 2.2 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+            "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+            "47% of all tested devices in this class were better, 7% similar, 46% worse\n\n",
+            "16% of all tested devices in this class were better, 8% similar, 76% worse\n\n"
+        ],
+        "bullet_points": []
+    },
+    "tables": {
+        "specifications": {
+            "Processor:": "Qualcomm Snapdragon 6 Gen 3 8c/8t, 4 x 2.4 GHz ARM Cortex-A78, 4 x 1.8 GHz ARM Cortex-A55, Cortex-A78 / A55",
+            "Graphics adapter:": "Qualcomm Adreno 710",
+            "Memory:": "8 GB , LPDDR4X",
+            "Display:": "6.77 inch 19.9:9, 2392 x 1080 pixel 388 PPI, capacitive touchscreen, AMOLED, 3200 nits peak brightness, 800 nits typical brightness, Touch sampling rate 240 Hz, Instant touch sampling rate 2560 Hz, 3840 Hz PWM dimming, 12 Bit color depth, glossy: yes, 120 Hz",
+            "Storage:": "512 GB UFS 2.2 Flash, 512 GB , 467 GB free",
+            "Connections:": "1 USB 2.0, USB-C Power Delivery (PD), 1 Infrared, Audio Connections: USB-C, Card Reader: microSD up to 1 TB (FAT, FAT32, exFAT), 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Virtual proximity sensor, Accelerometer, Electronic compass, IR blaster, Gyroscope, DRM Widevine L1, Camera2 API Level 3, Wi-Fi Direct, USB-OTG",
+            "Networking:": "802.11 a/b/g/n/ac (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/), Bluetooth 5.1, 2G (Band 2/3/5/8), 3G (Band 1/2/4/5/6/8/19), 4G (Band 1/2/3/4/5/7/8/18/19/20/26/28/38/40/41/42/48/66/71), 5G (Band n1/2/3/5/7/8/20/28/38/40/41/48/66/71/77/78), Dual SIM, LTE, 5G, GPS",
+            "Size:": "height x width x depth (in mm): 7.35 x 164 x 75.42 ( = 0.29 x 6.46 x 2.97 in)",
+            "Battery:": "5520 mAh Lithium-Ion, 45W TurbiCharge, up to 18W reverse charging, silicon-carbon anode",
+            "Charging:": "fast charging / Quickcharge",
+            "Operating System:": "Android 15",
+            "Camera:": "Primary Camera: 50 MPix (Light Fusion 400, f/1.8, 1/2.88\" sensor size, 1.22 µm 4-in-1 pixel size) + 2 MP depth camera, video recording up to 4K@30fps Secondary Camera: 20 MPix f/2.2, 1/4\" sensor size, video recording up to 1080p@30fps",
+            "Additional features:": "Speakers: stereo speakers (Dolby Atmos & Hi-Res Audio support), Keyboard: virtual, USB-C cable, Protective case, SIM tool, Quick start guide, Warranty Card, HyperOS 2.0, 12 Months Warranty, plastic back side; IP65 certified; GPS: GPS (L1), Glonass (L1), BeiDou (B1I, B1C), Galileo (E1); Connectivity: Hybrid-Dual-SIM, VoLTE/WiFI calling, no eSIM support; Bluetooth codecs: SBC, AAC, aptX, aptX HD, aptX Adaptive, aptX TWS+, LDAC, LHDC V1-V5; no HDR support; update policy: 4 OS upgrades, 6 years of security updates (EOL 01/2032); Head SAR 0.997 W/kg, Body SAR 0.987 W/kg, fanless",
+            "Released:": "01/08/2026",
+            "Weight:": "178 g ( = 6.28 oz / 0.39 pounds) ( = 0 oz / 0 pounds)",
+            "Price:": "300 Euro"
+        },
+        "ratings": [
+            {
+                "Attributes": "Chassis",
+                "Notes": "",
+                "Rating": "86%"
+            },
+            {
+                "Attributes": "Pointing Device",
+                "Notes": "",
+                "Rating": "90%"
+            },
+            {
+                "Attributes": "Connectivity",
+                "Notes": "",
+                "Rating": "65%"
+            },
+            {
+                "Attributes": "Weight",
+                "Notes": "",
+                "Rating": "91%"
+            },
+            {
+                "Attributes": "Battery",
+                "Notes": "",
+                "Rating": "92%"
+            },
+            {
+                "Attributes": "Games Performance",
+                "Notes": "",
+                "Rating": "25%"
+            },
+            {
+                "Attributes": "Application Performance",
+                "Notes": "",
+                "Rating": "73%"
+            },
+            {
+                "Attributes": "AI Performance",
+                "Notes": "",
+                "Rating": "9%"
+            },
+            {
+                "Attributes": "Temperature",
+                "Notes": "",
+                "Rating": "88%"
+            },
+            {
+                "Attributes": "Noise",
+                "Notes": "",
+                "Rating": "100%"
+            },
+            {
+                "Attributes": "Audio",
+                "Notes": "",
+                "Rating": "82%"
+            },
+            {
+                "Attributes": "Camera",
+                "Notes": "",
+                "Rating": "57%"
+            },
+            {
+                "Attributes": "CO2 Emissions",
+                "Notes": "",
+                "Rating": "0%"
+            },
+            {
+                "Attributes": "Materials",
+                "Notes": "",
+                "Rating": "0%"
+            },
+            {
+                "Attributes": "Packaging",
+                "Notes": "",
+                "Rating": "50%"
+            },
+            {
+                "Attributes": "Power Use",
+                "Notes": "",
+                "Rating": "96.1%"
+            },
+            {
+                "Attributes": "Repairability",
+                "Notes": "",
+                "Rating": "60%"
+            },
+            {
+                "Attributes": "Software Updates",
+                "Notes": "",
+                "Rating": "49.2%"
+            },
+            {
+                "Attributes": "Total Sustainability Score",
+                "Notes": "",
+                "Rating": "49.2%"
+            }
+        ]
+    }
+}

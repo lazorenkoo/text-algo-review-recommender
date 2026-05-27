@@ -1,0 +1,365 @@
+{
+    "phone_key": "motorola_signature",
+    "primary_name": "Motorola Signature",
+    "aliases": [
+        "Motorola Signature"
+    ],
+    "sources": {
+        "notebookcheck": [
+            {
+                "source": "notebookcheck",
+                "phone_name": "Motorola Signature",
+                "article_url": "https://www.notebookcheck.net/Motorola-Signature-review-DxO-award-winning-attack-on-Apple-and-Samsung.1237925.0.html",
+                "verdict": {
+                    "text": "The Motorola Signature is a very strong flagship smartphone, although it is not convincing in every area. The slim yet highly durable body, the very bright AMOLED screen, and the camera setup with its four 50 MP lenses are definitely first class. Combined with the 7-year update guarantee, you should be able to enjoy the Signature phone for a long time. However, the Snapdragon 8 Gen 5 in Motorola's top model is not the most powerful SoC, and anyone who frequently uses the smartphone for gaming will likely be disappointed with the test device due to high heat generation. The battery also lags behind the competition. Although the noise levels are good, they are slightly below average by high-end standards.",
+                    "pros": [
+                        "very good camera system",
+                        "slim and lightweight housing",
+                        "IP68/69 certification",
+                        "bright LPTO AMOLED display with 165 Hz",
+                        "7 years of updates",
+                        "clean Android 16",
+                        "charging with up to 90 watts"
+                    ],
+                    "cons": [
+                        "no top SoC",
+                        "strong heating under load",
+                        "Dual SIM only possible with eSIM",
+                        "Battery life only average"
+                    ]
+                },
+                "article_content": {
+                    "paragraphs": [
+                        "Motorola has named its new flagship smartphone Signature and is positioning it against the top models from Apple, Samsung, and Xiaomi. It should be particularly impressive in terms of the camera and has already received praise in this regard. In the DxO benchmark, it beat top smartphones such as the Google Pixel 10 Pro, putting it in the\n\n",
+                        "Available in the Pantone colors Martini Olive (yellow-green) and Carbon (navy blue), the Motorola Signature features a curved design with an aluminum frame. The back cover finish of the olive model resembles cotton twill. The navy blue version has a linen-like texture.\n\n",
+                        "At 186 grams, the Motorola Signature is lighter than many other top smartphones and measures just under 12 millimetres at its thickest point. It is protected against dust and water in accordance with IP68/69 and meets military robustness requirements under MIL-STD-810H standard. Gorilla Glass Victus 2 is used for the display glass.\n\n",
+                        "Regardless of the color variant, 16 GB LPDDR5X RAM and 512 GB UFS 4.1 memory are on board. There is also WiFi 7, Bluetooth 6.0, dual SIM, a USB-C port with USB 3.2 Gen.1 and stereo speakers.\n\n",
+                        "Motorola equips the Signature with Android 16 and leaves the Google OS virtually untouched. In addition to Moto AI, only a handful of third-party apps are installed, but these can be deleted. Motorola promises 7 years of updates.\n\n",
+                        "The Motorola Signature comes in plastic-free packaging. It is printed with soy ink and is made from recycled materials in accordance with the FSC Mix certification. There is a lot to read about sustainability on Motorola's website. However, the manufacturer does not provide any information on the Signature's carbon footprint.\n\n",
+                        "Spare parts and instructions for self-repair are available from Motorola's partner\n\n",
+                        ". If you buy the Signature via the Motorola website, you can trade in a smartphone that you no longer need.\n\n",
+                        "Thanks to its wide selection of LTE and 5G bands, the Motorola Signature should be able to receive a signal in practically any location.\n\n",
+                        "Thanks to WiFi 7 support, the Motorola Signature can use the 6 GHz band on our Asus ROG Rapture GT-AXE11000 reference router and achieves quite stable transmission rates, which peak at around 1500 Mbps.\n\n",
+                        "The Motorola Signature uses GPS, Glonass, and Galileo to determine its position well, but not quite as precisely as you would expect from a top smartphone.\n\n",
+                        "The accuracy is sufficient for everyday use. In a direct comparison with the Garmin Venu 2 fitness smartwatch, however, the Motorola phone was slightly inaccurate in a few sections of our test round and sometimes built an imaginary loop.\n\n",
+                        "The Motorola Signature supports dual-SIM operation with nano-SIM and eSIM, and also offers VoLTE and Wi-Fi calling. In the test, the smartphone delivered good voice quality and reproduced voices clearly and distinctly.\n\n",
+                        "Motorola has equipped the Signature with four 50 MP lenses. There is one each in the main, ultra-wide-angle, and telephoto cameras, while number four serves as a selfie camera and does a good job of it.\n\n",
+                        "Equipped with Sony LYTIA sensors, the quartet of cameras produces very good images in daylight that have excellent dynamic range, show a lot of detail, and reproduce colors very realistically. The main camera benefits from its large 1/1.28-inch sensor, which allows the Signature to take very nice pictures even at night.\n\n",
+                        "The image quality also remains high with the ultra-wide-angle and telephoto cameras, although the former struggles with slight blurring at the edges of the image. The telephoto camera offers an optical 3x zoom and can digitally enlarge images by up to 100x, which then looks very artificial. Very good results can still be achieved at medium zoom levels up to around 5x.\n\n",
+                        "The Motorola Signature records videos in very good quality with up to 8K at 24 frames per second. At 4K, 60 frames per second are possible.\n\n",
+                        "Choose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\n\n",
+                        "The Motorola Signature comes with a USB-C cable, a protective cover, a SIM tool and a quick start guide.\n\n",
+                        "The touchscreen is scanned up to 360 times per second. At the same time, it displays up to 165 Hz, resulting in very fast and precise operation. This also applies to the fingerprint sensor under the display.\n\n",
+                        "Pressing the left button on the housing activates Moto AI. The button can also be deactivated, but cannot be assigned other functions.\n\n",
+                        "You can expect a lot from the display, because according to the specification, it should shine at up to 6200 nits. We did not achieve this in our measurements, but with up to 4500 nits in HDR, the screen still delivers a very high level of brightness. It also displays content very sharply.\n\n",
+                        "switch in the display settings, which then uses DC-like dimming that works at 120 Hz in all brightness levels.\n\n",
+                        "To dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\n\n",
+                        "The display backlight flickers at 120.2 Hz (worst case, e.g., utilizing PWM) .\n\n",
+                        "The frequency of 120.2 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\n\n",
+                        "In comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7901 (minimum: 5 - maximum: 343500) Hz was measured.\n\n",
+                        "Measurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\n\n",
+                        "The analysis of the AMOLED screen with the photospectrometer and Calman software shows only very small average DeltaE deviations. The color display can be set using three profiles. The color temperature can also be adjusted.\n\n",
+                        "The screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\n\n",
+                        "In comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 5 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (20 ms).\n\n",
+                        "In comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.\n\n",
+                        "This means that the measured response time is better than the average of all tested devices (31.2 ms).\n\n",
+                        "The brightness and viewing angles are stable, so the screen can really come into its own outdoors. Even in sunny weather, there are no problems reading content.\n\n",
+                        ". This does not give you absolute top performance, but performance within sight of the high-end range. A\n\n",
+                        "develops significantly more performance. The UFS 4.1 memory keeps loading times short with its excellent data throughput.\n\n",
+                        "is responsible for the graphics calculations. With 42 frames per second in the GFXBench 4K Aztec Ruins benchmarks, the GPU proves that it can also run very graphically complex games smoothly. However, as in the CPU tests, it is not enough for a top spot here either.\n\n",
+                        "The Signature can get quite warm during operation. Surface temperatures of up to 49.8 °C are reached when the smartphone is under full load for an extended period. As the 3DMark stress tests show, the performance drops by up to a third.\n\n",
+                        "Power Supply (max.) 42.6 °C = 109 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "Power Supply (max.) 39.5 °C = 103 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\n\n",
+                        "The average temperature for the upper side under maximal load is 46.2 °C / 115 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\n\n",
+                        "The maximum temperature on the upper side is 48.6 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\n\n",
+                        "The bottom heats up to a maximum of 49.8 °C / 122 F, compared to the average of 34 °C / 93 F\n\n",
+                        "In idle usage, the average temperature for the upper side is 24.6 °C / 76 F, compared to the device average of 32.9 °C / 91 F.\n\n",
+                        "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Wild Life Extreme Stress Test; 0.0.0.0:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\n\n",
+                        "Mali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\n\n",
+                        "Adreno 829, SD 8 Gen 5, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Wild Life Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\n\n",
+                        "Mali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability:\n\n",
+                        "Adreno 829, SD 8 Gen 5, 512 GB UFS 4.1 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+                        "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability:\n\n",
+                        "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Solar Bay Unlimited Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\n\n",
+                        "Adreno 829, SD 8 Gen 5, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\n\n",
+                        "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Solar Bay Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\n\n",
+                        "Mali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\n\n",
+                        "Adreno 829, SD 8 Gen 5, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+                        "A19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Steel Nomad Light Stress Test Stability; 0.0.0.0:\n\n",
+                        "Adreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+                        "Adreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\n\n",
+                        "Mali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\n\n",
+                        "The Motorola Signature supports Dolby Atmos and Hi-Res audio. It delivers the best sound when external audio devices such as headphones are connected via USB-C or Bluetooth. In contrast, the stereo loudspeakers are clearly inferior in sound quality but still perform quite well given their limited capabilities.\n\n",
+                        "Frequency diagram (checkboxes can be checked and unchecked to compare devices)\n\n",
+                        "51% of all tested devices in this class were better, 7% similar, 42% worse\n\n",
+                        "2% of all tested devices in this class were better, 2% similar, 96% worse\n\n",
+                        "The 5200 mAh lithium battery with silicon-carbon anode can be charged with up to 90 watts, which only takes just under an hour in the test. The Motorola Signature supports wireless charging with 50 watts and can, in turn, charge other devices with up to 10 watts via reverse wireless charging.\n\n",
+                        "The Motorola Signature is inconspicuous in terms of power consumption.\n\n",
+                        "Qualcomm Snapdragon 8 Elite for Galaxy; Geekbench 5.5 Power Consumption 150cd:\n\n",
+                        "Qualcomm Snapdragon 8 Elite for Galaxy; 1920x1080 Aztec Ruins Normal Offscreen:\n\n",
+                        "A long battery life is guaranteed with the Motorola smartphone, but on the other hand, it does not reach new peak regions. In our WLAN test, it managed just under 20 hours. The\n\n"
+                    ],
+                    "bullet_points": []
+                },
+                "tables": {
+                    "specifications": {
+                        "Processor:": "Qualcomm Snapdragon 8 Gen 5 8c/8t, 2 x 3.8 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.3 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                        "Graphics adapter:": "Qualcomm Adreno 829",
+                        "Memory:": "16 GB , LPDDR5",
+                        "Display:": "6.80 inch 20:9, 2780 x 1264 pixel 450 PPI, capacitive touchscreen, AMOLED, 6200 Nits max. brightness, touch sampling rate up to 360 Hz, water touch, LTPO, Always-on-Display, 10 Bit color depth, 100% DCI-P3 , HDR, 165 Hz",
+                        "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 472 GB free",
+                        "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Accelerometer, Gyroscope, Proximity sensory, Digital Compass, Fingerprint sensor, DRM Widevine L1, Camera2 API Level 3",
+                        "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6, 2G (Band 2/3/5/8), 3G (Band 1/2/4/5/8), 4G (Band 1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/32/34/38/39/40/41/42/43/48/66/71), 5G (Band n1/n2/n3/n5/n7/n8/n20/n25/n26/n28/n38/n40/n41/n66/n70/n71/n77/n78/n80/n81/n83/n84/n89/n94); Hybrid dual SIM (Nano-SIM + eSIM), Dual SIM, LTE, 5G, GPS",
+                        "Size:": "height x width x depth (in mm): 6.99 x 162.1 x 76.4 ( = 0.28 x 6.38 x 3.01 in)",
+                        "Battery:": "5200 mAh Silicon-Carbon, 90W charging, 50W wireless charging, 10W reverse wireless charging",
+                        "Charging:": "wireless charging, fast charging / Quickcharge",
+                        "Operating System:": "Android 16",
+                        "Camera:": "Primary Camera: 50 MPix (Sony LYTIA 828, 1/1.28\" sensor size, f/1.6, 2.44µm quad pixel, AF, 3,5°-OIS, Multispectral 3-in-1 light sensor) + 50MP ultrawide (f/2.0, 12mm focal length, 1.28µm quad pixel, AF, Macro, 122° FOV) + 50MP telephoto (Sony LYTIA 600, 3x optical zoom, 100x digital zoom, f/2.4, 71mm focal length, 1.6µm quad pixel, OIS, Macro, 33° FOV); video recording up to 8K@30fps, 4K@60fps, FHD Dolby Vision@60fps Secondary Camera: 50 MPix Sony LYTIA 500, f/2.0, 1.2µm Quad Pixel, AF; video recording up to 4K@60fps",
+                        "Additional features:": "Speakers: stereo speakers (Dolby Atmos & Hi-Res-Audio support), Keyboard Light: yes, USB Type-C cable, Guides, SIM tool, Protective Case, 24 Months Warranty, Gorilla Glass Victus 2 (display), Linen-inspired finish/Twill-inspired finish (Pantone Martini Olive/Pantone Carbin), aluminium frame; IP68/IP69 & MIL-STD-810H certified; GPS: GPS, Glonass, Galileo; Connectivity: Nano SIM + eSIM, VoLTE/WiFI calling, HDR support: Dolby Vision, HDR10, HDR10+, HLG; update policy: 7 years of OS upgrades and security updates (EOL 2033); Head SAR 1.34 W/kg, Body SAR 1.934 W/kg, fanless, ruggedized, waterproof",
+                        "Weight:": "186 g ( = 6.56 oz / 0.41 pounds) ( = 0 oz / 0 pounds)",
+                        "Price:": "1000 Euro"
+                    },
+                    "ratings": [
+                        {
+                            "Attributes": "Chassis",
+                            "Notes": "",
+                            "Rating": "93%"
+                        },
+                        {
+                            "Attributes": "Connectivity",
+                            "Notes": "",
+                            "Rating": "91%"
+                        },
+                        {
+                            "Attributes": "Weight",
+                            "Notes": "",
+                            "Rating": "90%"
+                        },
+                        {
+                            "Attributes": "Battery",
+                            "Notes": "",
+                            "Rating": "92%"
+                        },
+                        {
+                            "Attributes": "Games Performance",
+                            "Notes": "",
+                            "Rating": "78%"
+                        },
+                        {
+                            "Attributes": "Application Performance",
+                            "Notes": "",
+                            "Rating": "94%"
+                        },
+                        {
+                            "Attributes": "AI Performance",
+                            "Notes": "",
+                            "Rating": "27%"
+                        },
+                        {
+                            "Attributes": "Temperature",
+                            "Notes": "",
+                            "Rating": "82%"
+                        },
+                        {
+                            "Attributes": "Noise",
+                            "Notes": "",
+                            "Rating": "100%"
+                        },
+                        {
+                            "Attributes": "Audio",
+                            "Notes": "",
+                            "Rating": "77%"
+                        },
+                        {
+                            "Attributes": "Camera",
+                            "Notes": "",
+                            "Rating": "88%"
+                        },
+                        {
+                            "Attributes": "CO2 Emissions",
+                            "Notes": "",
+                            "Rating": "0%"
+                        },
+                        {
+                            "Attributes": "Materials",
+                            "Notes": "",
+                            "Rating": "0%"
+                        },
+                        {
+                            "Attributes": "Packaging",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "Power Use",
+                            "Notes": "",
+                            "Rating": "96%"
+                        },
+                        {
+                            "Attributes": "Repairability",
+                            "Notes": "",
+                            "Rating": "60%"
+                        },
+                        {
+                            "Attributes": "Software Updates",
+                            "Notes": "",
+                            "Rating": "59.3%"
+                        },
+                        {
+                            "Attributes": "Total Sustainability Score",
+                            "Notes": "",
+                            "Rating": "59.3%"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "combined": {
+        "pros": [
+            "very good camera system",
+            "slim and lightweight housing",
+            "IP68/69 certification",
+            "bright LPTO AMOLED display with 165 Hz",
+            "7 years of updates",
+            "clean Android 16",
+            "charging with up to 90 watts"
+        ],
+        "cons": [
+            "no top SoC",
+            "strong heating under load",
+            "Dual SIM only possible with eSIM",
+            "Battery life only average"
+        ],
+        "specifications": {
+            "notebookcheck": {
+                "Processor:": "Qualcomm Snapdragon 8 Gen 5 8c/8t, 2 x 3.8 GHz Qualcomm Oryon Gen 3 Prime, 6 x 3.3 GHz Qualcomm Oryon Gen 3 Performance, Oryon v3",
+                "Graphics adapter:": "Qualcomm Adreno 829",
+                "Memory:": "16 GB , LPDDR5",
+                "Display:": "6.80 inch 20:9, 2780 x 1264 pixel 450 PPI, capacitive touchscreen, AMOLED, 6200 Nits max. brightness, touch sampling rate up to 360 Hz, water touch, LTPO, Always-on-Display, 10 Bit color depth, 100% DCI-P3 , HDR, 165 Hz",
+                "Storage:": "512 GB UFS 4.1 Flash, 512 GB , 472 GB free",
+                "Connections:": "1 USB 3.0 / 3.1 Gen1, USB-C Power Delivery (PD), 1 HDMI, 1 DisplayPort, Audio Connections: USB-C, 1 Fingerprint Reader, NFC, Brightness Sensor, Sensors: Accelerometer, Gyroscope, Proximity sensory, Digital Compass, Fingerprint sensor, DRM Widevine L1, Camera2 API Level 3",
+                "Networking:": "802.11 a/​b/​g/​n/​ac/​ax/​be (a/b/g/n = Wi-Fi 4/ac = Wi-Fi 5/ax = Wi-Fi 6/ Wi-Fi 6E 6 GHz be = Wi-Fi 7), Bluetooth 6, 2G (Band 2/3/5/8), 3G (Band 1/2/4/5/8), 4G (Band 1/2/3/4/5/7/8/12/13/17/18/19/20/25/26/28/32/34/38/39/40/41/42/43/48/66/71), 5G (Band n1/n2/n3/n5/n7/n8/n20/n25/n26/n28/n38/n40/n41/n66/n70/n71/n77/n78/n80/n81/n83/n84/n89/n94); Hybrid dual SIM (Nano-SIM + eSIM), Dual SIM, LTE, 5G, GPS",
+                "Size:": "height x width x depth (in mm): 6.99 x 162.1 x 76.4 ( = 0.28 x 6.38 x 3.01 in)",
+                "Battery:": "5200 mAh Silicon-Carbon, 90W charging, 50W wireless charging, 10W reverse wireless charging",
+                "Charging:": "wireless charging, fast charging / Quickcharge",
+                "Operating System:": "Android 16",
+                "Camera:": "Primary Camera: 50 MPix (Sony LYTIA 828, 1/1.28\" sensor size, f/1.6, 2.44µm quad pixel, AF, 3,5°-OIS, Multispectral 3-in-1 light sensor) + 50MP ultrawide (f/2.0, 12mm focal length, 1.28µm quad pixel, AF, Macro, 122° FOV) + 50MP telephoto (Sony LYTIA 600, 3x optical zoom, 100x digital zoom, f/2.4, 71mm focal length, 1.6µm quad pixel, OIS, Macro, 33° FOV); video recording up to 8K@30fps, 4K@60fps, FHD Dolby Vision@60fps Secondary Camera: 50 MPix Sony LYTIA 500, f/2.0, 1.2µm Quad Pixel, AF; video recording up to 4K@60fps",
+                "Additional features:": "Speakers: stereo speakers (Dolby Atmos & Hi-Res-Audio support), Keyboard Light: yes, USB Type-C cable, Guides, SIM tool, Protective Case, 24 Months Warranty, Gorilla Glass Victus 2 (display), Linen-inspired finish/Twill-inspired finish (Pantone Martini Olive/Pantone Carbin), aluminium frame; IP68/IP69 & MIL-STD-810H certified; GPS: GPS, Glonass, Galileo; Connectivity: Nano SIM + eSIM, VoLTE/WiFI calling, HDR support: Dolby Vision, HDR10, HDR10+, HLG; update policy: 7 years of OS upgrades and security updates (EOL 2033); Head SAR 1.34 W/kg, Body SAR 1.934 W/kg, fanless, ruggedized, waterproof",
+                "Weight:": "186 g ( = 6.56 oz / 0.41 pounds) ( = 0 oz / 0 pounds)",
+                "Price:": "1000 Euro"
+            }
+        },
+        "ratings": {
+            "notebookcheck": [
+                {
+                    "Attributes": "Chassis",
+                    "Notes": "",
+                    "Rating": "93%"
+                },
+                {
+                    "Attributes": "Connectivity",
+                    "Notes": "",
+                    "Rating": "91%"
+                },
+                {
+                    "Attributes": "Weight",
+                    "Notes": "",
+                    "Rating": "90%"
+                },
+                {
+                    "Attributes": "Battery",
+                    "Notes": "",
+                    "Rating": "92%"
+                },
+                {
+                    "Attributes": "Games Performance",
+                    "Notes": "",
+                    "Rating": "78%"
+                },
+                {
+                    "Attributes": "Application Performance",
+                    "Notes": "",
+                    "Rating": "94%"
+                },
+                {
+                    "Attributes": "AI Performance",
+                    "Notes": "",
+                    "Rating": "27%"
+                },
+                {
+                    "Attributes": "Temperature",
+                    "Notes": "",
+                    "Rating": "82%"
+                },
+                {
+                    "Attributes": "Noise",
+                    "Notes": "",
+                    "Rating": "100%"
+                },
+                {
+                    "Attributes": "Audio",
+                    "Notes": "",
+                    "Rating": "77%"
+                },
+                {
+                    "Attributes": "Camera",
+                    "Notes": "",
+                    "Rating": "88%"
+                },
+                {
+                    "Attributes": "CO2 Emissions",
+                    "Notes": "",
+                    "Rating": "0%"
+                },
+                {
+                    "Attributes": "Materials",
+                    "Notes": "",
+                    "Rating": "0%"
+                },
+                {
+                    "Attributes": "Packaging",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "Power Use",
+                    "Notes": "",
+                    "Rating": "96%"
+                },
+                {
+                    "Attributes": "Repairability",
+                    "Notes": "",
+                    "Rating": "60%"
+                },
+                {
+                    "Attributes": "Software Updates",
+                    "Notes": "",
+                    "Rating": "59.3%"
+                },
+                {
+                    "Attributes": "Total Sustainability Score",
+                    "Notes": "",
+                    "Rating": "59.3%"
+                }
+            ]
+        },
+        "texts": [
+            {
+                "source": "notebookcheck",
+                "article_url": "https://www.notebookcheck.net/Motorola-Signature-review-DxO-award-winning-attack-on-Apple-and-Samsung.1237925.0.html",
+                "text": "The Motorola Signature is a very strong flagship smartphone, although it is not convincing in every area. The slim yet highly durable body, the very bright AMOLED screen, and the camera setup with its four 50 MP lenses are definitely first class. Combined with the 7-year update guarantee, you should be able to enjoy the Signature phone for a long time. However, the Snapdragon 8 Gen 5 in Motorola's top model is not the most powerful SoC, and anyone who frequently uses the smartphone for gaming will likely be disappointed with the test device due to high heat generation. The battery also lags behind the competition. Although the noise levels are good, they are slightly below average by high-end standards.\nvery good camera system\nslim and lightweight housing\nIP68/69 certification\nbright LPTO AMOLED display with 165 Hz\n7 years of updates\nclean Android 16\ncharging with up to 90 watts\nno top SoC\nstrong heating under load\nDual SIM only possible with eSIM\nBattery life only average\nMotorola has named its new flagship smartphone Signature and is positioning it against the top models from Apple, Samsung, and Xiaomi. It should be particularly impressive in terms of the camera and has already received praise in this regard. In the DxO benchmark, it beat top smartphones such as the Google Pixel 10 Pro, putting it in the\nAvailable in the Pantone colors Martini Olive (yellow-green) and Carbon (navy blue), the Motorola Signature features a curved design with an aluminum frame. The back cover finish of the olive model resembles cotton twill. The navy blue version has a linen-like texture.\nAt 186 grams, the Motorola Signature is lighter than many other top smartphones and measures just under 12 millimetres at its thickest point. It is protected against dust and water in accordance with IP68/69 and meets military robustness requirements under MIL-STD-810H standard. Gorilla Glass Victus 2 is used for the display glass.\nRegardless of the color variant, 16 GB LPDDR5X RAM and 512 GB UFS 4.1 memory are on board. There is also WiFi 7, Bluetooth 6.0, dual SIM, a USB-C port with USB 3.2 Gen.1 and stereo speakers.\nMotorola equips the Signature with Android 16 and leaves the Google OS virtually untouched. In addition to Moto AI, only a handful of third-party apps are installed, but these can be deleted. Motorola promises 7 years of updates.\nThe Motorola Signature comes in plastic-free packaging. It is printed with soy ink and is made from recycled materials in accordance with the FSC Mix certification. There is a lot to read about sustainability on Motorola's website. However, the manufacturer does not provide any information on the Signature's carbon footprint.\nSpare parts and instructions for self-repair are available from Motorola's partner\n. If you buy the Signature via the Motorola website, you can trade in a smartphone that you no longer need.\nThanks to its wide selection of LTE and 5G bands, the Motorola Signature should be able to receive a signal in practically any location.\nThanks to WiFi 7 support, the Motorola Signature can use the 6 GHz band on our Asus ROG Rapture GT-AXE11000 reference router and achieves quite stable transmission rates, which peak at around 1500 Mbps.\nThe Motorola Signature uses GPS, Glonass, and Galileo to determine its position well, but not quite as precisely as you would expect from a top smartphone.\nThe accuracy is sufficient for everyday use. In a direct comparison with the Garmin Venu 2 fitness smartwatch, however, the Motorola phone was slightly inaccurate in a few sections of our test round and sometimes built an imaginary loop.\nThe Motorola Signature supports dual-SIM operation with nano-SIM and eSIM, and also offers VoLTE and Wi-Fi calling. In the test, the smartphone delivered good voice quality and reproduced voices clearly and distinctly.\nMotorola has equipped the Signature with four 50 MP lenses. There is one each in the main, ultra-wide-angle, and telephoto cameras, while number four serves as a selfie camera and does a good job of it.\nEquipped with Sony LYTIA sensors, the quartet of cameras produces very good images in daylight that have excellent dynamic range, show a lot of detail, and reproduce colors very realistically. The main camera benefits from its large 1/1.28-inch sensor, which allows the Signature to take very nice pictures even at night.\nThe image quality also remains high with the ultra-wide-angle and telephoto cameras, although the former struggles with slight blurring at the edges of the image. The telephoto camera offers an optical 3x zoom and can digitally enlarge images by up to 100x, which then looks very artificial. Very good results can still be achieved at medium zoom levels up to around 5x.\nThe Motorola Signature records videos in very good quality with up to 8K at 24 frames per second. At 4K, 60 frames per second are possible.\nChoose a scene and navigate within the first image. One click changes the position on touchscreens. One click on the zoomed-in image opens the original in a new window. The first image shows the scaled photograph of the test device.\nThe Motorola Signature comes with a USB-C cable, a protective cover, a SIM tool and a quick start guide.\nThe touchscreen is scanned up to 360 times per second. At the same time, it displays up to 165 Hz, resulting in very fast and precise operation. This also applies to the fingerprint sensor under the display.\nPressing the left button on the housing activates Moto AI. The button can also be deactivated, but cannot be assigned other functions.\nYou can expect a lot from the display, because according to the specification, it should shine at up to 6200 nits. We did not achieve this in our measurements, but with up to 4500 nits in HDR, the screen still delivers a very high level of brightness. It also displays content very sharply.\nswitch in the display settings, which then uses DC-like dimming that works at 120 Hz in all brightness levels.\nTo dim the screen, some notebooks will simply cycle the backlight on and off in rapid succession - a method called Pulse Width Modulation (PWM) . This cycling frequency should ideally be undetectable to the human eye. If said frequency is too low, users with sensitive eyes may experience strain or headaches or even notice the flickering altogether.\nThe display backlight flickers at 120.2 Hz (worst case, e.g., utilizing PWM) .\nThe frequency of 120.2 Hz is very low, so the flickering may cause eyestrain and headaches after extended use.\nIn comparison: 52 % of all tested devices do not use PWM to dim the display. If PWM was detected, an average of 7901 (minimum: 5 - maximum: 343500) Hz was measured.\nMeasurement series with fixed zoom level and different brightness settings (The amplitude curve at minimum brightness looks flat, but this is due to the scaling. The info box shows the enlarged version of the amplitude at minimum brightness)\nThe analysis of the AMOLED screen with the photospectrometer and Calman software shows only very small average DeltaE deviations. The color display can be set using three profiles. The color temperature can also be adjusted.\nThe screen shows very fast response rates in our tests and should be very well suited for fast-paced gaming.\nIn comparison, all tested devices range from 0.1 (minimum) to 240 (maximum) ms. » 5 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (20 ms).\nIn comparison, all tested devices range from 0.165 (minimum) to 636 (maximum) ms. » 5 % of all devices are better.\nThis means that the measured response time is better than the average of all tested devices (31.2 ms).\nThe brightness and viewing angles are stable, so the screen can really come into its own outdoors. Even in sunny weather, there are no problems reading content.\n. This does not give you absolute top performance, but performance within sight of the high-end range. A\ndevelops significantly more performance. The UFS 4.1 memory keeps loading times short with its excellent data throughput.\nis responsible for the graphics calculations. With 42 frames per second in the GFXBench 4K Aztec Ruins benchmarks, the GPU proves that it can also run very graphically complex games smoothly. However, as in the CPU tests, it is not enough for a top spot here either.\nThe Signature can get quite warm during operation. Surface temperatures of up to 49.8 °C are reached when the smartphone is under full load for an extended period. As the 3DMark stress tests show, the performance drops by up to a third.\nPower Supply (max.) 42.6 °C = 109 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nPower Supply (max.) 39.5 °C = 103 F | Room Temperature 20 °C = 68 F | Fluke t3000FC (calibrated), Voltcraft IR-260\nThe average temperature for the upper side under maximal load is 46.2 °C / 115 F, compared to the average of 32.9 °C / 91 F for the devices in the class Smartphone.\nThe maximum temperature on the upper side is 48.6 °C / 119 F, compared to the average of 35.2 °C / 95 F, ranging from 21.9 to 247 °C for the class Smartphone.\nThe bottom heats up to a maximum of 49.8 °C / 122 F, compared to the average of 34 °C / 93 F\nIn idle usage, the average temperature for the upper side is 24.6 °C / 76 F, compared to the device average of 32.9 °C / 91 F.\nA19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Wild Life Extreme Stress Test; 0.0.0.0:\nAdreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Extreme Stress Test; 1.1.4.1:\nMali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Wild Life Extreme Stress Test; 1.1.14.3:\nAdreno 829, SD 8 Gen 5, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability; 0.0.0.0:\nA19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Wild Life Stress Test Stability; 0.0.0.0:\nAdreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Stress Test Stability:\nMali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Wild Life Stress Test Stability:\nAdreno 829, SD 8 Gen 5, 512 GB UFS 4.1 Flash; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\nA19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Wild Life Unlimited Stress Test Stability; 0.0.0.0:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Wild Life Unlimited Stress Test Stability:\nA19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Solar Bay Unlimited Stress Test Stability; 0.0.0.0:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Unlimited Stress Test Stability; 1.0.11.1:\nAdreno 829, SD 8 Gen 5, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\nA19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Solar Bay Stress Test Stability; 0.0.0.0:\nAdreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Solar Bay Stress Test Stability; 1.0.11.1:\nMali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Solar Bay Stress Test Stability; 1.0.17.4:\nAdreno 829, SD 8 Gen 5, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\nA19 Pro 6-Core GPU, A19 Pro, 256 GB NVMe; Steel Nomad Light Stress Test Stability; 0.0.0.0:\nAdreno 840, SD 8 Elite Gen 5, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\nAdreno 830, SD 8 Elite f. Galaxy, 256 GB UFS 4.0 Flash; Steel Nomad Light Stress Test Stability; 1.1.1.3:\nMali-G1 Ultra MC12, Dimensity 9500, 512 GB UFS 4.1 Flash; Steel Nomad Light Stress Test Stability; 1.0.6.2:\nThe Motorola Signature supports Dolby Atmos and Hi-Res audio. It delivers the best sound when external audio devices such as headphones are connected via USB-C or Bluetooth. In contrast, the stereo loudspeakers are clearly inferior in sound quality but still perform quite well given their limited capabilities.\nFrequency diagram (checkboxes can be checked and unchecked to compare devices)\n51% of all tested devices in this class were better, 7% similar, 42% worse\n2% of all tested devices in this class were better, 2% similar, 96% worse\nThe 5200 mAh lithium battery with silicon-carbon anode can be charged with up to 90 watts, which only takes just under an hour in the test. The Motorola Signature supports wireless charging with 50 watts and can, in turn, charge other devices with up to 10 watts via reverse wireless charging.\nThe Motorola Signature is inconspicuous in terms of power consumption.\nQualcomm Snapdragon 8 Elite for Galaxy; Geekbench 5.5 Power Consumption 150cd:\nQualcomm Snapdragon 8 Elite for Galaxy; 1920x1080 Aztec Ruins Normal Offscreen:\nA long battery life is guaranteed with the Motorola smartphone, but on the other hand, it does not reach new peak regions. In our WLAN test, it managed just under 20 hours. The"
+            }
+        ]
+    }
+}
